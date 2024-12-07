@@ -20,7 +20,7 @@ TXT 下载: [[改造]_卧底丈夫1-2（UNDERCOVER_HUSBAND）.docx]([改造]_卧
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20253 bytes                           |
 | MD5             | ccfad9f5067d538c23f68c23584ac898                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔槍●第五章‧兩個女奴.docx]([皮物]_魔槍●
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23499 bytes                           |
 | MD5             | be01722e14fa39693e71ef5f27657b30                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

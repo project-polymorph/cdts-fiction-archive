@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_富士山——被压抑的暴怒（2）.doc]([皮物]_富
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 5cda7d05a3924b315967ee76b55856b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

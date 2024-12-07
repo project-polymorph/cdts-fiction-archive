@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_创造、平衡与控制（前传之魅灵篇）.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 12b9cf07dd766e771c2285368e7edd7f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

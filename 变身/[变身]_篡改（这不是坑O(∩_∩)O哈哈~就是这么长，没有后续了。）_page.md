@@ -20,7 +20,7 @@ TXT 下载: [[变身]_篡改（这不是坑O(∩_∩)O哈哈~就是这么长，�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19262 bytes                           |
 | MD5             | d9e5b5c8eb7d59ad5ae6bf9a665992fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Wydle                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_我成了他的女奴2.doc]([变性]_我成了他的女奴
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 9e8daba059a5c39e381d63c331c80e3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

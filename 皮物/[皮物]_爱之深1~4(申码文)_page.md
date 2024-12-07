@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_爱之深1~4(申码文).doc]([皮物]_爱之深1~4(申码�
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 0a895d4daa7e686cfaee868feb354c58                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

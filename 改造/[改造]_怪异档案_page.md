@@ -20,7 +20,7 @@ TXT 下载: [[改造]_怪异档案.doc]([改造]_怪异档案.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 3346554b0526202e5fdfca2f69ff3376                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

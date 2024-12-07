@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之间(一).docx]([皮物]_皮之间(一).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33632 bytes                           |
 | MD5             | ec24153f812d36f8c7896e56854c5db4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

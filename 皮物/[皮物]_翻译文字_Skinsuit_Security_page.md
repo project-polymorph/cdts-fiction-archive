@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_翻译文字_Skinsuit_Security.docx]([皮物]_翻译文字
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30664 bytes                           |
 | MD5             | 4de47934a804d0aaaa0d64fb30b2bfdb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

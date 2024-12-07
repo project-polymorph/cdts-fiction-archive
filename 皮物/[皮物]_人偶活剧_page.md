@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人偶活剧.docx]([皮物]_人偶活剧.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20194 bytes                           |
 | MD5             | 465caa2ecfe2d2e55512038122d7e743                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

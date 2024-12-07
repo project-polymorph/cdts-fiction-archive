@@ -20,7 +20,7 @@ TXT 下载: [[交换]_通过应用程序(前篇).docx]([交换]_通过应用程�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32828 bytes                           |
 | MD5             | 85307c25207436ca8b12a63013c5c266                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

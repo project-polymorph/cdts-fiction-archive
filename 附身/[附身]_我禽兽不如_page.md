@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我禽兽不如.doc]([附身]_我禽兽不如.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 2eea68d9534cd5e44e8912d7e53b412a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

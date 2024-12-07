@@ -20,7 +20,7 @@ TXT 下载: [[变装]_特殊礼物（重口慎入）.docx]([变装]_特殊礼物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22744 bytes                           |
 | MD5             | 67ef63fdaa57d8cc172493caa49575bb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

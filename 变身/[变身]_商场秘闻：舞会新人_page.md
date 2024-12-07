@@ -20,7 +20,7 @@ TXT 下载: [[变身]_商场秘闻：舞会新人.doc]([变身]_商场秘闻：�
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | dc3a82ff7132b3721482c68aab484cdc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | coutney captisa                               |
 | Region          | 美国                               |

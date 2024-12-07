@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我和克里斯的故事（四）.doc]([皮物]_我和克�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | e6897ac9e60a69637925c9fd633af35c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

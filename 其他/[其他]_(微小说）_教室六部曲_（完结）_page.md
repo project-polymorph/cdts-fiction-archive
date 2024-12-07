@@ -20,7 +20,7 @@ TXT 下载: [[其他]_(微小说）_教室六部曲_（完结）.doc]([其他]_(
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | f90d2e7809150af353d277bf32139efb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

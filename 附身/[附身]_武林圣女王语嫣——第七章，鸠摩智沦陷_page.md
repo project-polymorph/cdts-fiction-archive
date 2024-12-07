@@ -20,7 +20,7 @@ TXT 下载: [[附身]_武林圣女王语嫣——第七章，鸠摩智沦陷.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20719 bytes                           |
 | MD5             | 793fb84db1df89df76cfe679200e6488                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

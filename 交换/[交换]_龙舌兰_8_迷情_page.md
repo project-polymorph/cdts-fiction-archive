@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_8_迷情.docx]([交换]_龙舌兰_8_迷情.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30143 bytes                           |
 | MD5             | 92f22411d0c8642a452854331ff62394                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

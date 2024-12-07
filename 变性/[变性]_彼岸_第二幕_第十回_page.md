@@ -20,7 +20,7 @@ TXT 下载: [[变性]_彼岸_第二幕_第十回.docx]([变性]_彼岸_第二幕
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28236 bytes                           |
 | MD5             | 9bfb9c99da0ea3009e0b278bd6e62b1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

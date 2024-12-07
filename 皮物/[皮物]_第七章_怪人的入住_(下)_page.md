@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_第七章_怪人的入住_(下).docx]([皮物]_第七章_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18354 bytes                           |
 | MD5             | 91ba19dfba30dfe8143bc8f657213830                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

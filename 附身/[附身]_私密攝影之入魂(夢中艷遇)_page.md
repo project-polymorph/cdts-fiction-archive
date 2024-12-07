@@ -20,7 +20,7 @@ TXT 下载: [[附身]_私密攝影之入魂(夢中艷遇).doc]([附身]_私密�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 13308be1537a64b86c71644b192e21fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

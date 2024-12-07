@@ -20,7 +20,7 @@ TXT 下载: [[变装]_船难_3_–_结果.docx]([变装]_船难_3_–_结果.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42200 bytes                           |
 | MD5             | 028373c4f79e4f3ac54696be639465e1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

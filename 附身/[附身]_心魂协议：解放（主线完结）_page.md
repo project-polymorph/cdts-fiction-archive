@@ -20,7 +20,7 @@ TXT 下载: [[附身]_心魂协议：解放（主线完结）.doc]([附身]_心�
 | Format          | Microsoft Word Document                               |
 | Size            | 89600 bytes                           |
 | MD5             | d421c19a0a4e557f9503476f3be97206                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

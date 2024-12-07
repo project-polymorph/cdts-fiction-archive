@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《人皮衣》（壹·雷雨斋旧事）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 1eae708c92b39597184b848c3ef95605                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

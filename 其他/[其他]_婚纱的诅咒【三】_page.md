@@ -20,7 +20,7 @@ TXT 下载: [[其他]_婚纱的诅咒【三】.doc]([其他]_婚纱的诅咒【�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | e044a384b79dffd6de3501829685af29                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

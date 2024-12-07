@@ -20,7 +20,7 @@ TXT 下载: [[附身]_虞姬怨（续篇）填坑大行动ING.docx]([附身]_虞
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22881 bytes                           |
 | MD5             | 9a909e8c90919f90575a4f900acfb5f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

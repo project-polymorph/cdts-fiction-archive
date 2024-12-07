@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_末日皮行——3.docx]([皮物]_末日皮行——3.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22026 bytes                           |
 | MD5             | 435ac43f43280fb6d8e1f77c193d8c33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

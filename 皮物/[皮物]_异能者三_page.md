@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_异能者三.docx]([皮物]_异能者三.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18512 bytes                           |
 | MD5             | 4e67e53d3df636c52f7b04326c9b5e74                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

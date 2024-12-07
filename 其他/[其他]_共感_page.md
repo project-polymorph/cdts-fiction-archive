@@ -20,7 +20,7 @@ TXT 下载: [[其他]_共感.docx]([其他]_共感.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20017 bytes                           |
 | MD5             | 5c5b7e30d6575aa1ecbf693c81560650                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

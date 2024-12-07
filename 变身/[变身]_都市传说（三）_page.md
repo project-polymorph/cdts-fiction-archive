@@ -20,7 +20,7 @@ TXT 下载: [[变身]_都市传说（三）.docx]([变身]_都市传说（三）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46576 bytes                           |
 | MD5             | ecc73a6fe41c31fb91ddf1cc763ed1ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 忘卻                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_武林媚事（二）.docx]([变身]_武林媚事（二）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32022 bytes                           |
 | MD5             | f6129e675d16b2257cbdb5865013e338                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

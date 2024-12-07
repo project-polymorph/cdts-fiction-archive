@@ -20,7 +20,7 @@ TXT 下载: [[其他]_疯言疯语（7）.docx]([其他]_疯言疯语（7）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22449 bytes                           |
 | MD5             | b7c7468676083669d00b787d08c4314c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

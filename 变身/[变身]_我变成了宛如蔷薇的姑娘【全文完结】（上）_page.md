@@ -22,7 +22,7 @@ TXT 下载: [[变身]_我变成了宛如蔷薇的姑娘【全文完结】（上�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 87452 bytes                           |
 | MD5             | 2f27fde8f58ec9b5e42afc341da661f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

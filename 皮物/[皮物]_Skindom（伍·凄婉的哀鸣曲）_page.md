@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Skindom（伍·凄婉的哀鸣曲）.doc]([皮物]_Skindom
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 742569366afe6680ff11448c28548f88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

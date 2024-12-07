@@ -20,7 +20,7 @@ TXT 下载: [[变装]_误解螺旋（第二章）.docx]([变装]_误解螺旋（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54011 bytes                           |
 | MD5             | e8b45619c666a1bdec330591ee7d5c5e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

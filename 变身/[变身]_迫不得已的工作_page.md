@@ -20,7 +20,7 @@ TXT 下载: [[变身]_迫不得已的工作.doc]([变身]_迫不得已的工作.
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | dc493085394b484be9181e550f024d72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

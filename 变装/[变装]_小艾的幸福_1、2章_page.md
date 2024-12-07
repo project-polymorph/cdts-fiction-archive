@@ -20,7 +20,7 @@ TXT 下载: [[变装]_小艾的幸福_1、2章.doc]([变装]_小艾的幸福_1�
 | Format          | Microsoft Word Document                               |
 | Size            | 80896 bytes                           |
 | MD5             | 970599b2774d7813d8c124c08884b651                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

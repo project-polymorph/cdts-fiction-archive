@@ -20,7 +20,7 @@ TXT 下载: [[附身]_死神少女1-6（申码文）.docx]([附身]_死神少女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60462 bytes                           |
 | MD5             | be13ce60542d3b6bbfe701b1071364a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

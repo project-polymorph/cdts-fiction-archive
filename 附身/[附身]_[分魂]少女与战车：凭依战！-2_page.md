@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[分魂]少女与战车：凭依战！-2.docx]([附身]_[�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46951 bytes                           |
 | MD5             | fd2612761969cedfd3fd3199b7208286                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー                               |
 | Region          | 未知                               |

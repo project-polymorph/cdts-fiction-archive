@@ -20,7 +20,7 @@ TXT 下载: [[附身]_分魂小中篇：四、公司裡的故事.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20609 bytes                           |
 | MD5             | 212e698a461e8f2128c47af36f9a4df4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

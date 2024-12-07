@@ -20,7 +20,7 @@ TXT 下载: [[其他]_道寻常1-5.docx]([其他]_道寻常1-5.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29091 bytes                           |
 | MD5             | f23426e5638c87a669fc7420e09c0504                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

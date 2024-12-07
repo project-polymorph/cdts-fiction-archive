@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【翻译】扎伊尔博士_家庭治疗师.docx]([交换]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 71029 bytes                           |
 | MD5             | d52045d9f2722feef8d0307c6c3d4795                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_生物黑客1.doc]([其他]_生物黑客1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | a275cc89941abcfb3eb394b073831bbd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

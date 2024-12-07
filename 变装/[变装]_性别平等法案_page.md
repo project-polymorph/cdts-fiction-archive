@@ -20,7 +20,7 @@ TXT 下载: [[变装]_性别平等法案.doc]([变装]_性别平等法案.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 196096 bytes                           |
 | MD5             | cc6fd3db1c1d17b2f9abfea563b9f488                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lisa Lovelace                               |
 | Region          | 未知                               |

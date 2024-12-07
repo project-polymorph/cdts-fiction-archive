@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我的婚纱.doc]([变装]_我的婚纱.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | 571382a551f9301499e4aa5d3f552484                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Nancee Husband                               |
 | Region          | 未知                               |

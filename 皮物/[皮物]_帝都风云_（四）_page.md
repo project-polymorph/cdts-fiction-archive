@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_帝都风云_（四）.docx]([皮物]_帝都风云_（四�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27531 bytes                           |
 | MD5             | 398106c32d7cd9ae054c7d08d4edc910                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

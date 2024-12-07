@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_兄弟与女友（申码文补发）.docx]([皮物]_兄弟
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30898 bytes                           |
 | MD5             | e39b0db108a17cb65df9e251e59ca691                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

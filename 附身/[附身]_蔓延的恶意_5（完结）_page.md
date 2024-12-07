@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蔓延的恶意_5（完结）.doc]([附身]_蔓延的恶�
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | a18ed610de7730988a8d45d202b50ace                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

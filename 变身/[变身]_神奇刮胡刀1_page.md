@@ -22,7 +22,7 @@ TXT 下载: [[变身]_神奇刮胡刀1.docx]([变身]_神奇刮胡刀1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16786 bytes                           |
 | MD5             | 7415aaa90f950d9f76cd1ed4437fb20a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

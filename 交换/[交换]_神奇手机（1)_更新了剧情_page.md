@@ -20,7 +20,7 @@ TXT 下载: [[交换]_神奇手机（1)_更新了剧情.docx]([交换]_神奇手
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17313 bytes                           |
 | MD5             | 8635924e514c544e45d99b805f07689a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

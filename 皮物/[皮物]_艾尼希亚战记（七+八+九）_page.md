@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_艾尼希亚战记（七+八+九）.doc]([皮物]_艾尼�
 | Format          | Microsoft Word Document                               |
 | Size            | 75776 bytes                           |
 | MD5             | 7a06f92990a8f68c070bf9710a61d667                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

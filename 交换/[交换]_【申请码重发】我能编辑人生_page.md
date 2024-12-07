@@ -22,7 +22,7 @@ TXT 下载: [[交换]_【申请码重发】我能编辑人生.doc]([交换]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 246272 bytes                           |
 | MD5             | 626bce1477ac3457faa28e6c4b6fdf7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

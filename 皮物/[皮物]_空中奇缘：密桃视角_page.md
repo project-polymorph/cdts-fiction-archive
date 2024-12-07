@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_空中奇缘：密桃视角.docx]([皮物]_空中奇缘：
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 3904555 bytes                           |
 | MD5             | e635577d62bc2311aa35e408b446629b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

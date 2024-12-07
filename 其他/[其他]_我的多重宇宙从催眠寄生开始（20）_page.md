@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（20）.docx]([其
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37886 bytes                           |
 | MD5             | 64bfb2bd95b491d25117e89c0c089b9a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

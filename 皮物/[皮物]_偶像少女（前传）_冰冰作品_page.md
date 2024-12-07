@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_偶像少女（前传）_冰冰作品.doc]([皮物]_偶像
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 3f110923f4c5811e2eaedc52dcc3836a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 冰冰                               |
 | Region          | 中国大陆                               |

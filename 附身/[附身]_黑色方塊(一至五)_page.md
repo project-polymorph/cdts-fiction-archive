@@ -7,7 +7,7 @@ TXT 下载: [[附身]_黑色方塊(一至五).docx]([附身]_黑色方塊(一至
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说中的一部分，讲述了一个名为阿良的角色醒来后发现自己处于一个奇怪且烟雾弥漫的环境。他困惑地找到自己的女友零，并寻求对自己状况的理解。在他努力醒来的过程中，阿良的手上出现了一个神秘的黑色方块，该物体似乎与他的附身能力有关。通过与自己影子的对话，阿良了解到这个黑色方块具有附身在物体的能力，而他所向往的附身在他人身上的技能，似乎还需要时间来获得。故事围绕着自我认知的转变，以及探索新能力所带来的挑战与奇遇。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_黑色方塊(一至五).docx]([附身]_黑色方塊(一至
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25686 bytes                           |
 | MD5             | dc03b3ad26e7fc10d5ec2a9b987978fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 附身, 穿越, 变身, 自我探索, 女友, 奇幻, 魔法, 奇遇, 角色转变, 神秘物品, 青春, 心灵对话, 黑色方块, 情感纠葛, 女性视角, 幻觉, 幻想文学, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

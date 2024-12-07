@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第五回.doc]([变性]_《蒹葭
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 4154f57ef1938a32eb72503efa4f7765                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

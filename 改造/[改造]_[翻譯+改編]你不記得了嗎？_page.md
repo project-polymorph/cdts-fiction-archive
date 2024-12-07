@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[翻譯+改編]你不記得了嗎？.docx]([改造]_[翻�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24607 bytes                           |
 | MD5             | 591b45e9c9e872f6e50b39be1c303f4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

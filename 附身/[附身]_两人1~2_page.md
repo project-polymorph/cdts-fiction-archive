@@ -20,7 +20,7 @@ TXT 下载: [[附身]_两人1~2.docx]([附身]_两人1~2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18631 bytes                           |
 | MD5             | d39c600a79f5cca8d037832c67120e86                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

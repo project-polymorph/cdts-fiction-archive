@@ -22,7 +22,7 @@ TXT 下载: [[变身]_無敵異能~~序章(新修改).docx]([变身]_無敵異�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19849 bytes                           |
 | MD5             | 94dc3ef79ed00535c90798896ba9e921                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [动车上的六人交换.doc](动车上的六人交换.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | b19c40bbabb41f0a41c9ff583771445a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 好斤斤                               |
 | Region          | 未知                               |

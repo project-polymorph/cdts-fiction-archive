@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣(1~2_简体版).doc]([附身]_游泳衣(1~2_简�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 825727bf2a38b53dc8eddfaf8647c008                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

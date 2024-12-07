@@ -20,7 +20,7 @@ TXT 下载: [[交换]_越陷越深第三章.docx]([交换]_越陷越深第三章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28232 bytes                           |
 | MD5             | f7928dd39245d67af40abc4ec1939d9f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

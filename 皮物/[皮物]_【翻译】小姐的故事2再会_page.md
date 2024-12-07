@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【翻译】小姐的故事2再会.doc]([皮物]_【翻译
 | Format          | Microsoft Word Document                               |
 | Size            | 104448 bytes                           |
 | MD5             | df1605186b66966fc900d560c3daa580                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

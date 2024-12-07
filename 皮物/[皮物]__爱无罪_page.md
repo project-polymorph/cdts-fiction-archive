@@ -20,7 +20,7 @@ TXT 下载: [[皮物]__爱无罪.doc]([皮物]__爱无罪.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 07e9aecebe0418f12fae9654c0ff8580                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

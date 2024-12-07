@@ -20,7 +20,7 @@ TXT 下载: [[其他]_长生_第四章_派系.docx]([其他]_长生_第四章_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20420 bytes                           |
 | MD5             | 2e27860bc08783b7d4154ca7446897e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | worker                               |
 | Region          | 中国大陆                               |

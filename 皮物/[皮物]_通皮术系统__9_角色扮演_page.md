@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_通皮术系统__9_角色扮演.docx]([皮物]_通皮术�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20550 bytes                           |
 | MD5             | d5aeb5738758862203e44b443d81946c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

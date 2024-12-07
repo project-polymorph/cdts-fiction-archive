@@ -20,7 +20,7 @@ TXT 下载: [【万万没想到】胯下沉沦_第三节.doc](【万万没想到
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | 09a739401ff46b79a11398d4b41dc3a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

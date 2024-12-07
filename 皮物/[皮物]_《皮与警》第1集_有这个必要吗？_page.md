@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《皮与警》第1集_有这个必要吗？.doc]([皮物]
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 9069757fe7de05e54a7163e8a5c7ba66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_橘子過敏（6-8）完結_慶祝cdbook重開.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43408 bytes                           |
 | MD5             | 0bea865b1900c49bb6e0de5b8b1cd8dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_端午之中的高考.docx]([交换]_端午之中的高考
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48963 bytes                           |
 | MD5             | a45ca01781a2fc80b802c55c4584e872                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

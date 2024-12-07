@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《古镜奇缘》5-6.doc]([皮物]_《古镜奇缘》5-6.
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 8bf3ca2a88bbf82166b150bff90b462d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

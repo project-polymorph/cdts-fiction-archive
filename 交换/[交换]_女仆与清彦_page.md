@@ -20,7 +20,7 @@ TXT 下载: [[交换]_女仆与清彦.docx]([交换]_女仆与清彦.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41641 bytes                           |
 | MD5             | b8a3b96b6e0a27665951275504d739f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | teru                               |
 | Region          | 未知                               |

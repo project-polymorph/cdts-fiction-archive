@@ -20,7 +20,7 @@ TXT 下载: [[变身]_憧憬的大學生活(一).doc]([变身]_憧憬的大學�
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | cad53f1de5b4cce5f284777f22e9d499                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cobalt（原著作者）                               |
 | Region          | 未知                               |

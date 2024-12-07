@@ -20,7 +20,7 @@ TXT 下载: [[交换]_『錢湯的置物櫃鑰匙』-Pixiv_Ver.-.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 68167 bytes                           |
 | MD5             | 15d552cb58190fedbcf028e9c193ac35                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ＫＣＡ                               |
 | Region          | 未知                               |

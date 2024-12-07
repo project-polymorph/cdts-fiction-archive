@@ -20,7 +20,7 @@ TXT 下载: [[变身]_選物販賣機_金色手鍊.doc]([变身]_選物販賣機
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 97f37f08c29a61796d853f84a4e13806                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

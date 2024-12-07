@@ -20,7 +20,7 @@ TXT 下载: [[变身]_夏日魔法.docx]([变身]_夏日魔法.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48415 bytes                           |
 | MD5             | a934f469ec3716a9c41da05bd4d0be33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

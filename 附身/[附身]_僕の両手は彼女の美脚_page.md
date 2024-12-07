@@ -20,7 +20,7 @@ TXT 下载: [[附身]_僕の両手は彼女の美脚.doc]([附身]_僕の両手�
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | 0d4852de24436d8c75fe05b602a55e02                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换（第2季）之老婆对不起！我成了隔壁女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19789 bytes                           |
 | MD5             | c86705360d7099cb7dee8151e8f08e5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

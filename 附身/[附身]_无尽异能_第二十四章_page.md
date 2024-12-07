@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能_第二十四章.docx]([附身]_无尽异能_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18572 bytes                           |
 | MD5             | 6438ce3d67774cb0b5a6c02ecf589e7a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

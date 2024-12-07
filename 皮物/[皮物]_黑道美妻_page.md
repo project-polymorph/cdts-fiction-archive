@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑道美妻.docx]([皮物]_黑道美妻.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21042 bytes                           |
 | MD5             | 5965409930c80a5adef0097bff3d8ce8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

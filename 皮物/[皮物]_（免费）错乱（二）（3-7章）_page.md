@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（免费）错乱（二）（3-7章）.doc]([皮物]_（�
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | b5396fb60b4cdf764160723a48c0435f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

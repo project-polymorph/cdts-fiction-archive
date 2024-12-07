@@ -20,7 +20,7 @@ TXT 下载: [LISA_LOVELACE_被困裙中.doc](LISA_LOVELACE_被困裙中.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 150016 bytes                           |
 | MD5             | b168554421bce6710976c2306b69db4f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lisa LoveLace                               |
 | Region          | 未知                               |

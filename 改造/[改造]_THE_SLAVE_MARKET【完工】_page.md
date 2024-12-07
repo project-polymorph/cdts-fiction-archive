@@ -20,7 +20,7 @@ TXT 下载: [[改造]_THE_SLAVE_MARKET【完工】.doc]([改造]_THE_SLAVE_MARKE
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | ea47fd3be7b4c014bcd66522601cfa29                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | c.c.                               |
 | Region          | 未知                               |

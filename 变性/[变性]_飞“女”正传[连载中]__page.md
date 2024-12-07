@@ -20,7 +20,7 @@ TXT 下载: [[变性]_飞“女”正传[连载中]_.docx]([变性]_飞“女”
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35267 bytes                           |
 | MD5             | 56718e8e2c5ab6a40597321d5819422a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Michele Nylons                               |
 | Region          | 未知                               |

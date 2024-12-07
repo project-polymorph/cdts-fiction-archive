@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》_第二章_改.doc]([变性]_《蒹葭录�
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | d971af13eb205cbd2915a103600e2c78                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

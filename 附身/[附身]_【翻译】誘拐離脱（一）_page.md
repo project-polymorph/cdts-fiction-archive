@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【翻译】誘拐離脱（一）.docx]([附身]_【翻译
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19076 bytes                           |
 | MD5             | 0e4fdcd754d29a6ab0f7a5c7f4d1521e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

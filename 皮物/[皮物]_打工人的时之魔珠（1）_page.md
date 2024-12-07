@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_打工人的时之魔珠（1）.doc]([皮物]_打工人的
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | e4db1be087b7656138e45a66c4af4b90                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

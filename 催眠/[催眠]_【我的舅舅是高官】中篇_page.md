@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_【我的舅舅是高官】中篇.doc]([催眠]_【我的�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 759ad1c8da55df2f29c97e13e1780e05                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

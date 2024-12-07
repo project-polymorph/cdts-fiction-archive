@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_融_.docx]([皮物]_融_.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24682 bytes                           |
 | MD5             | 43698a246d351a5dc02f85afdc5d8c14                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

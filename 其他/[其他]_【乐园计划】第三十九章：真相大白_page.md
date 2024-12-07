@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第三十九章：真相大白.doc]([其
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 1070c6110f1ef40b36c5d57723fd9d28                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

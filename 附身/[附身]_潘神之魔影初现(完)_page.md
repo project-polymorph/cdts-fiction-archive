@@ -20,7 +20,7 @@ TXT 下载: [[附身]_潘神之魔影初现(完).docx]([附身]_潘神之魔影�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28546 bytes                           |
 | MD5             | 9b0f99f64b0de998805d52efeb32c546                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

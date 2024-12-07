@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【幻剑有情·青楼有义】（7-8）.doc]([交换]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 57d8476c5c5fd1f7c13fea9e6f68585c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

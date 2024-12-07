@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】五、金刚门主.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 88a68f688d151c2f548ff49f5407e86a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

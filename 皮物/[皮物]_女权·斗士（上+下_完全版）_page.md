@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女权·斗士（上+下_完全版）.doc]([皮物]_女权
 | Format          | Microsoft Word Document                               |
 | Size            | 84480 bytes                           |
 | MD5             | 4358c78fef56970f07e4a67d64048a9b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

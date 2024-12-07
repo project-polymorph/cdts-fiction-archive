@@ -20,7 +20,7 @@ TXT 下载: [[变身]_达阵得分_2（完）.docx]([变身]_达阵得分_2（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46800 bytes                           |
 | MD5             | e48b6f9a580021bdbd9c88bf3191ee31                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TGFictionStv                               |
 | Region          | 未知                               |

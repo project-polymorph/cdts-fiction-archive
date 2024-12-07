@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的身体是裂口女的5-7.docx]([其他]_我的身体
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38180 bytes                           |
 | MD5             | cfdccc10eab97ff5f8372bd183d565d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

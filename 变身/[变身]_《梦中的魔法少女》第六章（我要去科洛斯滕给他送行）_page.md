@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第六章（我要去科洛斯�
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 24918a36bca7330e105178c8fbd6c609                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

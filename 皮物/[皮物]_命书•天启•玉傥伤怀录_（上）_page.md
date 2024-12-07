@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_命书•天启•玉傥伤怀录_（上）.docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29789 bytes                           |
 | MD5             | 7a28b072fb116860c115bf5eba5023d5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

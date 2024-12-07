@@ -20,7 +20,7 @@ TXT 下载: [[交换]_幼驯染的一日交换.docx]([交换]_幼驯染的一日
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30351 bytes                           |
 | MD5             | 9c23be6e6bae38f736b9df8bfaca1f4f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tira                               |
 | Region          | 未知                               |

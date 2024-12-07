@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】肖像.docx]([变性]_【翻译】肖像.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28634 bytes                           |
 | MD5             | 0768148d26516b6f03d43009d9fcb12e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

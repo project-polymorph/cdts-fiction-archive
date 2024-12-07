@@ -20,7 +20,7 @@ TXT 下载: [[变身]_复仇另类人生.docx]([变身]_复仇另类人生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27542 bytes                           |
 | MD5             | 235444c8ff2093bbe2b501afbda2adda                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

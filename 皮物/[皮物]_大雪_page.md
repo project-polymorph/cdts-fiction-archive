@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_大雪.docx]([皮物]_大雪.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38743 bytes                           |
 | MD5             | cc57281b120e3e92246b1f8e682fb21a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

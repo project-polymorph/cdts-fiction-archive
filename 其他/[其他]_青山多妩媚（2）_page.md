@@ -22,7 +22,7 @@ TXT 下载: [[其他]_青山多妩媚（2）.doc]([其他]_青山多妩媚（2�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | cdb03dbce524c8d75c7ebd955b47e40d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

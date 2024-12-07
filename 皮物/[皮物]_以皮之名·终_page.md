@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_以皮之名·终.docx]([皮物]_以皮之名·终.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 168096 bytes                           |
 | MD5             | bca4ce868b6a03ac5407efd492097c23                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

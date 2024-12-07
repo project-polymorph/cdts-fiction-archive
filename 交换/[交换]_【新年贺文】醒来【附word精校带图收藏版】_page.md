@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【新年贺文】醒来【附word精校带图收藏版】
 | Format          | Microsoft Word Document                               |
 | Size            | 160256 bytes                           |
 | MD5             | 0dfe8be5874e8b805a4e87cb854e5291                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

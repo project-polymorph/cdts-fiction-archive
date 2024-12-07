@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_神炼空间物语_（五）补完修正版.docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25427 bytes                           |
 | MD5             | 68531b10a7ec667883a78ff7326abed6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_黑暗面_第二回、靈蝶.doc]([改造]_黑暗面_第�
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | da40dde6f5cda5294933026e6ea068e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

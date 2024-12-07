@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_特種行業區的光明及黑暗_[.docx]([皮物]_特種�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20882 bytes                           |
 | MD5             | b6545a0b5ee2f07b919d70880b0c8651                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

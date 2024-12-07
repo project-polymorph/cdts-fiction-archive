@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】局外人1.doc]([变身]_【翻译】局外人
 | Format          | Microsoft Word Document                               |
 | Size            | 94720 bytes                           |
 | MD5             | 5a8eeb941bac74fa8ae21bef5f1cc66f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Morpheus                               |
 | Region          | 未知                               |

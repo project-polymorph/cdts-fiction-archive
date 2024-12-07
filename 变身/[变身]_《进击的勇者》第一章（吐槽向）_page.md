@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《进击的勇者》第一章（吐槽向）.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | 8b48640a8fadcf2f7b23d526049611fa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

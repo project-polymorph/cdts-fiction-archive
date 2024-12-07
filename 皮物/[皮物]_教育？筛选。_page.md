@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_教育？筛选。.docx]([皮物]_教育？筛选。.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22217 bytes                           |
 | MD5             | cb99ba75b3a5fb897fd565a6942fd273                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

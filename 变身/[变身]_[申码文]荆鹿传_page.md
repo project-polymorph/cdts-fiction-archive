@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[申码文]荆鹿传.doc]([变身]_[申码文]荆鹿传.do
 | Format          | Microsoft Word Document                               |
 | Size            | 221696 bytes                           |
 | MD5             | 07bc6ea2f3e2b77e674e1e35e185421e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 轻音w                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_圈套.docx]([变装]_圈套.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33500 bytes                           |
 | MD5             | 9e3963af5d4de86ab4bf47b2d41927b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | bambam                               |
 | Region          | 中国大陆                               |

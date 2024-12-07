@@ -20,7 +20,7 @@ TXT 下载: [[附身]_阿笠博士的思想液（一）.doc]([附身]_阿笠博�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 846cf0f31c7d44ce0d2055caaa0be018                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

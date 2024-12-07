@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑丝带来的诱惑_3.docx]([皮物]_黑丝带来的诱�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19574 bytes                           |
 | MD5             | 67bcc00b40503c252e4c90270d6331a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

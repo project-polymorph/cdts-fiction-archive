@@ -20,7 +20,7 @@ TXT 下载: [[附身]_magic诡异档案（瓶中火）（3）.doc]([附身]_magi
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 9e63c5916d8b2b9d364718620360cfdf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

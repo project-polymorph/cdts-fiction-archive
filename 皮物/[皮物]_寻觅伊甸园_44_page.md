@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寻觅伊甸园_44.doc]([皮物]_寻觅伊甸园_44.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | f9c609d6b2482ec4af8831b99e658384                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

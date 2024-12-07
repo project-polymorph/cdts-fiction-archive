@@ -20,7 +20,7 @@ TXT 下载: [[变性]_Lesbian_Revenge_(5).docx]([变性]_Lesbian_Revenge_(5).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22095 bytes                           |
 | MD5             | acfb6781d956a690f95e15a8283076d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 安吉拉·柯林斯                               |
 | Region          | 未知                               |

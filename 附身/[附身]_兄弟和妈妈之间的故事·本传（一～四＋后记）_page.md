@@ -22,7 +22,7 @@ TXT 下载: [[附身]_兄弟和妈妈之间的故事·本传（一～四＋后�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 1c96792ef3a0fc9a74c429ef319d02af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 咕咕雨                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔王转生异闻2.doc]([其他]_魔王转生异闻2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 87552 bytes                           |
 | MD5             | 32a8535d83c88644f7dba30f41d25f0a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

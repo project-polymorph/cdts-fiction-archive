@@ -20,7 +20,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(晚餐�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36546 bytes                           |
 | MD5             | 01e2d106aa6e392487360e1c13c15b14                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_塞西亚公司1.doc]([改造]_塞西亚公司1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 79872 bytes                           |
 | MD5             | 56d21cb137fe0566116faa53f203d5e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 104m104                               |
 | Region          | 中国大陆                               |

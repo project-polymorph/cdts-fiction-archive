@@ -20,7 +20,7 @@ TXT 下载: [[变身]_风俗店的工作.docx]([变身]_风俗店的工作.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52258 bytes                           |
 | MD5             | 08e79a192654c23ff7534759b082727c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

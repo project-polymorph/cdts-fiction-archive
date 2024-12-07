@@ -20,7 +20,7 @@ TXT 下载: [神秘老虎机.doc](神秘老虎机.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 318a0c618296d10a52f8e57e55de3f4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

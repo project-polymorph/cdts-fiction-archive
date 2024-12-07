@@ -22,7 +22,7 @@ TXT 下载: [[其他]_《我的魔头老婆》7~9.doc]([其他]_《我的魔头�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 15eb74e51d7652a0846e01634cb91e76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

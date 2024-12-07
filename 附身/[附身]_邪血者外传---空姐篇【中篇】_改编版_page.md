@@ -20,7 +20,7 @@ TXT 下载: [[附身]_邪血者外传---空姐篇【中篇】_改编版.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41237 bytes                           |
 | MD5             | ee1ee8c692739fdad4be119906ca0579                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[改造]_小流氓_第六章.doc]([改造]_小流氓_第六章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 17e33a56ccabf5c78f784a3041944d64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 年羹尧                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寒蝉（序章+初章）.docx]([皮物]_寒蝉（序章+�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31967 bytes                           |
 | MD5             | 20894e56be8dd0062860b0068d44a875                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

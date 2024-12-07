@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【F_A】袜子1~3.doc]([改造]_【F_A】袜子1~3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 4d5ea60e0be81d21fc584ace605c59c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

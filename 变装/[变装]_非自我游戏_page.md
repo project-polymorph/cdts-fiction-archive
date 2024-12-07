@@ -20,7 +20,7 @@ TXT 下载: [[变装]_非自我游戏.docx]([变装]_非自我游戏.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34636 bytes                           |
 | MD5             | f01e6dad100d8942172c9c7c6725c242                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

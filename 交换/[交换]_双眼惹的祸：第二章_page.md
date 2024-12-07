@@ -20,7 +20,7 @@ TXT 下载: [[交换]_双眼惹的祸：第二章.docx]([交换]_双眼惹的祸
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25101 bytes                           |
 | MD5             | eeb481a11fe7d0e2dc61b10a97f92f9a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

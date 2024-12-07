@@ -20,7 +20,7 @@ TXT 下载: [[变身]_爱的对面不是恨，而是……（上）.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | d057c97153ea1d5676f4d314085ddd3a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

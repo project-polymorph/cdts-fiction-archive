@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文）堕落的好友1-4.docx]([皮物]_（申码
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27259 bytes                           |
 | MD5             | 1aa4dd468d7091271001452d66fd07e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

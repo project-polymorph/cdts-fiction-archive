@@ -20,7 +20,7 @@ TXT 下载: [[交换]_恐怖微信群第八章.docx]([交换]_恐怖微信群第
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26789 bytes                           |
 | MD5             | 173abc049a479d5917574b9956e2ee9a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

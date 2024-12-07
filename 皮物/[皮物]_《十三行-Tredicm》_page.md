@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《十三行-Tredicm》.docx]([皮物]_《十三行-Tredic
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 141919 bytes                           |
 | MD5             | f68b55ad3af1a27380d218d65e2f999c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

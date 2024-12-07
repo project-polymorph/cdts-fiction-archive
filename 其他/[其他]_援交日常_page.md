@@ -20,7 +20,7 @@ TXT 下载: [[其他]_援交日常.doc]([其他]_援交日常.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | ab7ef2abcd743ab12a5bfe5292138bc0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linglingling                               |
 | Region          | 未知                               |

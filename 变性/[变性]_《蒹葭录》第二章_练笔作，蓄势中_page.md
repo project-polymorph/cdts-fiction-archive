@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第二章_练笔作，蓄势中.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | a8d294b26ad68fcdcb05318d905c14f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

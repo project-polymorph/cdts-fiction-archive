@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_真相在箱子里.docx]([皮物]_真相在箱子里.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20116 bytes                           |
 | MD5             | 2d1c4b3c82bc16e5e2f26f0fb818668e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 东宫太子殿                               |
 | Region          | 未知                               |

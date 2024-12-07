@@ -20,7 +20,7 @@ TXT 下载: [[附身]_万花筒（3）.doc]([附身]_万花筒（3）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | e36a863901de7d613f4d8adb3b0389e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

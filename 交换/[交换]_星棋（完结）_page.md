@@ -20,7 +20,7 @@ TXT 下载: [[交换]_星棋（完结）.docx]([交换]_星棋（完结）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 110778 bytes                           |
 | MD5             | c625d261d9c70a9201b5668f0b3907d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

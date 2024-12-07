@@ -20,7 +20,7 @@ TXT 下载: [【万万没想到】双鱼玉佩3.doc](【万万没想到】双鱼
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 9198af5f921dcf3648f98b24c093fa81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

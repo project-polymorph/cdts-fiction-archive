@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮游戏6——逛街.docx]([皮物]_人皮游戏6—�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22649 bytes                           |
 | MD5             | 39d153ce61636c8ddca046ebeaf3ba90                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

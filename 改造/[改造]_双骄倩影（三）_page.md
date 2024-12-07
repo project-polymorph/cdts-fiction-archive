@@ -20,7 +20,7 @@ TXT 下载: [[改造]_双骄倩影（三）.doc]([改造]_双骄倩影（三）.
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | b4c1b5968f65745b80ab8cec0a717082                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

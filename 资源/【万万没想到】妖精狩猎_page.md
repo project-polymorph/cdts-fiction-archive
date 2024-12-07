@@ -20,7 +20,7 @@ TXT 下载: [【万万没想到】妖精狩猎.doc](【万万没想到】妖精�
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | ac9e2de4e026bd553c1c8cb7058719f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

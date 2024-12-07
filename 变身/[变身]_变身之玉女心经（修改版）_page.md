@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身之玉女心经（修改版）.doc]([变身]_变身�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | a8f97f69c59ce6554bb42ef439398270                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

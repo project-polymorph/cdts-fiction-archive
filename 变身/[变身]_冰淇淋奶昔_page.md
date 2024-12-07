@@ -20,7 +20,7 @@ TXT 下载: [[变身]_冰淇淋奶昔.docx]([变身]_冰淇淋奶昔.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21509 bytes                           |
 | MD5             | 22f42b390a9ff366bcba73d2b19ebdcb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kristen Kitty                               |
 | Region          | 未知                               |

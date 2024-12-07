@@ -20,7 +20,7 @@ TXT 下载: [[变性]_从心里开出的花【第五至八章】.doc]([变性]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 1bb9ae104ff41567e91106331fed319e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

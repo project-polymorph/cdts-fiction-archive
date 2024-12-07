@@ -20,7 +20,7 @@ TXT 下载: [[变性]_岳母的秘密（一）（变性类改写，全文基本�
 | Format          | Microsoft Word Document                               |
 | Size            | 71168 bytes                           |
 | MD5             | 16c7071a96cf2bade0a9e8d160a69cdf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

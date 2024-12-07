@@ -20,7 +20,7 @@ TXT 下载: [[变身]_想被侵犯的勇者１．遊戲是，現實.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23176 bytes                           |
 | MD5             | 536e912237852f52515768bce158ff90                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

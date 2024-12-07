@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_F·A·K·E·皮·肤·套·装.docx]([皮物]_F·A·K·E·
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61337 bytes                           |
 | MD5             | 91c513df14fc5ac7aa5f239ee4494190                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 作  うさ吉，译  rockx3                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_某对TS夫妇的回忆录之大结局（内附1-10的链�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17257 bytes                           |
 | MD5             | 0dfd096c80cd53468e843504fc760d56                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_从令人讨厌到惹人喜爱（一）.doc]([变装]_从�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | cc21257d7217520265ace5c959d7ff1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | JaneSlaveMaid                               |
 | Region          | 未知                               |

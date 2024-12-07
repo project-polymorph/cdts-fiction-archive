@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_舊文重貼－毒水.docx]([皮物]_舊文重貼－毒水
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22177 bytes                           |
 | MD5             | 8d62c15be10b92c5c1cad66aca30b49d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 刘雨正                               |
 | Region          | 未知                               |

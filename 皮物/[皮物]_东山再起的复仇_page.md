@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_东山再起的复仇.doc]([皮物]_东山再起的复仇.
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 99291ae0261831240047ee699b299eee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

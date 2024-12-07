@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花开终有时_第十回‘破蛹’.docx]([变性]_花�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33448 bytes                           |
 | MD5             | 08c957d2f8a0a1884d147ef5fbdc8d25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

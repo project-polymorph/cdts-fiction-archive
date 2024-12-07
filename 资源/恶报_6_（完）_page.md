@@ -20,7 +20,7 @@ TXT 下载: [恶报_6_（完）.doc](恶报_6_（完）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 112640 bytes                           |
 | MD5             | e48defb9cfe26d7d31edbdba9dc3f9e1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_换身网页_[.docx]([交换]_换身网页_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20152 bytes                           |
 | MD5             | fe0d4a68a20b93264f6c2ae8c87db4dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE9 X9                               |
 | Region          | 未知                               |

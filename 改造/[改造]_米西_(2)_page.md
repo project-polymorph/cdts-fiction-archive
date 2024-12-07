@@ -20,7 +20,7 @@ TXT 下载: [[改造]_米西_(2).docx]([改造]_米西_(2).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33302 bytes                           |
 | MD5             | 621c6affe8bd086ee8dab1750d738d58                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -24,7 +24,7 @@ TXT 下载: [[变性]_THE_NEST_(Part_II,_End).docx]([变性]_THE_NEST_(Part_II,_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27862 bytes                           |
 | MD5             | c41decc6ef6d72aa60884c353281c42b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | BigSarah                               |
 | Region          | 未知                               |

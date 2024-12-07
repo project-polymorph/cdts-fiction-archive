@@ -20,7 +20,7 @@ TXT 下载: [[附身]_换世_第一章.doc]([附身]_换世_第一章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 528336ddddb88ccdbcb36f756425738a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

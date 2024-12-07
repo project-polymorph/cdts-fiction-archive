@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【约稿】帝国亲王的陷落.docx]([变身]_【约稿
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60109 bytes                           |
 | MD5             | 89a678e6f6d599f2b88f2457b1b1ab75                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | liwan                               |
 | Region          | 未知                               |

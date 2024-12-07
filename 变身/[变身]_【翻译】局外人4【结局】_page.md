@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】局外人4【结局】.doc]([变身]_【翻译
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | db45ec56c5fa454625e7de95e7611f5a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

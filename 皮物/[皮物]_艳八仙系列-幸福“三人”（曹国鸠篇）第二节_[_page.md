@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_艳八仙系列-幸福“三人”（曹国鸠篇）第二
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19706 bytes                           |
 | MD5             | 589a9178ce8f695c154dad753287e5d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

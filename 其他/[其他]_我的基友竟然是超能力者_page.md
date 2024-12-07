@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的基友竟然是超能力者.docx]([其他]_我的基
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33117 bytes                           |
 | MD5             | 28537a497f63c07e122c4d61374a51c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

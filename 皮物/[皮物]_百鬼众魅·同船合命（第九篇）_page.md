@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·同船合命（第九篇）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 119808 bytes                           |
 | MD5             | 1e8da4470fe3ea4822412cb40a95aae1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

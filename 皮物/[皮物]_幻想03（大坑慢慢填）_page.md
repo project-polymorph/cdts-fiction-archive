@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_幻想03（大坑慢慢填）.docx]([皮物]_幻想03（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15999 bytes                           |
 | MD5             | 973895c8fac75d62e53468a79cbca23a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_异祸（１７+１８）上半部完.docx]([皮物]_异�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51146 bytes                           |
 | MD5             | aa69964c825f5c2c8776825fc6de0991                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

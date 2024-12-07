@@ -20,7 +20,7 @@ TXT 下载: [[改造]_离奇的经历（恐怖向）.doc]([改造]_离奇的经�
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | d35e927ab5910e549d4dcc456de84b23                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

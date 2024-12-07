@@ -20,7 +20,7 @@ TXT 下载: [[交换]_神奇女侠的新生活(一).doc]([交换]_神奇女侠�
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 7efe2170022b17f8dbc8a34fd735c25e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

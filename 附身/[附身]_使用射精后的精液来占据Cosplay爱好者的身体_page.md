@@ -20,7 +20,7 @@ TXT 下载: [[附身]_使用射精后的精液来占据Cosplay爱好者的身体
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27850 bytes                           |
 | MD5             | 1fc30c6ca48863977e8d0fb75177ef0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

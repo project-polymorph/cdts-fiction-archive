@@ -20,7 +20,7 @@ TXT 下载: [[附身]_私密攝影之入魂_(師生的互動).docx]([附身]_私
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32759 bytes                           |
 | MD5             | 8c245fac497b91d7ef3618f81d9291f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

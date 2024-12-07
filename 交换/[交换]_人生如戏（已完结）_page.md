@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人生如戏（已完结）.doc]([交换]_人生如戏（�
 | Format          | Microsoft Word Document                               |
 | Size            | 4016640 bytes                           |
 | MD5             | 7ce6549061ddb123222499724548b627                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

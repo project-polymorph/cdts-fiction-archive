@@ -20,7 +20,7 @@ TXT 下载: [[交换]_薰风幻想_【_第一章至第六章_】.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41419 bytes                           |
 | MD5             | b182a1bfe17b78d5385cfb63031e369c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

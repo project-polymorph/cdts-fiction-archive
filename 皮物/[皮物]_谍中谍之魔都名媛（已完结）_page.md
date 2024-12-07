@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_谍中谍之魔都名媛（已完结）.doc]([皮物]_谍�
 | Format          | Microsoft Word Document                               |
 | Size            | 86016 bytes                           |
 | MD5             | 3a4caa7135dbc606d8267057528345bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

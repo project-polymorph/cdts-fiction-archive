@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【淫魔修女傳(改)_】第1～3回.doc]([附身]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 110592 bytes                           |
 | MD5             | 8c723bd1f8cb934b47528c93b610c8c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

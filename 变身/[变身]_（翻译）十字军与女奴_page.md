@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（翻译）十字军与女奴.docx]([变身]_（翻译）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49335 bytes                           |
 | MD5             | de942c5b4b97c37f3e61b87e963df8e5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

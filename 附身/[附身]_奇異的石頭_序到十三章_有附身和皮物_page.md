@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奇異的石頭_序到十三章_有附身和皮物.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60165 bytes                           |
 | MD5             | db001229f2ffeb69ed8d306254009e9e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

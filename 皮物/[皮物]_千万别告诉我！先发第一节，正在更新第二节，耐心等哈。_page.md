@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_千万别告诉我！先发第一节，正在更新第二�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23136 bytes                           |
 | MD5             | 9ac96f874cec31c06a34c2b2dac63417                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_乱世浮沉1-4.doc]([变装]_乱世浮沉1-4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 147456 bytes                           |
 | MD5             | b4a05e53ec8abaab339a0e7fbfc8ba4c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | LAP                               |
 | Region          | 中国大陆                               |

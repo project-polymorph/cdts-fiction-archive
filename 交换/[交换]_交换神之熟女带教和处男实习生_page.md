@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换神之熟女带教和处男实习生.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21909 bytes                           |
 | MD5             | db0a19626e6c959e5f4c2872df4a9630                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

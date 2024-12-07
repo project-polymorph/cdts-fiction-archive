@@ -20,7 +20,7 @@ TXT 下载: [[交换]_一个TG故事——成为别人的妻子.doc]([交换]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 3c1628fd997f023e6135b92b6bfa4b17                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jumbo Shirmp                               |
 | Region          | 未知                               |

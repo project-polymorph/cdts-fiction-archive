@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_地精王后第1-2章（有略微改写）.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52087 bytes                           |
 | MD5             | 13b4fd0b21de57dac69156fed48c5c01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

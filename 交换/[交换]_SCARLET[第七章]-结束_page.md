@@ -20,7 +20,7 @@ TXT 下载: [[交换]_SCARLET[第七章]-结束.docx]([交换]_SCARLET[第七章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 67184 bytes                           |
 | MD5             | a54a1256c559e5beb0a507b394fad869                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

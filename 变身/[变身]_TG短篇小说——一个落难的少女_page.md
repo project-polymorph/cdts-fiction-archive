@@ -20,7 +20,7 @@ TXT 下载: [[变身]_TG短篇小说——一个落难的少女.doc]([变身]_TG
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | b9e3f615629e8b28cde000fbe0023047                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jumbo Shirmp                               |
 | Region          | 未知                               |

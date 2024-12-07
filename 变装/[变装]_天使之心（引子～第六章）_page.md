@@ -20,7 +20,7 @@ TXT 下载: [[变装]_天使之心（引子～第六章）.docx]([变装]_天使
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43120 bytes                           |
 | MD5             | e969df3a40144067a3fbd43779f10ad8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

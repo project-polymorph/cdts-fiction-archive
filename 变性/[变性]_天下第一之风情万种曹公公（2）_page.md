@@ -20,7 +20,7 @@ TXT 下载: [[变性]_天下第一之风情万种曹公公（2）.doc]([变性]_
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 8374cffd568fb9968d8ceb867d56db1c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

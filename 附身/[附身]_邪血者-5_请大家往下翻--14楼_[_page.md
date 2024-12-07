@@ -20,7 +20,7 @@ TXT 下载: [[附身]_邪血者-5_请大家往下翻--14楼_[.docx]([附身]_邪
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26287 bytes                           |
 | MD5             | 0aa050da654d0af3b4442467c2768ae7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

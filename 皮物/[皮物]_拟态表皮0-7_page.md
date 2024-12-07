@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_拟态表皮0-7.docx]([皮物]_拟态表皮0-7.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 75181 bytes                           |
 | MD5             | 5850248c1d3a3eccbcbb5a703fd26670                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

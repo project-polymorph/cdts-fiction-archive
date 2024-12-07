@@ -20,7 +20,7 @@ TXT 下载: [[交换]_大社區小故事「1」.docx]([交换]_大社區小故�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30545 bytes                           |
 | MD5             | b2282d04e2777abe34345e9e5b452b49                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

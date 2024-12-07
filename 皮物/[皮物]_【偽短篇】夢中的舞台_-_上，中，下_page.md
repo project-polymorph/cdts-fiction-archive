@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【偽短篇】夢中的舞台_-_上，中，下.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 211456 bytes                           |
 | MD5             | e15a741cf8ed57868a884ba0e2099aa5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | siuson1234                               |
 | Region          | 中国大陆                               |

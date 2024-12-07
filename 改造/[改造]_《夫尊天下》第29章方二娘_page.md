@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第29章方二娘.doc]([改造]_《夫�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 506c1dc1506b093dc95dee10ea721496                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

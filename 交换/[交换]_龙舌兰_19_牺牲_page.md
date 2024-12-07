@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_19_牺牲.doc]([交换]_龙舌兰_19_牺牲.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | d31c311c9a08055c5258fa2fc97fbf1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yudi（ft3020997）                               |
 | Region          | 未知                               |

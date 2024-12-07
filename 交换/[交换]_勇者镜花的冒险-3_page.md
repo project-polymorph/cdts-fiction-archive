@@ -20,7 +20,7 @@ TXT 下载: [[交换]_勇者镜花的冒险-3.docx]([交换]_勇者镜花的冒�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32342 bytes                           |
 | MD5             | 5d38c776d0d0f659232cafd04ba8cf2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | teru                               |
 | Region          | 未知                               |

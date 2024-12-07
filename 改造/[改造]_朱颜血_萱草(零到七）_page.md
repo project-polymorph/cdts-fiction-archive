@@ -20,7 +20,7 @@ TXT 下载: [[改造]_朱颜血_萱草(零到七）.docx]([改造]_朱颜血_萱
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62586 bytes                           |
 | MD5             | b8bde2a4692a8531dcb941046248dc29                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

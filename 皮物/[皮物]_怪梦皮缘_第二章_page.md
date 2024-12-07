@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪梦皮缘_第二章.doc]([皮物]_怪梦皮缘_第二�
 | Format          | Microsoft Word Document                               |
 | Size            | 151040 bytes                           |
 | MD5             | dbb6b2bf5b48951ee8b6c898c5b960d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_分魂小中篇：一、_體育場的故事.docx]([附身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24620 bytes                           |
 | MD5             | 382592a8a2e329f857f024963ae5798e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt（原作者）                               |
 | Region          | 未知                               |

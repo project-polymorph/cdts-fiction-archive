@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣前传5_-_嘉盈.doc]([附身]_游泳衣前传5_-
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | e266ee067a9e9a9690c32c57319747b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

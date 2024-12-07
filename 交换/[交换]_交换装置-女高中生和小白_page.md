@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换装置-女高中生和小白.docx]([交换]_交换�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23734 bytes                           |
 | MD5             | 4131d4bceb23fc0bbf97388dcdb54b81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

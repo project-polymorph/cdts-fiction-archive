@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮术士】_十三_侍女调教.doc]([皮物]_【皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 255581de709692d3c4e0507d352e961c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

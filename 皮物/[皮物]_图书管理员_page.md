@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_图书管理员.doc]([皮物]_图书管理员.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 8e56ec3d81539bb0b897b8446f576a74                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sam Moose                               |
 | Region          | 未知                               |

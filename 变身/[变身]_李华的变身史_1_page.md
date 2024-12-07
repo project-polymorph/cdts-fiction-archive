@@ -20,7 +20,7 @@ TXT 下载: [[变身]_李华的变身史_1.docx]([变身]_李华的变身史_1.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20048 bytes                           |
 | MD5             | 7a9fe16b6582add5e161775724b5701d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

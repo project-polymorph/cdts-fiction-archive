@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【翻译】Doll_Club——只有在这里能说的话（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31757 bytes                           |
 | MD5             | 4d229e4af173e0c059f81bceeb4c9ebb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Joseta（译者），原作：とん太                               |
 | Region          | 未知                               |

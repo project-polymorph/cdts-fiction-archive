@@ -22,7 +22,7 @@ TXT 下载: [[变性]_【翻译】多元化.doc]([变性]_【翻译】多元化.
 | Format          | Microsoft Word Document                               |
 | Size            | 71168 bytes                           |
 | MD5             | 79256186d8ff06843eb4d140f68d4e8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 魔之天涯（翻译）                               |
 | Region          | 未知                               |

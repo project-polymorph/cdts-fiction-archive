@@ -20,7 +20,7 @@ TXT 下载: [妖姬宋雪.docx](妖姬宋雪.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29878 bytes                           |
 | MD5             | d7825c8299e52f55c81b942231fbc8b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_賞金獵人（完.docx]([其他]_賞金獵人（完.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 76993 bytes                           |
 | MD5             | a13986770dab6e7c61f4845140bce33a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

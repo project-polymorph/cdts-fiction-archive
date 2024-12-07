@@ -20,7 +20,7 @@ TXT 下载: [[附身]_移魂摄魄(第六章).doc]([附身]_移魂摄魄(第六�
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 488fe71718238470c73ee7f01a055106                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

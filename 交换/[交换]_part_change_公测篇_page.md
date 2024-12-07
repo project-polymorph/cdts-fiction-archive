@@ -20,7 +20,7 @@ TXT 下载: [[交换]_part_change_公测篇.docx]([交换]_part_change_公测篇
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17974 bytes                           |
 | MD5             | 49e12e34d24e4cb958899e9247b2965c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

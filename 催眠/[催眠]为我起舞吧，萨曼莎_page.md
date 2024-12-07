@@ -20,7 +20,7 @@ TXT 下载: [[催眠]为我起舞吧，萨曼莎.doc]([催眠]为我起舞吧，
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 4e6f8e9c938fc8f59b1806df7182e40d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Dani O'Neill                               |
 | Region          | 未知                               |

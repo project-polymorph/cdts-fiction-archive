@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_明日方舟TSF_比良坂出云的冒险.doc]([皮物]_明
 | Format          | Microsoft Word Document                               |
 | Size            | 252928 bytes                           |
 | MD5             | a21dd3ca7c6cde4aad066ca60772b78e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_混乱生活.docx]([附身]_混乱生活.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 88682 bytes                           |
 | MD5             | 8a7be1058bd0de2899c46c6f249c0da5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

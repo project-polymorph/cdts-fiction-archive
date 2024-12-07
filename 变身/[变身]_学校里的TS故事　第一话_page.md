@@ -20,7 +20,7 @@ TXT 下载: [[变身]_学校里的TS故事　第一话.docx]([变身]_学校里�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37488 bytes                           |
 | MD5             | 0fbc06f0565dc68e3f3680b6487e26df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

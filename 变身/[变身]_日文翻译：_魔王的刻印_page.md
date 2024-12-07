@@ -20,7 +20,7 @@ TXT 下载: [[变身]_日文翻译：_魔王的刻印.docx]([变身]_日文翻�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 56072 bytes                           |
 | MD5             | bb0a5573ff756b0b80ee49c18ef40f8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lightman                               |
 | Region          | 未知                               |

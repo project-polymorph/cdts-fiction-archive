@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【敬这神秘而疯狂的世界】第二篇：邪神的�
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 85c45bef6241f50ee025a3894048c77a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

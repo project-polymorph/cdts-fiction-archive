@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妈妈说文章的题目长才能在这么多优秀的皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21489 bytes                           |
 | MD5             | 11d89c7a083804a13a7b753c3892cea3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

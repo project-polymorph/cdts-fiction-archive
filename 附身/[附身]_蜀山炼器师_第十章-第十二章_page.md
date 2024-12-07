@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蜀山炼器师_第十章-第十二章.docx]([附身]_蜀�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36078 bytes                           |
 | MD5             | 4c7af6139ce1b76ef17332356c8e2b58                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_伪装成科学家的肉块.docx]([附身]_伪装成科学
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25835 bytes                           |
 | MD5             | 6873fdb1017302fcc30b78f5d5cca4d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

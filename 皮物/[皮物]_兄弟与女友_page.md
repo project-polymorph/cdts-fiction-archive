@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_兄弟与女友.docx]([皮物]_兄弟与女友.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30880 bytes                           |
 | MD5             | 05f5b9a8442b422f6ba52c795bf1b3b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

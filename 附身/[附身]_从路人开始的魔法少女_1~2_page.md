@@ -20,7 +20,7 @@ TXT 下载: [[附身]_从路人开始的魔法少女_1~2.doc]([附身]_从路人
 | Format          | Microsoft Word Document                               |
 | Size            | 81408 bytes                           |
 | MD5             | c33ab197d4b5ba8605fb325c8c6d39ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

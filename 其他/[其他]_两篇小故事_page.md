@@ -20,7 +20,7 @@ TXT 下载: [[其他]_两篇小故事.doc]([其他]_两篇小故事.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 0112c36139619bfdbd03d477bab4b372                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Natalia Toy / Ellie Dauber                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_自行车？.doc]([附身]_自行车？.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | 3574e62b90ead49ac2288e3655860fe3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

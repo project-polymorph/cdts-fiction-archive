@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译小说】【申码文】Really.docx]([变性]_【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 73653 bytes                           |
 | MD5             | 2e85373944e57815623804423dece929                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Arecee                               |
 | Region          | 未知                               |

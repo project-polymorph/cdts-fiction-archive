@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_新的心跳［下］——花田错.docx]([皮物]_新的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38232 bytes                           |
 | MD5             | bea5f4bdcffdc57eb26b4bc367aff401                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

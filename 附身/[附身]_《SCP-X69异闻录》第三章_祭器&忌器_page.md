@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第三章_祭器&忌器.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24080 bytes                           |
 | MD5             | 8e1176b676376ef3582d1cddbeef4486                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

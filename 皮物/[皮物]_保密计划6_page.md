@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_保密计划6.doc]([皮物]_保密计划6.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | e5a179d1aae315046c98403f45c36f18                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我与老师的七日交换.docx]([交换]_我与老师的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33204 bytes                           |
 | MD5             | c0e01de8ae0b397f63808df751d2656f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

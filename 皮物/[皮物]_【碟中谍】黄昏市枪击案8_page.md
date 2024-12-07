@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案8.doc]([皮物]_【碟中
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | e312cfb7addbec924bc4476d348a3ef7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

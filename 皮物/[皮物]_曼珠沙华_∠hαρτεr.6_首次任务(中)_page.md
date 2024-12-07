@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.6_首次任务(中).docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21949 bytes                           |
 | MD5             | 39e810447916e38b796127564fc32753                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

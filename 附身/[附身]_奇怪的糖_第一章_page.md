@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奇怪的糖_第一章.docx]([附身]_奇怪的糖_第一�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20508 bytes                           |
 | MD5             | 08ee9c4082e4c0f6e7af26ab3d9349c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

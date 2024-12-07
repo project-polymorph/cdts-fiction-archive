@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_学园都市异闻录.doc]([皮物]_学园都市异闻录.
 | Format          | Microsoft Word Document                               |
 | Size            | 110592 bytes                           |
 | MD5             | c401015d3b2b945524e1e71cc6364377                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

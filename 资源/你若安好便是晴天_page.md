@@ -20,7 +20,7 @@ TXT 下载: [你若安好便是晴天.doc](你若安好便是晴天.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 128512 bytes                           |
 | MD5             | ada28977e58a3b0b6ee29bd88858aec4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申码文】女妖的宫殿.doc]([变身]_【申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | fdd1e5fbe3b4365e0fe935bbe1be149e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

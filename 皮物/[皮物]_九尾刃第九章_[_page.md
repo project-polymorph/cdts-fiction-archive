@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_九尾刃第九章_[.docx]([皮物]_九尾刃第九章_[.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20149 bytes                           |
 | MD5             | c5a712e502dbb8d50a2279d4f875c725                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

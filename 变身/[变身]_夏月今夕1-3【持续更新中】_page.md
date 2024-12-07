@@ -20,7 +20,7 @@ TXT 下载: [[变身]_夏月今夕1-3【持续更新中】.doc]([变身]_夏月�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | ac1feb13ccf10bac28a9d761fa407fe2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | pushuomili                               |
 | Region          | 中国大陆                               |

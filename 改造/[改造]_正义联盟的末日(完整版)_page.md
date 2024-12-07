@@ -20,7 +20,7 @@ TXT 下载: [[改造]_正义联盟的末日(完整版).doc]([改造]_正义联�
 | Format          | Microsoft Word Document                               |
 | Size            | 168448 bytes                           |
 | MD5             | f840dfcdb4deed0e2e1be339f69faf86                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | SteveZ                               |
 | Region          | 美国                               |

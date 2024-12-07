@@ -20,7 +20,7 @@ TXT 下载: [[变装]_醉红颜1-9.docx]([变装]_醉红颜1-9.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45097 bytes                           |
 | MD5             | 8af96b5f134cd9e8068a84f097aa01c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_民国奇遇记（三）.doc]([皮物]_民国奇遇记（�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 517542861e366b2a443dd9818df30626                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

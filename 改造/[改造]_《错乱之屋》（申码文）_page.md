@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《错乱之屋》（申码文）.doc]([改造]_《错乱�
 | Format          | Microsoft Word Document                               |
 | Size            | 98304 bytes                           |
 | MD5             | d7fc72d68fa283e5d8fd539772f5f77c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

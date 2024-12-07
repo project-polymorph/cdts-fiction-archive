@@ -20,7 +20,7 @@ TXT 下载: [[变身]_大明星的变身.docx]([变身]_大明星的变身.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 187542 bytes                           |
 | MD5             | a4ccf10ff73960a5021f6d24a747fde7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

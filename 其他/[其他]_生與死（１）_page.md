@@ -20,7 +20,7 @@ TXT 下载: [[其他]_生與死（１）.docx]([其他]_生與死（１）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29002 bytes                           |
 | MD5             | d3570cbd6edec2ca41dc50b1e5e04f98                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

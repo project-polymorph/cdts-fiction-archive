@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士，其之八，仪式.docx]([皮物]_皮术士，
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25325 bytes                           |
 | MD5             | bc60805da5c9712a8665fd28a6361648                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

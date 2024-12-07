@@ -20,7 +20,7 @@ TXT 下载: [[改造]_假期-Vacation.docx]([改造]_假期-Vacation.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26014 bytes                           |
 | MD5             | 67e2e00e0962fc466620f53d5839424c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | tanyasub / MISSYLESEVE                               |
 | Region          | 未知                               |

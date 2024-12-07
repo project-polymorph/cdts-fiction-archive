@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（免费）错乱（一）（1，2章）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 9d8872dae3a793706f906367b8c469a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

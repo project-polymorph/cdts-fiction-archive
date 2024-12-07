@@ -20,7 +20,7 @@ TXT 下载: [[交换]_为什么这么对我（三）.docx]([交换]_为什么这
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23333 bytes                           |
 | MD5             | 678d22ecae659b47a2bc130589024d9d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

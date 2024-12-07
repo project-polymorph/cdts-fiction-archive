@@ -20,7 +20,7 @@ TXT 下载: [[改造]_塑料脸女孩_(2).docx]([改造]_塑料脸女孩_(2).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18473 bytes                           |
 | MD5             | 4a229d57d56de6a3edaf13856fb25ee7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | nienna                               |
 | Region          | 未知                               |

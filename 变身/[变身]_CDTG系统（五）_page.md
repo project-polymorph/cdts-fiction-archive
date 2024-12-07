@@ -20,7 +20,7 @@ TXT 下载: [[变身]_CDTG系统（五）.docx]([变身]_CDTG系统（五）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34110 bytes                           |
 | MD5             | 9dd0f066c87adbf83728fb8cd0c1fbdf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

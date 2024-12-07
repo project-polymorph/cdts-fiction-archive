@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_谁是受害者3（完结）.docx]([皮物]_谁是受害�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50665 bytes                           |
 | MD5             | f893eae89382d09eb11baa151f65307e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第18章绿林好汉变女仆（2）.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 42fa3611d37d7334abcf71ecfebe6286                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

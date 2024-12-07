@@ -20,7 +20,7 @@ TXT 下载: [[改造]_控制(二)_Control.doc]([改造]_控制(二)_Control.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 24daf76480f442dbb1191e6cb1091f7d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

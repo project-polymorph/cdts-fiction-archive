@@ -20,7 +20,7 @@ TXT 下载: [[附身]_二人の悪霊.doc]([附身]_二人の悪霊.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 673699b8e385a9ad9b1b080d117730fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ssngddg                               |
 | Region          | 未知                               |

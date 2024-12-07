@@ -20,7 +20,7 @@ TXT 下载: [[变装]鹰枭乱之玲珑艳后9-10.doc]([变装]鹰枭乱之玲�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 688a11c3718292a39dc6570d25175b9b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

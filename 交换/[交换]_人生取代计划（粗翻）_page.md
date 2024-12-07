@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人生取代计划（粗翻）.docx]([交换]_人生取代
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52335 bytes                           |
 | MD5             | 2c38c43c9ec85742faeb5b83c1dfee38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | サキ                               |
 | Region          | 未知                               |

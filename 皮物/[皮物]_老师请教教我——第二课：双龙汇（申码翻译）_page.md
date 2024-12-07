@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_老师请教教我——第二课：双龙汇（申码翻�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 0ef4b38dd46af144d5524705ebcb3150                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

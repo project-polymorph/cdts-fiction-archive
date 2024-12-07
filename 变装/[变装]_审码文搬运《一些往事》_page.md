@@ -20,7 +20,7 @@ TXT 下载: [[变装]_审码文搬运《一些往事》.doc]([变装]_审码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | fb17798a9bc289a95097822331aa28b7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

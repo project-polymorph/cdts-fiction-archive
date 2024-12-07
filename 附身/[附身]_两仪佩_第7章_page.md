@@ -20,7 +20,7 @@ TXT 下载: [[附身]_两仪佩_第7章.docx]([附身]_两仪佩_第7章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25074 bytes                           |
 | MD5             | e539106d5cb643ab7aac50b6ff893859                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

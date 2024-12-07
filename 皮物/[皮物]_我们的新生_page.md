@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我们的新生.doc]([皮物]_我们的新生.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | c2f0e046998fc897dbfc11492809a0e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 出门要走三百米                               |
 | Region          | 中国大陆                               |

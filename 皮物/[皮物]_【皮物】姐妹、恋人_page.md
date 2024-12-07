@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮物】姐妹、恋人.doc]([皮物]_【皮物】姐�
 | Format          | Microsoft Word Document                               |
 | Size            | 92160 bytes                           |
 | MD5             | c3915de66cbdb9454771d1125d855782                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

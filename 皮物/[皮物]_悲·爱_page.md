@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_悲·爱.docx]([皮物]_悲·爱.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29063 bytes                           |
 | MD5             | 60fd17b9d6e1d606bafa9b7cc2654c97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

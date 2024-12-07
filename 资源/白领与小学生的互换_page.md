@@ -20,7 +20,7 @@ TXT 下载: [白领与小学生的互换.docx](白领与小学生的互换.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35520 bytes                           |
 | MD5             | c10b91ffd1e4dc1d978ec1081bffc9ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

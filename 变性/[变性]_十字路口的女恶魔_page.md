@@ -20,7 +20,7 @@ TXT 下载: [[变性]_十字路口的女恶魔.docx]([变性]_十字路口的女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28806 bytes                           |
 | MD5             | 04e53809d5055eefed0121dc3518f4ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

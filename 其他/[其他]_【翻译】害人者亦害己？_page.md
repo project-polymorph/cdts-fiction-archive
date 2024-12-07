@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【翻译】害人者亦害己？.docx]([其他]_【翻译
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42178 bytes                           |
 | MD5             | 43c6d09a0402ebee000c28ef712d0c09                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 匿名                               |
 | Region          | 未知                               |

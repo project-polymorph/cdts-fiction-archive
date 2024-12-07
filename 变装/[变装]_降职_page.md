@@ -24,7 +24,7 @@ TXT 下载: [[变装]_降职.doc]([变装]_降职.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | 096fa9906906d332075e7e4199da8c0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Michelle X                               |
 | Region          | 未知                               |

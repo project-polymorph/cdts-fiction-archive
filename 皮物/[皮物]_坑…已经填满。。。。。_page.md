@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_坑…已经填满。。。。。.docx]([皮物]_坑…已
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36794 bytes                           |
 | MD5             | 1c92538dfce004351365e482da1cb77f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

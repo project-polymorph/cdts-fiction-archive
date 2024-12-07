@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_混迹末世3+4.docx]([皮物]_混迹末世3+4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23182 bytes                           |
 | MD5             | d24d5d644005717bd8a9343aa289ce92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

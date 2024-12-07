@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（免费）错乱（四）（第11章）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | f0b3b949474bd06a6453ba134b42b77d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

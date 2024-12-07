@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】愿望1.docx]([变性]_【翻译】愿望1.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46369 bytes                           |
 | MD5             | 78d76cd76527ae032f9573ba947ff934                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TGFictionStv                               |
 | Region          | 未知                               |

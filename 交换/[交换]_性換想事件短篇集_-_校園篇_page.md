@@ -20,7 +20,7 @@ TXT 下载: [[交换]_性換想事件短篇集_-_校園篇.docx]([交换]_性換
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23540 bytes                           |
 | MD5             | 1432b930eacad3483b351ae802238ff6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

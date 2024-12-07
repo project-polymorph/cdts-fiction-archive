@@ -20,7 +20,7 @@ TXT 下载: [[变性]_从心里开出的花(九至十二节).doc]([变性]_从�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 14e43d9d7cfe3cb9d9515381706bce26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

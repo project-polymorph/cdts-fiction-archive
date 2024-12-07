@@ -20,7 +20,7 @@ TXT 下载: [[改造]_校园调教_（1）.docx]([改造]_校园调教_（1）.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41709 bytes                           |
 | MD5             | 32a59f6f1c724cee62f54375d6704c62                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

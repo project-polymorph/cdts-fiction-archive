@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_汉贼(二十二~二十三).docx]([皮物]_汉贼(二十�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35652 bytes                           |
 | MD5             | 20ca111b7e1c4e7490ba144328446088                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

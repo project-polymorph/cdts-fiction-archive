@@ -20,7 +20,7 @@ TXT 下载: [[附身]_厕所奇遇.doc]([附身]_厕所奇遇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | b596b61a1470e7b9c029a5b1d1f7f6b7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

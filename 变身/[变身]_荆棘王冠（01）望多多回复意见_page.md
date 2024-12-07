@@ -20,7 +20,7 @@ TXT 下载: [[变身]_荆棘王冠（01）望多多回复意见.docx]([变身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22569 bytes                           |
 | MD5             | 63bef2d57315a8fa2cd83e85434c5b60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

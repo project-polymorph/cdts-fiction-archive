@@ -7,7 +7,7 @@ TXT 下载: [[附身]_（长篇）孤城_序章_第一章——H药剂.doc]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《孤城》是一本描绘未来末世背景下人类与外星异变生物H之间斗争的科幻小说。故事围绕C国最后的希望D市展开，描述了一场由H陨星引起的生态灾难，导致人类生存环境的严重恶化。小说主要角色包括夏非，一位年轻的诺贝尔化学奖获得者，和陈汝涵，一名调查局专员。他们在会议中讨论H生物的特性，以及如何拯救人类文明。H生物表现出惊人的进化能力，融合、吞噬和控制其他生命体的能力，使得人类面临前所未有的威胁。小说通过复杂的人际关系和道德抉择探讨了人类在绝境中的选择与团结。同时，故事中还融入了对性别认同的探讨，夏非虽爱陈汝涵，但在面对拥有男性身体而呈现女性形象的角色时，展现了他内心的纠结与挣扎。整部作品不仅是科幻关于人类生存的思考，也暗含了社会对性别角色和认同的深刻讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_（长篇）孤城_序章_第一章——H药剂.doc]([附
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | bedb964481808b8b72fa3094b62d94bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 末世, 异变, 生态灾难, 性别认同, 自我探索, 人类生存, 社会实验, 科学研究, 跨性别, H生物, 诺贝尔化学奖, D市, 人类与外星生物, 生化研究, 未来小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

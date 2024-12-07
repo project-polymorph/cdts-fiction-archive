@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我变身单亲妈妈了？（1-10完结）.doc]([附身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 732cdc44db691564782e3dce2cd9cc65                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

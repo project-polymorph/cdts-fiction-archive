@@ -22,7 +22,7 @@ TXT 下载: [[交换]_恶魔学妹竟在我身边？（1-5章）.doc]([交换]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 85504 bytes                           |
 | MD5             | 3e1c63af285a8f31537efc89e7660a5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

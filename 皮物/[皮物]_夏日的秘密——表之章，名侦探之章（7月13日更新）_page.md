@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_夏日的秘密——表之章，名侦探之章（7月13�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24937 bytes                           |
 | MD5             | 7e7c5f86348f7a1b99fb798c9b1f2dfb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

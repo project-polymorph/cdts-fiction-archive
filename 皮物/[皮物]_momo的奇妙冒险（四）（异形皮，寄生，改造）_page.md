@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_momo的奇妙冒险（四）（异形皮，寄生，改造
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | b14fde18a006c6db1a03a967f46339cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

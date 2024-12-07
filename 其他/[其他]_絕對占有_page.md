@@ -20,7 +20,7 @@ TXT 下载: [[其他]_絕對占有.docx]([其他]_絕對占有.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18263 bytes                           |
 | MD5             | dee3b92e8ea99ecfa7f9a4d1abdbc29d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | apple741963                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_回家的意外.doc]([皮物]_回家的意外.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | af764299c0f2d45dfdcad1097df9ae93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

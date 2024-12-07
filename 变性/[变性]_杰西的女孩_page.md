@@ -20,7 +20,7 @@ TXT 下载: [[变性]_杰西的女孩.doc]([变性]_杰西的女孩.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 50b2099df74b60113282d8213276e3d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TGFictionStv                               |
 | Region          | 未知                               |

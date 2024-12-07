@@ -20,7 +20,7 @@ TXT 下载: [[变装]_[碟中谍_]蒼海上的孤獨少年(5)~(6).doc]([变装]_
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | ef5e581019c39eea75aa9890b80b055b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

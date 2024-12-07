@@ -20,7 +20,7 @@ TXT 下载: [[变身]_日本的经济复苏计划_(序）、（一）、（二�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 3091fb3854f5b1ea3ae8336a9e1f3a34                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

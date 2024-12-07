@@ -20,7 +20,7 @@ TXT 下载: [[变性]_彼岸_第二幕_第八回.docx]([变性]_彼岸_第二幕
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35757 bytes                           |
 | MD5             | 86a1e927bcbcb53b68116989cfe4f0fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Nellie Sheila                               |
 | Region          | 中国大陆                               |

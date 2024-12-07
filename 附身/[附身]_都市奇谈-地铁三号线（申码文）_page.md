@@ -20,7 +20,7 @@ TXT 下载: [[附身]_都市奇谈-地铁三号线（申码文）.doc]([附身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 71680 bytes                           |
 | MD5             | 6475f08275b44aaecc6668374df61b45                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

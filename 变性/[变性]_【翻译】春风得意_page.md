@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】春风得意.docx]([变性]_【翻译】春风
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 119624 bytes                           |
 | MD5             | 08e75d3f047cabbb40dfdf7d0a5cc165                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

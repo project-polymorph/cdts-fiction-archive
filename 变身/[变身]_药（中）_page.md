@@ -20,7 +20,7 @@ TXT 下载: [[变身]_药（中）.doc]([变身]_药（中）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 764ab8c4019048db69f69fb863f9ea1c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

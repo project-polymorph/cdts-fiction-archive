@@ -20,7 +20,7 @@ TXT 下载: [[交换]_究極.docx]([交换]_究極.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40286 bytes                           |
 | MD5             | fce2e065e9272e99626a9524d9558406                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

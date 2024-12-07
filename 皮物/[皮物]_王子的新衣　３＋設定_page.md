@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_王子的新衣　３＋設定.docx]([皮物]_王子的新
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20027 bytes                           |
 | MD5             | dd993532557dd08c87a263657025a2bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sunlokf                               |
 | Region          | 未知                               |

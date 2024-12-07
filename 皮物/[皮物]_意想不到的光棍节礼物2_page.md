@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_意想不到的光棍节礼物2.docx]([皮物]_意想不�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18772 bytes                           |
 | MD5             | bfa52c6f64f8f6328ffff6cfc591c8a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

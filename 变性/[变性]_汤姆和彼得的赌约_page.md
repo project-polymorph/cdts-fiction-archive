@@ -20,7 +20,7 @@ TXT 下载: [[变性]_汤姆和彼得的赌约.doc]([变性]_汤姆和彼得的�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | fa91115a70d52a1cc79267f457fec0f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Hello329 / 露娜·埃葵斯                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【老文新发】圣诞夜的变化.doc]([皮物]_【老�
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | a4be0e5748e2cc75e589e69decdf71c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

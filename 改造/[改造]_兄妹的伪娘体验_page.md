@@ -20,7 +20,7 @@ TXT 下载: [[改造]_兄妹的伪娘体验.doc]([改造]_兄妹的伪娘体验.
 | Format          | Microsoft Word Document                               |
 | Size            | 27648 bytes                           |
 | MD5             | a2cc9acab49e4db3b0bd5b38fea8cba4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

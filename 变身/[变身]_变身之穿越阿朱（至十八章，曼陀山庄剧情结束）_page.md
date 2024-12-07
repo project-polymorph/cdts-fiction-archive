@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身之穿越阿朱（至十八章，曼陀山庄剧情�
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | 4c50296c8b1b6ca9688f09064c9f0ad8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

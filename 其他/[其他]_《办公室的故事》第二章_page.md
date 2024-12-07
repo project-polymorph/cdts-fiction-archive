@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《办公室的故事》第二章.doc]([其他]_《办公�
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | c79175dd53f53f9f1f11b3e2dc25e808                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

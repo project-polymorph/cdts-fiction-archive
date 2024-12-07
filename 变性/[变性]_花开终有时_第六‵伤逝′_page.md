@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花开终有时_第六‵伤逝′.docx]([变性]_花开�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35048 bytes                           |
 | MD5             | c6f5e148be9602b81eab929b2938d4a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

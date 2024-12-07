@@ -20,7 +20,7 @@ TXT 下载: [[交换]_[SCARLET]-第五章[免费].docx]([交换]_[SCARLET]-第�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 59801 bytes                           |
 | MD5             | e38924081f04c1210c7a047da0ac6635                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

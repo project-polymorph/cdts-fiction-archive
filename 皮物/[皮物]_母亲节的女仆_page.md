@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_母亲节的女仆.doc]([皮物]_母亲节的女仆.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 533eb3bc2f07408477569698c94bca7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

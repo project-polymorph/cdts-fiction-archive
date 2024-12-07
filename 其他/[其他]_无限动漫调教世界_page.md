@@ -20,7 +20,7 @@ TXT 下载: [[其他]_无限动漫调教世界.docx]([其他]_无限动漫调教
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24023 bytes                           |
 | MD5             | 6978df9b81647ac8d29e7d6c24869836                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 风铃, t1 l, q6 p0 R                               |
 | Region          | 未知                               |

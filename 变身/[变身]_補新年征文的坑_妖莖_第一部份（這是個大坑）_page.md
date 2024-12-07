@@ -20,7 +20,7 @@ TXT 下载: [[变身]_補新年征文的坑_妖莖_第一部份（這是個大�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 6fa55b27b0dba051cd5ecce9eb95fe73                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

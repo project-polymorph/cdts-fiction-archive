@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_龙凤斗（壹至伍幕整理重发）.docx]([皮物]_龙
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28237 bytes                           |
 | MD5             | ef4e9b62f4ccb3e345501dbe90ea2a80                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

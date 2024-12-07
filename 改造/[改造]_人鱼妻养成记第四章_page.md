@@ -20,7 +20,7 @@ TXT 下载: [[改造]_人鱼妻养成记第四章.doc]([改造]_人鱼妻养成�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | b09d3aec8e9d92fb28dfa28738ca9e01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

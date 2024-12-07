@@ -20,7 +20,7 @@ TXT 下载: [[附身]_古典仙侠《小蜘蛛修仙记》序-3.doc]([附身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | e06dbecc0e468a74b650dd8b7e360f87                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

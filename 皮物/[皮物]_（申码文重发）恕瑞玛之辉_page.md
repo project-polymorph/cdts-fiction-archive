@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文重发）恕瑞玛之辉.doc]([皮物]_（申�
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | f4b2fed15b18f27b56fe4965c7d759b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

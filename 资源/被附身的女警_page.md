@@ -20,7 +20,7 @@ TXT 下载: [被附身的女警.docx](被附身的女警.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27693 bytes                           |
 | MD5             | 77f50e641e22922e8986d1df5adac872                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

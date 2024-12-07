@@ -20,7 +20,7 @@ TXT 下载: [[变身]_都市传说之紫色高跟鞋.docx]([变身]_都市传说
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19011 bytes                           |
 | MD5             | ff71700b5dc39856d02c80317c24cf2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

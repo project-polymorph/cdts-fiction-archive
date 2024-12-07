@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【敬这神秘而疯狂的世界】第一篇：蜘蛛女�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 451b8381914bdec3363c12221446eca4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

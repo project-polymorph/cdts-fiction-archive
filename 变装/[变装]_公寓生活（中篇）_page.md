@@ -20,7 +20,7 @@ TXT 下载: [[变装]_公寓生活（中篇）.docx]([变装]_公寓生活（中
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54191 bytes                           |
 | MD5             | 15312b78d4c3fdef9d465f8fa2eec7f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_青青的幸福生活（起源篇2）.doc]([变装]_青青
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 2222904902577b4ca24528efd58ed4b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

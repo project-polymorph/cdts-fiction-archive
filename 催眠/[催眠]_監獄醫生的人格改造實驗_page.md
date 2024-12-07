@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_監獄醫生的人格改造實驗.doc]([催眠]_監獄醫�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | e3d294e62b7cc9129573ded0448b5655                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

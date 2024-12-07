@@ -20,7 +20,7 @@ TXT 下载: [[其他]_圣诞贺礼——机械人偶Chapter_9_深情战斗的kig
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38220 bytes                           |
 | MD5             | ddbe3ea5ec96241b776da2ec3bc8311a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | basana                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_偷龙转凤.docx]([皮物]_偷龙转凤.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26525 bytes                           |
 | MD5             | 6ae16f17a8bd896189ad5f746df77f0a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

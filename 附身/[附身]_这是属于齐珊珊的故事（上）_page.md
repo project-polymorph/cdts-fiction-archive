@@ -20,7 +20,7 @@ TXT 下载: [[附身]_这是属于齐珊珊的故事（上）.docx]([附身]_这
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43700 bytes                           |
 | MD5             | b632cca0e8c04b0669713fb4a34aedad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

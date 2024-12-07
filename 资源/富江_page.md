@@ -20,7 +20,7 @@ TXT 下载: [富江.doc](富江.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 841f0db2083d9d49e1d4c2e16e2f1e18                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

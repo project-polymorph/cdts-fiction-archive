@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_蝙蝠侠的正义.doc]([催眠]_蝙蝠侠的正义.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 192fa36b8ddc05447ec58afa4ff432cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

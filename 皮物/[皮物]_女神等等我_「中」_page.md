@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女神等等我_「中」.docx]([皮物]_女神等等我_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23444 bytes                           |
 | MD5             | e2c13c8ded46cacaca77d667dcde1c04                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_心理治疗.docx]([皮物]_心理治疗.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39959 bytes                           |
 | MD5             | 183b9b3e95cd2a497fe03cbe0a9e4084                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

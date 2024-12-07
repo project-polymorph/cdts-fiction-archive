@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔皮（6-10章）.doc]([皮物]_魔皮（6-10章）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 91648 bytes                           |
 | MD5             | 56849882ec6e0156037519d1682d5d4a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣前传4_-_素依（上）.doc]([附身]_游泳衣
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | a4c433049b9bf9360b418dbbe4ff0bff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

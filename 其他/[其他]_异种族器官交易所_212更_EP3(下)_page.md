@@ -20,7 +20,7 @@ TXT 下载: [[其他]_异种族器官交易所_212更_EP3(下).docx]([其他]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 75953 bytes                           |
 | MD5             | 310efc94f938da45ec9290d623737673                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

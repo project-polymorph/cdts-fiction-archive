@@ -20,7 +20,7 @@ TXT 下载: [[改造]_女寝发生强奸案_受害人与罪犯为同寝“闺蜜
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19944 bytes                           |
 | MD5             | 72a28c4089303bdf888624f5adf5fda6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

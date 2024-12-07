@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_就诊奇缘2，还是说好万字更新，走过路过别
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41268 bytes                           |
 | MD5             | 2113c4105269bdc32416ce10ac894e1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

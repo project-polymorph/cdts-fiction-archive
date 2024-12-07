@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《全包性奴》（第二部）.doc]([改造]_《全包�
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | 452b954a9a3e3f165f38a33cad74d345                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

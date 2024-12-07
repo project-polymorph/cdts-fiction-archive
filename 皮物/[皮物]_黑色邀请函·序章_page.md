@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑色邀请函·序章.docx]([皮物]_黑色邀请函·�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19388 bytes                           |
 | MD5             | aba7206a90704cf26d8cfca97a9b3327                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

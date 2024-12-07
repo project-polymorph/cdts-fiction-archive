@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我在阳间还债的日子（_1-8_）.docx]([其他]_我�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 88783 bytes                           |
 | MD5             | d66172e03a94ccfd65716639176280f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

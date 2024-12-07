@@ -20,7 +20,7 @@ TXT 下载: [[附身]_某TS能力者的一天.doc]([附身]_某TS能力者的一
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 8368f7a75a21a03c0ce45226783ae0d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ヴァレー                               |
 | Region          | 未知                               |

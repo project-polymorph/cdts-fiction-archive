@@ -20,7 +20,7 @@ TXT 下载: [[其他]_末世之女神养成.doc]([其他]_末世之女神养成.
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | 54b8437985434007ae80a292d7bad9f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

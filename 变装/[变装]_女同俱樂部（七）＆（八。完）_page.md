@@ -20,7 +20,7 @@ TXT 下载: [[变装]_女同俱樂部（七）＆（八。完）.doc]([变装]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 9f18377f6f05daa06536870b082df0c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

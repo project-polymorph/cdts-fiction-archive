@@ -20,7 +20,7 @@ TXT 下载: [[附身]_缠魂米二（2）.doc]([附身]_缠魂米二（2）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 22d33985e9c222381eed5351cfd77428                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

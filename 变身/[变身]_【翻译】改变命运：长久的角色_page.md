@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】改变命运：长久的角色.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | 5651f156a7ae0080e497c0c6f99eaea6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Pyrite                               |
 | Region          | 未知                               |

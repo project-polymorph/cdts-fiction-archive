@@ -20,7 +20,7 @@ TXT 下载: [[附身]_异形女郎第一册中的短篇小说(部份).docx]([附
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33032 bytes                           |
 | MD5             | 170184af381512637038d2c7cf56257c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 红毛猪                               |
 | Region          | 未知                               |

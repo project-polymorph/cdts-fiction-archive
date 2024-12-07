@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[翻译+改篇]_拉拉队性奴_-_查德篇_(2).docx]([改
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 138138 bytes                           |
 | MD5             | 8fd5de273bf31afed02153e86c45ad4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

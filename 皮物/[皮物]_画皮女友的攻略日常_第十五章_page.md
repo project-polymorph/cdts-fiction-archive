@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第十五章.doc]([皮物]_画
 | Format          | Microsoft Word Document                               |
 | Size            | 74752 bytes                           |
 | MD5             | 504d75a4381151c40142c4c100325d0c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

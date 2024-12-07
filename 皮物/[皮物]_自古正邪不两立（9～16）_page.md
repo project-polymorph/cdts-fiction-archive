@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_自古正邪不两立（9～16）.doc]([皮物]_自古正�
 | Format          | Microsoft Word Document                               |
 | Size            | 119296 bytes                           |
 | MD5             | b9330db32ac7e604362b66692c0f1791                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

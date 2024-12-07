@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_chameleon_2_上篇.docx]([皮物]_chameleon_2_上篇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24030 bytes                           |
 | MD5             | 68154364628df4d1a3a40f4e82fc46e1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

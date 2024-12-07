@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_剥皮吏之背叛（上）.doc]([皮物]_剥皮吏之背�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | c4daaca16d6eb0bc466eeb18524eba8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

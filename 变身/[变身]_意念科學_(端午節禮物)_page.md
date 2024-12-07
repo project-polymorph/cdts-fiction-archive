@@ -20,7 +20,7 @@ TXT 下载: [[变身]_意念科學_(端午節禮物).docx]([变身]_意念科學
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37183 bytes                           |
 | MD5             | 21918bcf98557b60766fa9d81d7e33ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

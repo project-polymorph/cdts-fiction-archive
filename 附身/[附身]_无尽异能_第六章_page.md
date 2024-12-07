@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能_第六章.docx]([附身]_无尽异能_第六�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18652 bytes                           |
 | MD5             | 852386d9215b7943ed68c7bac1e5c35a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

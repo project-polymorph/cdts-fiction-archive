@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[申码文]_入梦.doc]([变性]_[申码文]_入梦.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 945194cd1f10748f7127f12f370a2d9f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

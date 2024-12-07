@@ -20,7 +20,7 @@ TXT 下载: [[其他]_钥匙（3～4）.docx]([其他]_钥匙（3～4）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28363 bytes                           |
 | MD5             | 568e3ece6fe83a4fa2455e1fa8e52084                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

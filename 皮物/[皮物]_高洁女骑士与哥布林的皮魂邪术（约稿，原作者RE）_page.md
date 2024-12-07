@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_高洁女骑士与哥布林的皮魂邪术（约稿，原�
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | 4ebab6d85977db930b3339438c0dd96b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

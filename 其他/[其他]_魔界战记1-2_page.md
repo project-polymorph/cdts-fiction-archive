@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔界战记1-2.docx]([其他]_魔界战记1-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23412 bytes                           |
 | MD5             | 43892fda2aa2b03ecf481b01aaae3135                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

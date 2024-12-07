@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_对不起_打扰了（ごめんなさい）.doc]([催眠]_
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | cd0aad45d5cb4a9d2e4a2d72c198bd27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Verandert                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_那些花儿.docx]([皮物]_那些花儿.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26657 bytes                           |
 | MD5             | fcaff657c87777f4803d40f843177ab3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

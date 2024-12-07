@@ -20,7 +20,7 @@ TXT 下载: [[变装]_男友的背叛.docx]([变装]_男友的背叛.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21037 bytes                           |
 | MD5             | af1b72717777336bd98f35f2d3e72bad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

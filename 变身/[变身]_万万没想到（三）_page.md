@@ -20,7 +20,7 @@ TXT 下载: [[变身]_万万没想到（三）.docx]([变身]_万万没想到（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30675 bytes                           |
 | MD5             | cde20423d4c4064d967ee65f9c8dad53                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

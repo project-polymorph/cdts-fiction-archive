@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交換禮物(短篇).doc]([交换]_交換禮物(短篇).do
 | Format          | Microsoft Word Document                               |
 | Size            | 83456 bytes                           |
 | MD5             | 2337aba66b3b9d4690e5c6648e3cb5ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

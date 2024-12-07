@@ -20,7 +20,7 @@ TXT 下载: [[变身]_変身カメラ_（变身照相）[翻译+微改]_[.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41048 bytes                           |
 | MD5             | bf8bc765b6b2d2ec532e7b33a9d63e6a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | めざしβ                               |
 | Region          | 未知                               |

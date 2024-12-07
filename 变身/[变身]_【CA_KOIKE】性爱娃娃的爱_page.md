@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【CA_KOIKE】性爱娃娃的爱.doc]([变身]_【CA_KOIKE
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | cb180d28236a2d477e8b3bf2e7368f99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

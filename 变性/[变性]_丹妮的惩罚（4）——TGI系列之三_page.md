@@ -22,7 +22,7 @@ TXT 下载: [[变性]_丹妮的惩罚（4）——TGI系列之三.docx]([变性]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49661 bytes                           |
 | MD5             | 934ecbbb5e924299ee3e7688838cb86a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

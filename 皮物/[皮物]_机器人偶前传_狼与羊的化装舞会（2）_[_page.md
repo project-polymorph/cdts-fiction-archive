@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机器人偶前传_狼与羊的化装舞会（2）_[.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42082 bytes                           |
 | MD5             | 36b371c78854ebc01c1cc530b90659b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

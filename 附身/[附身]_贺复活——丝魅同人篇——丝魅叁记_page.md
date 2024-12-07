@@ -20,7 +20,7 @@ TXT 下载: [[附身]_贺复活——丝魅同人篇——丝魅叁记.doc]([附
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | f68aba8970c209b7a0b350465a208de6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

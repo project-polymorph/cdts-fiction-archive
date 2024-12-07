@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第十六回.doc](《金枝奇缘》第十六回.
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 428d6e3e41a7fc1cb818134cb9168bda                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

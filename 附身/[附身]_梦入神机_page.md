@@ -20,7 +20,7 @@ TXT 下载: [[附身]_梦入神机.docx]([附身]_梦入神机.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33880 bytes                           |
 | MD5             | ee3b76251e2aec9b4dd6565fb2afe363                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

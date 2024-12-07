@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Descending_the_Ladder(一~三).docx]([变装]_Descending_t
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37987 bytes                           |
 | MD5             | 88cbd77fd5a784dd223dfe257fab7f2f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RH Music                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_A_Force_of_Habit_第1-4章.docx]([变身]_A_Force_of_Habit
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60046 bytes                           |
 | MD5             | 6d785c8a6be175f5b01aa66424ccddbd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jessica Drew                               |
 | Region          | 未知                               |

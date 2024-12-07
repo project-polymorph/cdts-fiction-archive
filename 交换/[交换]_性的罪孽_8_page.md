@@ -20,7 +20,7 @@ TXT 下载: [[交换]_性的罪孽_8.doc]([交换]_性的罪孽_8.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | fc7e3faa75c9fed34344e3077de237c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

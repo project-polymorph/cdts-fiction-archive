@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交叉互换的四人【三】.docx]([交换]_交叉互换
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33720 bytes                           |
 | MD5             | d7a016b4db3fdab4944def41bf00e869                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

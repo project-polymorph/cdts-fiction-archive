@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译小说】疯狂的双胞胎妹妹6-10.docx]([改�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 59906 bytes                           |
 | MD5             | feef38a4d50c1d3ac651ecda84ca69da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

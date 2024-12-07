@@ -20,7 +20,7 @@ TXT 下载: [续约.docx](续约.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31540 bytes                           |
 | MD5             | 46713a3b1b2f85858e69081d8536ef12                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

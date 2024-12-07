@@ -20,7 +20,7 @@ TXT 下载: [[附身]_灼眼的夏娜同人——坂井悠二的再诞.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25702 bytes                           |
 | MD5             | efe8a902055b517098634524b577fad0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

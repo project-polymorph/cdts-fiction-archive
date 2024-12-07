@@ -20,7 +20,7 @@ TXT 下载: [家族诞生.doc](家族诞生.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | c54385a958dccd8ff16382b51522a38d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

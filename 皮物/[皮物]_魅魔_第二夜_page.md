@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魅魔_第二夜.docx]([皮物]_魅魔_第二夜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33097 bytes                           |
 | MD5             | 023a53e97e6d6bd98502a3b93634af1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

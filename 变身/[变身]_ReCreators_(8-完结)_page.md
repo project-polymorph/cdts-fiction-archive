@@ -20,7 +20,7 @@ TXT 下载: [[变身]_ReCreators_(8-完结).doc]([变身]_ReCreators_(8-完结).
 | Format          | Microsoft Word Document                               |
 | Size            | 76288 bytes                           |
 | MD5             | 2f81c83994aec6c1140907a650a9ca7b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

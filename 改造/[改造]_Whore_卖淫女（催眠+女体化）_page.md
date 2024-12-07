@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Whore_卖淫女（催眠+女体化）.doc]([改造]_Whore_
 | Format          | Microsoft Word Document                               |
 | Size            | 84480 bytes                           |
 | MD5             | fb57484eeeb361dc734021f9bbc146f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Vickie Tern                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_光晕（Halo）短篇——大麻烦.docx]([附身]_光�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23739 bytes                           |
 | MD5             | f0a398cd36fc02ef8d813f59d7b1b974                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

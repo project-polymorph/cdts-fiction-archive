@@ -20,7 +20,7 @@ TXT 下载: [[其他]_亵偶_第八章.docx]([其他]_亵偶_第八章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19634 bytes                           |
 | MD5             | 053870205c645f8cd5da4c4347636e68                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_学姐与学妹的游戏（万圣节篇一）.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21735 bytes                           |
 | MD5             | 8822177c30087f20461cc233bc92e32c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

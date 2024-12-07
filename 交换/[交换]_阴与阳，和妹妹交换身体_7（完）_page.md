@@ -20,7 +20,7 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_7（完）.doc]([交换]
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 21459b1f87a1cdb61ac777be069a596a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

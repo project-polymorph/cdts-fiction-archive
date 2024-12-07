@@ -20,7 +20,7 @@ TXT 下载: [[交换]_众生平等2_[.docx]([交换]_众生平等2_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23766 bytes                           |
 | MD5             | 70c9e0ab9153798bebc70ac283d906bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

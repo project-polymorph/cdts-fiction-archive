@@ -20,7 +20,7 @@ TXT 下载: [[其他]_人体粘土(新人报道任务).docx]([其他]_人体粘�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26232 bytes                           |
 | MD5             | c221b9b510d2278a1b7d81819a70b86b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | fklido                               |
 | Region          | 中国大陆                               |

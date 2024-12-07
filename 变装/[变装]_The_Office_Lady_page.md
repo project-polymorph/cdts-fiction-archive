@@ -20,7 +20,7 @@ TXT 下载: [[变装]_The_Office_Lady.docx]([变装]_The_Office_Lady.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33673 bytes                           |
 | MD5             | 0f1b251cfb559eea66a78e1dbc4b01f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

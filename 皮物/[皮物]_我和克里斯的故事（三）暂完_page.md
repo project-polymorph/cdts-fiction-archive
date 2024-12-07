@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我和克里斯的故事（三）暂完.docx]([皮物]_我
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24360 bytes                           |
 | MD5             | dc7b3608cdba8ef53cdb0958f7bfd403                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

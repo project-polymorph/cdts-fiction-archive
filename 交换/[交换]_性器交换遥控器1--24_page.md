@@ -20,7 +20,7 @@ TXT 下载: [[交换]_性器交换遥控器1--24.docx]([交换]_性器交换遥�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41752 bytes                           |
 | MD5             | 370865cc1130d62cf1227fc5c9d85486                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

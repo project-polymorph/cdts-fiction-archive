@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【我的舅舅是高官】下篇.doc]([变性]_【我的�
 | Format          | Microsoft Word Document                               |
 | Size            | 77824 bytes                           |
 | MD5             | 038d9d2a2498a5e6d8e3054e99c012ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

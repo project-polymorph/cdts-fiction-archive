@@ -20,7 +20,7 @@ TXT 下载: [[附身]_生體解離凝膠(下).docx]([附身]_生體解離凝膠(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21874 bytes                           |
 | MD5             | a4af843e52e1588398e5f00ea06897ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 真主之剑                               |
 | Region          | 未知                               |

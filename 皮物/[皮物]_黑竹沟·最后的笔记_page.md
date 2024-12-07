@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑竹沟·最后的笔记.docx]([皮物]_黑竹沟·最�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27676 bytes                           |
 | MD5             | 69527f6a8089c3fbccc435aad3d5c279                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 四川，中国                               |

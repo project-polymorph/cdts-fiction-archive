@@ -20,7 +20,7 @@ TXT 下载: [[交换]_If_I_Knew_How_You_Felt（1）.docx]([交换]_If_I_Knew_How
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19280 bytes                           |
 | MD5             | 7605db883e2db4359555e729dab029ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

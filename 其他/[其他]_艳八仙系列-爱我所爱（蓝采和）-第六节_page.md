@@ -20,7 +20,7 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第六节.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18237 bytes                           |
 | MD5             | e4771d73172f2bbc0ee97aea6a2f6381                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_真心话？大冒险.doc]([催眠]_真心话？大冒险.
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 57c9d3614c0f6cf3785abfcbbf0b17bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Steven C                               |
 | Region          | 未知                               |

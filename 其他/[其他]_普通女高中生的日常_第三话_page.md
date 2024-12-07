@@ -20,7 +20,7 @@ TXT 下载: [[其他]_普通女高中生的日常_第三话.docx]([其他]_普�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16945 bytes                           |
 | MD5             | 4c30a803b403b7f87a75e8c4e229dd26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

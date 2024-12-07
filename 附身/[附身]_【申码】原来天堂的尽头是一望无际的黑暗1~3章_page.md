@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码】原来天堂的尽头是一望无际的黑暗1
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | f6235c069fde6e232f5b316930e95e41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

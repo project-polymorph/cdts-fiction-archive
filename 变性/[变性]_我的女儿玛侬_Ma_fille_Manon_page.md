@@ -20,7 +20,7 @@ TXT 下载: [[变性]_我的女儿玛侬_Ma_fille_Manon.docx]([变性]_我的女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34170 bytes                           |
 | MD5             | aa9bab582962d1678af97d8d9a7c55b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | petit pierre                               |
 | Region          | 未知                               |

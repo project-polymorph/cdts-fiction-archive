@@ -20,7 +20,7 @@ TXT 下载: [[变装]【xly翻译】万圣节之变（十七）.doc]([变装]【
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 3833758a6528284f47c2c6a8e4412b1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

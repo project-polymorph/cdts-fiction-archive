@@ -20,7 +20,7 @@ TXT 下载: [[变身]_笼中鸟（2）.doc]([变身]_笼中鸟（2）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | ff1f8820fc9a2cb9d56ff6bfbc1a69bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

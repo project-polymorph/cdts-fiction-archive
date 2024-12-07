@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_异祸（４～５）.docx]([皮物]_异祸（４～５）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44311 bytes                           |
 | MD5             | e100a03fb74caa89ca28886a81039019                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

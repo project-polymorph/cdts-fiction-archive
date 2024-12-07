@@ -22,7 +22,7 @@ TXT 下载: [光与暗的变奏曲_（三）_不安.doc](光与暗的变奏曲_�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 9bd0a436c0bf006a30d6ba6a1e0c5c2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

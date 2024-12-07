@@ -20,7 +20,7 @@ TXT 下载: [[改造]_逆转龙凤_（二）亡命.doc]([改造]_逆转龙凤_�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 95d61e852343acfed82576ecff408cb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

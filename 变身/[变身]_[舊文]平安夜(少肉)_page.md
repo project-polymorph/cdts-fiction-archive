@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[舊文]平安夜(少肉).doc]([变身]_[舊文]平安夜(
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 712ca7ecc0b616344ef231045924964b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

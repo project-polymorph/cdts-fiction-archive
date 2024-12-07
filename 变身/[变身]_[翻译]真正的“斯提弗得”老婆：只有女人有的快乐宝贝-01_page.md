@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]真正的“斯提弗得”老婆：只有女人�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19953 bytes                           |
 | MD5             | 61465839f07d19d47b748168f071661b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Edwin Gay                               |
 | Region          | 未知                               |

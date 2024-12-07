@@ -20,7 +20,7 @@ TXT 下载: [[变身]_未知领域：因父之名.docx]([变身]_未知领域：
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25296 bytes                           |
 | MD5             | 459b086f0df7ae7f4007ba88d4b15af1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

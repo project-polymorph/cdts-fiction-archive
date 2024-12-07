@@ -20,7 +20,7 @@ TXT 下载: [[其他]_山间_第一章_遗嘱.docx]([其他]_山间_第一章_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20797 bytes                           |
 | MD5             | 20dcb71b857434d6ffa356d64102046f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

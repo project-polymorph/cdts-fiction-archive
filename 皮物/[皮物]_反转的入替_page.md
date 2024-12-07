@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_反转的入替.docx]([皮物]_反转的入替.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28270 bytes                           |
 | MD5             | ab27bb193750295cfe6fd82720697a3a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

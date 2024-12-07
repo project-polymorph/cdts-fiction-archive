@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_政治动机_二.doc]([皮物]_政治动机_二.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 0be00110e08605773b28648016f0d177                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

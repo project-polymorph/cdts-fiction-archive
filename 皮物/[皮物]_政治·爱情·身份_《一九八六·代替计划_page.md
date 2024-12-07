@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_政治·爱情·身份_《一九八六·代替计划.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22341 bytes                           |
 | MD5             | b38f913bbda35dd4efbf0d76547c1d98                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

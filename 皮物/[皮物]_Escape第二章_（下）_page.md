@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Escape第二章_（下）.docx]([皮物]_Escape第二章_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46083 bytes                           |
 | MD5             | 143a19a2c804910f5003ab574e921b08                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

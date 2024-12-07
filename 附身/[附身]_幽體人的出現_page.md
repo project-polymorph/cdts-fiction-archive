@@ -20,7 +20,7 @@ TXT 下载: [[附身]_幽體人的出現.docx]([附身]_幽體人的出現.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31839 bytes                           |
 | MD5             | 550c1d176ece90b63b2901c6d675156e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー(TRUE)                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Game_On_After_Party_遊戲開始_後夜祭.docx]([改造]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 57802 bytes                           |
 | MD5             | fbaf81d48d94075a59e9e7d1eb5d0e0f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Casey CD                               |
 | Region          | 未知                               |

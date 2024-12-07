@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译_变装】缘起_.doc]([变装]_【翻译_变装�
 | Format          | Microsoft Word Document                               |
 | Size            | 29184 bytes                           |
 | MD5             | 02dc57ebf2183f45017a435e988849cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters / 露娜·埃葵斯                               |
 | Region          | 未知                               |

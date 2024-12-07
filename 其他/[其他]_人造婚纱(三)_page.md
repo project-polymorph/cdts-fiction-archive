@@ -20,7 +20,7 @@ TXT 下载: [[其他]_人造婚纱(三).doc]([其他]_人造婚纱(三).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | b51dfeb632b0c6f1d954dbd5f76c1546                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -22,7 +22,7 @@ TXT 下载: [[附身]_【诸天：从成为天魔开始】（1-2）.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 5106029ab4569ee4e88ec50081bb000e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

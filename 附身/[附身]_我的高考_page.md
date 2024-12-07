@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我的高考.doc]([附身]_我的高考.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | c919200d04471b18425cff47e2d2f26b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 浮生若梦                               |
 | Region          | 中国大陆                               |

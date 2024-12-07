@@ -20,7 +20,7 @@ TXT 下载: [[变身]_堕ちた少年勇者～淫魔姫の罠～(完结，6300�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35901 bytes                           |
 | MD5             | 602834325826935264c4ff688ce2df76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

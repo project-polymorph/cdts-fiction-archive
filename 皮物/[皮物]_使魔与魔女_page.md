@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_使魔与魔女.doc]([皮物]_使魔与魔女.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 89088 bytes                           |
 | MD5             | e8955459da39db9fd05e6e2b8162b114                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 月咲华灯                               |
 | Region          | 未知                               |

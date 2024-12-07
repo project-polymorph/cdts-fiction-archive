@@ -20,7 +20,7 @@ TXT 下载: [[变装]_黑寡妇B.doc]([变装]_黑寡妇B.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 320e99872aef050336fc19a5bb33c773                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_黑網購物II之海灘異聞_(融合類.docx]([其他]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33366 bytes                           |
 | MD5             | 781d1898120dcb3529d1f2dcf3bed347                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

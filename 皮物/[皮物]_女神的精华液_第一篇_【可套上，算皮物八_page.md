@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女神的精华液_第一篇_【可套上，算皮物八.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22865 bytes                           |
 | MD5             | 0fdf0274c4017cacfef61175d6374115                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 女大学生                               |
 | Region          | 未知                               |

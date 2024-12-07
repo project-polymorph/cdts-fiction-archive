@@ -20,7 +20,7 @@ TXT 下载: [[变性]_My_Husband's_Fertile_Womb.doc]([变性]_My_Husband's_Ferti
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 122f39947a358983b4552704ffedfee4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Razmagurk                               |
 | Region          | 未知                               |

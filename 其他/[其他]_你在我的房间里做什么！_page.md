@@ -20,7 +20,7 @@ TXT 下载: [[其他]_你在我的房间里做什么！.docx]([其他]_你在我
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17968 bytes                           |
 | MD5             | b9a69f078b14aaf9200e6e5c1437c109                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

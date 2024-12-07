@@ -20,7 +20,7 @@ TXT 下载: [[附身]_能夺取她人身体的手表3、4（旧文搬运）.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46330 bytes                           |
 | MD5             | af78504f8e7ead9e41e009b4d5c3e2fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

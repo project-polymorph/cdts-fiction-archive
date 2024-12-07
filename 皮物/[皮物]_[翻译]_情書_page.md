@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[翻译]_情書.docx]([皮物]_[翻译]_情書.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20184 bytes                           |
 | MD5             | 2200083846d8bd8883d0eed37880ea92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 寒蟬                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第九章_一座大山.doc]([改造]_《
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 503307445bd449102405943db6d2f80e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

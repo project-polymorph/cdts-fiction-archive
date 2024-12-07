@@ -20,7 +20,7 @@ TXT 下载: [[变装]_想被侵犯的勇者４．盜賊頭目是，惡魔姦_－
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25826 bytes                           |
 | MD5             | e0bee1478ab4261611ef32247176db45                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[变装]（申码文搬运）源源曲_更新番外一篇.doc]([变
 | Format          | Microsoft Word Document                               |
 | Size            | 177664 bytes                           |
 | MD5             | 4749c9f0673a1e72149d9adc421c4b63                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

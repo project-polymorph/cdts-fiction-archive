@@ -20,7 +20,7 @@ TXT 下载: [[交换]_千年妖狐.doc]([交换]_千年妖狐.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | aa76e295ae850228b2737a3e0e2fee99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | モモセン                               |
 | Region          | 未知                               |

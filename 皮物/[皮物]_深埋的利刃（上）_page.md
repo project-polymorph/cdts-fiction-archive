@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_深埋的利刃（上）.docx]([皮物]_深埋的利刃（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33709 bytes                           |
 | MD5             | 9cd9368bcce4f3e0bbe0b2ded8d8e9b4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

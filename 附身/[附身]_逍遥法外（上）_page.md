@@ -20,7 +20,7 @@ TXT 下载: [[附身]_逍遥法外（上）.docx]([附身]_逍遥法外（上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30575 bytes                           |
 | MD5             | 398c29236e44802a6b378d8feae024a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

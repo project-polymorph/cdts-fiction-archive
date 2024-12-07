@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文重发】新闻社的故事.doc]([皮物]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 85504 bytes                           |
 | MD5             | 12359e51be69607609c1f886b2931771                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

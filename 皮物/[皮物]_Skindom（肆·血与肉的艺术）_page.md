@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Skindom（肆·血与肉的艺术）.docx]([皮物]_Skindo
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24918 bytes                           |
 | MD5             | 6d203bbde1da8e8ab58643d7d9c4da50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

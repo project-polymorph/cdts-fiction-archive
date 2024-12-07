@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_凝脂——慕徽因_（原帖連載）.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27697 bytes                           |
 | MD5             | 3bd61a900ebd14d24d447227b340fae8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

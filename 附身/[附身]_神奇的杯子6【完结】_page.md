@@ -20,7 +20,7 @@ TXT 下载: [[附身]_神奇的杯子6【完结】.docx]([附身]_神奇的杯�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17044 bytes                           |
 | MD5             | bd1325f04ebbbe81bcbcb93822a1f8a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [荆棘鸟之歌-顾安安篇（上）.doc](荆棘鸟之歌-顾安�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 5e425ee0c75c6b1100bdedff3db2090b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

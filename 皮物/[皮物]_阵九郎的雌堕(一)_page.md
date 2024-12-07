@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_阵九郎的雌堕(一).doc]([皮物]_阵九郎的雌堕(�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 9c2f415482cfa956c2e1ba6adbd5bee9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

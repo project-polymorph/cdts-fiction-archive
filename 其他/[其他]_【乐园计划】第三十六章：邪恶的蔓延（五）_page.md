@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第三十六章：邪恶的蔓延（五�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21201 bytes                           |
 | MD5             | 2e23604f03b28a3f08b92ec65cbf3ad5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

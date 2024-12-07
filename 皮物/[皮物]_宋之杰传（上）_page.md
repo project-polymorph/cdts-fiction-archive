@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_宋之杰传（上）.docx]([皮物]_宋之杰传（上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15529 bytes                           |
 | MD5             | e53311a6caa47755eecfa48abb0a1955                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

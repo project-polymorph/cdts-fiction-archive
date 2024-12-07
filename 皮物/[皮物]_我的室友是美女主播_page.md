@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的室友是美女主播.doc]([皮物]_我的室友是�
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | 6f4221fc09ab23159b8a917ebf81d5dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

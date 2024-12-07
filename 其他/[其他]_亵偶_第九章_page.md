@@ -20,7 +20,7 @@ TXT 下载: [[其他]_亵偶_第九章.docx]([其他]_亵偶_第九章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20144 bytes                           |
 | MD5             | 97080f4fd984ddb534474e75f3645155                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【xly翻译】万圣节之变（四）.docx]([变装]_【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 66202 bytes                           |
 | MD5             | daf6cccf913959ed0aba9c53d40b2ee6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

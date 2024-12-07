@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_杀手四人组卷一（叁）.docx]([皮物]_杀手四人
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25145 bytes                           |
 | MD5             | 278c6c36c5a1a7cd8f70fe4a2c43524e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_申请文稍作修改了重发，在日本的一天.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27451 bytes                           |
 | MD5             | 62022218648efee7d4c8f42a4b3ac739                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_大烟民（1）.doc]([附身]_大烟民（1）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 5cc0cbf9eca9d9b104fa212728d76a4d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

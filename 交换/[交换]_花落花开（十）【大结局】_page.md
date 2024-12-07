@@ -20,7 +20,7 @@ TXT 下载: [[交换]_花落花开（十）【大结局】.doc]([交换]_花落�
 | Format          | Microsoft Word Document                               |
 | Size            | 77312 bytes                           |
 | MD5             | dd74514e002882a7cd1a0781612a8e38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

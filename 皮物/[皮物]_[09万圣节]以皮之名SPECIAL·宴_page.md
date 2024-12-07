@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[09万圣节]以皮之名SPECIAL·宴.doc]([皮物]_[09万
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 791703e6d64ec8718b97479105bc6b99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

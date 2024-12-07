@@ -20,7 +20,7 @@ TXT 下载: [[改造]_人造美女第八第九节.doc]([改造]_人造美女第�
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | a3e83e53ae5733e076c4fbc18e4cb885                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

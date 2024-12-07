@@ -20,7 +20,7 @@ TXT 下载: [[变装]_小红的故事续之华姐的弟弟.docx]([变装]_小红
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31919 bytes                           |
 | MD5             | 2bd4cae4979563cff64b792c617ce66f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

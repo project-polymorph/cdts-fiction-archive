@@ -20,7 +20,7 @@ TXT 下载: [[其他]_立方体（申码文，已完结）.doc]([其他]_立方�
 | Format          | Microsoft Word Document                               |
 | Size            | 210432 bytes                           |
 | MD5             | e66193831e54e809a80d912b710a1556                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

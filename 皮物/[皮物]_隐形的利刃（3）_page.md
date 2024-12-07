@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_隐形的利刃（3）.docx]([皮物]_隐形的利刃（3�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48553 bytes                           |
 | MD5             | ba68023ceddb52650fc34ca457ba3c1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

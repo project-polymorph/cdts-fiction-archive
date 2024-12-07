@@ -20,7 +20,7 @@ TXT 下载: [[变装]_青年女性化洗脳.doc]([变装]_青年女性化洗脳.
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | f03e41a125c3c1d9b0da8d9c8785c420                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

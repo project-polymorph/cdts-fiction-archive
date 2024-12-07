@@ -20,7 +20,7 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第四回、歸來的英雄.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26961 bytes                           |
 | MD5             | 8640e09ceb1df4f3d8f1bef7659e7b9d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

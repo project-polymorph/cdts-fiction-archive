@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_玩弄她的闺蜜（中）.docx]([皮物]_玩弄她的闺
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21893 bytes                           |
 | MD5             | 5d007f4df1cac9a0eae12806b5a6835e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_短篇【恶魔之镜】下.doc]([交换]_短篇【恶魔�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | a94fd75bc7a3a4fe65d29b374fb8537b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

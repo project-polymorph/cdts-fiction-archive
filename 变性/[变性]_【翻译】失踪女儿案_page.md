@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】失踪女儿案.doc]([变性]_【翻译】失�
 | Format          | Microsoft Word Document                               |
 | Size            | 125952 bytes                           |
 | MD5             | ca040cbf0d97e40b6642a36e6bcb426b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | skybound                               |
 | Region          | 未知                               |

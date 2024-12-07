@@ -20,7 +20,7 @@ TXT 下载: [[变身]_哈利·波特与翡翠女巫的诅咒（四）4月4日更
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | f82d9be0d219149ada64769ab6cbabe4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

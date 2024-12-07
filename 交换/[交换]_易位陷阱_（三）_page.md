@@ -20,7 +20,7 @@ TXT 下载: [[交换]_易位陷阱_（三）.doc]([交换]_易位陷阱_（三�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 8c001bb9ec589e984207c0e43a96e4d5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蜀山炼器师_第一章_至_第二章.docx]([附身]_蜀
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29156 bytes                           |
 | MD5             | f122b29280e7c908c07b65bb8897cf06                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

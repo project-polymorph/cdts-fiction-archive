@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【短篇】能力者传说外传1女儿的变化.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 6aab80a70c5cc5db35f9718805f01231                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我和克里斯的故事（五）.doc]([附身]_我和克�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 806aaa859cd8408dc5846d18129cb928                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

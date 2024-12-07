@@ -20,7 +20,7 @@ TXT 下载: [[交换]_置换者.doc]([交换]_置换者.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | 8764a22335a298316211bf3acf326568                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

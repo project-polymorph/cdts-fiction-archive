@@ -20,7 +20,7 @@ TXT 下载: [[附身]_师生关系.docx]([附身]_师生关系.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26555 bytes                           |
 | MD5             | a6b5cc5c3576dbeea7aef9eb7a5cb382                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Mister A                               |
 | Region          | 未知                               |

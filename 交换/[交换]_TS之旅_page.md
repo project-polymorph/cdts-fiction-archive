@@ -20,7 +20,7 @@ TXT 下载: [[交换]_TS之旅.docx]([交换]_TS之旅.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36507 bytes                           |
 | MD5             | 178c719e70c65e141aa4d76f266c1ac5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_樓層經理1-9.docx]([变身]_樓層經理1-9.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17480 bytes                           |
 | MD5             | fa7c4d9a331d37362eea7b21a654f1ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ふたみけい                               |
 | Region          | 未知                               |

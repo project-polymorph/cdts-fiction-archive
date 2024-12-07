@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(二）人們的需求？.doc]([改造]_[�
 | Format          | Microsoft Word Document                               |
 | Size            | 59904 bytes                           |
 | MD5             | afa43ed06a87cecb26c085f19fe8cbdf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | little.she0310                               |
 | Region          | 未知                               |

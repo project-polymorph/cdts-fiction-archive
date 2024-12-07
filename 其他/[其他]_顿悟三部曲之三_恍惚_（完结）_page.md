@@ -20,7 +20,7 @@ TXT 下载: [[其他]_顿悟三部曲之三_恍惚_（完结）.docx]([其他]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37461 bytes                           |
 | MD5             | b15b581763bec1b481fa05a5906cf4e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

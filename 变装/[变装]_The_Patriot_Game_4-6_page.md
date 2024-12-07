@@ -20,7 +20,7 @@ TXT 下载: [[变装]_The_Patriot_Game_4-6.doc]([变装]_The_Patriot_Game_4-6.do
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | b8f116fc161a97e4b9ac9d8691467029                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

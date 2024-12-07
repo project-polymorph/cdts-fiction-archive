@@ -20,7 +20,7 @@ TXT 下载: [[变身]_衣服（七）.doc]([变身]_衣服（七）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 75264 bytes                           |
 | MD5             | 0d06607d8db53db574e6f1aaf709c71f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

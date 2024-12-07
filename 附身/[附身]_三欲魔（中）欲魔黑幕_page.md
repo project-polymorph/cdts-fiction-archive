@@ -20,7 +20,7 @@ TXT 下载: [[附身]_三欲魔（中）欲魔黑幕.docx]([附身]_三欲魔（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22899 bytes                           |
 | MD5             | 5b24421d0ebd15adeaa19d1c585b2033                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_新人偶像.doc]([催眠]_新人偶像.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 05e2c9f988818588bc4209cfc0c4320b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

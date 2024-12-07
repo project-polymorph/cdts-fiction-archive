@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·急兔反噬（第十一篇）.doc]([皮物]
 | Format          | Microsoft Word Document                               |
 | Size            | 91136 bytes                           |
 | MD5             | 184aef64575f6f841d5f12e09b6abb57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

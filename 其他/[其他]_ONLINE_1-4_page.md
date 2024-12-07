@@ -20,7 +20,7 @@ TXT 下载: [[其他]_ONLINE_1-4.doc]([其他]_ONLINE_1-4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 89600 bytes                           |
 | MD5             | ef1a745f24a8979740e72aee59532c64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

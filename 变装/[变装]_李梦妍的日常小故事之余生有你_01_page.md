@@ -20,7 +20,7 @@ TXT 下载: [[变装]_李梦妍的日常小故事之余生有你_01.doc]([变装
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 1219e826e421350789cbf106203aaf47                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 李梦妍                               |
 | Region          | 中国大陆                               |

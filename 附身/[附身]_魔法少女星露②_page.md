@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔法少女星露②.docx]([附身]_魔法少女星露②
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《魔法少女星露②》中讲述的是一名魔法少女蓝星露在学校中面临的复杂情境。故事环绕着魔法少女的日常生活和秘密任务展开，尤其聚焦于星露和她的同伴在学校中处理任务的经过。文件开头描述了魔法少女的本部位于普通的学校，蓝星露作为其中一员，正在进行一项任务。随后，故事描绘了与会长林雨的紧张互动。在这一过程中，通过对角色身形和心理活动的细腻描写，展示了角色的困惑与愤怒。文中提到角色的外貌特征以及穿着挑战，以及她与其他角色间的复杂关系，暗示着有关性别认同及自我探索的主题。此外，文本还包含有可能的性暗示和角色之间的电流般的吸引力，反映出其典型的伪娘/男娘小说特征。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔法少女星露②.docx]([附身]_魔法少女星露②
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45055 bytes                           |
 | MD5             | c20aff8b5d70dcd404fec46483eb263f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 性别认同, 伪娘, 校园, 幻想, 自我探索, 强烈的角色心理, 魔法任务, 青少年关系, 校服                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

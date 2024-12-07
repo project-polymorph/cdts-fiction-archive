@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kig翻译文_更衣室的故事.doc]([皮物]_kig翻译文
 | Format          | Microsoft Word Document                               |
 | Size            | 88576 bytes                           |
 | MD5             | 8c492710dbf2c50e97a80216ac3e469f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

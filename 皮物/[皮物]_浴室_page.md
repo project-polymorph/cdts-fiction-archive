@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_浴室.docx]([皮物]_浴室.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21670 bytes                           |
 | MD5             | f08ff2f3cff9717301da27762154988e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

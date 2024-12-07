@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_我的催眠怕是假的吧.doc]([催眠]_我的催眠怕�
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | e45e3cc608a3a87bb12eb7e3657e4850                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | GJ呀                               |
 | Region          | 中国大陆                               |

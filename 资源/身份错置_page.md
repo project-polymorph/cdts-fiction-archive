@@ -20,7 +20,7 @@ TXT 下载: [身份错置.doc](身份错置.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | baf16b645e9f93324daceb41cf854200                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

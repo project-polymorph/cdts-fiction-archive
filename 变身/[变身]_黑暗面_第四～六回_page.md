@@ -20,7 +20,7 @@ TXT 下载: [[变身]_黑暗面_第四～六回.docx]([变身]_黑暗面_第四�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58039 bytes                           |
 | MD5             | 8031f8dd6b19034b6ce0e7489c84c4de                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

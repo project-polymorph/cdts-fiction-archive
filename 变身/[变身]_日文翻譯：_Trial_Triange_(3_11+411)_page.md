@@ -20,7 +20,7 @@ TXT 下载: [[变身]_日文翻譯：_Trial_Triange_(3_11+411).doc]([变身]_日
 | Format          | Microsoft Word Document                               |
 | Size            | 100864 bytes                           |
 | MD5             | e486c6ce5919ef9266334d9223fbe397                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

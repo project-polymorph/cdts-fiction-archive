@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_吾妻青芸.doc]([皮物]_吾妻青芸.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | e2b5bc2cb0f35f599bc615b2a5a1994b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

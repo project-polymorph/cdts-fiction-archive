@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Skindom（贰·邪恶的绮念）.docx]([皮物]_Skindom�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37013 bytes                           |
 | MD5             | 817a7fb770e57f70f3d03ea095f79b3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

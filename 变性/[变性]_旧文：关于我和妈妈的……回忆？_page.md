@@ -20,7 +20,7 @@ TXT 下载: [[变性]_旧文：关于我和妈妈的……回忆？.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34063 bytes                           |
 | MD5             | a3391d7ee8a98f571523813aa4f65736                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | paladina                               |
 | Region          | 未知                               |

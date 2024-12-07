@@ -20,7 +20,7 @@ TXT 下载: [[其他]_第二义工社的侦探（三）.docx]([其他]_第二义
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23270 bytes                           |
 | MD5             | 17df9aa6b2690918eb9298d4b488c29c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

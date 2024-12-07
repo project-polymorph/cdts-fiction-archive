@@ -20,7 +20,7 @@ TXT 下载: [[变装]_彼岸_第九回.docx]([变装]_彼岸_第九回.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35460 bytes                           |
 | MD5             | fb395f2f0fb1e6fcaa4d32993c1d37e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 韦慧芸                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮物】杰西卡的游戏（上）.doc]([皮物]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 3c43530c0bf11a38a9d3af57b33d6c8d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

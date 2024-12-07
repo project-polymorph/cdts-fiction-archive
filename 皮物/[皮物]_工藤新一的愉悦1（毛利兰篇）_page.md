@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_工藤新一的愉悦1（毛利兰篇）.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19732 bytes                           |
 | MD5             | 13aedbae8f606c5084384506fc670af8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 未知                               |

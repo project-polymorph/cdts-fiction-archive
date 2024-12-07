@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】进行TS手术时的故事.doc]([变性]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 86016 bytes                           |
 | MD5             | f77e7a81796b215bcc7c6599c57f94f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 魔之天涯                               |
 | Region          | 未知                               |

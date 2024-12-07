@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【狗尾续貂】穿上黄小婉的皮（叁）.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 20e00a6e70688b1da9241c2ca48cb4dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

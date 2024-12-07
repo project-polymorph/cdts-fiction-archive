@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_異胎雙生_(下).doc]([皮物]_異胎雙生_(下).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 05282c1f40e3d805fc3d673c2228a8f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

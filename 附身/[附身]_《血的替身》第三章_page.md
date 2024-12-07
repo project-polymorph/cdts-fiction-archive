@@ -22,7 +22,7 @@ TXT 下载: [[附身]_《血的替身》第三章.doc]([附身]_《血的替身�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 3eef509dae965e97091a53c781224888                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

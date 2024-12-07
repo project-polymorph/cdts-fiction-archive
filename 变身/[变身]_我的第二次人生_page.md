@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我的第二次人生.docx]([变身]_我的第二次人生
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34926 bytes                           |
 | MD5             | 303a652c0507b62a9ed5f1c7042ac709                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

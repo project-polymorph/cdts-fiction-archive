@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天地传说之圣眼1——9（未完）.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43036 bytes                           |
 | MD5             | fdb49306290d3c4976c33d0050df2f55                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

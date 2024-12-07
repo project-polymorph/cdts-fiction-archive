@@ -20,7 +20,7 @@ TXT 下载: [[其他]_亵偶_第六-第七章.docx]([其他]_亵偶_第六-第�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23206 bytes                           |
 | MD5             | 1aa23a9d34ffb27dfe611ceee2044c13                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

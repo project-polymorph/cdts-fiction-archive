@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_第四章_怪人的原則_(下).docx]([皮物]_第四章_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26631 bytes                           |
 | MD5             | 361908d9592fd62f476e541915e12520                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

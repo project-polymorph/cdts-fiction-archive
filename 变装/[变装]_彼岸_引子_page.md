@@ -20,7 +20,7 @@ TXT 下载: [[变装]_彼岸_引子.docx]([变装]_彼岸_引子.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21082 bytes                           |
 | MD5             | 9b84da6a81d34f0ac627fd86951db921                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

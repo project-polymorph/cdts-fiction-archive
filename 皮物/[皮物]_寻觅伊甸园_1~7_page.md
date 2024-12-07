@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寻觅伊甸园_1~7.docx]([皮物]_寻觅伊甸园_1~7.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52934 bytes                           |
 | MD5             | 93b2f50c697a1cd1f8ca98ec3dd616d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

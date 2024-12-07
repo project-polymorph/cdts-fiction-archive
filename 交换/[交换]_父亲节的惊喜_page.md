@@ -20,7 +20,7 @@ TXT 下载: [[交换]_父亲节的惊喜.doc]([交换]_父亲节的惊喜.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 7504e35558010d99a80d8c52d362d0f7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Princess Pantyboy                               |
 | Region          | 未知                               |

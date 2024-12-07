@@ -20,7 +20,7 @@ TXT 下载: [[变性]_阳男媚女录_第一章_复仇.doc]([变性]_阳男媚�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | ee17fef9eedea645f71dbb56ef4744a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

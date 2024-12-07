@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_特工回忆录4（加长版）.docx]([皮物]_特工回�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41344 bytes                           |
 | MD5             | c0e3781483cc76785f8f3491c9489e54                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

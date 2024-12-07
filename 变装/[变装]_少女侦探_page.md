@@ -20,7 +20,7 @@ TXT 下载: [[变装]_少女侦探.docx]([变装]_少女侦探.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25617 bytes                           |
 | MD5             | 185a2dc1543fd29dac0c506262b16e3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 风铃                               |
 | Region          | 未知                               |

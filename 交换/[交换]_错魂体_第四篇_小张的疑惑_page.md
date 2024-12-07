@@ -22,7 +22,7 @@ TXT 下载: [[交换]_错魂体_第四篇_小张的疑惑.docx]([交换]_错魂�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26313 bytes                           |
 | MD5             | 8ab95516db6cc74a6f2ccb394babec10                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

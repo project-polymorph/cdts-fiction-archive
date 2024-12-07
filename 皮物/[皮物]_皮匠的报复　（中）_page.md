@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮匠的报复　（中）.docx]([皮物]_皮匠的报复
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31474 bytes                           |
 | MD5             | a2ea79dd4de7a77a64699d6ea5a0035b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

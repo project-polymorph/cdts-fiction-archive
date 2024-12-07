@@ -24,7 +24,7 @@ TXT 下载: [[附身]_[虫师同人]化之身.doc]([附身]_[虫师同人]化之
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 9712dff62c12a5d148a267a11c4ab55f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | YSFC                               |
 | Region          | 未知                               |

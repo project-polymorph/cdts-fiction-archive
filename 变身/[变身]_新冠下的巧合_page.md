@@ -20,7 +20,7 @@ TXT 下载: [[变身]_新冠下的巧合.doc]([变身]_新冠下的巧合.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | cd451179cda313459c403d704e8d0b7d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

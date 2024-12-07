@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_副经理.doc]([皮物]_副经理.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 866c72cff3cd42e2fe890c3119001d94                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

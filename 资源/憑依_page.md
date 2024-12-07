@@ -20,7 +20,7 @@ TXT 下载: [憑依.doc](憑依.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 95232 bytes                           |
 | MD5             | ceea8b30c483390c36d6d5e7312039a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 七夜 诗希                               |
 | Region          | 未知                               |

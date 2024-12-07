@@ -22,7 +22,7 @@ TXT 下载: [[变身]_父与子.doc]([变身]_父与子.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 06722cfb111443a04bf5afe7171e09fa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

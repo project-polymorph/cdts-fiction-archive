@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Substituting_for_My_Wife_(2_2).docx]([变装]_Substituting
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 76220 bytes                           |
 | MD5             | d50f6729c10443aa12f30a0a7e53037d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_越陷越深.doc]([交换]_越陷越深.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 13b76ec07231f18f448fcdc742f74169                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

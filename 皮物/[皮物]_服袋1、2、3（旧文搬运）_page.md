@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_服袋1、2、3（旧文搬运）.docx]([皮物]_服袋1�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23945 bytes                           |
 | MD5             | 11659eddc13342901161f03538534674                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 吉玉                               |
 | Region          | 未知                               |

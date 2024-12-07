@@ -20,7 +20,7 @@ TXT 下载: [[附身]_神之手_1.docx]([附身]_神之手_1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18044 bytes                           |
 | MD5             | 59a0806d9158e77a5c2abfa80f7aaa9d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -22,7 +22,7 @@ TXT 下载: [[变身]_日文翻譯_Trial_Triangle_（1_11_+_2_11).docx]([变身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31547 bytes                           |
 | MD5             | 24816534f8ae467cb2805b18d6f3b482                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 鵪鶉（うずら）                               |
 | Region          | 未知                               |

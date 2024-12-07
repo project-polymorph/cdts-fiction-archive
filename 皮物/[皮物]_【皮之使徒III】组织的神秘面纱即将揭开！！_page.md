@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮之使徒III】组织的神秘面纱即将揭开！�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | d1531855ab879ed8b09e8bc3676fe969                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

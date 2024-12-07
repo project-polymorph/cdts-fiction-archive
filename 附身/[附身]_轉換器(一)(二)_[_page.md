@@ -20,7 +20,7 @@ TXT 下载: [[附身]_轉換器(一)(二)_[.docx]([附身]_轉換器(一)(二)_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17435 bytes                           |
 | MD5             | 885b3a263c9e6d5d0ce3dc74160326bb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

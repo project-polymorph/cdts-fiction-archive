@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《凡人梦》.doc]([变装]_《凡人梦》.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 837120 bytes                           |
 | MD5             | 67b529ec6bca6518743dc7ebb5cf3c8b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

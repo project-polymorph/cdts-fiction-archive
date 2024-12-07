@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第二卷第九回.doc]([变性]_《蒹葭�
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 1e9a2fae4276083ebc812b04b5f19b37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_DT游戏王同人1.doc]([变身]_DT游戏王同人1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 4b63292c731977dd186733469762e4c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

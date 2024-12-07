@@ -20,7 +20,7 @@ TXT 下载: [[变身]_男子高中生變成了魔法少女（1-2）.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 1427bf0b3eda2114e9f4b5d02fedf690                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 萌新小白                               |
 | Region          | 未知                               |

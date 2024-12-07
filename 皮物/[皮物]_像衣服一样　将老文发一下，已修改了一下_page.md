@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_像衣服一样　将老文发一下，已修改了一下.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20964 bytes                           |
 | MD5             | dc0edfa961f125ab810f206bfbd553e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

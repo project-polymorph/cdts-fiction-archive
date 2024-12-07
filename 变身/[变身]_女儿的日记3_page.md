@@ -20,7 +20,7 @@ TXT 下载: [[变身]_女儿的日记3.doc]([变身]_女儿的日记3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | bbf1539b67f1c6ee741251ebbd457d08                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

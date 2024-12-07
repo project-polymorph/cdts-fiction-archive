@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《碟中谍征文》核战风云（1）.doc]([附身]_《
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 5e1f8d7f87a8c1e59e8f7795299a63bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

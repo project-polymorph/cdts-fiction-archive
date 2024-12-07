@@ -20,7 +20,7 @@ TXT 下载: [[变装]特工的回忆录3.doc]([变装]特工的回忆录3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 0bad998b20e1094c10a8cded1c4c0256                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

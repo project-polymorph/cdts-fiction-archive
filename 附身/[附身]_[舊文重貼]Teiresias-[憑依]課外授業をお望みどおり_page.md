@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[舊文重貼]Teiresias-[憑依]課外授業をお望み�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36634 bytes                           |
 | MD5             | c95d0360c65c198d155afc88d3b374bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

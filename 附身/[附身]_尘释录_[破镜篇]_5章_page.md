@@ -20,7 +20,7 @@ TXT 下载: [[附身]_尘释录_[破镜篇]_5章.docx]([附身]_尘释录_[破�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19713 bytes                           |
 | MD5             | 31f06e143adf8e85814235dde81b3bc4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

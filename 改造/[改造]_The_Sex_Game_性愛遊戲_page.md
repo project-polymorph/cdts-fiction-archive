@@ -20,7 +20,7 @@ TXT 下载: [[改造]_The_Sex_Game_性愛遊戲.docx]([改造]_The_Sex_Game_性�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48974 bytes                           |
 | MD5             | 2e5dd296856f8e4123d921072dc5e12d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Randomking                               |
 | Region          | 未知                               |

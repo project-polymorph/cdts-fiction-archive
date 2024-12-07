@@ -22,7 +22,7 @@ TXT 下载: [[变身]_移魂手机（老文章）全.docx]([变身]_移魂手机
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 209731 bytes                           |
 | MD5             | efc5c1cafc2dc52a82ccfff3672094d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ECUP7                               |
 | Region          | 未知                               |

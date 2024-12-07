@@ -20,7 +20,7 @@ TXT 下载: [[改造]_她的俘虏4.docx]([改造]_她的俘虏4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23685 bytes                           |
 | MD5             | ac7847b2b67f4710146d113020de264d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

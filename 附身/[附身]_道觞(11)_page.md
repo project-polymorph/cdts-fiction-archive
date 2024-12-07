@@ -20,7 +20,7 @@ TXT 下载: [[附身]_道觞(11).docx]([附身]_道觞(11).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42296 bytes                           |
 | MD5             | 077023ad2a9cdc6a68c5a2c4d922746b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

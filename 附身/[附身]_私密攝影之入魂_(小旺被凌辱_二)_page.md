@@ -20,7 +20,7 @@ TXT 下载: [[附身]_私密攝影之入魂_(小旺被凌辱_二).doc]([附身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 2fb6fcb2ca37114d93c4821434d88bde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_舞会-第一章.docx]([皮物]_舞会-第一章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35699 bytes                           |
 | MD5             | 4fafa3f81b479b019f42a9d8f753a875                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Red Janissary                               |
 | Region          | 美国                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]妻子的祝福.doc]([变装]妻子的祝福.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | 79d7d9d8ae67f665d29498004e4356ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | komrad1156                               |
 | Region          | 未知                               |

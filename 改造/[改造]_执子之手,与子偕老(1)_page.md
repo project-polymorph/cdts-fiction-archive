@@ -20,7 +20,7 @@ TXT 下载: [[改造]_执子之手,与子偕老(1).doc]([改造]_执子之手,�
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | ab1cf142a46793a02de7b07ee3568016                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

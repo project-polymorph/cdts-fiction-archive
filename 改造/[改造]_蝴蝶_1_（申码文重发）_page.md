@@ -20,7 +20,7 @@ TXT 下载: [[改造]_蝴蝶_1_（申码文重发）.docx]([改造]_蝴蝶_1_（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 64550 bytes                           |
 | MD5             | 91192ae643efb857a1908c8b701a297a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

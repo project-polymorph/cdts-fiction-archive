@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【乐园计划】第三十一章：新生月璃的归来.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23002 bytes                           |
 | MD5             | 9666c215ed4feefdb8c74ff0fea22516                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

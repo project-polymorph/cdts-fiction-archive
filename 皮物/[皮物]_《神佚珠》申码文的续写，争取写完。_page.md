@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《神佚珠》申码文的续写，争取写完。.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 59090 bytes                           |
 | MD5             | df9a97e19e985b8a984c3f3d711a2dfa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

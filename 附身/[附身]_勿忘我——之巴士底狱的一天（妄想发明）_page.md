@@ -20,7 +20,7 @@ TXT 下载: [[附身]_勿忘我——之巴士底狱的一天（妄想发明）.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23589 bytes                           |
 | MD5             | c2aacb668601f45280a124dc265809e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 太极                               |
 | Region          | 未知                               |

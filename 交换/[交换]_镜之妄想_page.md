@@ -20,7 +20,7 @@ TXT 下载: [[交换]_镜之妄想.docx]([交换]_镜之妄想.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22609 bytes                           |
 | MD5             | a0ca9df3b4f796fc2b443ebef1920550                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

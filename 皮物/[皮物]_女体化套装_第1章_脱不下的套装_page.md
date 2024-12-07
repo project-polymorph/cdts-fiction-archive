@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女体化套装_第1章_脱不下的套装.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52354 bytes                           |
 | MD5             | a55a5b38074d39be7c10e04cca69d8a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | teru                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_花落花开（三）.doc]([交换]_花落花开（三）.
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 5b3805ad367e726614673418822f2a79                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

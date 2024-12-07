@@ -20,7 +20,7 @@ TXT 下载: [[变身]_性爱反转1.docx]([变身]_性爱反转1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37511 bytes                           |
 | MD5             | 6cd01a1fc432bae351a6c49b94327a8a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【翻译】非正式摄影会.doc]([皮物]_【翻译】�
 | Format          | Microsoft Word Document                               |
 | Size            | 76800 bytes                           |
 | MD5             | 1d58fa9ff406a3278eae9a0d2302b87c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

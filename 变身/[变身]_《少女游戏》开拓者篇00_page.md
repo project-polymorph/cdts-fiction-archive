@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《少女游戏》开拓者篇00.docx]([变身]_《少女�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22095 bytes                           |
 | MD5             | aa649a0fafbeaf557aec032cf308d31b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

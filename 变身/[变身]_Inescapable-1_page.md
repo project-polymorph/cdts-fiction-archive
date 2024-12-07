@@ -20,7 +20,7 @@ TXT 下载: [[变身]_Inescapable-1.doc]([变身]_Inescapable-1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 128512 bytes                           |
 | MD5             | 38fd6b9c0c2423e490e6041b11c24988                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

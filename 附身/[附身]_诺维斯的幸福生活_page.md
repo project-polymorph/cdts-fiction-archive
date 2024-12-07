@@ -20,7 +20,7 @@ TXT 下载: [[附身]_诺维斯的幸福生活.doc]([附身]_诺维斯的幸福�
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | b916d70c2cc076aea6ee913d8550e6b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

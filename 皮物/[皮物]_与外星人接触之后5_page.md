@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_与外星人接触之后5.docx]([皮物]_与外星人接�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25816 bytes                           |
 | MD5             | bfbd4d177c1945deee12cbeac78d0921                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

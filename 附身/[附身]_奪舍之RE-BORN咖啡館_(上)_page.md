@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奪舍之RE-BORN咖啡館_(上).doc]([附身]_奪舍之RE-
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 8c45f05e177e99dbcd2e5c133aaea6c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

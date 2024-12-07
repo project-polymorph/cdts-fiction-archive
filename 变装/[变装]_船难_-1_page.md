@@ -20,7 +20,7 @@ TXT 下载: [[变装]_船难_-1.docx]([变装]_船难_-1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60378 bytes                           |
 | MD5             | 89453d87116189de0c538cb9b3b9e588                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Penelope Diamond                               |
 | Region          | 未知                               |

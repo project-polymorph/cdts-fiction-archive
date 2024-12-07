@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——第四天_常识改变与
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37107 bytes                           |
 | MD5             | e925113c0f54ff6eb22dc6fd058a002b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

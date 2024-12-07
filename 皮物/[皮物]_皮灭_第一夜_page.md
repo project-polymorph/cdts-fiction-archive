@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮灭_第一夜.docx]([皮物]_皮灭_第一夜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28647 bytes                           |
 | MD5             | a5af99115287293fcc0dbe95562dfb39                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

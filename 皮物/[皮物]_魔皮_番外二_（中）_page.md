@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔皮_番外二_（中）.docx]([皮物]_魔皮_番外二
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25774 bytes                           |
 | MD5             | 553cdb213671ff4692210d7f2c692f1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第九章》.doc]([皮物
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | c05c841e73fc19cd6dd232b69efa5512                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

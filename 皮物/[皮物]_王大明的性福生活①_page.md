@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_王大明的性福生活①.docx]([皮物]_王大明的性
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22759 bytes                           |
 | MD5             | a3d37877f620862cce745cfa970c7840                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

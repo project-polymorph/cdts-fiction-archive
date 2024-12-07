@@ -20,7 +20,7 @@ TXT 下载: [[变装]_父子情深（四）.doc]([变装]_父子情深（四）.
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 35b0d392a8fd58d0b01900e8fe178c88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

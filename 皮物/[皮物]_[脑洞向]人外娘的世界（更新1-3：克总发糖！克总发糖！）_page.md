@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[脑洞向]人外娘的世界（更新1-3：克总发糖�
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 8e4a3d7d853e4509a1e05cdd8d9eb9d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

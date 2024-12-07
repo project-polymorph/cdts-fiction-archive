@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(壹~参).docx]([皮物]_妖淫皮(壹~参).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41432 bytes                           |
 | MD5             | c7ced81b2b6162c9da8fdbb327f62446                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

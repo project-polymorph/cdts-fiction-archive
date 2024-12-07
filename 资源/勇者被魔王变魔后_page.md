@@ -24,7 +24,7 @@ TXT 下载: [勇者被魔王变魔后.doc](勇者被魔王变魔后.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 128512 bytes                           |
 | MD5             | 3748a6b663507ba9c1d27190653beeb3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

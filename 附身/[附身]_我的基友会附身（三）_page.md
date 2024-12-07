@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我的基友会附身（三）.docx]([附身]_我的基友
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28756 bytes                           |
 | MD5             | 07531c45960b598e67c42b27b287bbb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_愿石之狩猎者_第五章_发现_[.docx]([其他]_愿�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18173 bytes                           |
 | MD5             | 183584b2e9a8de28f1e9e780cd8bf3dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

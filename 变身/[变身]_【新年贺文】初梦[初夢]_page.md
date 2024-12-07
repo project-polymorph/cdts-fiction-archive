@@ -22,7 +22,7 @@ TXT 下载: [[变身]_【新年贺文】初梦[初夢].doc]([变身]_【新年�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 4eb8b058e513ccbb99cad95fce391173                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

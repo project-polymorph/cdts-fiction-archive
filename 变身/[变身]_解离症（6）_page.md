@@ -20,7 +20,7 @@ TXT 下载: [[变身]_解离症（6）.docx]([变身]_解离症（6）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22855 bytes                           |
 | MD5             | e3a05a5eb97a3dd92d2da69d86e1158d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_新的人生.docx]([交换]_新的人生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36449 bytes                           |
 | MD5             | 7e150c6fed9321b597198fa5ed02fcd1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

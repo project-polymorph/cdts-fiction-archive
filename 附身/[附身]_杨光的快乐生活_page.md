@@ -20,7 +20,7 @@ TXT 下载: [[附身]_杨光的快乐生活.doc]([附身]_杨光的快乐生活.
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 1fc296927ddf7f2e4b405f3207cbf77c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

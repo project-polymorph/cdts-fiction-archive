@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Spells_R_Us_Game_On!_法術反斗城_遊戲開始！.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 57505 bytes                           |
 | MD5             | e2c9dffdee6e59a1009ee5371a2e42bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Casey CD                               |
 | Region          | 未知                               |

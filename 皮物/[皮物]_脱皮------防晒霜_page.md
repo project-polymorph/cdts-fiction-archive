@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_脱皮------防晒霜.docx]([皮物]_脱皮------防晒霜
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24421 bytes                           |
 | MD5             | b5a2980dc25063b07903b2c298c0fd8d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

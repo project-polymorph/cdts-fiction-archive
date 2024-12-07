@@ -20,7 +20,7 @@ TXT 下载: [[改造]_青空_第二章_(2).docx]([改造]_青空_第二章_(2).d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19000 bytes                           |
 | MD5             | 555d0e9448bec09fb7592f6c068f9598                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

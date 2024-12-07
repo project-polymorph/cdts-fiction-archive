@@ -20,7 +20,7 @@ TXT 下载: [[变身]_绑架5-6.doc]([变身]_绑架5-6.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 3808363e151d3d2a455a82e17ad521d5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《猴哥是个白丝父控小萝莉》附身类trpg跑团
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 3ae5106efdd4a780bc0528e4db26a96f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

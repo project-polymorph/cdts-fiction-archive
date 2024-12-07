@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_壞孩子的處罰(2)_[.docx]([皮物]_壞孩子的處罰(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15383 bytes                           |
 | MD5             | 3a043eb2a0dee795c3225ca6ede1a715                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

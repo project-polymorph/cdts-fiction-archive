@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_二重奏（五）.docx]([皮物]_二重奏（五）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51995 bytes                           |
 | MD5             | 5a69aa2777441bad9249abb3fa4406f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国寓言                               |

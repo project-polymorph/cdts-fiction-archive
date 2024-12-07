@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮针·穿上美女的皮.doc]([皮物]_皮针·穿上美
 | Format          | Microsoft Word Document                               |
 | Size            | 216576 bytes                           |
 | MD5             | bb70f86ffa68a67066ae49b308f5ab63                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

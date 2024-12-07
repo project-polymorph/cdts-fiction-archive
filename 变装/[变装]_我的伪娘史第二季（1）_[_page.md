@@ -22,7 +22,7 @@ TXT 下载: [[变装]_我的伪娘史第二季（1）_[.docx]([变装]_我的伪
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22037 bytes                           |
 | MD5             | 9c10737ffc2503fccada102b5c1b9f02                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

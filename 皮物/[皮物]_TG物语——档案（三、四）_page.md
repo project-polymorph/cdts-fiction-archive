@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_TG物语——档案（三、四）.doc]([皮物]_TG物语
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 8728a613459b3536e16bee4bf12dbe41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

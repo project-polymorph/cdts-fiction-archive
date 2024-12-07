@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的狐妖女友（二）.docx]([皮物]_我的狐妖女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32257 bytes                           |
 | MD5             | e9d71c08823d878e6a12268c05de7e89                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

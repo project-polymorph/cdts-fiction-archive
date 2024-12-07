@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魂·阴阳珠_第二卷_1-3章_欢迎大家追更.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 77824 bytes                           |
 | MD5             | 8acfae47da77935ddd925f2c13b1a397                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

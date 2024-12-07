@@ -20,7 +20,7 @@ TXT 下载: [[附身]_两仪佩_第16章（完结）.docx]([附身]_两仪佩_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27745 bytes                           |
 | MD5             | d3d9293fe4cebe4910b73b0277014b21                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

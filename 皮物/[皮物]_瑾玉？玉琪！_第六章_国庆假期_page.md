@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_瑾玉？玉琪！_第六章_国庆假期.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27643 bytes                           |
 | MD5             | 812bd6c0de13aec27c4a4f7bed89dbd0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

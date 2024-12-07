@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我变成了啦啦队女孩！.doc]([变装]_我变成了�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 5450e58570970184ab7ab4696d351e5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | meganprincess                               |
 | Region          | 未知                               |

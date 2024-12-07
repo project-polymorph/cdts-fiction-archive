@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_还没想好名字的皮物故事（11月9日更到第四�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 56670 bytes                           |
 | MD5             | a92ed3d0081b4ba4e1a4a10f87dbd7d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《犯罪嫌疑人在女子高中被当作TS药实验的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 57112 bytes                           |
 | MD5             | eb196c90becbf4001c518d469774c222                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

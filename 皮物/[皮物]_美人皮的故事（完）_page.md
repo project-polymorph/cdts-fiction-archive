@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_美人皮的故事（完）.docx]([皮物]_美人皮的故
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19793 bytes                           |
 | MD5             | acbe375dcc3f2ea8e7b29f8d264762c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

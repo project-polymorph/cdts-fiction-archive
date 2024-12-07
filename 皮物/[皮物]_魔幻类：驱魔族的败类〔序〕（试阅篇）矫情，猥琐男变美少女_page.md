@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔幻类：驱魔族的败类〔序〕（试阅篇）矫�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21208 bytes                           |
 | MD5             | e1d8a2abaa37e77d96f81cab6e99ac58                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

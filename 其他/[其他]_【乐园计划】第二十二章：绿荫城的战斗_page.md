@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第二十二章：绿荫城的战斗.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20923 bytes                           |
 | MD5             | ea0f0b3980250e2ec0ff5b8ad515f735                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

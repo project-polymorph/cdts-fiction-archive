@@ -20,7 +20,7 @@ TXT 下载: [[变性]_The_Costume(14)新春特别版.docx]([变性]_The_Costume(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21300 bytes                           |
 | MD5             | 74faf0180cee0bfd83f98e5c06c3c9a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

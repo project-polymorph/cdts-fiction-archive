@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_瑾玉？玉琪！_第五章_大姨妈来了.docx]([皮物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23347 bytes                           |
 | MD5             | 154f8386d8a32097d6531bd06362234c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

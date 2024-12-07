@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月神_——_17_【宫闱之秘】.docx]([皮物]_月神_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34374 bytes                           |
 | MD5             | 537133de42af804bbd32e7d011fc95d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

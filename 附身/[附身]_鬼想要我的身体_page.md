@@ -20,7 +20,7 @@ TXT 下载: [[附身]_鬼想要我的身体.docx]([附身]_鬼想要我的身体
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18928 bytes                           |
 | MD5             | 7a3181d2599df6308433beba4fa70fd9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

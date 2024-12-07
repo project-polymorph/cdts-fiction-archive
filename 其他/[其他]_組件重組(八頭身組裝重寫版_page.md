@@ -20,7 +20,7 @@ TXT 下载: [[其他]_組件重組(八頭身組裝重寫版.docx]([其他]_組�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21325 bytes                           |
 | MD5             | b6a1f7d08e0862e4d10689417af593ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

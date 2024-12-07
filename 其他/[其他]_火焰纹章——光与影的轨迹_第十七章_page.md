@@ -20,7 +20,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十七章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28885 bytes                           |
 | MD5             | e6b734ab34c363bf07d63ef10908f22a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

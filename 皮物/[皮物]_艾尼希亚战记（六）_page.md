@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_艾尼希亚战记（六）.doc]([皮物]_艾尼希亚战�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 2781ef44971a9e2773921fbc03ba0270                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

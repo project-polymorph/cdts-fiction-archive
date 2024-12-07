@@ -22,7 +22,7 @@ TXT 下载: [[其他]_劫后余生＆我愿意为她做任何事＆无脑的金�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | d164064876e11cf10606731fd7b8499b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Artboye                               |
 | Region          | 未知                               |

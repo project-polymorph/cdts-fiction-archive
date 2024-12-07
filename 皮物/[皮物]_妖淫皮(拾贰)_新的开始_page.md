@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(拾贰)_新的开始.docx]([皮物]_妖淫皮(�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26967 bytes                           |
 | MD5             | b134b42a1ae9eb25b8413d05ad12ff7a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_通过吧_第一章.docx]([皮物]_通过吧_第一章.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30915 bytes                           |
 | MD5             | 40d713bdfe762946250b06080b84432f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

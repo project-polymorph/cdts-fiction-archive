@@ -20,7 +20,7 @@ TXT 下载: [[交换]_整形時代_第二章_詐欺師_(更新至3_4).docx]([交
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24269 bytes                           |
 | MD5             | 0f1291f2e620e821cc798421c6f0f163                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

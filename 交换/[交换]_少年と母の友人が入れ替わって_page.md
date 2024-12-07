@@ -20,7 +20,7 @@ TXT 下载: [[交换]_少年と母の友人が入れ替わって.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17563 bytes                           |
 | MD5             | 86586c30fd1407f25b59608b2459d907                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

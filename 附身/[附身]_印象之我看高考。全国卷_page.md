@@ -20,7 +20,7 @@ TXT 下载: [[附身]_印象之我看高考。全国卷.doc]([附身]_印象之�
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | 9b106cb806b6ee37644e49851b038da5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

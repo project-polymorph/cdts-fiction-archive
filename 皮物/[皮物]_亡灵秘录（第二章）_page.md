@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_亡灵秘录（第二章）.docx]([皮物]_亡灵秘录（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24082 bytes                           |
 | MD5             | 82e53c04aaef2d4cc17a873d4765e560                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

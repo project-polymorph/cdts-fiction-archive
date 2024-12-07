@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_ζ1ε01_-_An_evening_with_Anna.docx]([皮物]_ζ1ε01_-_An
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16930 bytes                           |
 | MD5             | ebee6cd12add51e7a5e54b01049aefb8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Hazel M                               |
 | Region          | 未知                               |

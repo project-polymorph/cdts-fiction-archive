@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译_变装】竞赛游戏.doc]([变装]_【翻译_�
 | Format          | Microsoft Word Document                               |
 | Size            | 118784 bytes                           |
 | MD5             | 12c7e64173f4caf82d14a860d2328e48                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Belladonna8 / 露娜·埃葵斯                               |
 | Region          | 未知                               |

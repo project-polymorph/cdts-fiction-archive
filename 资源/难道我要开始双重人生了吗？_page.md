@@ -20,7 +20,7 @@ TXT 下载: [难道我要开始双重人生了吗？.docx](难道我要开始双
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28601 bytes                           |
 | MD5             | e36f707ac39164ad326e3e02c429f78b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_双眼惹的祸：第九章.doc]([交换]_双眼惹的祸�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 7dd3a3fce36182d2af1ae68d2a4c593f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

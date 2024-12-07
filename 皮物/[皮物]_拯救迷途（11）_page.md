@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_拯救迷途（11）.doc]([皮物]_拯救迷途（11）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | cd2e9d48b254efb01373f183d6c2fe64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

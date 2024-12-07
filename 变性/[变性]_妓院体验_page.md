@@ -20,7 +20,7 @@ TXT 下载: [[变性]_妓院体验.doc]([变性]_妓院体验.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 907eae3ad090c70ac1629a61470dab2f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 安吉拉·柯林斯                               |
 | Region          | 未知                               |

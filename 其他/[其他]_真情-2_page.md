@@ -20,7 +20,7 @@ TXT 下载: [[其他]_真情-2.docx]([其他]_真情-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21015 bytes                           |
 | MD5             | de51cacbbf764d3051df54190e750099                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

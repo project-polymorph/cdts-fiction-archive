@@ -20,7 +20,7 @@ TXT 下载: [[变性]_老对手.docx]([变性]_老对手.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34467 bytes                           |
 | MD5             | 456a5589f45fa91e3c5c1ef259421743                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

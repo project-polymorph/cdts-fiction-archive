@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔棒（3）.docx]([附身]_魔棒（3）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部描绘角色性别转换及其自我认知的小说，主线围绕一个男性角色通过灵魂附身转变成女性杨伊雪的经历展开。故事开始于主角的醒来，他逐渐习惯并体验转变为女性所带来的身体感受与社会互动。例如，主角从挑选内衣开始，描述了穿着女性衣物后的自我感受，体验到了身体的柔软与轻盈，内心充满了得意与兴奋的情绪。在校园里与学生的日常互动中，主角体会到性别角色带来的不同目光和社会期待，同时还涉及到性别认同的主题。在与女学生的交流中，主人公感受到了对自身女性形象的欣赏和他人对她的关注，内心复杂又兴奋的情感交织在一起。作品通过生动细腻的描写和角色的内心独白，让读者深入理解性别转变带来的身心变化，以及角色在逐渐融入女性身份过程中的迷茫与快乐。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔棒（3）.docx]([附身]_魔棒（3）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25823 bytes                           |
 | MD5             | 963cb213a5debd7a7b9e6c6f7171c24c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ransx1                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-07-03                                 |
+| Tags            | 性转, 附身, 伪娘, 校园生活, 自我探索, 角色扮演, 变身, 女性意识, 美丽与性别, 心理变化, 教学互动, 内心冲突, 青春期, 师生关系, 心理描写, 身体意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

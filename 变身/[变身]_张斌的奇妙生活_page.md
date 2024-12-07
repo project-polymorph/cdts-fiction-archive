@@ -20,7 +20,7 @@ TXT 下载: [[变身]_张斌的奇妙生活.docx]([变身]_张斌的奇妙生活
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27007 bytes                           |
 | MD5             | 82ce39928eb9dc5824a7cbbfbcb504b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

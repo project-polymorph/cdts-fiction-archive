@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_绝地求生——皮物战争.doc]([皮物]_绝地求生�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 6c2e9f6801f2b646684b0b316c92fc46                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

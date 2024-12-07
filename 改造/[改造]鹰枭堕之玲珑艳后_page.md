@@ -20,7 +20,7 @@ TXT 下载: [[改造]鹰枭堕之玲珑艳后.doc]([改造]鹰枭堕之玲珑艳
 | Format          | Microsoft Word Document                               |
 | Size            | 137216 bytes                           |
 | MD5             | 10ddc5cd5fb5763afad953aefecb0e3a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

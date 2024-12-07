@@ -20,7 +20,7 @@ TXT 下载: [[改造]_卡特里奥娜.doc]([改造]_卡特里奥娜.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 133c68dd6266a7b825068b449fad3422                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Penny Farthing                               |
 | Region          | 未知                               |

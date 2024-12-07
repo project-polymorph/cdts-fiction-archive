@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第五回.doc](《金枝奇缘》第五回.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 8362a121db16a550ee6fcf6d1d568b1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

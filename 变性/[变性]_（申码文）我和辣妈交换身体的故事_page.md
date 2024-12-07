@@ -20,7 +20,7 @@ TXT 下载: [[变性]_（申码文）我和辣妈交换身体的故事.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26783 bytes                           |
 | MD5             | 879f0ac094ab3d4edecb9cfed9dea82f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

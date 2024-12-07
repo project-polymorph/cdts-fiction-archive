@@ -20,7 +20,7 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒_第六章.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | b350959999fd90b2fdb005284d486ec0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

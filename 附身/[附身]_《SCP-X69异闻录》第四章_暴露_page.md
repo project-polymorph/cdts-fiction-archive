@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第四章_暴露.docx]([附身]_《S
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26451 bytes                           |
 | MD5             | e53abb8b33fbc54779ee94399e692706                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

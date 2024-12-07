@@ -20,7 +20,7 @@ TXT 下载: [[变装]小青的堕落与蜕变_第三章.doc]([变装]小青的�
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 93ce6684cdb31f32b841384221fedd64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔皮番外篇_全（已更新下部）_聖誕賀禮.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 69759 bytes                           |
 | MD5             | 97c9adf1df847758522264eda1c2d83c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

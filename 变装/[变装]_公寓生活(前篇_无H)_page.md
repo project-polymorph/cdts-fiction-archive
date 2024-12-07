@@ -20,7 +20,7 @@ TXT 下载: [[变装]_公寓生活(前篇_无H).docx]([变装]_公寓生活(前�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45194 bytes                           |
 | MD5             | 22d38e00c5870a979e6c66dc342f197b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

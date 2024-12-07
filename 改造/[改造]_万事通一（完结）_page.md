@@ -20,7 +20,7 @@ TXT 下载: [[改造]_万事通一（完结）.doc]([改造]_万事通一（完�
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | ed829b8f9a12b1973ec2aeac7808ddde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

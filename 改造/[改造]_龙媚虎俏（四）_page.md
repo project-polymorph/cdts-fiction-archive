@@ -20,7 +20,7 @@ TXT 下载: [[改造]_龙媚虎俏（四）.doc]([改造]_龙媚虎俏（四）.
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | e34a2d3de357c81052bf4d3bc2500092                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -22,7 +22,7 @@ TXT 下载: [[其他]_亵偶_真实篇（上）.docx]([其他]_亵偶_真实篇�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21421 bytes                           |
 | MD5             | 396f2ac233281bf53a39cfd5616b1df8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

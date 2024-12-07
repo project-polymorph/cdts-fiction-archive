@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】美好愿望.docx]([变性]_【翻译】美好
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41846 bytes                           |
 | MD5             | be00dc53f75c6df17702fa25c5129a5e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

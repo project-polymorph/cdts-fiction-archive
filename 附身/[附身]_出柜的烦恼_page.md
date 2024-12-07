@@ -20,7 +20,7 @@ TXT 下载: [[附身]_出柜的烦恼.docx]([附身]_出柜的烦恼.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29577 bytes                           |
 | MD5             | 86768246babf83b8f85749abc8d6b0f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 孔夫子onlyone                               |
 | Region          | 未知                               |

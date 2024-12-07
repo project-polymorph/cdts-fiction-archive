@@ -20,7 +20,7 @@ TXT 下载: [[变性]_Transgender_Twinning.docx]([变性]_Transgender_Twinning.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31755 bytes                           |
 | MD5             | 698a364625b91979171b5236540e1b8d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Manyquestions, r3 r7 F# ]# d; I0 n7 L2 C* Q' w. d) l / MISSYLESEVE                               |
 | Region          | 未知                               |

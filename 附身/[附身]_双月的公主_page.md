@@ -22,7 +22,7 @@ TXT 下载: [[附身]_双月的公主.docx]([附身]_双月的公主.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25642 bytes                           |
 | MD5             | bd7ac2ee08d64ebc65fef40fc0763d58                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

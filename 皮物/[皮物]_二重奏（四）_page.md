@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_二重奏（四）.docx]([皮物]_二重奏（四）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35341 bytes                           |
 | MD5             | de9a33bc4a8b89355748b9f5abcdf9f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

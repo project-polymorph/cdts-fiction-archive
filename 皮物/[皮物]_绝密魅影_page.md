@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_绝密魅影.docx]([皮物]_绝密魅影.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39427 bytes                           |
 | MD5             | 198e48af571e5d018b4a18f42641c14a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

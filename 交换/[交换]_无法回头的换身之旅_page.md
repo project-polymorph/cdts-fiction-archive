@@ -20,7 +20,7 @@ TXT 下载: [[交换]_无法回头的换身之旅.docx]([交换]_无法回头的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 64440 bytes                           |
 | MD5             | 94d0b87975482c1dc7db8f33fc7c4099                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

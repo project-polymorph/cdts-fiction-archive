@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_损友（2）.docx]([皮物]_损友（2）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29775 bytes                           |
 | MD5             | e559ba71c0933a5322b5e4fbb129ea2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

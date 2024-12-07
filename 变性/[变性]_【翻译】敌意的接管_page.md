@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】敌意的接管.docx]([变性]_【翻译】敌
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48492 bytes                           |
 | MD5             | f12a5f0ee8362099194c9adebbad16ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

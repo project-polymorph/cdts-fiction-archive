@@ -20,7 +20,7 @@ TXT 下载: [[改造]_逆转龙凤_（五）_诡计.doc]([改造]_逆转龙凤_�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 4b85399680c59cb2d304f6c2ebb0d827                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

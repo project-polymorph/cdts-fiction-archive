@@ -20,7 +20,7 @@ TXT 下载: [[交换]_商务大脑与性感身材（1）.docx]([交换]_商务�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29142 bytes                           |
 | MD5             | 854d0283eb6b75be5cb3f2c2d5782d62                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 暗影游侠                               |
 | Region          | 未知                               |

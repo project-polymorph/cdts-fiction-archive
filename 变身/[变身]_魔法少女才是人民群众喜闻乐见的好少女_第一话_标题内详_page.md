@@ -20,7 +20,7 @@ TXT 下载: [[变身]_魔法少女才是人民群众喜闻乐见的好少女_第
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23906 bytes                           |
 | MD5             | c9fed5b41c49540ea86337350596e3de                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

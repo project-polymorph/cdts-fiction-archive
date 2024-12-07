@@ -20,7 +20,7 @@ TXT 下载: [[其他]_青春.docx]([其他]_青春.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30742 bytes                           |
 | MD5             | 471076cb8c42d2cc648d74c0887a5ab2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

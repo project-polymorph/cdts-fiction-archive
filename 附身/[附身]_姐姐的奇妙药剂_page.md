@@ -20,7 +20,7 @@ TXT 下载: [[附身]_姐姐的奇妙药剂.docx]([附身]_姐姐的奇妙药剂
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44449 bytes                           |
 | MD5             | f105c95589b0d6af1959cee06b7d6e4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

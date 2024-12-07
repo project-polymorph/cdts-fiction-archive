@@ -20,7 +20,7 @@ TXT 下载: [[变性]_主妇的秘密（22）_[.docx]([变性]_主妇的秘密�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24684 bytes                           |
 | MD5             | 7c878ec9d50a0db40845e441c0776506                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

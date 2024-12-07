@@ -20,7 +20,7 @@ TXT 下载: [[附身]_地縛轉移.docx]([附身]_地縛轉移.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54917 bytes                           |
 | MD5             | 4730538b5a4ccd7d86a8b72fe81aff64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ファンタのコーラ味                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_精神的女装.doc]([其他]_精神的女装.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 4300016753138f1dab81f3e574c0c60c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

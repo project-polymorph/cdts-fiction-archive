@@ -20,7 +20,7 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_III_海岛篇.doc]([变装]_柔�
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | 8b479802d4a7dc0221634c8cf179fa37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

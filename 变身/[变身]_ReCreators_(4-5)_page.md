@@ -20,7 +20,7 @@ TXT 下载: [[变身]_ReCreators_(4-5).doc]([变身]_ReCreators_(4-5).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 74752 bytes                           |
 | MD5             | dfaf1ffe82da3c867ccb4b68f6d7eb28                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

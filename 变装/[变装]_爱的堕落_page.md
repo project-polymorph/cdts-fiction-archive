@@ -20,7 +20,7 @@ TXT 下载: [[变装]_爱的堕落.doc]([变装]_爱的堕落.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | d9602161e8587f6f26ff98632b5e5a7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

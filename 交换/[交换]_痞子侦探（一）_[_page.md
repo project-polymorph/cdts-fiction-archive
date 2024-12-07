@@ -20,7 +20,7 @@ TXT 下载: [[交换]_痞子侦探（一）_[.docx]([交换]_痞子侦探（一�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27531 bytes                           |
 | MD5             | d077e328046bec8db90b64a9e6f48390                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

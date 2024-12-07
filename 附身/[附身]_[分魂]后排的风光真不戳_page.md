@@ -24,7 +24,7 @@ TXT 下载: [[附身]_[分魂]后排的风光真不戳.docx]([附身]_[分魂]�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24228 bytes                           |
 | MD5             | 3be992a60a72ce395cddc4c73facaf78                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 和泉たどる                               |
 | Region          | 未知                               |

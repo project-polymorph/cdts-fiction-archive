@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第四部分_完结.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 68702 bytes                           |
 | MD5             | fc233eb67c398090246bbf438a645b37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

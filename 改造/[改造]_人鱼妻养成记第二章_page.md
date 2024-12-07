@@ -20,7 +20,7 @@ TXT 下载: [[改造]_人鱼妻养成记第二章.doc]([改造]_人鱼妻养成�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 1c33fdcc0695d97c545c5e1fd42c359d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

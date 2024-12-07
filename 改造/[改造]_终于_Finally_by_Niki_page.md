@@ -20,7 +20,7 @@ TXT 下载: [[改造]_终于_Finally_by_Niki.doc]([改造]_终于_Finally_by_Nik
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 9e39238b4a7a63c87314d002b72e667e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Niki                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_两仪佩_第12章.docx]([附身]_两仪佩_第12章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25185 bytes                           |
 | MD5             | fe57ea8941702c10b7d2df88a9051e4e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

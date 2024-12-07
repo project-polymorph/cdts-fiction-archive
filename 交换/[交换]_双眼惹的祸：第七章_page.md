@@ -20,7 +20,7 @@ TXT 下载: [[交换]_双眼惹的祸：第七章.doc]([交换]_双眼惹的祸�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 17187a460cd07396e414d66860472ccf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

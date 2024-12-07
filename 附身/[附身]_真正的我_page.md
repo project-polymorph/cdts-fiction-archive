@@ -24,7 +24,7 @@ TXT 下载: [[附身]_真正的我.docx]([附身]_真正的我.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28679 bytes                           |
 | MD5             | c7b80a75f5a4d583c3dbd75a732f9fe1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_强制变性法.doc]([变装]_强制变性法.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 83456 bytes                           |
 | MD5             | 20984f9e4680934cbd25c0db2cdab1c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

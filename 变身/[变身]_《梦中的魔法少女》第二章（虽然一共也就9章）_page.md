@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第二章（虽然一共也就9
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 33627c0c0cf71a1aabf5dad32650f057                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_寵妻.doc]([改造]_寵妻.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 22684ff61912c3e573b27696a0923df2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

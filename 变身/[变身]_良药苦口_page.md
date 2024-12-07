@@ -22,7 +22,7 @@ TXT 下载: [[变身]_良药苦口.doc]([变身]_良药苦口.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 159744 bytes                           |
 | MD5             | d805c4d1d7a807d6868374b46b7c042b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 岚山ＧＯ                               |
 | Region          | 未知                               |

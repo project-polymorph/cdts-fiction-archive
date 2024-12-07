@@ -20,7 +20,7 @@ TXT 下载: [[变身]_CDBOOK隐藏神器系列之阴阳镜(1).doc]([变身]_CDBO
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 316b39291f1d10b1b2eaa0420274b638                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

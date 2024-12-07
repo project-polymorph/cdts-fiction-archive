@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑暗的世界5.docx]([皮物]_黑暗的世界5.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21057 bytes                           |
 | MD5             | c8072196d30c739d61868b78aab14af6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

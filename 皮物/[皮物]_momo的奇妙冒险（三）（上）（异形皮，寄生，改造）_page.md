@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_momo的奇妙冒险（三）（上）（异形皮，寄生
 | Format          | Microsoft Word Document                               |
 | Size            | 102912 bytes                           |
 | MD5             | 4e0e17516eb393e4b5ea02d49eec0b3a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

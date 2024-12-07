@@ -20,7 +20,7 @@ TXT 下载: [[附身]_可靠的哥哥3.docx]([附身]_可靠的哥哥3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34520 bytes                           |
 | MD5             | 69c400fe6c190f6de4db81984b287137                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_（申码文）人偶化学院-风铃草（类kigurumi）.
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | f8dec990b3c0cd4209082f6116849bda                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_奇方_第十章.docx]([皮物]_奇方_第十章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21449 bytes                           |
 | MD5             | 2521350f9fa6b8d938855e9a6c898a47                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

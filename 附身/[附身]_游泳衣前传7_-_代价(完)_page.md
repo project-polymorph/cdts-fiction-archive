@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣前传7_-_代价(完).doc]([附身]_游泳衣前�
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 2b529e7eb019e2c57f9ef0d4ffcbb833                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

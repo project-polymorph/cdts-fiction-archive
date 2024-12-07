@@ -20,7 +20,7 @@ TXT 下载: [[其他]_CD世界OL(四)_凌辱.doc]([其他]_CD世界OL(四)_凌�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | c45ec3249caaf492b2607d2963dedffa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

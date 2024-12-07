@@ -20,7 +20,7 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 372736 bytes                           |
 | MD5             | 40725a9334c61e977c84cb0bb8da7487                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

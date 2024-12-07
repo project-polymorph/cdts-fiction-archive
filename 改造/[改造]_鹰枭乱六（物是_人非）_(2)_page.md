@@ -24,7 +24,7 @@ TXT 下载: [[改造]_鹰枭乱六（物是_人非）_(2).docx]([改造]_鹰枭�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21971 bytes                           |
 | MD5             | eb1fdc60163b2fea138a76c3aa477f08                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

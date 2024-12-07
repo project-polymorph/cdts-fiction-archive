@@ -20,7 +20,7 @@ TXT 下载: [[附身]_夏娃之泪（第三章&第四章）.docx]([附身]_夏�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19879 bytes                           |
 | MD5             | a05c408f90bd35494c6960f857dd0566                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

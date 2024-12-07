@@ -20,7 +20,7 @@ TXT 下载: [[其他]_為美好世界獻上中指(序~4)_[.docx]([其他]_為美
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27857 bytes                           |
 | MD5             | 751523dd1c47cc9a654b59909e52ffd7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | S道人                               |
 | Region          | 未知                               |

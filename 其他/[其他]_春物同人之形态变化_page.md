@@ -20,7 +20,7 @@ TXT 下载: [[其他]_春物同人之形态变化.doc]([其他]_春物同人之�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | c46926c426580ae9854bc3156cf103c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 龙@TSFもの書いてるぜ                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_爱丽丝的诞生.doc]([改造]_爱丽丝的诞生.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 8d24e720b77f7732c55ba345af772f37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Bryan Doug                               |
 | Region          | 未知                               |

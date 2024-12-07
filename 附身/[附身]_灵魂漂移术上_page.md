@@ -20,7 +20,7 @@ TXT 下载: [[附身]_灵魂漂移术上.docx]([附身]_灵魂漂移术上.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18926 bytes                           |
 | MD5             | 618e2b1a1f47a44386a30c267760477d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

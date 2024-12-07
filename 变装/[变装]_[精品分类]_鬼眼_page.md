@@ -20,7 +20,7 @@ TXT 下载: [[变装]_[精品分类]_鬼眼.doc]([变装]_[精品分类]_鬼眼.
 | Format          | Microsoft Word Document                               |
 | Size            | 320000 bytes                           |
 | MD5             | 8eefae0937e74118c611f91d1973fd0f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 纳兰珍                               |
 | Region          | 中国大陆                               |

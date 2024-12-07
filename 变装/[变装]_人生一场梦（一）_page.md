@@ -20,7 +20,7 @@ TXT 下载: [[变装]_人生一场梦（一）.docx]([变装]_人生一场梦（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 65965 bytes                           |
 | MD5             | 8773e477650bb6435bd2d1e941356add                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 雪琳                               |
 | Region          | 未知                               |

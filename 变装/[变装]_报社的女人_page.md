@@ -20,7 +20,7 @@ TXT 下载: [[变装]_报社的女人.docx]([变装]_报社的女人.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52866 bytes                           |
 | MD5             | 4675ad6cbe6244f37ff6ee52eeff1249                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

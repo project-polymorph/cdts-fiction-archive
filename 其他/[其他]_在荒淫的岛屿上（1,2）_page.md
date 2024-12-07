@@ -20,7 +20,7 @@ TXT 下载: [[其他]_在荒淫的岛屿上（1,2）.docx]([其他]_在荒淫的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36878 bytes                           |
 | MD5             | 16dd89855d445b023e22a43eb9f3265c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

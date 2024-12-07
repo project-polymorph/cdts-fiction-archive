@@ -20,7 +20,7 @@ TXT 下载: [[附身]_斗罗银龙与深渊.doc]([附身]_斗罗银龙与深渊.
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | f848530bd1c6e44453d14f4ab19e4409                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

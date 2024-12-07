@@ -22,7 +22,7 @@ TXT 下载: [[变装]_Twin_Switch_交换双子_1-2[翻译].docx]([变装]_Twin_S
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30046 bytes                           |
 | MD5             | fed705d3aafb53e438001ab994d36541                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

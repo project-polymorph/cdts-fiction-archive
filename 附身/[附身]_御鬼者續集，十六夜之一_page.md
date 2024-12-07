@@ -20,7 +20,7 @@ TXT 下载: [[附身]_御鬼者續集，十六夜之一.docx]([附身]_御鬼者
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42941 bytes                           |
 | MD5             | d331e43829ae339b93e986744edca859                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

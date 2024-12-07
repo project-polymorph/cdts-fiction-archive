@@ -20,7 +20,7 @@ TXT 下载: [[改造]_A_phone_app_that_changes_one_thing_about_anything_換字AP
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 952c9159ec0efd8efbdac572e3e4568a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | serifuta                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_真人游戏第四章.docx]([皮物]_真人游戏第四章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27236 bytes                           |
 | MD5             | 3b387a895b50704b022bacc1e1a4560e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

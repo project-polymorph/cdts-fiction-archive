@@ -20,7 +20,7 @@ TXT 下载: [[变身]_另一个故事.doc]([变身]_另一个故事.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 111104 bytes                           |
 | MD5             | e1c28d81c6d53d090792a2910829435d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

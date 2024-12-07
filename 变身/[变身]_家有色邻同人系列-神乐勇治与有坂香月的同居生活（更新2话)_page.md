@@ -20,7 +20,7 @@ TXT 下载: [[变身]_家有色邻同人系列-神乐勇治与有坂香月的同
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 95788145a5901a2d4cad94b5e36bee7d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

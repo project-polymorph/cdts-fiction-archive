@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】真正女人的高潮.docx]([变性]_【翻译
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32283 bytes                           |
 | MD5             | 7ac39f8f35cc421eed75f974a16cc205                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Stacey Martin                               |
 | Region          | 未知                               |

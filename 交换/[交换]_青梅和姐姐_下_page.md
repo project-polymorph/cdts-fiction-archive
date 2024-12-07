@@ -20,7 +20,7 @@ TXT 下载: [[交换]_青梅和姐姐_下.doc]([交换]_青梅和姐姐_下.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | b4a56a0c612db3c9d77fc2da3f69c6ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          |                                |
 | Region          |                                |

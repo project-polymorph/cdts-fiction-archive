@@ -20,7 +20,7 @@ TXT 下载: [[附身]_缠魂米番外张虎篇（上）.doc]([附身]_缠魂米�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | d1e6300673d23a4e0f5301d9c249e8b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译】感谢西城秀树.doc]([变装]_【翻译】�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 68605fe9d374bc1084f645c6e8f71986                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 森奈津子                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔神之眼_第一章.doc]([皮物]_魔神之眼_第一�
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | bc84571217bec24ad80269ca22cc2fb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

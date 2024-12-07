@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_老师的储藏室.docx]([皮物]_老师的储藏室.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31460 bytes                           |
 | MD5             | ecaafaa9f5946c656f1cf185d936354c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

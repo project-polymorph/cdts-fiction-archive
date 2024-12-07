@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的人皮紧身衣_老师，做我男朋友吧！.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22288 bytes                           |
 | MD5             | 8727bb42dfa027c5ffff6715770493ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

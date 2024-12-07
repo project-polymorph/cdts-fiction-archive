@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_腐朽时代（六·）.doc]([皮物]_腐朽时代（六·
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | dde854ad1b8a34e37a42ec874729b23a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

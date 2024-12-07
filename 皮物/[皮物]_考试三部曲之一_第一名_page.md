@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_考试三部曲之一_第一名.docx]([皮物]_考试三�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20582 bytes                           |
 | MD5             | 4afe8cedd45ae946b4debe50306c3234                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

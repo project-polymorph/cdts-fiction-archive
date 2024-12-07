@@ -20,7 +20,7 @@ TXT 下载: [《交换遥控器》.docx](《交换遥控器》.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34496 bytes                           |
 | MD5             | a797a38a32a5348fa6ebe523c00c6660                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

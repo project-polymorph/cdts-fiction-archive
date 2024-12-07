@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《雌堕》申码文重发1-9.doc]([变装]_《雌堕》�
 | Format          | Microsoft Word Document                               |
 | Size            | 83456 bytes                           |
 | MD5             | 0ae8b1a302df38dc8c10e5d7658b0b60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_瑾玉？玉琪！（1—4）.docx]([皮物]_瑾玉？玉�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50943 bytes                           |
 | MD5             | e22495ff5068de2f9317b3db3cc3c4e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

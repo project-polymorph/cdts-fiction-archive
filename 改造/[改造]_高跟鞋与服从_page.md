@@ -20,7 +20,7 @@ TXT 下载: [[改造]_高跟鞋与服从.docx]([改造]_高跟鞋与服从.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 94603 bytes                           |
 | MD5             | f7070ffabc52115f6f239ee79d28a770                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

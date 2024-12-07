@@ -20,7 +20,7 @@ TXT 下载: [[变身]_花都狐影前传之阴阳大盗.doc]([变身]_花都狐�
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | 5a0c0de41fe80d9a5201f472ae950486                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 中国大陆                               |

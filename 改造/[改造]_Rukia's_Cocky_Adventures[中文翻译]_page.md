@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Rukia's_Cocky_Adventures[中文翻译].docx]([改造]_Ruki
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23251 bytes                           |
 | MD5             | d40ef7fdababb88b889e0db0fa3aa497                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | H-panda                               |
 | Region          | 未知                               |

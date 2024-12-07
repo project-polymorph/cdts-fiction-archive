@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申请上浮】+不同的奧運代表.doc]([附身]_【
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 57f597cca8304f8b3f9749f87807039b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | joe2473                               |
 | Region          | 台湾                               |

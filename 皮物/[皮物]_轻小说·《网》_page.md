@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_轻小说·《网》.docx]([皮物]_轻小说·《网》.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32251 bytes                           |
 | MD5             | 9311d897f6f86ce682003d01a0c9e46b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

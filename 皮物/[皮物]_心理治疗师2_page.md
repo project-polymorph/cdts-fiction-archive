@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_心理治疗师2.doc]([皮物]_心理治疗师2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | b412331e9ce0587481ffd4e9eea350f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

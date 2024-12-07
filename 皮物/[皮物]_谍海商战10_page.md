@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_谍海商战10.docx]([皮物]_谍海商战10.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19201 bytes                           |
 | MD5             | 21f908c3bd7d7cf83bf378a09fcf9dc9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

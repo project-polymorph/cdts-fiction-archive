@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[英文翻译]_没有捣蛋，只有糖果(No_Tricks,_Just
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 75a84fc4c2e54bd8028fff90801e2c72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

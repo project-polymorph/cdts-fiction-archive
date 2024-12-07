@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《花花公子室友的结局》暂时烂尾中.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27543 bytes                           |
 | MD5             | 052e57a8284af1b823fc0c0596376944                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

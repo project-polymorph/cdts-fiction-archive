@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【诸天黑牙商】（1-10）.doc]([改造]_【诸天黑
 | Format          | Microsoft Word Document                               |
 | Size            | 144896 bytes                           |
 | MD5             | 1d4d2546c622994124b5258993e16ab0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

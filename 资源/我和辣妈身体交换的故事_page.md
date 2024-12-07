@@ -20,7 +20,7 @@ TXT 下载: [我和辣妈身体交换的故事.doc](我和辣妈身体交换的�
 | Format          | Microsoft Word Document                               |
 | Size            | 188416 bytes                           |
 | MD5             | 96ec85083648df459186c78227133fed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

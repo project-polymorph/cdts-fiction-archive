@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_愚人节.docx]([皮物]_愚人节.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29184 bytes                           |
 | MD5             | ced86474d8add360fd3b1ce318fa9585                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

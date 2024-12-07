@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一不小心爱上你.doc]([皮物]_一不小心爱上你.
 | Format          | Microsoft Word Document                               |
 | Size            | 116736 bytes                           |
 | MD5             | be23384638df883ba9a851736b64781d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

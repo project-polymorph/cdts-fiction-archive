@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_『兄への慕情』.docx]([皮物]_『兄への慕情』
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62877 bytes                           |
 | MD5             | 9fc9f42b7451ee17ff909f45ec3f5b15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

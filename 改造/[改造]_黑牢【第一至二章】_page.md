@@ -20,7 +20,7 @@ TXT 下载: [[改造]_黑牢【第一至二章】.doc]([改造]_黑牢【第一�
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | c7c282f651bed197307be009fc2c2c92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

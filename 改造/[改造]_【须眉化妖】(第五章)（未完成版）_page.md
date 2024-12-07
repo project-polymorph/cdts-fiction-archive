@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【须眉化妖】(第五章)（未完成版）.doc]([改�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | f50d3d77c4908b41b3d3a867c7dca3fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

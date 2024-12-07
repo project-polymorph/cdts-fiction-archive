@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【精删重排完整版】Soul_Note_--_黑暗的写实故
 | Format          | Microsoft Word Document                               |
 | Size            | 180736 bytes                           |
 | MD5             | 031366ae2243169bb95b361c53ce7968                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

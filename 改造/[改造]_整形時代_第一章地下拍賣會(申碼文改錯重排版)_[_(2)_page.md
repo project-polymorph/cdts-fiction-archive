@@ -20,7 +20,7 @@ TXT 下载: [[改造]_整形時代_第一章地下拍賣會(申碼文改錯重�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 64535 bytes                           |
 | MD5             | 8bd3016e6b3811524943d54812874545                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

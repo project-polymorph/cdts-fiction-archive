@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文搬运~）欢愉的临时测试工作.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47181 bytes                           |
 | MD5             | e09d341a06d9f38a7d93d857d05f2191                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

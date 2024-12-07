@@ -20,7 +20,7 @@ TXT 下载: [[变身]_吸收注入“要素”的手套_1.doc]([变身]_吸收�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 4cc0a322a5bd9149740bfe555d997618                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

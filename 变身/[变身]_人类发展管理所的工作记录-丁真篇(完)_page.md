@@ -20,7 +20,7 @@ TXT 下载: [[变身]_人类发展管理所的工作记录-丁真篇(完).docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21428 bytes                           |
 | MD5             | 496d55edca47a46333d68d1b25caf527                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

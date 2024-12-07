@@ -20,7 +20,7 @@ TXT 下载: [[改造]_黏土和雕刻刀_其二.doc]([改造]_黏土和雕刻刀
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 1e7c3ae3acab555cef49e89cdfe9ef25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

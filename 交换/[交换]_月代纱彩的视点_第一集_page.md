@@ -24,7 +24,7 @@ TXT 下载: [[交换]_月代纱彩的视点_第一集.docx]([交换]_月代纱�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44537 bytes                           |
 | MD5             | 7f1eb315c88d172e2a1f4d2667b3a630                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

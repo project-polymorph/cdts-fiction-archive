@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_第三章_怪人的策略(上).doc]([皮物]_第三章_怪
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 9566caf4b31fae68b00538932039060b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

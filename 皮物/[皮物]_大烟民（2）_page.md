@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_大烟民（2）.doc]([皮物]_大烟民（2）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 5acee8988f91eea62a4f2a9442d64022                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【我与小丫】1-4章.doc]([皮物]_【我与小丫】1
 | Format          | Microsoft Word Document                               |
 | Size            | 77312 bytes                           |
 | MD5             | 6595a81a5b6002d74e9d9a94f0851d53                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 悲剧的小咯里ll                               |
 | Region          | 未知                               |

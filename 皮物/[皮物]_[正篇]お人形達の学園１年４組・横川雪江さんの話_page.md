@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[正篇]お人形達の学園１年４組・横川雪江�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24978 bytes                           |
 | MD5             | a526716ef2f743fd4c60f617ce99720b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_神勇绿坝娘_第二部.docx]([变性]_神勇绿坝娘_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 74415 bytes                           |
 | MD5             | cd442ab58ec07845033ae0c79652ce19                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [许愿硬币.doc](许愿硬币.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 89088 bytes                           |
 | MD5             | 8c7e0b116cc4636a5a8eeb95ff5eeeaf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

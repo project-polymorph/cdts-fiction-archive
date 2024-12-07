@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文重发】间谍学院1-2.docx]([皮物]_【申
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33066 bytes                           |
 | MD5             | 6a9892cc7002aece0fa0295fb2536dcc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

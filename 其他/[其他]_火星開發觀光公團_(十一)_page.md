@@ -20,7 +20,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(十一).docx]([其他]_火星開
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17404 bytes                           |
 | MD5             | 3094a4a1447512a27a236f161507f246                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

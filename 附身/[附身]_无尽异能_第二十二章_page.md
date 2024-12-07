@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能_第二十二章.docx]([附身]_无尽异能_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21288 bytes                           |
 | MD5             | 5bd994c4368fdaaa27ef05470bd88a09                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

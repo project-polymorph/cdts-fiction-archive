@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_今魔_第12章_攻略魔王最有效的方法，總是突
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26643 bytes                           |
 | MD5             | 2a6063c85d1842fafca497a23aed1c96                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_两仪佩_第15章_[.docx]([附身]_两仪佩_第15章_[.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23880 bytes                           |
 | MD5             | 6cb205dba23ebdb5ca32535b7b2688f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

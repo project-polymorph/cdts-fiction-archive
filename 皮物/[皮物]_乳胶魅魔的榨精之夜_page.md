@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_乳胶魅魔的榨精之夜.docx]([皮物]_乳胶魅魔的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 71318 bytes                           |
 | MD5             | 01dc6cacf3e4bfe4d595e774136e573a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

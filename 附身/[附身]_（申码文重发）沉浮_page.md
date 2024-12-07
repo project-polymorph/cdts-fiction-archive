@@ -7,7 +7,7 @@ TXT 下载: [[附身]_（申码文重发）沉浮.docx]([附身]_（申码文重
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《沉浮》的伪娘 TS 变身与跨性别相关小说，讲述了主人公谢元在繁忙的工作与日常生活中经历了一场奇妙的变身之旅。在一个夜晚，加班回家的途中，他接到了一条神秘短信，暗示着生命的另一种可能性。随着故事的发展，谢元在一次偶然中体验到了视角的切换，感受到与妻子赵依衣的身体和情感相连的奇异情感。他们的关系在一次次的视角转换中变得复杂与微妙，展现了性别认同、自我探索与情欲的多重交织。作者通过细腻的描写，让读者体验主角在性别转换带来的新感受及心理上的挣扎与困惑。该小说内容涉及丰富的情感及性方面的描写，伴随着一定的限制级内容，适合对跨性别主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_（申码文重发）沉浮.docx]([附身]_（申码文重
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22078 bytes                           |
 | MD5             | e52415a1925d4eb3c63b4340d9813df7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 视角切换, 情欲, 自我认知, 情感探索, 性别认同, 都市生活, 心理挣扎, 婚姻关系, 奇幻, 二次元, 调教, 变装, 魔法, 幻境, 生活压力, 工作压力, 情绪低落                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

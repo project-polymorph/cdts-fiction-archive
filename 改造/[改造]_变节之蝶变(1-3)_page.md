@@ -20,7 +20,7 @@ TXT 下载: [[改造]_变节之蝶变(1-3).doc]([改造]_变节之蝶变(1-3).do
 | Format          | Microsoft Word Document                               |
 | Size            | 105984 bytes                           |
 | MD5             | bb046d26a376903e25bc7a7faba601fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

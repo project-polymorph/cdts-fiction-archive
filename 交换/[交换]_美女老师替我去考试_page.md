@@ -20,7 +20,7 @@ TXT 下载: [[交换]_美女老师替我去考试.doc]([交换]_美女老师替�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 33450aa0a2eba39362de7df56dae7f5e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 逍遥                               |
 | Region          | 中国大陆                               |

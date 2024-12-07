@@ -20,7 +20,7 @@ TXT 下载: [[变性]_女仆交易_6.doc]([变性]_女仆交易_6.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 8606c56541a2e7af787b1c1d255455cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lisa Lovelace                               |
 | Region          | 未知                               |

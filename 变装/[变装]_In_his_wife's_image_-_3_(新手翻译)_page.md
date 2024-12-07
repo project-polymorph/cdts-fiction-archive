@@ -20,7 +20,7 @@ TXT 下载: [[变装]_In_his_wife's_image_-_3_(新手翻译).docx]([变装]_In_h
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18198 bytes                           |
 | MD5             | edf8dbb65004dcf6bbf7b2aa24918cec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

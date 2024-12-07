@@ -20,7 +20,7 @@ TXT 下载: [[交换]_道觞（8）.docx]([交换]_道觞（8）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44423 bytes                           |
 | MD5             | 26607e66800b3a24f60729006b9e6693                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

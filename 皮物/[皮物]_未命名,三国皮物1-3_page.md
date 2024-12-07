@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_未命名,三国皮物1-3.docx]([皮物]_未命名,三国�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21173 bytes                           |
 | MD5             | 40ff5c6efa4210bf7223fb6d86a7f37d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

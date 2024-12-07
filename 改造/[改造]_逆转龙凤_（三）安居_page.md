@@ -20,7 +20,7 @@ TXT 下载: [[改造]_逆转龙凤_（三）安居.doc]([改造]_逆转龙凤_�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 760a7f41f97d7cb2fbdacf56ff564a0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

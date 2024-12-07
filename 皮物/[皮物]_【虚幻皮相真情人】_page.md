@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【虚幻皮相真情人】.doc]([皮物]_【虚幻皮相�
 | Format          | Microsoft Word Document                               |
 | Size            | 157696 bytes                           |
 | MD5             | f6a5e208abc4ec6dcd8e3cede7adbab6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

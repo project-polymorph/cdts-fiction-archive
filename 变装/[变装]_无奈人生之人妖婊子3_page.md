@@ -20,7 +20,7 @@ TXT 下载: [[变装]_无奈人生之人妖婊子3.docx]([变装]_无奈人生�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21660 bytes                           |
 | MD5             | d94d8e95416b8e4fac0a4ca0ef319e60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

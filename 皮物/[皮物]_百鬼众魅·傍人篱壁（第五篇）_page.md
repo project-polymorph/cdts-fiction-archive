@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·傍人篱壁（第五篇）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 78848 bytes                           |
 | MD5             | 76d82a655afe6f9a5bc0e26e173d95b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

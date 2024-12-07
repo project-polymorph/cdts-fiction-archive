@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蛇身_大结局_[.docx]([附身]_蛇身_大结局_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19158 bytes                           |
 | MD5             | 8d9c314d33d4cfa1d0d4469eda80187f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

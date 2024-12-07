@@ -20,7 +20,7 @@ TXT 下载: [[变身]_淫魔女王的新生.doc]([变身]_淫魔女王的新生.
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | 48821b274c3fe11d26a9de220795cb2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

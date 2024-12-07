@@ -20,7 +20,7 @@ TXT 下载: [[变装]_头发的挑战.doc]([变装]_头发的挑战.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | ac6817614df76d9d253d9d66051c6b99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters，译者：露娜·埃葵斯                               |
 | Region          | 未知                               |

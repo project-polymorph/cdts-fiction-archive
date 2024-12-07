@@ -20,7 +20,7 @@ TXT 下载: [[变性]_妖媚女警探（四）.docx]([变性]_妖媚女警探（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20465 bytes                           |
 | MD5             | 92a00e3d33bd830887bbbfaeb9d5b681                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

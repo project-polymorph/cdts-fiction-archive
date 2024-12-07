@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译小说】礼物_（上）.docx]([变性]_【翻�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60715 bytes                           |
 | MD5             | 9318cbfe92e6dbcc93e249b59d11b25f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Betty Noone                               |
 | Region          | 美国                               |

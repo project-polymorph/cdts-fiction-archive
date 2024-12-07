@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_舍友替身_[弃坑，求接盘侠接盘_m(___)m]_[.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33817 bytes                           |
 | MD5             | 0729facd5623851f7d8d9c9383a9c705                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Everitt James                               |
 | Region          | 未知                               |

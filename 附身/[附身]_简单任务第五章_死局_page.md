@@ -20,7 +20,7 @@ TXT 下载: [[附身]_简单任务第五章_死局.docx]([附身]_简单任务�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31311 bytes                           |
 | MD5             | eb4b156462255c894b818a45153f3e8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

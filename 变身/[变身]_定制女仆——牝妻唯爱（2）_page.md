@@ -24,7 +24,7 @@ TXT 下载: [[变身]_定制女仆——牝妻唯爱（2）.doc]([变身]_定制
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | 9d9d6ce37676eaf7ef46baac97650602                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

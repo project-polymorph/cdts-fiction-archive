@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译小说】我的丈夫，我的女儿.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 64515 bytes                           |
 | MD5             | b51cfd75f1dd05f8ac4b146de7d09d8d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

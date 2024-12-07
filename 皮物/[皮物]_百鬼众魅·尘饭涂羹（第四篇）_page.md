@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·尘饭涂羹（第四篇）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 81920 bytes                           |
 | MD5             | 609e603c20d316cbc5668def3f99ef3d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_性别鉴定测试（改了些用词，段落编辑后，�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60438 bytes                           |
 | MD5             | c2205ef8e3ff98815b8b90c8c357d066                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

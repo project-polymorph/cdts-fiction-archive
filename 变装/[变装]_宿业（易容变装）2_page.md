@@ -20,7 +20,7 @@ TXT 下载: [[变装]_宿业（易容变装）2.docx]([变装]_宿业（易容�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20998 bytes                           |
 | MD5             | aafb00e6c8422e1bd353e95dc51d1003                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

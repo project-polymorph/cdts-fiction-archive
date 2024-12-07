@@ -20,7 +20,7 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第二节.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18142 bytes                           |
 | MD5             | f71ee529ac3a1acf245ef2b9ba3b02a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

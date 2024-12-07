@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[翻译]全面发展(下).docx]([变性]_[翻译]全面发
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21439 bytes                           |
 | MD5             | 48694353ec6608fd7114bdc737b4f49a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Denise                               |
 | Region          | 未知                               |

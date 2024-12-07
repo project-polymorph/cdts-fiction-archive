@@ -20,7 +20,7 @@ TXT 下载: [[变装]_父子（短篇）.docx]([变装]_父子（短篇）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19565 bytes                           |
 | MD5             | cb764d29ae18d1b7f3494f6a4cda0c57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]蓝荆花档案_第一章.doc]([变装]蓝荆花档案_第�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 2eac44234a71038c4d8f22a21bd0a9db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

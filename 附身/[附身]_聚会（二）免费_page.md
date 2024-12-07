@@ -20,7 +20,7 @@ TXT 下载: [[附身]_聚会（二）免费.docx]([附身]_聚会（二）免费
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19392 bytes                           |
 | MD5             | c4d36cbc1c3e20bcf2fb20975cf8f65b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

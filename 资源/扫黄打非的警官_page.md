@@ -20,7 +20,7 @@ TXT 下载: [扫黄打非的警官.doc](扫黄打非的警官.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | 145702583797758092348eb1334f85f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

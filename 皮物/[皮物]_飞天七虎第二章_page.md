@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_飞天七虎第二章.docx]([皮物]_飞天七虎第二章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34069 bytes                           |
 | MD5             | 7f70d795411901b4c0d40d838e61adf4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

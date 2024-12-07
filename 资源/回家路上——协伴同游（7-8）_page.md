@@ -20,7 +20,7 @@ TXT 下载: [回家路上——协伴同游（7-8）.doc](回家路上——协�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 25dbf6c3c9a536ab8270f49baf83a814                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

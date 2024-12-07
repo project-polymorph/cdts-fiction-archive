@@ -20,7 +20,7 @@ TXT 下载: [[附身]_虞浩与姐姐.doc]([附身]_虞浩与姐姐.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | b1240acd78d9b00a471bdf396dce99d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

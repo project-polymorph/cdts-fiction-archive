@@ -20,7 +20,7 @@ TXT 下载: [[变装]_情有所属，身归何处.docx]([变装]_情有所属，
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 93114 bytes                           |
 | MD5             | 6bf41f5fc71312256b0eaabba7bafc37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

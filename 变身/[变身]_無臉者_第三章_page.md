@@ -20,7 +20,7 @@ TXT 下载: [[变身]_無臉者_第三章.doc]([变身]_無臉者_第三章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 5753fad969561ff490e9b1d8ab2de42d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lu9mimi                               |
 | Region          | 未知                               |

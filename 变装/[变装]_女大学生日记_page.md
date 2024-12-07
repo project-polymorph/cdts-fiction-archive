@@ -20,7 +20,7 @@ TXT 下载: [[变装]_女大学生日记.docx]([变装]_女大学生日记.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35634 bytes                           |
 | MD5             | a090d928f02b8b5cce63ce995c03fed3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

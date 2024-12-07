@@ -20,7 +20,7 @@ TXT 下载: [[其他]_在那棵樹下.docx]([其他]_在那棵樹下.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33790 bytes                           |
 | MD5             | 70427db4b03a3fb4f825c9c5a81b4a37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 灵玲玲                               |
 | Region          | 未知                               |

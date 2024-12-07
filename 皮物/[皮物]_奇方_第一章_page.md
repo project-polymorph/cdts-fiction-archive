@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_奇方_第一章.docx]([皮物]_奇方_第一章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26368 bytes                           |
 | MD5             | cf2d07f0c056b8734f3fc7e780d5c4ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

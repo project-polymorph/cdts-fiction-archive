@@ -20,7 +20,7 @@ TXT 下载: [[变身]_花都狐影前传之阴阳大盗5~8（完结）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28882 bytes                           |
 | MD5             | d70a8e50e55e9fd3ed5a4ba43760dfcd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | nyj116102521                               |
 | Region          | 中国大陆                               |

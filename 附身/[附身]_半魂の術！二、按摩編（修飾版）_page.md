@@ -20,7 +20,7 @@ TXT 下载: [[附身]_半魂の術！二、按摩編（修飾版）.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27844 bytes                           |
 | MD5             | a39e58fbb6ffaecc2b3223b23e98dc0d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

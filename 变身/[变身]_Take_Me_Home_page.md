@@ -20,7 +20,7 @@ TXT 下载: [[变身]_Take_Me_Home.docx]([变身]_Take_Me_Home.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22869 bytes                           |
 | MD5             | 360c533f678b665903a5681cb8735fd2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lyodor Tolstoyevski                               |
 | Region          | 未知                               |

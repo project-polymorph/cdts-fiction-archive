@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人生狩猎游戏_第三夜.docx]([交换]_人生狩猎�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32156 bytes                           |
 | MD5             | 7be63de2daebcf5df2782e879ccdc63f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

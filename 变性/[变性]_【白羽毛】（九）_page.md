@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【白羽毛】（九）.docx]([变性]_【白羽毛】（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30531 bytes                           |
 | MD5             | eb357c2c4b4a909fc746236f928d12d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

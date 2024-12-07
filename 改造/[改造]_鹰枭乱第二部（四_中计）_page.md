@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱第二部（四_中计）.docx]([改造]_鹰枭�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17737 bytes                           |
 | MD5             | abe514921ea385e55b286f3333d3cab1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

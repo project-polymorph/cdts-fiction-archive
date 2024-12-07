@@ -20,7 +20,7 @@ TXT 下载: [睡衣派对梦魇——第二次讲述.doc](睡衣派对梦魇—�
 | Format          | Microsoft Word Document                               |
 | Size            | 79872 bytes                           |
 | MD5             | 22a9688093a812dde302e99536f67664                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Ruth White                               |
 | Region          | 未知                               |

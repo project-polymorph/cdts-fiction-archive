@@ -20,7 +20,7 @@ TXT 下载: [[变装]蓝荆花档案_第七章.doc]([变装]蓝荆花档案_第�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 9abebf7fd38eef0bd67ece112fce2827                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

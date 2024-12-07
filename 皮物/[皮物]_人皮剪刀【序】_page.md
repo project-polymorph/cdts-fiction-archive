@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮剪刀【序】.docx]([皮物]_人皮剪刀【序】
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19815 bytes                           |
 | MD5             | d8a7dd263216a7c04de28bb18c190338                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

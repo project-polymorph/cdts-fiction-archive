@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《我的魔头老婆》1~3章.doc]([其他]_《我的魔�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | f457e7ba3f569080e2b1690471060392                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(六）初吻.doc]([改造]_[小晰]_BS_AP
 | Format          | Microsoft Word Document                               |
 | Size            | 77824 bytes                           |
 | MD5             | 1304a9c0046a24a32ddbaeb57de87f91                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

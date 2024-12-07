@@ -20,7 +20,7 @@ TXT 下载: [[交换]_列车上的交换（模仿作）.docx]([交换]_列车上
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22800 bytes                           |
 | MD5             | 3a2b97e588782e715a136c70fb1d377d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[老文重发]古镇魔笛.doc]([变身]_[老文重发]古
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 1a476a82e59b1545107099b06696973b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_风清气正新社会2—————永远坚固的铜镜
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 04f9ce5894928a657f85a4b3ccde235b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

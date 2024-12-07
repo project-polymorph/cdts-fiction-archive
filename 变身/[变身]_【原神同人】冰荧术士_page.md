@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【原神同人】冰荧术士.doc]([变身]_【原神同�
 | Format          | Microsoft Word Document                               |
 | Size            | 67072 bytes                           |
 | MD5             | 8837fb80f1d2205dfcac03994ff8a219                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

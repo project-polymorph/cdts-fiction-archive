@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文重发】千变门（贰）——入门.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | f20d8f0acb8f0e9bdf6da906ed02e8b4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

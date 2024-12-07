@@ -20,7 +20,7 @@ TXT 下载: [[附身]_TG物语——异体（十一、十二、十三）全文�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | e4ca9ebb2044cf2f6c0c63bcc315789b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [皮男1.doc](皮男1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 209bdfde700bab6f0e9187b69e61e781                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

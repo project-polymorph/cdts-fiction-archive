@@ -20,7 +20,7 @@ TXT 下载: [[变性]_机车婊子【1~2章】.doc]([变性]_机车婊子【1~2�
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | d859e90b0d95dbe7356580aa67519d15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

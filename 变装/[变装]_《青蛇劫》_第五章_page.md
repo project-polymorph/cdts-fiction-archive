@@ -24,7 +24,7 @@ TXT 下载: [[变装]_《青蛇劫》_第五章.doc]([变装]_《青蛇劫》_�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | a98dc62255d630859fba77c0a36a8f9c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

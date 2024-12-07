@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_從今天起你就是魔王_第3章_本宮要在後面_(�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34671 bytes                           |
 | MD5             | 682d9d37930166fa835d6c3773481497                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

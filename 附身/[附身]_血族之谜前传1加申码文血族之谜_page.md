@@ -20,7 +20,7 @@ TXT 下载: [[附身]_血族之谜前传1加申码文血族之谜.doc]([附身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | cc772c048fd8fe4499787c7d4a27db43                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

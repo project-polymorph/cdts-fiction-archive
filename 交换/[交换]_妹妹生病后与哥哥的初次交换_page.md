@@ -20,7 +20,7 @@ TXT 下载: [[交换]_妹妹生病后与哥哥的初次交换.docx]([交换]_妹
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19018 bytes                           |
 | MD5             | 851ebdd2a809f290e26b0184a850fc88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

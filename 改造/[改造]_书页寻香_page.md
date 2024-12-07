@@ -20,7 +20,7 @@ TXT 下载: [[改造]_书页寻香.doc]([改造]_书页寻香.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | 1933702a639fbdc7e3be61c360b89a91                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 果壳中的国王                               |
 | Region          | 未知                               |

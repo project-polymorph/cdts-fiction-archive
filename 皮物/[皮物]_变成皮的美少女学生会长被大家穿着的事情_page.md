@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变成皮的美少女学生会长被大家穿着的事情.
 | Format          | Microsoft Word Document                               |
 | Size            | 85504 bytes                           |
 | MD5             | 596003817d2fd874091fa6a88b57cd77                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

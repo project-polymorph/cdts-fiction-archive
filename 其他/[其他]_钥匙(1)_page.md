@@ -20,7 +20,7 @@ TXT 下载: [[其他]_钥匙(1).docx]([其他]_钥匙(1).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18615 bytes                           |
 | MD5             | 98ba7968c259884c4b54bc985fe50822                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

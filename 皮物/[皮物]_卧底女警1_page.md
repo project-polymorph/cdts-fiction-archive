@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_卧底女警1.docx]([皮物]_卧底女警1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 85088 bytes                           |
 | MD5             | c10d27d7d456cd62e4be596f45c3cf25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 硕鼠硕鼠                               |
 | Region          | 未知                               |

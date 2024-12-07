@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[旧文重贴]我的同居女友前传.doc]([皮物]_[旧�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | c6767751a5bf4e25413b2c9c6c0eba0b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

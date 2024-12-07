@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】女仆_第五部分（共5部分）完�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33660 bytes                           |
 | MD5             | 7fa6df9cc0d630bb5b54076d8705f6f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

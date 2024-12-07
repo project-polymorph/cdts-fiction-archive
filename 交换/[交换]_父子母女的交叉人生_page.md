@@ -20,7 +20,7 @@ TXT 下载: [[交换]_父子母女的交叉人生.doc]([交换]_父子母女的�
 | Format          | Microsoft Word Document                               |
 | Size            | 104448 bytes                           |
 | MD5             | 629b2d6268f586a5a27c3ebab532ff95                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

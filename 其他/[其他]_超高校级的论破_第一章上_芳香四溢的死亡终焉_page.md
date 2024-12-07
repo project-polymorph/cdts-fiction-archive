@@ -20,7 +20,7 @@ TXT 下载: [[其他]_超高校级的论破_第一章上_芳香四溢的死亡�
 | Format          | Microsoft Word Document                               |
 | Size            | 82944 bytes                           |
 | MD5             | cc462a4d159711e13941b45807de7ea5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

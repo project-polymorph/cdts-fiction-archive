@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译】夏日俱乐部的“女孩们”（申码文�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40633 bytes                           |
 | MD5             | 10eeed1f8fcdd74440de7aa4023c0c0b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Donna，夜琤（翻译）                               |
 | Region          | 未知                               |

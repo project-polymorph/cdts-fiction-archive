@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我妈是魔女（短篇，完结）.doc]([皮物]_我妈�
 | Format          | Microsoft Word Document                               |
 | Size            | 117248 bytes                           |
 | MD5             | c624c5534eb0d0e3891491bc0da0c888                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

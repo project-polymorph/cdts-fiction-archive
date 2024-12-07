@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[旧文重贴]替代.doc]([皮物]_[旧文重贴]替代.do
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 58af3613621cd756f5fdd1b134a26ce1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

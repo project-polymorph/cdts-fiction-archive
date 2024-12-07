@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士，其之十，开端.docx]([皮物]_皮术士，
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22340 bytes                           |
 | MD5             | 6118edea54f5d4d27e04e12e27be2f92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

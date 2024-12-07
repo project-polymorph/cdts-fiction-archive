@@ -20,7 +20,7 @@ TXT 下载: [[变身]_M200的傀儡指挥官第2章_TMP的夜间突袭.doc]([变
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | d8849e30ff2ca17d727ab43a05200a5e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

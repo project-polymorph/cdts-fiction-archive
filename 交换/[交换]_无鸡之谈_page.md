@@ -20,7 +20,7 @@ TXT 下载: [[交换]_无鸡之谈.doc]([交换]_无鸡之谈.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 61f9e50fef827a731213aeae6b684556                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

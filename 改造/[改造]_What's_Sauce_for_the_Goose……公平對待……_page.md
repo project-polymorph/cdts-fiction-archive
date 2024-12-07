@@ -20,7 +20,7 @@ TXT 下载: [[改造]_What's_Sauce_for_the_Goose……公平對待…….docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27317 bytes                           |
 | MD5             | e3d2c140b7edc13173cd0c287dd6ffb9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Daphne DeYoung                               |
 | Region          | 未知                               |

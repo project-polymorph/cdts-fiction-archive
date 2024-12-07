@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_美人鱼（转移）.docx]([皮物]_美人鱼（转移）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20337 bytes                           |
 | MD5             | f1acbe0f798f50f6ec26b61245f41760                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

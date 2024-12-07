@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人生一击逆转~年轻的美女社长和底层赌徒大
 | Format          | Microsoft Word Document                               |
 | Size            | 82432 bytes                           |
 | MD5             | acbb11ae4525271cc242147f0c8f24e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

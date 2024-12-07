@@ -20,7 +20,7 @@ TXT 下载: [[变性]_（申码文）催眠改造人生.docx]([变性]_（申码
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32270 bytes                           |
 | MD5             | d3029edb782476216c5eb618f7a08322                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

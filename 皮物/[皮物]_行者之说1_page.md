@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_行者之说1.docx]([皮物]_行者之说1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19123 bytes                           |
 | MD5             | b5dc2f06cbed940f1b00d55faf186b1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

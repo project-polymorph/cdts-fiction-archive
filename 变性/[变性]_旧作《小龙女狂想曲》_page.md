@@ -20,7 +20,7 @@ TXT 下载: [[变性]_旧作《小龙女狂想曲》.docx]([变性]_旧作《小
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 153908 bytes                           |
 | MD5             | 2dd91905a8426edd5d487fad808f2705                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

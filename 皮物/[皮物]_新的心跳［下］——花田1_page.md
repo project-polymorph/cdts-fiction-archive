@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新的心跳［下］——花田1.docx]([皮物]_新的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37083 bytes                           |
 | MD5             | 68f05d94eab21fd0b3a42e108f26baac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

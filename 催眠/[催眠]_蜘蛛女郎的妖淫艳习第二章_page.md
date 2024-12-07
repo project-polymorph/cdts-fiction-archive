@@ -22,7 +22,7 @@ TXT 下载: [[催眠]_蜘蛛女郎的妖淫艳习第二章.doc]([催眠]_蜘蛛�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 70f203fb4eeb5c7365647a0609229e64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 重口味女王                               |
 | Region          | 未知                               |

@@ -26,7 +26,7 @@ TXT 下载: [[改造]_纯洁的淫落3.doc]([改造]_纯洁的淫落3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 31c24892a94eb1ba708e60d53c18f2d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

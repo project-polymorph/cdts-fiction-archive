@@ -20,7 +20,7 @@ TXT 下载: [[交换]_電話俱樂部.docx]([交换]_電話俱樂部.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41171 bytes                           |
 | MD5             | 60e4d45c93ce02183a91725dfac11a46                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | AAA114514                               |
 | Region          | 未知                               |

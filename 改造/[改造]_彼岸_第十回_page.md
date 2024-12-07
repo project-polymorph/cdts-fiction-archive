@@ -20,7 +20,7 @@ TXT 下载: [[改造]_彼岸_第十回.docx]([改造]_彼岸_第十回.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33762 bytes                           |
 | MD5             | afbb136638ee20f3fe8599ebaef67757                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

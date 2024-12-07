@@ -20,7 +20,7 @@ TXT 下载: [[变装]_处女作_小伪娘调教技术整理（献丑了）.doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 358400 bytes                           |
 | MD5             | d3ddae34534b4e87add499defc095d00                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

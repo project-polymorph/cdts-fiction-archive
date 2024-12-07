@@ -20,7 +20,7 @@ TXT 下载: [[改造]_顺手牵羊的代价.doc]([改造]_顺手牵羊的代价.
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | e584c35c59a836ae41c2aa80fcc8d5ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | vanillathunder                               |
 | Region          | 未知                               |

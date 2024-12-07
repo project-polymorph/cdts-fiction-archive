@@ -20,7 +20,7 @@ TXT 下载: [[交换]_用果冻汽水进行灵魂交换后的情色.docx]([交�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61878 bytes                           |
 | MD5             | 3378038150023e45a5e39f656f2b5f54                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

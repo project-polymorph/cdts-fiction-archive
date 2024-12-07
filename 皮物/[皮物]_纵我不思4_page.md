@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_纵我不思4.doc]([皮物]_纵我不思4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 71680 bytes                           |
 | MD5             | f4d221c55ffdfbbbb0e3093f4fdb02c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

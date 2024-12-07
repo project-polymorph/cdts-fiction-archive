@@ -20,7 +20,7 @@ TXT 下载: [[皮物]人皮夜店.doc]([皮物]人皮夜店.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 294c2812713c5f5ccca91913053ded5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

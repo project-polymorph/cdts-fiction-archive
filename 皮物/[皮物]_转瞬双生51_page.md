@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_转瞬双生51.pdf]([皮物]_转瞬双生51.pdf)
 | Format          | PDF Document                               |
 | Size            | 293005 bytes                           |
 | MD5             | f45aeac2ad82d299f8af610662fb64ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

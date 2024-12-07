@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮之使徒III】第二章！参见！.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | ca170e7bf13cc9cad78d8d223536ae48                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

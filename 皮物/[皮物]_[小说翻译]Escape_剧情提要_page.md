@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[小说翻译]Escape_剧情提要.docx]([皮物]_[小说�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31672 bytes                           |
 | MD5             | 8ee97f42ca8e755a8903c95f955c91d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

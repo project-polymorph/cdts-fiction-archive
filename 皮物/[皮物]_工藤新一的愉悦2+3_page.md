@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_工藤新一的愉悦2+3.doc]([皮物]_工藤新一的愉�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 3d56667970351a84aecb0a4420baf5c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

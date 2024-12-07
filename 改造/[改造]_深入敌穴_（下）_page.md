@@ -20,7 +20,7 @@ TXT 下载: [[改造]_深入敌穴_（下）.doc]([改造]_深入敌穴_（下�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 4a08307d7d1b6ea1f9ffecbf63a6584f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

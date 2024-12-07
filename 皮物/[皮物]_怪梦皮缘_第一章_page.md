@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪梦皮缘_第一章.doc]([皮物]_怪梦皮缘_第一�
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 4cf8708a4cd86b81af6e80597f87c79a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

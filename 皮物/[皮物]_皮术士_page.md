@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士.doc]([皮物]_皮术士.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 387584 bytes                           |
 | MD5             | dad45a51a309ca3b12107a9a7eed7c5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 苏                               |
 | Region          | 未知                               |

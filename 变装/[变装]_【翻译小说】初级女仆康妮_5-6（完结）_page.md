@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】初级女仆康妮_5-6（完结）.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33585 bytes                           |
 | MD5             | 9d53bb6a7f3f82aa09ebd9b6d854300b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

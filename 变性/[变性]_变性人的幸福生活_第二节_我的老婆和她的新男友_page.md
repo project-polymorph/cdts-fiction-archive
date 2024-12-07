@@ -20,7 +20,7 @@ TXT 下载: [[变性]_变性人的幸福生活_第二节_我的老婆和她的�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 34044b4dbfa159d505ec62b866e85718                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

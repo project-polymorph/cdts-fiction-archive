@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_青发的她_第一章+第二章_.docx]([皮物]_青发的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43913 bytes                           |
 | MD5             | 72fb0fcdf94af69208552488f61d33cd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

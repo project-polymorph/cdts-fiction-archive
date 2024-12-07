@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_基因片段的爱恋（一~三）申码文.docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32683 bytes                           |
 | MD5             | b598d3478e4bc573ac068e84fe7adf67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

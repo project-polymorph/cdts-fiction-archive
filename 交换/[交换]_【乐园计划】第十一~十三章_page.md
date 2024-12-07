@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【乐园计划】第十一~十三章.doc]([交换]_【乐
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 1479f409510a8fc057a8b36112fa7f45                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

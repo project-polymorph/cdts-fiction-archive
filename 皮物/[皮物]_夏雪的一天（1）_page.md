@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_夏雪的一天（1）.doc]([皮物]_夏雪的一天（1�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 4445aee943a5122cd59c3892bda999ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

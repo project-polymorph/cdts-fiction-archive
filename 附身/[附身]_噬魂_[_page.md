@@ -20,7 +20,7 @@ TXT 下载: [[附身]_噬魂_[.docx]([附身]_噬魂_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16261 bytes                           |
 | MD5             | f4314e4ab4db0c0c839501c10beb15f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

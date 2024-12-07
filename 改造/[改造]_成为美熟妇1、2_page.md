@@ -20,7 +20,7 @@ TXT 下载: [[改造]_成为美熟妇1、2.doc]([改造]_成为美熟妇1、2.do
 | Format          | Microsoft Word Document                               |
 | Size            | 88576 bytes                           |
 | MD5             | 19986fd0dd06c9985c53e75097f891c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 默默不语                               |
 | Region          | 中国大陆                               |

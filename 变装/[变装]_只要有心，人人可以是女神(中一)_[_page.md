@@ -20,7 +20,7 @@ TXT 下载: [[变装]_只要有心，人人可以是女神(中一)_[.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24403 bytes                           |
 | MD5             | 3100b471a7d4915071a8a1dc8eb3bbb0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | maya_cat                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_皮包1.docx]([变身]_皮包1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18195 bytes                           |
 | MD5             | 8c10577e412e755d389dbb48ca55391b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

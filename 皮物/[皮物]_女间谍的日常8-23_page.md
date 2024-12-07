@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女间谍的日常8-23.doc]([皮物]_女间谍的日常8-2
 | Format          | Microsoft Word Document                               |
 | Size            | 124928 bytes                           |
 | MD5             | 693f4f42e7bd78698d8fcb2da97c7f61                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

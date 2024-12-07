@@ -20,7 +20,7 @@ TXT 下载: [[其他]_夺走的人生--都是失控的人生.doc]([其他]_夺�
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | 2015e2bb9f908715e7645125a4f363c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

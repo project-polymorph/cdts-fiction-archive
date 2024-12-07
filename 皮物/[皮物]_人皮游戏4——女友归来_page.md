@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮游戏4——女友归来.docx]([皮物]_人皮游�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25296 bytes                           |
 | MD5             | d0db4ff82b4c0705ab28ced385b982fa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

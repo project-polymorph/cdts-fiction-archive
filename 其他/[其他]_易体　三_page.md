@@ -20,7 +20,7 @@ TXT 下载: [[其他]_易体　三.docx]([其他]_易体　三.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54056 bytes                           |
 | MD5             | 96fcaaf429f88d2698ed9c0d1b7a7ec5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

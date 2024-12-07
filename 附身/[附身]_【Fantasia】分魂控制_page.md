@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【Fantasia】分魂控制.doc]([附身]_【Fantasia】分
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | cf4fc353b7389d1591bbed11565a5063                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_作死的偽青梅竹馬也想打野戰!.doc]([皮物]_作
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | fce43b3bd3f55afb60e5ea43467f9be4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

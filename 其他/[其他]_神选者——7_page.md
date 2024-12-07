@@ -20,7 +20,7 @@ TXT 下载: [[其他]_神选者——7.docx]([其他]_神选者——7.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21802 bytes                           |
 | MD5             | 0d78be1f32012d6184aa2930d1d1db1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 齐腾一                               |
 | Region          | 未知                               |

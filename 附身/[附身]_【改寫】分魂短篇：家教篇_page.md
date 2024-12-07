@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【改寫】分魂短篇：家教篇.doc]([附身]_【改�
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | 061c5bfa5d365f747f4244c7ff33ccbe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | S道人                               |
 | Region          | 未知                               |

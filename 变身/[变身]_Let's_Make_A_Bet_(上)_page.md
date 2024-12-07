@@ -20,7 +20,7 @@ TXT 下载: [[变身]_Let's_Make_A_Bet_(上).docx]([变身]_Let's_Make_A_Bet_(�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35880 bytes                           |
 | MD5             | c7e28bde1209892530d1880e6b1e4cd8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Phoebos                               |
 | Region          | 未知                               |

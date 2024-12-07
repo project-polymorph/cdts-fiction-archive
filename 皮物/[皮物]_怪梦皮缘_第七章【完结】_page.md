@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪梦皮缘_第七章【完结】.doc]([皮物]_怪梦皮
 | Format          | Microsoft Word Document                               |
 | Size            | 83968 bytes                           |
 | MD5             | 903f335e009a855857b7be98c36a5d7b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

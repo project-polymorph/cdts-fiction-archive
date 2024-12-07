@@ -20,7 +20,7 @@ TXT 下载: [[变身]_愚人节.docx]([变身]_愚人节.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26649 bytes                           |
 | MD5             | 59e569c18307b02143ed85c30b2c32cd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

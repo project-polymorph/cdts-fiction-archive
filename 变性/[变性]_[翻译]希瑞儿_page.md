@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[翻译]希瑞儿.docx]([变性]_[翻译]希瑞儿.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34542 bytes                           |
 | MD5             | 994199855e8c0dfb43bfbc8853722879                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

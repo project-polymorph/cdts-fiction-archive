@@ -20,7 +20,7 @@ TXT 下载: [[变性]_周庄梦蝶，爱欲妒恨.doc]([变性]_周庄梦蝶，�
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 9040d8fdb51214f99e3ad2952e79a93d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [望着飞机窗户外的白云.docx](望着飞机窗户外的白云
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 14338 bytes                           |
 | MD5             | 275c788f6bb32964adcafd8401350632                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

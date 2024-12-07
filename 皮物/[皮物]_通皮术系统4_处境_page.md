@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_通皮术系统4_处境.docx]([皮物]_通皮术系统4_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23974 bytes                           |
 | MD5             | d5aa942089e3c186149eff8185103adc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

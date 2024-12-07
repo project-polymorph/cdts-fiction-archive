@@ -20,7 +20,7 @@ TXT 下载: [[附身]_sin_sister.doc]([附身]_sin_sister.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 113152 bytes                           |
 | MD5             | 54cc3f131bb2409a5158096f976f1e72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

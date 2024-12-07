@@ -20,7 +20,7 @@ TXT 下载: [[变身]_仿皮客.docx]([变身]_仿皮客.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34673 bytes                           |
 | MD5             | 51d3655b9a1debf0fa4bcfa22be076d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

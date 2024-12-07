@@ -20,7 +20,7 @@ TXT 下载: [[变身]_闭锁城堡.docx]([变身]_闭锁城堡.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19902 bytes                           |
 | MD5             | b1a9379a529edef7bc5fc6e4c06e21a4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

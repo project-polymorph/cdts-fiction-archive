@@ -20,7 +20,7 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_17_玉女心经_神秘暗室.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20498 bytes                           |
 | MD5             | b36f02f50a6ff015e5c0200f34aee93c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

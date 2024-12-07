@@ -20,7 +20,7 @@ TXT 下载: [[附身]_神奇手机（第四章）.doc]([附身]_神奇手机（�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 3c4e363601b951ca37cb33a435b7a627                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

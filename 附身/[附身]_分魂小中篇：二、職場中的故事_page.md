@@ -20,7 +20,7 @@ TXT 下载: [[附身]_分魂小中篇：二、職場中的故事.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22781 bytes                           |
 | MD5             | 30f809e34c0c9bdf26d629b08278cac5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

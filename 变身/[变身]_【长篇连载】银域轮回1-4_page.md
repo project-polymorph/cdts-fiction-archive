@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【长篇连载】银域轮回1-4.doc]([变身]_【长篇�
 | Format          | Microsoft Word Document                               |
 | Size            | 87552 bytes                           |
 | MD5             | dc8d858f914914d8a8f0050d3742aa4e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 口吞日月                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[这篇这么刺激，回复居然少]All_Things_Being_Equ
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 93984 bytes                           |
 | MD5             | 3ed26688cdcca7baa3111d5e11663253                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

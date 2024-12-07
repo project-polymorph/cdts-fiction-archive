@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_为了我的新手奖励二~~《迷》~~主要更新内容
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 79083 bytes                           |
 | MD5             | 112f7a04846ab5b1a39730593f9b664a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

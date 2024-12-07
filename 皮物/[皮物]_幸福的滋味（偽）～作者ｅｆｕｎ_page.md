@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_幸福的滋味（偽）～作者ｅｆｕｎ.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25799 bytes                           |
 | MD5             | 951001ed24555c27f3965b85f2015ebc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | efuns                               |
 | Region          | 未知                               |

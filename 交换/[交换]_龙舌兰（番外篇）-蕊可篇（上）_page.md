@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰（番外篇）-蕊可篇（上）.docx]([交换]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29784 bytes                           |
 | MD5             | a5479335fefbbd476697ec13b12306f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

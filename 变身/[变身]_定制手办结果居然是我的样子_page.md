@@ -20,7 +20,7 @@ TXT 下载: [[变身]_定制手办结果居然是我的样子.docx]([变身]_定
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29582 bytes                           |
 | MD5             | 14a25c9db72c11883d6216d7645bca79                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

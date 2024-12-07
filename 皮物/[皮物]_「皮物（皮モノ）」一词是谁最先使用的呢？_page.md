@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_「皮物（皮モノ）」一词是谁最先使用的呢�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 9b2948acafe99516140bcc3ace800507                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | toshi9                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_舌蛊巫.doc]([附身]_舌蛊巫.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | f147d420da55a3618abb6347f37398e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

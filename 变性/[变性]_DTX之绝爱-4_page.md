@@ -20,7 +20,7 @@ TXT 下载: [[变性]_DTX之绝爱-4.doc]([变性]_DTX之绝爱-4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | b896bf0eca81b49bfc96624017f35221                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

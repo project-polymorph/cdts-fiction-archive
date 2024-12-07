@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_皮癮戲【貳】02.doc]([皮物]_皮癮戲【貳】02.do
 | Format          | Microsoft Word Document                               |
 | Size            | 145408 bytes                           |
 | MD5             | 01adddb86030f561101fc4608c998780                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | FDisguise                               |
 | Region          | 未知                               |

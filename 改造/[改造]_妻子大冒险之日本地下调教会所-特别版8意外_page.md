@@ -20,7 +20,7 @@ TXT 下载: [[改造]_妻子大冒险之日本地下调教会所-特别版8意�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20326 bytes                           |
 | MD5             | 90dd7cdcbfe0d1da6dece14d7a03471a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

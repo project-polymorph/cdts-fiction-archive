@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_仁石（替天行道）1-3.docx]([皮物]_仁石（替天
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 59750 bytes                           |
 | MD5             | 91b4d44261799e7c0c926fa2263e7b50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

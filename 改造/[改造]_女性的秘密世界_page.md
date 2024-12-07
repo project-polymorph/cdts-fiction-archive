@@ -20,7 +20,7 @@ TXT 下载: [[改造]_女性的秘密世界.doc]([改造]_女性的秘密世界.
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | c0b33cae4776e6de5600f7921fd3e1d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Claire Fun Angel                               |
 | Region          | 未知                               |

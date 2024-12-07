@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮背后的陷阱（二）.docx]([皮物]_人皮背后
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16692 bytes                           |
 | MD5             | 2237a598f49ebf336007d7b278524c07                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | dna228                               |
 | Region          | 未知                               |

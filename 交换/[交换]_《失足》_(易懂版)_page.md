@@ -20,7 +20,7 @@ TXT 下载: [[交换]_《失足》_(易懂版).docx]([交换]_《失足》_(易�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26286 bytes                           |
 | MD5             | 26e35bc4b616946e3ce0ebebc2e51e92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Eric                               |
 | Region          | 未知                               |

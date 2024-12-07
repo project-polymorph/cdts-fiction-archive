@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《牧神记同人》_第五章_作者：天天吃稀饭.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44111 bytes                           |
 | MD5             | 9636ccae81682265fef1f7e65df91bc6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 天天吃稀饭                               |
 | Region          | 中国大陆                               |

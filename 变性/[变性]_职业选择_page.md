@@ -20,7 +20,7 @@ TXT 下载: [[变性]_职业选择.doc]([变性]_职业选择.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 7ead1b217964ef89c060d7d459b0e4a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Unknown（不明）                               |
 | Region          | 未知                               |

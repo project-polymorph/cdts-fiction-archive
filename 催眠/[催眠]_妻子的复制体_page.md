@@ -22,7 +22,7 @@ TXT 下载: [[催眠]_妻子的复制体.doc]([催眠]_妻子的复制体.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 2b97f1e4ecb7b870128da8cf56603a18                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

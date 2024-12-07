@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换之深度卧底（2）.docx]([交换]_交换之深�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41539 bytes                           |
 | MD5             | 4b99b71cbc89a31430793f104d6aa358                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

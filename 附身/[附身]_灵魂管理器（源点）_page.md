@@ -22,7 +22,7 @@ TXT 下载: [[附身]_灵魂管理器（源点）.docx]([附身]_灵魂管理器
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22314 bytes                           |
 | MD5             | 24fb43d9cf8764e3a422d5b2ef2dd587                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

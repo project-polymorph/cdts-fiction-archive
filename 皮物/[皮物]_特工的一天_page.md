@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_特工的一天.doc]([皮物]_特工的一天.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 7d2aa4b1edf9c38efe62f337917dc49c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

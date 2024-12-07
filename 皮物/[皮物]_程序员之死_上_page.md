@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_程序员之死_上.doc]([皮物]_程序员之死_上.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 32cc2586e8aed60f6669d4e8a83aae57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

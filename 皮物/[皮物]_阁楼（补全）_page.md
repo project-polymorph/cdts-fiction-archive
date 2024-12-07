@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_阁楼（补全）.docx]([皮物]_阁楼（补全）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21556 bytes                           |
 | MD5             | 29bfab641fd6667ebdff6346f8482f95                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

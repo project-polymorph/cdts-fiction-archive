@@ -20,7 +20,7 @@ TXT 下载: [[其他]_恭喜KDA女团4V5战胜FNC获得世界冠军！.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26922 bytes                           |
 | MD5             | da19ab513ea18941b16beb334832091c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

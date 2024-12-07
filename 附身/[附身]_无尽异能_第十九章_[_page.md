@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能_第十九章_[.docx]([附身]_无尽异能_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17777 bytes                           |
 | MD5             | 6aa15262617e7ba8751db8d69a00bbbf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

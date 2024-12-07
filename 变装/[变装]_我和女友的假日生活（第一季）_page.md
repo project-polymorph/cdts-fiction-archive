@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我和女友的假日生活（第一季）.docx]([变装]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33751 bytes                           |
 | MD5             | 5e6fc6675a104f5d2ede222c77dafcc1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

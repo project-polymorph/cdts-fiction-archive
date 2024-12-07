@@ -20,7 +20,7 @@ TXT 下载: [【万万没想到】万万没想到.doc](【万万没想到】万�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | cd50377bce1bcd581b599276f790012e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

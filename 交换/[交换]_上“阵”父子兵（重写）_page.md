@@ -20,7 +20,7 @@ TXT 下载: [[交换]_上“阵”父子兵（重写）.doc]([交换]_上“阵�
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | 8e3a7db0489f9bcb79e84e8985678285                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

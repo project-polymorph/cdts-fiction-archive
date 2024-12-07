@@ -20,7 +20,7 @@ TXT 下载: [[其他]_当男人变成女孩子后会不会幻痛呢？.doc]([其
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 998204a930fc545811053ea618b34cc8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

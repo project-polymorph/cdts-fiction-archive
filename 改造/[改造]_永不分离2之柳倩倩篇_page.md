@@ -20,7 +20,7 @@ TXT 下载: [[改造]_永不分离2之柳倩倩篇.doc]([改造]_永不分离2�
 | Format          | Microsoft Word Document                               |
 | Size            | 134144 bytes                           |
 | MD5             | 5f2af8480ab3c9e7ea324728a2da99aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

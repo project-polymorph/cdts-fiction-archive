@@ -20,7 +20,7 @@ TXT 下载: [[其他]_长生镜8.docx]([其他]_长生镜8.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18846 bytes                           |
 | MD5             | 6c8beea5a1e1cc430f19f172f0dc9042                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_援交.docx]([交换]_援交.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26526 bytes                           |
 | MD5             | b6d6b98ba82768132dd5c9eaccb4a244                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

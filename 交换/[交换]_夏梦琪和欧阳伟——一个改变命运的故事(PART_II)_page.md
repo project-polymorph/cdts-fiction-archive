@@ -20,7 +20,7 @@ TXT 下载: [[交换]_夏梦琪和欧阳伟——一个改变命运的故事(PAR
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20678 bytes                           |
 | MD5             | f784bf51b4bd9eb9266489038eee54f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Eric                               |
 | Region          | 中国大陆                               |

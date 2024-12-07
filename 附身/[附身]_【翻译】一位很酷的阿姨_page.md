@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【翻译】一位很酷的阿姨.docx]([附身]_【翻译
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58855 bytes                           |
 | MD5             | 92e2fb84a2ce32e81c92280504bda8b6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | BluePossession                               |
 | Region          | 未知                               |

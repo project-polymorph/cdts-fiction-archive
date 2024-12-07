@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_精灵之歌_第三章.docx]([皮物]_精灵之歌_第三�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31486 bytes                           |
 | MD5             | 024b16a9e667ef9c3580798cec6ca4b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_高跟鞋的指导.doc]([其他]_高跟鞋的指导.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 89c77493b27c5584e57485e8ce636ac1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

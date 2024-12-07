@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔物大陆_第四章.docx]([皮物]_魔物大陆_第四�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19143 bytes                           |
 | MD5             | 05cee8525c40c39fe5effb1d828d3975                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

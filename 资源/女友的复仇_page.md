@@ -20,7 +20,7 @@ TXT 下载: [女友的复仇.doc](女友的复仇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 2a780f1f3453fd0154d287f4e60764db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | whh                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我亲爱的妈妈——小李篇修改版.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21950 bytes                           |
 | MD5             | b99945f46c4a366c90243b0c3fe54a89                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

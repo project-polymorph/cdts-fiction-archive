@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译变身】在商场发生的变化.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | eee83ee33159ef9b65c90efa828d68b4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Hello329                               |
 | Region          | 未知                               |

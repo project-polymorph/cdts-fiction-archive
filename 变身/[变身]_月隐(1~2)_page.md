@@ -20,7 +20,7 @@ TXT 下载: [[变身]_月隐(1~2).docx]([变身]_月隐(1~2).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38734 bytes                           |
 | MD5             | d92f75ed17226ca7506b6391c7be7ffc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_真人游戏1-3.docx]([其他]_真人游戏1-3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47724 bytes                           |
 | MD5             | 04d5c0d6323ba8e859a7f3070a291bc6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

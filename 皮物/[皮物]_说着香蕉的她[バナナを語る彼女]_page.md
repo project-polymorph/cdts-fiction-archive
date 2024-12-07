@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_说着香蕉的她[バナナを語る彼女].doc]([皮物]
 | Format          | Microsoft Word Document                               |
 | Size            | 70144 bytes                           |
 | MD5             | 28eab9c5f5df912bdc73350f56d614a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 無名                               |
 | Region          | 未知                               |

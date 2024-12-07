@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【蠶食】.doc]([其他]_【蠶食】.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | e8994b4b9ea9a3e3fc793791398f6a00                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

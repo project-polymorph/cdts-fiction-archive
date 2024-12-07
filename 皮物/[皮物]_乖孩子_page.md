@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_乖孩子.docx]([皮物]_乖孩子.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34055 bytes                           |
 | MD5             | fe804e56b6d7bf3d7636eccc8e2041f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

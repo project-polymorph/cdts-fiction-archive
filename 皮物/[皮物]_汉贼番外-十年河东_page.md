@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_汉贼番外-十年河东.docx]([皮物]_汉贼番外-十�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33941 bytes                           |
 | MD5             | b363a472b8b453fbde8508910aefe8ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

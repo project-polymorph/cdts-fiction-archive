@@ -20,7 +20,7 @@ TXT 下载: [[附身]_實驗（3）.docx]([附身]_實驗（3）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19853 bytes                           |
 | MD5             | 8e98a589697474ffc86381008529b275                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_夫妻，外遇，洗脑，变性.doc]([变性]_夫妻，�
 | Format          | Microsoft Word Document                               |
 | Size            | 68608 bytes                           |
 | MD5             | dc5db9818667017da839c642748aecaf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

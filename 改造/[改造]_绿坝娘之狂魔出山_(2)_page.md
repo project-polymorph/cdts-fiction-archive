@@ -20,7 +20,7 @@ TXT 下载: [[改造]_绿坝娘之狂魔出山_(2).docx]([改造]_绿坝娘之�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 85235 bytes                           |
 | MD5             | 2c7bb9e00fb3b26e58d1c26f5f5f3ecf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

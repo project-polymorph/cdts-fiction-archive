@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的皮物女友第二章.docx]([皮物]_我的皮物女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23085 bytes                           |
 | MD5             | ecfd8cfb8ab4664a7d113c652784c566                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

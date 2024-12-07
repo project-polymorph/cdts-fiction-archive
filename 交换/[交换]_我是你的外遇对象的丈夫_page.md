@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我是你的外遇对象的丈夫.docx]([交换]_我是你
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43512 bytes                           |
 | MD5             | ae41fd28b55e1b303786385fefd342db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

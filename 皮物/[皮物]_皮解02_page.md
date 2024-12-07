@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮解02.docx]([皮物]_皮解02.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18958 bytes                           |
 | MD5             | efe308b0190a251a38d3ac45e4025ff8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

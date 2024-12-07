@@ -20,7 +20,7 @@ TXT 下载: [[其他]_洗脚工阿文的故事（申码文修改版）.doc]([其
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | a4e384828f0da9f527fcba31361246f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

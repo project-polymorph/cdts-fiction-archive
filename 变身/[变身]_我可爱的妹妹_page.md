@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我可爱的妹妹.doc]([变身]_我可爱的妹妹.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 5bbc22674aea2bdd76009577da819642                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Ellie Dauber                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_李思思的最后一夜.docx]([变装]_李思思的最后
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22755 bytes                           |
 | MD5             | a0a4541a0123c2f67cdda06def33278a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

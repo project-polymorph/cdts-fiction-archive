@@ -20,7 +20,7 @@ TXT 下载: [[改造]_（佣兵区悬赏文）The_Fairy_Princess_Chapter_1.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22271 bytes                           |
 | MD5             | 56f5b62ad9e046b2c9749010c5175638                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

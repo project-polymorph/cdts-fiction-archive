@@ -20,7 +20,7 @@ TXT 下载: [[变装]_女卧底的自述2.docx]([变装]_女卧底的自述2.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19717 bytes                           |
 | MD5             | c8a87ed5be356d45ae32870f86131dbf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

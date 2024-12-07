@@ -20,7 +20,7 @@ TXT 下载: [[交换]_夏姝婷的新生.docx]([交换]_夏姝婷的新生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36783 bytes                           |
 | MD5             | 461a9f0a6283b6d25b34048140d594f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

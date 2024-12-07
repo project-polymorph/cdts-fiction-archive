@@ -20,7 +20,7 @@ TXT 下载: [[变装]_人生一场梦（四十四）.docx]([变装]_人生一场
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20736 bytes                           |
 | MD5             | 116dc9efb0a4adc90f358d0a2fe84d19                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

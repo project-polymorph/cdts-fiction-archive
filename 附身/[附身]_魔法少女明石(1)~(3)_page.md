@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔法少女明石(1)~(3).docx]([附身]_魔法少女明�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是名为《魔法少女明石》的小说部分内容。故事围绕一个名叫明石夏美的14岁魔法少女展开，她帮助同伴消灭了一个邪恶王国的秘密基地。夏美心情愉快，因为最近的胜利让她感到满意。然而，文中还详细描述了她在进行所谓的‘丰胸按摩’时的心理和身体感受。夏美不知道这个按摩其实是隐含的自慰行为，而她的行为在不知情的情况下引发了巨大的欲望。随着故事的发展，夏美的青春懵懂与性觉醒交织在一起，这也反映出一些关于性别认同和自我探索的主题。该作品容涉及较为露骨的性内容，具体场景描写了夏美的身体感受和内心的挣扎，对少女时期的身体变化进行了 erotica 的讨论。同时，该文档的整体基调展现了一种魔法少女与邪恶势力斗争的奇幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔法少女明石(1)~(3).docx]([附身]_魔法少女明�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41013 bytes                           |
 | MD5             | b8735a7dc2840f2f56d9073048a4e58e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 性转, 自我探索, 青春期, 欲望, 丰胸, 自慰, 幻想, 性别认同, 少女, 第二次元, 变身, TSF                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

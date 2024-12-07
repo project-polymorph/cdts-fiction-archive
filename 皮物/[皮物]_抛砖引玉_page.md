@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_抛砖引玉.doc]([皮物]_抛砖引玉.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 294400 bytes                           |
 | MD5             | ec0cef14a0c5d6440d221c0cebbbc7c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

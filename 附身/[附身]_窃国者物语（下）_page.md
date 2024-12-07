@@ -20,7 +20,7 @@ TXT 下载: [[附身]_窃国者物语（下）.doc]([附身]_窃国者物语（�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | a335b523fedd476c64de9e08b14aef2e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

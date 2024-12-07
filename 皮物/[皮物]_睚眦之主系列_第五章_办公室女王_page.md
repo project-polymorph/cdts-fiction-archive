@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_睚眦之主系列_第五章_办公室女王.docx]([皮物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50375 bytes                           |
 | MD5             | 421b819225d72492ae400bcafc343595                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

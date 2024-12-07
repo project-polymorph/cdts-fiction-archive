@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月神_——_S2_【开放式短篇——3P组合】.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18390 bytes                           |
 | MD5             | 7a4ba35b43037da8337126b9555ed73c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

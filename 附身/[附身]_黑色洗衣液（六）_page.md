@@ -7,7 +7,7 @@ TXT 下载: [[附身]_黑色洗衣液（六）.docx]([附身]_黑色洗衣液（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《黑色洗衣液（六）》是伪娘变身与跨性别相关小说的一部分，围绕主角刘总与他的妻子小闫，以及情人苏秋之间复杂的情感纠葛展开。故事开篇，刘总在 স্ত্রী小闫的关心中匆匆出门，却暗中前往苏秋的新居。在小闫暗中观察和调查的过程中，发现刘总与苏秋的暧昧关系，两者之间的对抗与冲突逐渐加剧。苏秋不仅对刘总心怀不轨，还拥有可以改变外貌的能力，将小闫的形态和意识模糊不清地操控，引发了一系列戏剧性的变化和深层的探索。内容中涉及强烈的性暗示，生动描绘了角色间的灵肉交融，体现出性别认同与自我探索的主题。因此，该文档将作为研究二次元性转与跨性别文学的重要资料。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_黑色洗衣液（六）.docx]([附身]_黑色洗衣液（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20735 bytes                           |
 | MD5             | c9c72fcd8933bf70c8051bd75ce0a28f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 和谐号列车长                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 情感纠葛, 家庭关系, 异界穿越, 身体改造, 强烈性暗示, 角色冲突, 男性视角, 爱情, NTR, 成人内容, 女性视角, 变嫁, 强奸, 淫荡, 调教, 变态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

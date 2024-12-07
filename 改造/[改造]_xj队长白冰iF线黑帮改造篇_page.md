@@ -20,7 +20,7 @@ TXT 下载: [[改造]_xj队长白冰iF线黑帮改造篇.docx]([改造]_xj队长
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32599 bytes                           |
 | MD5             | 8f2119a5d8b6a9ed97130714a4f96af3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮化症_-_白夜.docx]([皮物]_皮化症_-_白夜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43477 bytes                           |
 | MD5             | 8a0e1e45aa2f858060a67cf4bd609c21                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

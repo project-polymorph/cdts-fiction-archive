@@ -20,7 +20,7 @@ TXT 下载: [[交换]_应该分享的责任_第九章.docx]([交换]_应该分�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28361 bytes                           |
 | MD5             | 86f34548bbd3d200caf7e773649688d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

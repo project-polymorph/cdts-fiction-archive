@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《十五章》.doc]([皮物
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | da5eefbd1ed0aeac5a33a7ea1322f4aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

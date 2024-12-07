@@ -20,7 +20,7 @@ TXT 下载: [[其他]_变身欲望_序章.doc]([其他]_变身欲望_序章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | b98012db622c5f20ea830bc0ed2421bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

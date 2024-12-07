@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_神炼空间物语_第二话_[.docx]([皮物]_神炼空间
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20548 bytes                           |
 | MD5             | 39bf4908337e72389b3b69cfcee0a778                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_阿拉伯之夜：忍耐.doc]([改造]_阿拉伯之夜：�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | f83d3f858a75447a090f2853fdc4e344                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

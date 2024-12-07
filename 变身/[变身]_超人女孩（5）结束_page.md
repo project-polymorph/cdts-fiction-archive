@@ -20,7 +20,7 @@ TXT 下载: [[变身]_超人女孩（5）结束.docx]([变身]_超人女孩（5�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22775 bytes                           |
 | MD5             | a668e3c427338acb293840cd15b06876                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

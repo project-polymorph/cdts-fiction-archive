@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第七章_世界观.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32361 bytes                           |
 | MD5             | 381bf480ceb7e57d9d0b2323484553bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

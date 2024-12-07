@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《碟中谍》再见，阿芙罗拉.doc]([皮物]_《碟�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | b7f971461db29c9b6db9b6be61d4d94f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【S道人】True・calling_真實的呼叫.docx]([附身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54802 bytes                           |
 | MD5             | 6a21fab4b958f972ce1c0353fca14a6d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | S道人                               |
 | Region          | 未知                               |

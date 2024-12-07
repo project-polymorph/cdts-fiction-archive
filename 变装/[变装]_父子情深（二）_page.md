@@ -20,7 +20,7 @@ TXT 下载: [[变装]_父子情深（二）.docx]([变装]_父子情深（二）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23733 bytes                           |
 | MD5             | c1723b803cc89e7c6765f48b624c00e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

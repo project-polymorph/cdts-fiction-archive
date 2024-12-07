@@ -20,7 +20,7 @@ TXT 下载: [[附身]_神王印（申码文）.doc]([附身]_神王印（申码�
 | Format          | Microsoft Word Document                               |
 | Size            | 652800 bytes                           |
 | MD5             | a587b6061ab5d6b66e11004a51eef1da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

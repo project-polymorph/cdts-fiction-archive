@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文重发）想要逃出魔王城的勇者（后�
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | ed6f895ad51e8ff2f8acb6a8630cf90a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

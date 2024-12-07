@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【翻译】成为我的女朋友.doc]([交换]_【翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 190464 bytes                           |
 | MD5             | e0a72447bd22c8a56f43f04c05ee0427                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jaana（翻译：魔之天涯）                               |
 | Region          | 未知                               |

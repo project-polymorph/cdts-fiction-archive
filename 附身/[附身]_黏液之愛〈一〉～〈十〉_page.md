@@ -7,7 +7,7 @@ TXT 下载: [[附身]_黏液之愛〈一〉～〈十〉.doc]([附身]_黏液之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别主题的小说，名为《黏液之愛》，主要围绕主人公在实现与心爱之人张梦茹融为一体的过程中所经历的心理变化与身体转变。故事由强烈的爱慕感情引发，主人公通过一瓶能够‘史萊姆化’的饮料实现了对自身性别的改变，成为了他所追求的女子。从初次相遇的Instagram照片到为了见到梦茹而辞去办公工作成为外送员，主人公的爱意与执念逐渐升级。在最终成功侵入梦茹身体后，主人公享受着与梦茹共同体会的快感，而两人之间的心理斗争也逐渐显现，梦茹无法对这种突如其来的控制感到无能为力，整个情节呈现出一种强烈的幻想与渴望交织的氛围，探索了自我认同与跨越身体界限的主题。此小说含有情色内容及性描写，并涉及各种性别与身体转换的视觉与心理体验。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_黏液之愛〈一〉～〈十〉.doc]([附身]_黏液之�
 | Format          | Microsoft Word Document                               |
 | Size            | 327168 bytes                           |
 | MD5             | 58c7d8bcd9e211b22882a92130747198                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 幻想, 变身, 爱情, 自我认同, 心理斗争, 梦境, 青年, 内心探索, 心理恐怖, 肉体与灵魂, 妖怪, 虚拟身份, 身体改变, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

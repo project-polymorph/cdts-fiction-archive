@@ -20,7 +20,7 @@ TXT 下载: [[变性]_审码文重发_王子的堕落（一）.docx]([变性]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27307 bytes                           |
 | MD5             | 5649d69e662a552ba80d555b18333240                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_SCP-CDB-021_奇怪的球.docx]([其他]_SCP-CDB-021_奇怪
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21178 bytes                           |
 | MD5             | b7a283177137878cdfd9d0194f3b4378                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

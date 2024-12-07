@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《关于我和恶魔大小姐的日常》1.doc]([变身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 8417d2e0d508ed950547fb224e180b74                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

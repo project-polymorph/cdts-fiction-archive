@@ -20,7 +20,7 @@ TXT 下载: [[变身]_極致的甜味.docx]([变身]_極致的甜味.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23118 bytes                           |
 | MD5             | c42c02b5bf702820695d72161ed5b91f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

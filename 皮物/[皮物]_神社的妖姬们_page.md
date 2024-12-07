@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_神社的妖姬们.docx]([皮物]_神社的妖姬们.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34046 bytes                           |
 | MD5             | 96d4e1d9f31df5752f8230a0e63cc9e1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

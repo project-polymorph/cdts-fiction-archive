@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【新年贺文】出生、死亡和婚姻.doc]([变性]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 4582f1a931a1312ed5556109dfe82e6d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

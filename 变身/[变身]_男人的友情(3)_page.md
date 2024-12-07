@@ -22,7 +22,7 @@ TXT 下载: [[变身]_男人的友情(3).docx]([变身]_男人的友情(3).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18263 bytes                           |
 | MD5             | 4a7453d341c64e8b0b4d4263327a4356                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

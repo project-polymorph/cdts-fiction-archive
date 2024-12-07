@@ -20,7 +20,7 @@ TXT 下载: [[改造]_凤涎香_二.doc]([改造]_凤涎香_二.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 374ea6f44f8090232dfb83346b5512ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

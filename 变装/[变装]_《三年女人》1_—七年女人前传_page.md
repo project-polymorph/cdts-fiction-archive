@@ -22,7 +22,7 @@ TXT 下载: [[变装]_《三年女人》1_—七年女人前传.doc]([变装]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 301c2dae887d5c905b5a0383500f4895                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

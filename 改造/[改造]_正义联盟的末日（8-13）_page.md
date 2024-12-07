@@ -20,7 +20,7 @@ TXT 下载: [[改造]_正义联盟的末日（8-13）.docx]([改造]_正义联�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62811 bytes                           |
 | MD5             | aa38c0b151b62d586ace874bf3678bab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

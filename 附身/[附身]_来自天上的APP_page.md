@@ -20,7 +20,7 @@ TXT 下载: [[附身]_来自天上的APP.docx]([附身]_来自天上的APP.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23950 bytes                           |
 | MD5             | c4c82702b05b1a09f002eb2446b73cab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

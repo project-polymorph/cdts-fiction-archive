@@ -20,7 +20,7 @@ TXT 下载: [[变性]_超人女孩（3）.docx]([变性]_超人女孩（3）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33562 bytes                           |
 | MD5             | d937a5e4fafc985dade87ad29b518104                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

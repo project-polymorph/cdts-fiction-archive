@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(四）籃球場上.doc]([改造]_[小晰]
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | 39b7e10f2f04196e77a8c4f570445bd6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

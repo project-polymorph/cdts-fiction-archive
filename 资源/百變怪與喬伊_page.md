@@ -20,7 +20,7 @@ TXT 下载: [百變怪與喬伊.doc](百變怪與喬伊.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | a850e2a508089c3eb51e48ff9396ede8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

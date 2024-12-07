@@ -20,7 +20,7 @@ TXT 下载: [[变身]_成为白狼巫女的少年_第壹章_白狼巫女在夜�
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | 2acbb5a4576135dbb9c720c7f790989d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

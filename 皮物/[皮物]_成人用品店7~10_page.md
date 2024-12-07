@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_成人用品店7~10.doc]([皮物]_成人用品店7~10.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 26d370cb0087b4aea401961d78041751                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

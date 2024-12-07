@@ -20,7 +20,7 @@ TXT 下载: [[其他]_Kat's_Eyes_4_完结.docx]([其他]_Kat's_Eyes_4_完结.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20421 bytes                           |
 | MD5             | 5ac70c2e636e83751b906b411908689f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

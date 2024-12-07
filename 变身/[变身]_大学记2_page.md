@@ -20,7 +20,7 @@ TXT 下载: [[变身]_大学记2.doc]([变身]_大学记2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | f1a66933e0cef6d733f77b1454968ad9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 人生万花筒                               |
 | Region          | 未知                               |

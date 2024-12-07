@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_冤冤相报_第一章_吕薇薇.docx]([皮物]_冤冤相�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23205 bytes                           |
 | MD5             | f63094bf6a59c658f8a3bd59dcbf1dad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

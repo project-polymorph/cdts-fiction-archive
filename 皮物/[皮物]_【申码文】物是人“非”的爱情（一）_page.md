@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文】物是人“非”的爱情（一）.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 70602 bytes                           |
 | MD5             | d6d257e1830432581835829c599cdcda                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

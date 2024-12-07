@@ -20,7 +20,7 @@ TXT 下载: [[附身]_东方之融合寄生2.docx]([附身]_东方之融合寄�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24368 bytes                           |
 | MD5             | b6c7131695d72b789b2d24a81c56d4c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

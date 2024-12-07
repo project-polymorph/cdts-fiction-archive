@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译小说】巴黎资产阶级的驯化1-9.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55590 bytes                           |
 | MD5             | dc9c47d64c0ed7934bafd59813ccae5d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Monica Graz                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_假面.docx]([变身]_假面.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17015 bytes                           |
 | MD5             | 382e738c6c507761d4d32ee111bc6171                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

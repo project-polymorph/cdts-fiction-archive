@@ -20,7 +20,7 @@ TXT 下载: [[变身]_魔法少女？！蜘蛛！.docx]([变身]_魔法少女？
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34798 bytes                           |
 | MD5             | bd6dd92c8fa15024137302eedd648435                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_送货员.docx]([皮物]_送货员.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22910 bytes                           |
 | MD5             | 9321505ca39197ea8b4e1f8184082a4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

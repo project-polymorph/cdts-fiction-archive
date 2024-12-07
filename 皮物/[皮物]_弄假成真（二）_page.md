@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_弄假成真（二）.docx]([皮物]_弄假成真（二）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15169 bytes                           |
 | MD5             | 2a7898bf413c5a5fde95e3e9440a0203                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

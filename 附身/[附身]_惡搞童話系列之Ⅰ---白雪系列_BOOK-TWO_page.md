@@ -20,7 +20,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-TWO.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16737 bytes                           |
 | MD5             | 92222a5dc62f747e6f3fe180c2a40b37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_损友的奇葩超能力（八）.docx]([交换]_损友的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26944 bytes                           |
 | MD5             | 8a96243a33bbd6ac3fc71d5ef3421458                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

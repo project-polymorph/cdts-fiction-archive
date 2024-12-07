@@ -20,7 +20,7 @@ TXT 下载: [[交换]_绽放在黯暗炼狱中的蒲公英花(第二章)_[.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26294 bytes                           |
 | MD5             | dc9494f19d780f58c6e7035d32ab756b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

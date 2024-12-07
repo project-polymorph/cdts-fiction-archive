@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Secret_Garden_of_Morphling_［上］_Jasmine篇.doc]([皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 1204224 bytes                           |
 | MD5             | 3cd701b2b18cc69ac073603503ede9e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

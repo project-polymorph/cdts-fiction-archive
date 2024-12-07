@@ -20,7 +20,7 @@ TXT 下载: [[交换]_[申码文]妹妹和青梅竹马的惨烈修罗场.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 97280 bytes                           |
 | MD5             | b42f08f04b7ffb99d2cad311d147f415                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

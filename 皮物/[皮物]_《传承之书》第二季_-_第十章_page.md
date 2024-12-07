@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《传承之书》第二季_-_第十章.doc]([皮物]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | c4fb2ed213c7f8d123cc9dc593a9668c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 紫依                               |
 | Region          | 中国大陆                               |

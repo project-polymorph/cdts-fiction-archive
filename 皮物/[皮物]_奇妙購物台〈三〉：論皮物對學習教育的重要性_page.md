@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_奇妙購物台〈三〉：論皮物對學習教育的重�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54868 bytes                           |
 | MD5             | ce67cefcf08934229f63107030bc427d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我亲爱的妈妈——后续篇修改版_[.docx]([附身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20013 bytes                           |
 | MD5             | 7b2c6ce18c9357b90492a04849d2da33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

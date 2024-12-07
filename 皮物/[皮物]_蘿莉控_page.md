@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_蘿莉控.docx]([皮物]_蘿莉控.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27007 bytes                           |
 | MD5             | 607f8452a8382625c1efa7e33f83d842                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 女大學生                               |
 | Region          | 未知                               |

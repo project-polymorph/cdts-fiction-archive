@@ -20,7 +20,7 @@ TXT 下载: [[变性]_DTX之新生-8.doc]([变性]_DTX之新生-8.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | 2a70033a4524a30002ff50671da9f466                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_成聖之路（序章上）.doc]([皮物]_成聖之路（�
 | Format          | Microsoft Word Document                               |
 | Size            | 74752 bytes                           |
 | MD5             | 080e57c4b686c39b1ad046d8f5785f62                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

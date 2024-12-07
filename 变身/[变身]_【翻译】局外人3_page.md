@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】局外人3.doc]([变身]_【翻译】局外人
 | Format          | Microsoft Word Document                               |
 | Size            | 76800 bytes                           |
 | MD5             | fe00d33669e77bce13a805b851714c35                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

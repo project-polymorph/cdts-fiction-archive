@@ -20,7 +20,7 @@ TXT 下载: [[其他]_與女高中生融合_9_9更新：結局（二）全篇完
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55578 bytes                           |
 | MD5             | 5d5b12b0f120e05499f7ea2a01548724                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

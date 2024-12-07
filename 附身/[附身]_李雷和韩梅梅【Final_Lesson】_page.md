@@ -22,7 +22,7 @@ TXT 下载: [[附身]_李雷和韩梅梅【Final_Lesson】.docx]([附身]_李雷
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34047 bytes                           |
 | MD5             | 1d73422ca1313059755d6cf6965a29ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

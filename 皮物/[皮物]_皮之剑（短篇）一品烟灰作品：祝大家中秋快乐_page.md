@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之剑（短篇）一品烟灰作品：祝大家中秋�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17301 bytes                           |
 | MD5             | d3286febd29b7592d9cae077d7e93f5c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 一品烟灰                               |
 | Region          | 未知                               |

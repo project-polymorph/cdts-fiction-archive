@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_【审码文重发】千变门（壹）——初碰.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 67d9e7f98697505d7ade06fddd525daf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

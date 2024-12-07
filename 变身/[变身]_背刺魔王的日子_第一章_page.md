@@ -20,7 +20,7 @@ TXT 下载: [[变身]_背刺魔王的日子_第一章.doc]([变身]_背刺魔王
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 07e636b47c0590c3a3675a42efff8488                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

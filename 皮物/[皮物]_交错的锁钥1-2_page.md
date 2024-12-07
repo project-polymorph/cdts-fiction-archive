@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_交错的锁钥1-2.docx]([皮物]_交错的锁钥1-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22875 bytes                           |
 | MD5             | a194673a84a7c8af3d93058e5e31f9ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

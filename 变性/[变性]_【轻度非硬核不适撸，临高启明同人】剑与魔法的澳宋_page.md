@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【轻度非硬核不适撸，临高启明同人】剑与�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58911 bytes                           |
 | MD5             | d4f78077127074dff31602933e6317e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

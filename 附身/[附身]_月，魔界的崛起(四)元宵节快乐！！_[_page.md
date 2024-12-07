@@ -20,7 +20,7 @@ TXT 下载: [[附身]_月，魔界的崛起(四)元宵节快乐！！_[.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17988 bytes                           |
 | MD5             | 14ae4bb776984247677e02cd16a45517                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

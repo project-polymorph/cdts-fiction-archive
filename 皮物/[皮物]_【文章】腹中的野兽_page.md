@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【文章】腹中的野兽.doc]([皮物]_【文章】腹�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | f929ff35f050b48eab1f86ab72747bae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Amanda Hawkins                               |
 | Region          | 未知                               |

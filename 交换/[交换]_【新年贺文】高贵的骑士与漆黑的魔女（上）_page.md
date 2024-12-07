@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【新年贺文】高贵的骑士与漆黑的魔女（上�
 | Format          | Microsoft Word Document                               |
 | Size            | 92672 bytes                           |
 | MD5             | de70c23cc0bbf0f314c075e13734c4db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

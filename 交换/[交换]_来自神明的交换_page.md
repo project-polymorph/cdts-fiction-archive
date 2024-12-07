@@ -20,7 +20,7 @@ TXT 下载: [[交换]_来自神明的交换.docx]([交换]_来自神明的交换
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 86810 bytes                           |
 | MD5             | 81f5119a58190e5df3553e33af18d186                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

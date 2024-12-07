@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_舍友居然是女生？.doc]([皮物]_舍友居然是女�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | bb60bf4290c3e642cdfd48f635950368                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【翻译】黄昏时的女友（后篇）.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24882 bytes                           |
 | MD5             | 078603b6e0cb97670adc93a9ad1fefc0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | nekome                               |
 | Region          | 未知                               |

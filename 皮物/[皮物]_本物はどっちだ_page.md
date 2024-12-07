@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_本物はどっちだ.docx]([皮物]_本物はどっちだ
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30287 bytes                           |
 | MD5             | 76263a17dbaba11243d1ae6573356820                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

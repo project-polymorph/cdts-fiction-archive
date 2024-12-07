@@ -20,7 +20,7 @@ TXT 下载: [[交换]_無題2.docx]([交换]_無題2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31758 bytes                           |
 | MD5             | 8ef37109b20ade7794ac768904fc0efa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

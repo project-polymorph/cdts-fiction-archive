@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_奇妙購物台.docx]([皮物]_奇妙購物台.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44651 bytes                           |
 | MD5             | 45c5d7e82f0a2d1b7f64aa6e3b124a11                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

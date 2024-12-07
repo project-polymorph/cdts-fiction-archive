@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_单臂的玛丽（片腕のメリー）.doc]([皮物]_单�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 7d618e830ad0eb19f9cacb29547d653c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译变性】永远的爱人.doc]([变性]_【翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | c9d2dd09a0bb8a9bc40fde396a892720                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

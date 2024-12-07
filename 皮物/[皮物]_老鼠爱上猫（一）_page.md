@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_老鼠爱上猫（一）.docx]([皮物]_老鼠爱上猫（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20133 bytes                           |
 | MD5             | e8d958cec22128d8301f74ae763eccca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

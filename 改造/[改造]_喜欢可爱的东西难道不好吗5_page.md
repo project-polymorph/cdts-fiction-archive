@@ -20,7 +20,7 @@ TXT 下载: [[改造]_喜欢可爱的东西难道不好吗5.doc]([改造]_喜欢
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | ebd6fad932fce65fc5e51279d6f08def                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

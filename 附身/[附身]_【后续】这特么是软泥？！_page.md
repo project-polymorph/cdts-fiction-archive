@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【后续】这特么是软泥？！.doc]([附身]_【后�
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | a0aebafadca1b96c167b32957408d27b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之种7（续貂）.docx]([皮物]_皮之种7（续貂�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39252 bytes                           |
 | MD5             | 38d5adfa9eab558d32dcbfdfb0b84002                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 嵐山GO                               |
 | Region          | 未知                               |

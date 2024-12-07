@@ -20,7 +20,7 @@ TXT 下载: [[变身]_愿望，其之一.docx]([变身]_愿望，其之一.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19191 bytes                           |
 | MD5             | f9f94c0b72ed466d4feddde7b6c73180                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

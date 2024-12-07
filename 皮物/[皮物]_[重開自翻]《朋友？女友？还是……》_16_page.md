@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_16.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25885 bytes                           |
 | MD5             | 712667e797a9184a3e91ef5f697dc94f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

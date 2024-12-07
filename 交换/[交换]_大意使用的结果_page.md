@@ -20,7 +20,7 @@ TXT 下载: [[交换]_大意使用的结果.docx]([交换]_大意使用的结果
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33210 bytes                           |
 | MD5             | 664e0c170f454b5e58bb07078e0da9c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

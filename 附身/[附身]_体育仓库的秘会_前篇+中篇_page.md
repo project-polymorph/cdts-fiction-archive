@@ -20,7 +20,7 @@ TXT 下载: [[附身]_体育仓库的秘会_前篇+中篇.docx]([附身]_体育�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29837 bytes                           |
 | MD5             | 16c66b79eade876bec0fe4cd38848c05                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

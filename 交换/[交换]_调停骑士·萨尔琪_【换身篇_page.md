@@ -20,7 +20,7 @@ TXT 下载: [[交换]_调停骑士·萨尔琪_【换身篇.docx]([交换]_调停
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36398 bytes                           |
 | MD5             | 33768260b2c469e9c63542184d87f994                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

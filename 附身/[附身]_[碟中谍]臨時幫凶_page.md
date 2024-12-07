@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[碟中谍]臨時幫凶.doc]([附身]_[碟中谍]臨時幫
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 678e9f3c479b2d41bbde9bfbcc33a5f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

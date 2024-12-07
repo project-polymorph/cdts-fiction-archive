@@ -20,7 +20,7 @@ TXT 下载: [[附身]_御鬼者.docx]([附身]_御鬼者.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45684 bytes                           |
 | MD5             | 7b60630d91f9a24ad419196353c6922e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

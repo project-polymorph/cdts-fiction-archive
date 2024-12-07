@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魂石补编，其实就是伪历史，无H.docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17197 bytes                           |
 | MD5             | b7e1691920f1d40484e8a82086ce6559                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

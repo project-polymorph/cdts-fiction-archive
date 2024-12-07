@@ -20,7 +20,7 @@ TXT 下载: [[催眠]天使系统（4）.doc]([催眠]天使系统（4）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 87e91274816b43d5b47731182421a981                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

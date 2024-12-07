@@ -22,7 +22,7 @@ TXT 下载: [[变身]_节日系列之情人节+妇女节.docx]([变身]_节日�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25850 bytes                           |
 | MD5             | 169d90a7ce4da0f6bf05f0ddd6174276                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 中国大陆                               |

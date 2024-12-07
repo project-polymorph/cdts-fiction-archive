@@ -20,7 +20,7 @@ TXT 下载: [[变装]末世（4）（全肉，不喜误入）.doc]([变装]末�
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | b0ce38155746aba9be2213d9be7972b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_真实系皮物《畸·恋》上+下_完全版.doc]([皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | ac74781915d9d839a9aef334e022b4f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

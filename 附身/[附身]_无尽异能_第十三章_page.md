@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能_第十三章.docx]([附身]_无尽异能_第�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21773 bytes                           |
 | MD5             | 12e3f8bf5c0df80873fd9ed63fb2ae57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

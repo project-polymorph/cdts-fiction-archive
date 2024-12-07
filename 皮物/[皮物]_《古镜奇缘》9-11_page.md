@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《古镜奇缘》9-11.doc]([皮物]_《古镜奇缘》9-1
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | e32852d40722db9ee72b60b1cd4eb240                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

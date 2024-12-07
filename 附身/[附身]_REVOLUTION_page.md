@@ -20,7 +20,7 @@ TXT 下载: [[附身]_REVOLUTION.docx]([附身]_REVOLUTION.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39794 bytes                           |
 | MD5             | dab48f7711e12ad17891a8d6cda9ef5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

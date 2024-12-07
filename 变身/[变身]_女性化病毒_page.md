@@ -20,7 +20,7 @@ TXT 下载: [[变身]_女性化病毒.docx]([变身]_女性化病毒.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30667 bytes                           |
 | MD5             | 82c69049d620f07b255f3a29323abf9d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 秋柒                               |
 | Region          | 中国大陆                               |

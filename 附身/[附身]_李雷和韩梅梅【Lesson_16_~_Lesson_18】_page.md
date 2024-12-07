@@ -20,7 +20,7 @@ TXT 下载: [[附身]_李雷和韩梅梅【Lesson_16_~_Lesson_18】.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41241 bytes                           |
 | MD5             | 2676d97d05eb543cfc79ab514a9e943c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

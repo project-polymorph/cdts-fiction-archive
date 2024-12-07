@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我仍未见过我女友的样子（四）.doc]([其他]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 870acd3c1d258b794de2099f696449a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

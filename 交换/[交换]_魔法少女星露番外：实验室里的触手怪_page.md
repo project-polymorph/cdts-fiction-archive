@@ -20,7 +20,7 @@ TXT 下载: [[交换]_魔法少女星露番外：实验室里的触手怪.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36144 bytes                           |
 | MD5             | b1449b55d0adf33bb73eb1eb1ae188b5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

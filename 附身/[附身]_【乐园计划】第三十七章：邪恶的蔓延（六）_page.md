@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【乐园计划】第三十七章：邪恶的蔓延（六�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | ee929f295e6b275b5061de970048835d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

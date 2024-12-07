@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_刚瓦拉大陆传奇二_3_釜底抽薪（下）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20437 bytes                           |
 | MD5             | b18ec7d59b985bc25fa06395e4ec2916                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

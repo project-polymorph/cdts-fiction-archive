@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第十章.doc]([皮物]_画皮
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 2941d94af1d5b68aba164b75f4fd281e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

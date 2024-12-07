@@ -20,7 +20,7 @@ TXT 下载: [[变性]_霓裳羽衣_第五章.doc]([变性]_霓裳羽衣_第五�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 9c7f6554494b7ec361d66528788a92e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_候车室.docx]([附身]_候车室.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18984 bytes                           |
 | MD5             | d0884dcbbcb4d14df115e1520bb4ad53                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

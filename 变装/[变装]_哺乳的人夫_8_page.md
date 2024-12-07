@@ -22,7 +22,7 @@ TXT 下载: [[变装]_哺乳的人夫_8.doc]([变装]_哺乳的人夫_8.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 59904 bytes                           |
 | MD5             | d8112987c111ae86e03954ffc2e1de2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

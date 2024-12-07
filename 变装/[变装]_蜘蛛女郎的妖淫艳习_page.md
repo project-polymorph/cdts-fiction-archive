@@ -20,7 +20,7 @@ TXT 下载: [[变装]_蜘蛛女郎的妖淫艳习.docx]([变装]_蜘蛛女郎的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31955 bytes                           |
 | MD5             | 9bac4b5e1621b1480a375e7950965466                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 重口味女王                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_关于我获得了神秘APP却差点被榨干这件事.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35832 bytes                           |
 | MD5             | 10110e0adf6beb319951c6dad7abbebd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

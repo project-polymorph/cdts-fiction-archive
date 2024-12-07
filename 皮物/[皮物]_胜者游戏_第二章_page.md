@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_胜者游戏_第二章.doc]([皮物]_胜者游戏_第二�
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | e160abbd7e4b9335094add839d7436f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

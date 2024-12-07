@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新工作的第一天.doc]([皮物]_新工作的第一天.
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 5d03f11dd5f5a45f23afc2ba3964a906                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | luv4skirts、czq123                               |
 | Region          | 未知                               |

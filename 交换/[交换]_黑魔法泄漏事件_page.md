@@ -20,7 +20,7 @@ TXT 下载: [[交换]_黑魔法泄漏事件.docx]([交换]_黑魔法泄漏事件
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33230 bytes                           |
 | MD5             | 7e18aac7b038ff63532e2c379d67232e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_少管所的精神污染.docx]([皮物]_少管所的精神
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24804 bytes                           |
 | MD5             | 79e03f51f08a1665b1d207919e07032f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

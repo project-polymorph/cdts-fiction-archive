@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[09万圣节]万圣节--动漫三国杀之饕饕餮夜(开
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 8f1556cc9ac7e8df5cd43e98fde96792                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 如梦幻泡影                               |
 | Region          | 未知                               |

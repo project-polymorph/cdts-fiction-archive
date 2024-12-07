@@ -20,7 +20,7 @@ TXT 下载: [[交换]_恶梦的再临.docx]([交换]_恶梦的再临.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27662 bytes                           |
 | MD5             | 8b353fa2cd66260f23f1c490adc9a9c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

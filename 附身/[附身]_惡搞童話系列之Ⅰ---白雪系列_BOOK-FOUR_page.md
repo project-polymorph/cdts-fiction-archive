@@ -20,7 +20,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-FOUR.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20409 bytes                           |
 | MD5             | 48e457d9d871616bf63e19dd280cc7e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

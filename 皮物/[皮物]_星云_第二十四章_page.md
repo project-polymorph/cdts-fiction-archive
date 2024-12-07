@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星云_第二十四章.doc]([皮物]_星云_第二十四�
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | 8c5171d2847f40d642b6fe0daa127d5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔棒（2）.docx]([附身]_魔棒（2）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《魔棒（2）》属于多元性别相关小说的档案，描绘了一位男性角色在获得一根名为“淫棒”的魔法物品后，经历了身体和认知上的性别转换。故事中，主角从生理男性变为女性，并体验了新获得的身体，如在镜子前欣赏自己的外貌、探索女性身体的感觉，以及感受到与原角色（杨伊雪）的记忆融合。这一转换带来了全面的自我认知变化，原本的男性思维被女性身体的感知所占据，展现了性别认同和身份认同的冲突与融合。文件中详细描写了身体感知、性别转变后的心理状态及其引发的情感和欲望，同时涉及一些限制级内容，比如对身体的探索、魔法的使用与性行为的幻想等，反映出对性与身份的复杂思考。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔棒（2）.docx]([附身]_魔棒（2）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25838 bytes                           |
 | MD5             | 6172b0301a802091de230f2d03ce9961                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 魔法, 淫荡, 自我探索, 性别认同, 禁忌关系, 幻想, 角色扮演, 奇幻, 心理变化, 二次元, 成年内容, 高中生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

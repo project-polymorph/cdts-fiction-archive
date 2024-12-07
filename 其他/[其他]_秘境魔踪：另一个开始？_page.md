@@ -20,7 +20,7 @@ TXT 下载: [[其他]_秘境魔踪：另一个开始？.docx]([其他]_秘境魔
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51690 bytes                           |
 | MD5             | 964c29c7560aacb1bdbe12a50cda280f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

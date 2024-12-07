@@ -20,7 +20,7 @@ TXT 下载: [[变身]_“我”的猫娘机器人_Vol.3.doc]([变身]_“我”�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | a6b96b8d051a31d8dd1a8b6633f181f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

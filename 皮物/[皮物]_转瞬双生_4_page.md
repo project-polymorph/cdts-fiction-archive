@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_转瞬双生_4.docx]([皮物]_转瞬双生_4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31927 bytes                           |
 | MD5             | 21832f9feefc4f1aac3a61fbaedca792                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_天启录_第一章、洞天.docx]([皮物]_天启录_第�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20581 bytes                           |
 | MD5             | 4432cb8099c0deb7d88ce2d75d602dd9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

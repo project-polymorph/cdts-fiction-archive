@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机器人偶_2.docx]([皮物]_机器人偶_2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21534 bytes                           |
 | MD5             | 3b686a98bf9162272ce581ce641779ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

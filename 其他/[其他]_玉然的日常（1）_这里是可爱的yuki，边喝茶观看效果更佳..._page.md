@@ -20,7 +20,7 @@ TXT 下载: [[其他]_玉然的日常（1）_这里是可爱的yuki，边喝茶�
 | Format          | Microsoft Word Document                               |
 | Size            | 105984 bytes                           |
 | MD5             | 0ae5476295af541fce6442c97685f080                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

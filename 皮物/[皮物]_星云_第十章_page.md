@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_星云_第十章.docx]([皮物]_星云_第十章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19898 bytes                           |
 | MD5             | d1e735728075a6a9cb0062db9bfe76c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

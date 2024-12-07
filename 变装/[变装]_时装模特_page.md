@@ -20,7 +20,7 @@ TXT 下载: [[变装]_时装模特.doc]([变装]_时装模特.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | c8cc5d00a46d5fdeb27eae0bf2023191                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | YancyVoss                               |
 | Region          | 未知                               |

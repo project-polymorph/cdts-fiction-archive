@@ -20,7 +20,7 @@ TXT 下载: [[变身]_保持社交距离.doc]([变身]_保持社交距离.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 2b6a9e07b1d18e15fa573d1fb5b5ff2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | halfpint51                               |
 | Region          | 未知                               |

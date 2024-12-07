@@ -22,7 +22,7 @@ TXT 下载: [[其他]_學者（完）修正.docx]([其他]_學者（完）修正
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 63107 bytes                           |
 | MD5             | 5cd51c2328079c9b031841e7780603eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

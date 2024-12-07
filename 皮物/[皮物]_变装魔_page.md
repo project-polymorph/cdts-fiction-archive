@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变装魔.docx]([皮物]_变装魔.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 67956 bytes                           |
 | MD5             | c8023a5b1b4404846f73cf0825d7f4fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

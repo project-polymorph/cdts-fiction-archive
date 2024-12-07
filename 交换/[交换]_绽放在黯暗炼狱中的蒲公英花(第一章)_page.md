@@ -20,7 +20,7 @@ TXT 下载: [[交换]_绽放在黯暗炼狱中的蒲公英花(第一章).docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28542 bytes                           |
 | MD5             | 7599e8d7ae9afff75abbdaa96d18eb71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

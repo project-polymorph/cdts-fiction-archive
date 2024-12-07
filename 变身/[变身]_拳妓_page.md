@@ -20,7 +20,7 @@ TXT 下载: [[变身]_拳妓.docx]([变身]_拳妓.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49778 bytes                           |
 | MD5             | c5271f891b26da692b4617147045ee13                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

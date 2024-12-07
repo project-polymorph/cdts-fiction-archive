@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔皮10？.docx]([皮物]_魔皮10？.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26105 bytes                           |
 | MD5             | 6ab348f8e692fe499e9ad212d6a348f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

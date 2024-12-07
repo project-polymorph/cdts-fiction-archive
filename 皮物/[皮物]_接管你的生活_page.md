@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_接管你的生活.docx]([皮物]_接管你的生活.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25088 bytes                           |
 | MD5             | d0f4b97e215086e97a4a96eaa1a5b4a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

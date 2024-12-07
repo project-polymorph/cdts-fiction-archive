@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交換人生信件.docx]([交换]_交換人生信件.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43234 bytes                           |
 | MD5             | 56eb87008e268644fba53f84036401db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | AAA                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_凝脂——小王篇_楔子.docx]([皮物]_凝脂——�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18446 bytes                           |
 | MD5             | aecb0ac6ab7ee0aaa09add187d8c4456                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【翻译】好的，坏的和美丽的.docx]([交换]_【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36154 bytes                           |
 | MD5             | 4cdb92726b90347d1157bb9ff1d68009                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

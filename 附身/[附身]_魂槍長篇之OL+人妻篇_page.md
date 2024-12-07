@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂槍長篇之OL+人妻篇.docx]([附身]_魂槍長篇之
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55774 bytes                           |
 | MD5             | 8ad8a0cdbf0d63144f4238873136ac0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

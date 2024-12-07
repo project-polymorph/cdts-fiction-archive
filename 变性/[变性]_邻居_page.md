@@ -20,7 +20,7 @@ TXT 下载: [[变性]_邻居.docx]([变性]_邻居.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60185 bytes                           |
 | MD5             | 8b8b84adfb2e4eeb5f788b942b9ce500                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

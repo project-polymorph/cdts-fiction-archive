@@ -20,7 +20,7 @@ TXT 下载: [[附身]_建立理想的小隊.docx]([附身]_建立理想的小隊
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20025 bytes                           |
 | MD5             | 1018d3620d9bd7264e10e5ac14bbaedc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

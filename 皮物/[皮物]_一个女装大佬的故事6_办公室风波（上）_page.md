@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一个女装大佬的故事6_办公室风波（上）.doc]
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 786631868eb1f3723adf149d1f5158fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

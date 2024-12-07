@@ -20,7 +20,7 @@ TXT 下载: [[交换]_大叮当3.docx]([交换]_大叮当3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23727 bytes                           |
 | MD5             | 61605d947b14b7878749c163e8b01453                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

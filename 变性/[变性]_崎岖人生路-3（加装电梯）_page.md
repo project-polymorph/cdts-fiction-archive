@@ -20,7 +20,7 @@ TXT 下载: [[变性]_崎岖人生路-3（加装电梯）.docx]([变性]_崎岖�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27042 bytes                           |
 | MD5             | f70d152312a597ef57da5cf783e9c28d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

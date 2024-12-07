@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Magic_Academy__First_Lesson_魔法学院_第一课.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | a9fa051a25c9b4ef0d97817f643d717b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Glenradd                               |
 | Region          | 未知                               |

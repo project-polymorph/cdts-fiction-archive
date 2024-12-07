@@ -20,7 +20,7 @@ TXT 下载: [[附身]_阴阳草第一章.docx]([附身]_阴阳草第一章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16606 bytes                           |
 | MD5             | 03b0413810cbfe9853d9ba91d4dea44a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

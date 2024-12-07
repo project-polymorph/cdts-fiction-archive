@@ -20,7 +20,7 @@ TXT 下载: [[变身]_生與死(5).docx]([变身]_生與死(5).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31018 bytes                           |
 | MD5             | c4bbfe0c083a977db0d600da9027b802                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

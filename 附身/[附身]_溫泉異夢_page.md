@@ -20,7 +20,7 @@ TXT 下载: [[附身]_溫泉異夢.doc]([附身]_溫泉異夢.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 22d8eaa17fc338307dc566c19d47867c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

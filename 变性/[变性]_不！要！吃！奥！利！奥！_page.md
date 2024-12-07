@@ -20,7 +20,7 @@ TXT 下载: [[变性]_不！要！吃！奥！利！奥！.docx]([变性]_不！
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42219 bytes                           |
 | MD5             | 465c72382539cbd1d42ed2ca3b789654                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 查德.里弗斯                               |
 | Region          | 日本                               |

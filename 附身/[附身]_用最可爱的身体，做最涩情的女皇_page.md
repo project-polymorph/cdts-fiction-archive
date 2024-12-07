@@ -20,7 +20,7 @@ TXT 下载: [[附身]_用最可爱的身体，做最涩情的女皇.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | ddf071a4a8e67d1690bda8fd6d8caa1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

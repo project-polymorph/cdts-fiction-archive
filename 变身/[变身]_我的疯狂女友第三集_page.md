@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我的疯狂女友第三集.docx]([变身]_我的疯狂女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15090 bytes                           |
 | MD5             | 4f4c14d38ee94dac5c9906d8ed38134a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

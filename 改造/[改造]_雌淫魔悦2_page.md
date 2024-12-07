@@ -20,7 +20,7 @@ TXT 下载: [[改造]_雌淫魔悦2.doc]([改造]_雌淫魔悦2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 4c6ff51d67410eac86a56e45c1f113f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 混沌心海                               |
 | Region          | 未知                               |

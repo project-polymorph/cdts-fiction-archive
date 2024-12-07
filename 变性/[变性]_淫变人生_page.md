@@ -20,7 +20,7 @@ TXT 下载: [[变性]_淫变人生.docx]([变性]_淫变人生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38507 bytes                           |
 | MD5             | ed96a4c0f84600faa54e82e80a8f260f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

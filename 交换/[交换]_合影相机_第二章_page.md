@@ -20,7 +20,7 @@ TXT 下载: [[交换]_合影相机_第二章.doc]([交换]_合影相机_第二�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 1342a77db64a082c1fd17258d343ec04                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

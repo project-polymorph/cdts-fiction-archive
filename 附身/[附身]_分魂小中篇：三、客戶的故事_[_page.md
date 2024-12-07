@@ -20,7 +20,7 @@ TXT 下载: [[附身]_分魂小中篇：三、客戶的故事_[.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26353 bytes                           |
 | MD5             | 6e799fff8295ad36eee94e0dab7151e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

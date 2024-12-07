@@ -20,7 +20,7 @@ TXT 下载: [[附身]_内裤侵入（1）.doc]([附身]_内裤侵入（1）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 35bcc6a1a385e6ae8850a97ed3d43ec6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_催眠手机（无性转）.docx]([其他]_催眠手机（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20849 bytes                           |
 | MD5             | af37c7a46f0dd94e2dc8fd415e4f647d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

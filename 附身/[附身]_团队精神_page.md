@@ -20,7 +20,7 @@ TXT 下载: [[附身]_团队精神.docx]([附身]_团队精神.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22248 bytes                           |
 | MD5             | a2f96a2de3e00defc0ca8fe5d1bbb011                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Mister A (翻译：Dark Angel)                               |
 | Region          | 未知                               |

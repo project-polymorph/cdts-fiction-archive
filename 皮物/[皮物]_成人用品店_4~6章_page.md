@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_成人用品店_4~6章.doc]([皮物]_成人用品店_4~6�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 25f09ccfef42e03204493169caa18023                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

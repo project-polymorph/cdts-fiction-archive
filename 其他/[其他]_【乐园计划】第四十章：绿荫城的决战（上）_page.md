@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第四十章：绿荫城的决战（上�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 3bddfd47abfccceaf3b4d1d93a824a38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

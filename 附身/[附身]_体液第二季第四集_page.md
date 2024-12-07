@@ -20,7 +20,7 @@ TXT 下载: [[附身]_体液第二季第四集.docx]([附身]_体液第二季第
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22045 bytes                           |
 | MD5             | 090349700a896d4364dade63ed0c743b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

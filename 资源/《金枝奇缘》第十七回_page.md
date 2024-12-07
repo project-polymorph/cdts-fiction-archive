@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第十七回.doc](《金枝奇缘》第十七回.
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | bd8268ccfea1750961355eda6482e4e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的老婆会魔法.docx]([皮物]_我的老婆会魔法
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72251 bytes                           |
 | MD5             | e9e778a3a53cf27949847df6a91fe289                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

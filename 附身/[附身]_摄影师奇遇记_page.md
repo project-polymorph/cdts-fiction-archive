@@ -20,7 +20,7 @@ TXT 下载: [[附身]_摄影师奇遇记.docx]([附身]_摄影师奇遇记.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61374 bytes                           |
 | MD5             | 56c447c4611772536a8cbbce5d284bf6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_憑依した宿主の趣味嗜好を歪める話.doc]([附
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 2fc9134ba482f2697033260815f50af7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ごみん                               |
 | Region          | 日本                               |

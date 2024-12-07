@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【勇敢者空间】第二部_序.doc]([其他]_【勇敢
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 5311aeb42293edec09cf2dc53611a040                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_倫敦奧運會——英女王篇之莎拉波娃.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30890 bytes                           |
 | MD5             | f35fddce511371c2d95f16260d297749                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 英国                               |

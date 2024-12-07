@@ -20,7 +20,7 @@ TXT 下载: [[交换]_学生的身体.docx]([交换]_学生的身体.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54556 bytes                           |
 | MD5             | 8d0b8e3e81c1344e5e7560d47093536b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

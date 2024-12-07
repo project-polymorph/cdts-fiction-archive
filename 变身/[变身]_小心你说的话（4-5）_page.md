@@ -20,7 +20,7 @@ TXT 下载: [[变身]_小心你说的话（4-5）.doc]([变身]_小心你说的�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 9ad884b6b73976b08084e91404097d72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Serena Lawhead                               |
 | Region          | 未知                               |

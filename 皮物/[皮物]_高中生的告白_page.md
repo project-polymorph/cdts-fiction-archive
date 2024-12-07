@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_高中生的告白.docx]([皮物]_高中生的告白.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20786 bytes                           |
 | MD5             | daf2a3a9363574a5c67738f272c309c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

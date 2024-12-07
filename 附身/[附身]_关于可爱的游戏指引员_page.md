@@ -20,7 +20,7 @@ TXT 下载: [[附身]_关于可爱的游戏指引员.docx]([附身]_关于可爱
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21752 bytes                           |
 | MD5             | 16ce46e9a8064dfb10f0d92181a88c2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

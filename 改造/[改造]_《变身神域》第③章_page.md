@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《变身神域》第③章.doc]([改造]_《变身神域�
 | Format          | Microsoft Word Document                               |
 | Size            | 67072 bytes                           |
 | MD5             | d701d7e818c983bc84e074ce478a29fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

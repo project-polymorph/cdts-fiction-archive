@@ -20,7 +20,7 @@ TXT 下载: [[变性]_雌花记4章.docx]([变性]_雌花记4章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25172 bytes                           |
 | MD5             | 9ae824054dc8427714a47f2ead8915e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_SKIN_TRADE_第3章(other)_全部合计6部分翻译完毕.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41847 bytes                           |
 | MD5             | f0501359ca32a73844b248eb91b09a6a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 嵐山GO                               |
 | Region          | 未知                               |

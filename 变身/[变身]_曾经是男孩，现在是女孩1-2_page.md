@@ -20,7 +20,7 @@ TXT 下载: [[变身]_曾经是男孩，现在是女孩1-2.doc]([变身]_曾经�
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | 15bd5cc7dc94a97416d1d339c1e5234b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

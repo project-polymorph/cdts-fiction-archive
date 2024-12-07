@@ -20,7 +20,7 @@ TXT 下载: [[附身]_操作失误.doc]([附身]_操作失误.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | be3086b81e67b40113af02c2ad57d8f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

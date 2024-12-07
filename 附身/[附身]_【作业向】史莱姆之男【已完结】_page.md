@@ -22,7 +22,7 @@ TXT 下载: [[附身]_【作业向】史莱姆之男【已完结】.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40443 bytes                           |
 | MD5             | 0409623358e0be52f94c511f580ef4a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

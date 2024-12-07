@@ -24,7 +24,7 @@ TXT 下载: [[其他]_【申码文】TS现实改变教室.doc]([其他]_【申�
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | 675eef84aab4c02a7d1aacf093ac82bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

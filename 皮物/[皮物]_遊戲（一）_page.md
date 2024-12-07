@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_遊戲（一）.docx]([皮物]_遊戲（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47289 bytes                           |
 | MD5             | 4961555aa06ebe833255ac93cd35d488                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

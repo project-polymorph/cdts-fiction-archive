@@ -7,7 +7,7 @@ TXT 下载: [[附身]_＜憑依＞宾馆的经营者　③悲剧的婚礼　（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇名为《＜憑依＞宾馆的经营者　③悲剧的婚礼（完）》的小说，属于伪娘和跨性别主题的文学作品。作品讲述了名仓这一角色的悲剧故事，他是宾馆的经营者，掌控着宿舍内的各种伦理和情感。在小说中，名仓利用自己附身的能力对他人施加控制，并最终导致了悲剧的发生。情节围绕一场婚礼展开，在婚礼上，新娘的身体被名仓附身，导致婚礼现场出现混乱，甚至新娘公然否认誓言。新娘美希的行为极具挑衅性，她摆脱了自身的身份限制，毫无顾忌地践踏着婚礼的意义，暗示着深层的自我探索和对幸福的扭曲理解。反映出在名仓的操控下，人物们的命运最终走向迷失和毁灭。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_＜憑依＞宾馆的经营者　③悲剧的婚礼　（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22185 bytes                           |
 | MD5             | c730867dd70b753365f7f2ba0dbd551b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 無名＠純白の憑依人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 悲剧, 婚礼, 跨性别, 附身, 伦理, 自我探索, 黑暗, 心理惊悚, 社会禁忌, 伪娘, 名仓, 美希, 幸福与痛苦, 情感扭曲, 宿命                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_寄生果實_(改)_作者︰小雅香.docx]([附身]_寄�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33454 bytes                           |
 | MD5             | 6694799a1f9711b8dcc547cb85932d56                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小雅香                               |
 | Region          | 未知                               |

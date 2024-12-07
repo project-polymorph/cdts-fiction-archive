@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_苏明的故事【原文转载】.docx]([皮物]_苏明的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20805 bytes                           |
 | MD5             | c4c8cdf8b2e1227cefa96d09f64e5af3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

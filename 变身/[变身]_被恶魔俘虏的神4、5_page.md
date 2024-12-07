@@ -20,7 +20,7 @@ TXT 下载: [[变身]_被恶魔俘虏的神4、5.docx]([变身]_被恶魔俘虏�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22173 bytes                           |
 | MD5             | 687b21b7cd9210cd9f71a9fc503fccbd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

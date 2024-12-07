@@ -20,7 +20,7 @@ TXT 下载: [[附身]_圣人之言——灵肉分离③.docx]([附身]_圣人之
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23281 bytes                           |
 | MD5             | 82d2d56ee60dfa9a35d6d9cda3afeb73                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

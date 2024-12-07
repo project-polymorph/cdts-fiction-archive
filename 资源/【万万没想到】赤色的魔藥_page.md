@@ -20,7 +20,7 @@ TXT 下载: [【万万没想到】赤色的魔藥.doc](【万万没想到】赤�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 9c06adb10218b90402762e4913d09300                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

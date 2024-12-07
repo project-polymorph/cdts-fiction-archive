@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_戈德曼一家_（The_Family_Goldman）（4）.docx]([皮
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45907 bytes                           |
 | MD5             | 1a225c7edd828d7cd34379fe05c116ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Dark Angel                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《单性异世界II》　第2章　可可馆.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 8c4b03dc57e80eca39984b78083b7137                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

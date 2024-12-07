@@ -20,7 +20,7 @@ TXT 下载: [[变性]_奇怪的事情.docx]([变性]_奇怪的事情.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 69941 bytes                           |
 | MD5             | 83c8143b0cf249426d08085889301925                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Prebecca                               |
 | Region          | 未知                               |

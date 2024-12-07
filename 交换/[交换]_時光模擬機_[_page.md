@@ -20,7 +20,7 @@ TXT 下载: [[交换]_時光模擬機_[.docx]([交换]_時光模擬機_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24664 bytes                           |
 | MD5             | 9ec44793019fe63d7fa6593202bb637f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

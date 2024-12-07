@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[分魂]被‘我’所染色的未来的故事.docx]([附
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33484 bytes                           |
 | MD5             | f8ad0168e204e8e20ac4377b2bc2475c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 笹座早々                               |
 | Region          | 未知                               |

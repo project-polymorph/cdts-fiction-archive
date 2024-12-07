@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【TLBFS_EX】伪身真情EX~Refraction_of_Lust.doc]([皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | f929aa47df240385a4816157f522e972                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

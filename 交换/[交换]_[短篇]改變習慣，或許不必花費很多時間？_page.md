@@ -20,7 +20,7 @@ TXT 下载: [[交换]_[短篇]改變習慣，或許不必花費很多時間？.d
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 99a0a80cbb88dd3de606d0c057874675                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

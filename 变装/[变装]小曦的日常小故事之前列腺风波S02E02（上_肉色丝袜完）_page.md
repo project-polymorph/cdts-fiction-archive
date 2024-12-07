@@ -20,7 +20,7 @@ TXT 下载: [[变装]小曦的日常小故事之前列腺风波S02E02（上_肉�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 7de5254e8dfe7cef4ca7274ea70bfaec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

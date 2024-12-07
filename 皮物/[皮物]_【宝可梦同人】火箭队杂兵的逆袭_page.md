@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【宝可梦同人】火箭队杂兵的逆袭.doc]([皮物
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | 2a2df4ce23a5029a0ac3ae5487dbb2a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

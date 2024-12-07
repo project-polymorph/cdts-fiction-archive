@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪盜小子的另一面.doc]([皮物]_怪盜小子的另�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 6a6cbbeaad2c82b009ad70546c45e006                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

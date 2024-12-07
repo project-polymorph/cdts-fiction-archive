@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_头号玩家（贰）.doc]([皮物]_头号玩家（贰）.
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 6b4451b153bd7450115bd5f456ecd20d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

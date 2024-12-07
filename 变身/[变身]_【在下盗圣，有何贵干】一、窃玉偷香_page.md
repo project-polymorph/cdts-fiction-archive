@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】一、窃玉偷香.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 102d031642d4650f3586ebd7e2e026c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

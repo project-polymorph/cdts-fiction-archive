@@ -20,7 +20,7 @@ TXT 下载: [[其他]_长大后，我就成了你（叶紫篇）.docx]([其他]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 318744 bytes                           |
 | MD5             | 2e77e57e66a90ecf517a72ffd7fbc51c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

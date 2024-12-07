@@ -20,7 +20,7 @@ TXT 下载: [[改造]_玩脱的东西~！《宿舍娃娃》.doc]([改造]_玩脱
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 918da8f7699386668c7492e0e52ef0be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

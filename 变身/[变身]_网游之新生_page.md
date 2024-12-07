@@ -20,7 +20,7 @@ TXT 下载: [[变身]_网游之新生.docx]([变身]_网游之新生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35715 bytes                           |
 | MD5             | 814b1f075cc3a9366bc88961321d564c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

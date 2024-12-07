@@ -20,7 +20,7 @@ TXT 下载: [[变装]_青青的幸福生活【完结撒花】.doc]([变装]_青�
 | Format          | Microsoft Word Document                               |
 | Size            | 93184 bytes                           |
 | MD5             | e23e8ba51b03de7ef0e4d71e7ad114b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

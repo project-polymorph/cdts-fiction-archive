@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第14章，外国的和尚会念经.doc]
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 6014f4b2dc6a369c94a3c1d9c1ca9115                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

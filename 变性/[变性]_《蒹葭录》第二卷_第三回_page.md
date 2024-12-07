@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第三回.doc]([变性]_《蒹葭
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | 3689dabe472170e965fc97e8a32a4430                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

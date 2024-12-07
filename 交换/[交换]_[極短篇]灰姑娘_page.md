@@ -20,7 +20,7 @@ TXT 下载: [[交换]_[極短篇]灰姑娘.docx]([交换]_[極短篇]灰姑娘.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15350 bytes                           |
 | MD5             | fbdd6d6fdfe1060121bad8e2f14315ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Stanman63                               |
 | Region          | 未知                               |

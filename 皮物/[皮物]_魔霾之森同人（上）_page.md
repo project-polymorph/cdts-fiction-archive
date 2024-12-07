@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔霾之森同人（上）.doc]([皮物]_魔霾之森同�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | f4aa004d9ca8ea9e101a927c6425d0b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

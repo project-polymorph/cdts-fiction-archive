@@ -20,7 +20,7 @@ TXT 下载: [[变装]_乡村雌堕记.docx]([变装]_乡村雌堕记.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35095 bytes                           |
 | MD5             | 51babbb7de11f39764de3d7f670e774e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_霓裳羽衣_第一、二、三章.doc]([变性]_霓裳羽
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | ee20f3eb6d601c87467144fd1ce784cd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第二部分.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 57298 bytes                           |
 | MD5             | 278a045001af15a5621918c577f25389                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jeffanie                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_意外的女孩（The_Accidental_Girl）（上）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17055 bytes                           |
 | MD5             | 3f399a1c73518cf330d2225735d196d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

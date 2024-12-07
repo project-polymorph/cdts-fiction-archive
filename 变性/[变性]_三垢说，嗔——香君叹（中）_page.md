@@ -20,7 +20,7 @@ TXT 下载: [[变性]_三垢说，嗔——香君叹（中）.doc]([变性]_三�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 6f39261d0f6790f9309d81db923c466b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

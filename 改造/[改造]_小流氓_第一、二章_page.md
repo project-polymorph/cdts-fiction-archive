@@ -20,7 +20,7 @@ TXT 下载: [[改造]_小流氓_第一、二章.docx]([改造]_小流氓_第一�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35786 bytes                           |
 | MD5             | ef4f01cf6a8b38ae4d073a2cce92b9ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

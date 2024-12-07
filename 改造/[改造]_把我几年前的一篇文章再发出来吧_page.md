@@ -20,7 +20,7 @@ TXT 下载: [[改造]_把我几年前的一篇文章再发出来吧.doc]([改造
 | Format          | Microsoft Word Document                               |
 | Size            | 89088 bytes                           |
 | MD5             | b9b1d2ea03e04ba62b886bc1fad4d7f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

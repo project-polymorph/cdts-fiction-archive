@@ -20,7 +20,7 @@ TXT 下载: [[变性]_维生素是如何改变我的生活？2.doc]([变性]_维
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 4fbe79a8e72b40d3c0046e6cfc8ad3b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rachael Free                               |
 | Region          | 未知                               |

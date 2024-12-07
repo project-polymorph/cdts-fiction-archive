@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文重发】我的老婆变成空心的了.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 17892aa9e0f653aa9c527131e678e546                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

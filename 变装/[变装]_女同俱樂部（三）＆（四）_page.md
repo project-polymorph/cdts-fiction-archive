@@ -20,7 +20,7 @@ TXT 下载: [[变装]_女同俱樂部（三）＆（四）.doc]([变装]_女同�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | ecc02488e58d49532555a4f6ff255193                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_神奇实验室6.docx]([其他]_神奇实验室6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20485 bytes                           |
 | MD5             | 98d2a62208cb8a87c90d2db10c2856e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

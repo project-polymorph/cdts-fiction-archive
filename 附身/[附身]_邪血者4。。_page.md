@@ -20,7 +20,7 @@ TXT 下载: [[附身]_邪血者4。。.docx]([附身]_邪血者4。。.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18045 bytes                           |
 | MD5             | f2210059203c8cb8f2ffb8cf33f03bd2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

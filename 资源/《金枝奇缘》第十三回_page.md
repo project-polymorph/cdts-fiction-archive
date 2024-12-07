@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第十三回.doc](《金枝奇缘》第十三回.
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | b12f7878492a86b79cd2bf9d26ed54bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

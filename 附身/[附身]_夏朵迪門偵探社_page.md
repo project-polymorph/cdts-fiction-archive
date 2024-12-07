@@ -20,7 +20,7 @@ TXT 下载: [[附身]_夏朵迪門偵探社.docx]([附身]_夏朵迪門偵探社
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27077 bytes                           |
 | MD5             | f0e667d87fed2c508df9212f93f706cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_死神空间续-另一个结局.doc]([附身]_死神空间
 | Format          | Microsoft Word Document                               |
 | Size            | 637440 bytes                           |
 | MD5             | b0b4e590f2923e82bc00e3ad0e693ee9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

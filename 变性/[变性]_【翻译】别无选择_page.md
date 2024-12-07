@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】别无选择.docx]([变性]_【翻译】别无
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 82149 bytes                           |
 | MD5             | 57e6ccb9f771efccb076a667a429697d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 魔之天涯                               |
 | Region          | 未知                               |

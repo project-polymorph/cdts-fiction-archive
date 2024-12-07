@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的继母是男人一_继母是美女？.docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23455 bytes                           |
 | MD5             | 184f2cb2ad43fea1893f379efbf7685f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_転身_女律师朝仓美和篇.docx]([附身]_転身_女�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25043 bytes                           |
 | MD5             | a623b2da893bc91326c00cf27cddfaee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】一切始于一条围裙.docx]([变装]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49230 bytes                           |
 | MD5             | 1f9107d751de14d311a65ccc0e0b08f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Monica Graz                               |
 | Region          | 未知                               |

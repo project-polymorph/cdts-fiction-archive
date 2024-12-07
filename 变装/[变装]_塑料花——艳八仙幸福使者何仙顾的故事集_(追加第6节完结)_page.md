@@ -20,7 +20,7 @@ TXT 下载: [[变装]_塑料花——艳八仙幸福使者何仙顾的故事集_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51003 bytes                           |
 | MD5             | a522ac9042e38a0cba85c6998eedcfd4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | znznzn1984                               |
 | Region          | 中国大陆                               |

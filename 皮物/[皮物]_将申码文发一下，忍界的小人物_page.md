@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_将申码文发一下，忍界的小人物.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28924 bytes                           |
 | MD5             | d5d231b2c20d1fc496eb49b450bf2378                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

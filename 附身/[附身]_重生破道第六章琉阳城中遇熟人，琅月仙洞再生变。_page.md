@@ -20,7 +20,7 @@ TXT 下载: [[附身]_重生破道第六章琉阳城中遇熟人，琅月仙洞�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29198 bytes                           |
 | MD5             | 34c69b0815e31fd322131ced5c720e38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

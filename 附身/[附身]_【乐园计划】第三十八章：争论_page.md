@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【乐园计划】第三十八章：争论.doc]([附身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | a1894bd8c26a7f2adf148bf91fd1b5a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

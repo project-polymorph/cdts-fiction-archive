@@ -20,7 +20,7 @@ TXT 下载: [[其他]_山间_第四章_异国.docx]([其他]_山间_第四章_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18243 bytes                           |
 | MD5             | 0cae3844a3e3e65a493ef51eca6dd2e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

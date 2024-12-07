@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_51之遇（元旦之遇后）.doc]([皮物]_51之遇（元
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 024289f117c0fa68847a9ed4881e07e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

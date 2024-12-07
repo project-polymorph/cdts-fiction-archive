@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_调查（下）.doc]([皮物]_调查（下）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 614191f79ee283ac3ab849b71269e4ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

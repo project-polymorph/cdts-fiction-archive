@@ -24,7 +24,7 @@ TXT 下载: [与爸爸领导女儿的交换.docx](与爸爸领导女儿的交换
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36065 bytes                           |
 | MD5             | 75b98de61cd7024a5df239685f2caa2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

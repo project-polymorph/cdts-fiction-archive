@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【翻译】Doll_Club.doc]([皮物]_【翻译】Doll_Club.
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | c2c03e9e8c72aa23f808a1c122406b7f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | とん太                               |
 | Region          | 日本                               |

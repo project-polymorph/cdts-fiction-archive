@@ -20,7 +20,7 @@ TXT 下载: [[变身]行为项圈.doc]([变身]行为项圈.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | d71ba30f5cf4df77b959b0448888ff07                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

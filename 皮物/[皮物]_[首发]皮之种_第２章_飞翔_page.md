@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[首发]皮之种_第２章_飞翔.docx]([皮物]_[首发]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32193 bytes                           |
 | MD5             | 1de39b67ea9e23e31f29a3e42cae3695                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 嵐山ＧＯ                               |
 | Region          | 未知                               |

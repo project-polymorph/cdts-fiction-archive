@@ -20,7 +20,7 @@ TXT 下载: [[交换]_撞球比賽.docx]([交换]_撞球比賽.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30412 bytes                           |
 | MD5             | 92207a34ca61ab612844561bb2bf34b6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cynthia May / cattw                               |
 | Region          | 未知                               |

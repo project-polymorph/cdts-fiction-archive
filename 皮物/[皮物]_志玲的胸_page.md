@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_志玲的胸.doc]([皮物]_志玲的胸.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | d31c13f3d8f47a0b63587e01a7fdb809                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_就诊奇遇1.docx]([皮物]_就诊奇遇1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37461 bytes                           |
 | MD5             | a7ecef426a790b8279b2891399733bc6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | su7418520                               |
 | Region          | 未知                               |

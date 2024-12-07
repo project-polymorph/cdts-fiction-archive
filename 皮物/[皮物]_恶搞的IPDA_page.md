@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_恶搞的IPDA.docx]([皮物]_恶搞的IPDA.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28864 bytes                           |
 | MD5             | 7447ed525408c699e16248c21bdd472a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

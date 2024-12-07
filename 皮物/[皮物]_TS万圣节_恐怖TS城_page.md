@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_TS万圣节_恐怖TS城.docx]([皮物]_TS万圣节_恐怖T
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28864 bytes                           |
 | MD5             | fd60d6c6387fdf6cc7cb8fb4a8f3f582                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

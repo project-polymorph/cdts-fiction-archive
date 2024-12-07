@@ -20,7 +20,7 @@ TXT 下载: [姐姐的旅行.doc](姐姐的旅行.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 125440 bytes                           |
 | MD5             | f8f5937ae2095c6b8414e1d4a5e1c076                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

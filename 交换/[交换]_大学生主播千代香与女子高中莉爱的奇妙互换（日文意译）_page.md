@@ -20,7 +20,7 @@ TXT 下载: [[交换]_大学生主播千代香与女子高中莉爱的奇妙互�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43408 bytes                           |
 | MD5             | 560c41b80c22530cc4fa5ebf5ed7a1bb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_人生賭注_Bet_of_My_Life.doc]([改造]_人生賭注_Bet
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | f6668e8e75c4804b76231504ec92f102                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Zouscha                               |
 | Region          | 未知                               |

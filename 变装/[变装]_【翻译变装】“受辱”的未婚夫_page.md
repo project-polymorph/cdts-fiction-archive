@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译变装】“受辱”的未婚夫.doc]([变装]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 58e3cb8ec8627db2373b7d4ab8782c6d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rikki                               |
 | Region          | 未知                               |

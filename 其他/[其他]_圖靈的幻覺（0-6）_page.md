@@ -20,7 +20,7 @@ TXT 下载: [[其他]_圖靈的幻覺（0-6）.docx]([其他]_圖靈的幻覺（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28126 bytes                           |
 | MD5             | 2212db83270938f4d5cf225ab98b2880                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

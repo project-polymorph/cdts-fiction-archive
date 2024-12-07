@@ -20,7 +20,7 @@ TXT 下载: [[变身]_家是由爱组成的.doc]([变身]_家是由爱组成的.
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 62b08e494bd3efec210e5297d5837c35                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Anon Allsop                               |
 | Region          | 未知                               |

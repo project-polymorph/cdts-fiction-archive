@@ -20,7 +20,7 @@ TXT 下载: [[变身]_魔法少女？喵！（此篇無TG）.docx]([变身]_魔�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32883 bytes                           |
 | MD5             | 26ff10ff1e9b2db3ba0a13ab18291a7b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

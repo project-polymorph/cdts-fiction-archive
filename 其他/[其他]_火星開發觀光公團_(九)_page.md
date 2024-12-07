@@ -20,7 +20,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(九).docx]([其他]_火星開發
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17451 bytes                           |
 | MD5             | 95e7a208a8bf129be46808a49d795b57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

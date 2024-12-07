@@ -7,7 +7,7 @@ TXT 下载: [[附身]_黏液之愛第十一章：初體驗？.doc]([附身]_黏�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一本关于性别与身体转换主题的小说第十一章，标题为《初体验？》。内容描述了主人公与一名空姐之间的亲密关系，以充满性暗示的方式展开，涉及对个人性身份的探索和性行为的描写。故事中，男女主人公之间的互动逐渐变得亲密，彼此的性欲相互交织，展现出一种复杂的情感与性关系。整个情节通过细腻的描写刻画了二次元文化中流行的伪娘（即男性角色以女性形象呈现）和跨性别内容，体现出角色间的身体和心理转变，搭配幽默且性感的对话，使得小说富有情感张力和戏剧性。文中充满了当代性别认同、身体探索与自我认同的讨论，同时也涉及成年内容及性行为的细节，适合研究相关主题的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_黏液之愛第十一章：初體驗？.doc]([附身]_黏�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 4f35d2818f6096d409c599993e18c1ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 同性爱, 飞行员, 空姐, 自我探索, 性意识, 性行为, 情感关系, 双性特征, 二次元, 成人小说, 性欲, 性别认同, 情欲文学, 校园情缘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

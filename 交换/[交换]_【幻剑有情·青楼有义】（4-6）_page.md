@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【幻剑有情·青楼有义】（4-6）.doc]([交换]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | b4fdb019b8d5f2a921048e3d48cf5552                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

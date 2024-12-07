@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪梦皮缘_第三章[开始进入正式剧情了……].
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | 4c8a7f794d36d13691af04060c92c575                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

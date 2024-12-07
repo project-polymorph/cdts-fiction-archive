@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_汉贼番外-铜雀春深.docx]([皮物]_汉贼番外-铜�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33414 bytes                           |
 | MD5             | 83c5ffff0db0f7cc99088981e50c6859                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

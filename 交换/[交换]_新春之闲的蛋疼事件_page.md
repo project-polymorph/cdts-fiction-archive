@@ -20,7 +20,7 @@ TXT 下载: [[交换]_新春之闲的蛋疼事件.docx]([交换]_新春之闲的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58361 bytes                           |
 | MD5             | 5cd86178001d1761660cf03cbd86635d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

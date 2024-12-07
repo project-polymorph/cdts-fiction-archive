@@ -20,7 +20,7 @@ TXT 下载: [[交换]_《香》其二.doc]([交换]_《香》其二.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | f24a31208acace7910e7d82f5dd29882                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]【xly翻译】法国交换生.doc]([变装]【xly翻译】
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 279aa61594eafd0b97ae0a883579a497                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | xly000                               |
 | Region          | 未知                               |

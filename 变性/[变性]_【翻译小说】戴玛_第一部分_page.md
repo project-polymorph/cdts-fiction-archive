@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译小说】戴玛_第一部分.docx]([变性]_【�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 122463 bytes                           |
 | MD5             | aada78645fe556c31a1f9109265a8107                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RH Music                               |
 | Region          | 未知                               |

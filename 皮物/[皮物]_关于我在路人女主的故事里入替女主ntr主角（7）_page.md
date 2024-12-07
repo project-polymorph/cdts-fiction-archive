@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 2c09953fe2c04833366d08d5aeb3b68e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

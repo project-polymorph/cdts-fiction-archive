@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变成好朋友的性爱机器人.doc]([变身]_变成好�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 0710819fb2ed8e5a373b6cb58abeac56                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

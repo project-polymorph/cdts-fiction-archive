@@ -20,7 +20,7 @@ TXT 下载: [琉璃煞.doc](琉璃煞.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 419840 bytes                           |
 | MD5             | 5254b2aada2e4fc7d4c0a47b88853ea1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

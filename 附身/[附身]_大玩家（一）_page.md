@@ -20,7 +20,7 @@ TXT 下载: [[附身]_大玩家（一）.docx]([附身]_大玩家（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 67443 bytes                           |
 | MD5             | 3bee5737b85d7d61b11861191bfeb88e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

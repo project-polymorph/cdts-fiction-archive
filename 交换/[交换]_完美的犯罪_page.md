@@ -20,7 +20,7 @@ TXT 下载: [[交换]_完美的犯罪.docx]([交换]_完美的犯罪.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20307 bytes                           |
 | MD5             | 08126e3fdb946975a406db0903eb2ff6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | DC                               |
 | Region          | 未知                               |

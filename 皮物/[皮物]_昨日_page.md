@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_昨日.doc]([皮物]_昨日.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 72704 bytes                           |
 | MD5             | f1a77e656c2753b30967d4cb932cf80d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

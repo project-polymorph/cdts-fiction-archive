@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【申码文重发】No_Tricks,_Just_Treats.docx]([其他]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21538 bytes                           |
 | MD5             | c5510dbf4fda51e0882ab41afc2eef6f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

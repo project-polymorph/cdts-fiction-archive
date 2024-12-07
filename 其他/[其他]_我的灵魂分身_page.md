@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的灵魂分身.doc]([其他]_我的灵魂分身.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 99328 bytes                           |
 | MD5             | 3cba746516d8cb4e7f8afb15e0cbd593                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

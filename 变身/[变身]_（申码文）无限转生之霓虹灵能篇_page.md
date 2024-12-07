@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（申码文）无限转生之霓虹灵能篇.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 91648 bytes                           |
 | MD5             | bc7b538d56154e67f933683125c09214                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

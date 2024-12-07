@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_15_重逢.docx]([交换]_龙舌兰_15_重逢.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30809 bytes                           |
 | MD5             | 557b817f1d49fbd98011c61716a77938                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yudi（ft3020997）                               |
 | Region          | 未知                               |

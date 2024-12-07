@@ -20,7 +20,7 @@ TXT 下载: [[变身]_万万没想到4_[.docx]([变身]_万万没想到4_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22117 bytes                           |
 | MD5             | 0a8f320e451ae3292cae70150d2afc8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_都市传说（六）.doc]([附身]_都市传说（六）.
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 670a67f14202e0084348a573fbe83af7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身药膏第二章_新的工作.doc]([变身]_变身药
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 5d3bb0ee41412d808b26a462ed5d1f0f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

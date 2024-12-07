@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《意识转移》第一章.doc]([附身]_《意识转移�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 21e260f30eef25f2ce95b0a817b33b14                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

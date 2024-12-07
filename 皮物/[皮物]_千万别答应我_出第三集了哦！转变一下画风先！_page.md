@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_千万别答应我_出第三集了哦！转变一下画风
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17907 bytes                           |
 | MD5             | 5fd90fcfa80107a26e451908ed7b1ec3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

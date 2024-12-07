@@ -20,7 +20,7 @@ TXT 下载: [[其他]_窈窕仙子.docx]([其他]_窈窕仙子.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16587 bytes                           |
 | MD5             | fb76b987eab46f0f901cd8a1c66d9522                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

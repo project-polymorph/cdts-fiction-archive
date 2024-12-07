@@ -20,7 +20,7 @@ TXT 下载: [[变性]_啦啦队教练.doc]([变性]_啦啦队教练.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | d6809382fcacb2648764d82faba6214a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

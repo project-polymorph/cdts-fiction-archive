@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《沉溺》.doc]([变身]_《沉溺》.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 98304 bytes                           |
 | MD5             | 44e4c57e81af8d270e5b736196fe5139                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

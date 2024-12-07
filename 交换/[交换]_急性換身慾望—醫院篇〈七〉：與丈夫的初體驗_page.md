@@ -20,7 +20,7 @@ TXT 下载: [[交换]_急性換身慾望—醫院篇〈七〉：與丈夫的初�
 | Format          | Microsoft Word Document                               |
 | Size            | 76288 bytes                           |
 | MD5             | a85f5cb941f074d9b86d432c7fb9901f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

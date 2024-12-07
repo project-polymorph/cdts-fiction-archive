@@ -22,7 +22,7 @@ TXT 下载: [[附身]_十二宫_四章（完结）.doc]([附身]_十二宫_四�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 8cea791530c7eb5838bdf5ee92ff670f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

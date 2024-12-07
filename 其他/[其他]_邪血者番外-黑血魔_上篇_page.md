@@ -20,7 +20,7 @@ TXT 下载: [[其他]_邪血者番外-黑血魔_上篇.docx]([其他]_邪血者�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24222 bytes                           |
 | MD5             | ce24f628749e3d6a69be62c6de1c7a99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

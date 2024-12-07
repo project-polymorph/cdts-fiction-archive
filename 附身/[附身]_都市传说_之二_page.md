@@ -20,7 +20,7 @@ TXT 下载: [[附身]_都市传说_之二.docx]([附身]_都市传说_之二.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62833 bytes                           |
 | MD5             | 76193619e6fb574700bbe755ff996f86                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

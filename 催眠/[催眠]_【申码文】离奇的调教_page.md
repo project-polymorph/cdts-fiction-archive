@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_【申码文】离奇的调教.doc]([催眠]_【申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 3e638c101550a3989167ffe2213f02a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

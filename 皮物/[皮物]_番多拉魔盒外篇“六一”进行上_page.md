@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_番多拉魔盒外篇“六一”进行上.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18843 bytes                           |
 | MD5             | 64cc83c93fa3fc5d594374d1cf5f23d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 苍茫                               |
 | Region          | 中国大陆                               |

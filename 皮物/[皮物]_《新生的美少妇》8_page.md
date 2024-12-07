@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《新生的美少妇》8.doc]([皮物]_《新生的美少
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 7a6b8e2dd0813e5bfd9acd5de72cf667                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

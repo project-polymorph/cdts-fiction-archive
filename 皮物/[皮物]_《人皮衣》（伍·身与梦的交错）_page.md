@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《人皮衣》（伍·身与梦的交错）.doc]([皮物]
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 9defa35fca4abd11f3b68b0f4e57050f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

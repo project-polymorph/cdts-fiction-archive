@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《逆血》.doc]([皮物]_《逆血》.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | d2b8516e15474caf47c1717ff45cefbb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

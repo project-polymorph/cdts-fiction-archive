@@ -20,7 +20,7 @@ TXT 下载: [[改造]_神秘的調酒_Mystic's_Mixed_Drinks.doc]([改造]_神秘
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | d722b90b2cc4ca7fd92ab4783e49c05c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

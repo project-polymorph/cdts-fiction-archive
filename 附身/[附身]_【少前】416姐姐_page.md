@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【少前】416姐姐.doc]([附身]_【少前】416姐姐.
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 2ef0a1bb9ac5c3ff1ddda68101fbf0c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

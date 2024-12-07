@@ -20,7 +20,7 @@ TXT 下载: [[附身]_灵魂管理器2型(3).docx]([附身]_灵魂管理器2型(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22174 bytes                           |
 | MD5             | 71a2dfec8432e0e5ba32ff3611e89e76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

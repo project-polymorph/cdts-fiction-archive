@@ -20,7 +20,7 @@ TXT 下载: [[交换]_双眼惹的祸：第四章_[.docx]([交换]_双眼惹的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22426 bytes                           |
 | MD5             | 947a0a56f2e1768d56b0812904b02e0d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

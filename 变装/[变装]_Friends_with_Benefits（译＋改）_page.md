@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Friends_with_Benefits（译＋改）.docx]([变装]_Friend
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51216 bytes                           |
 | MD5             | 9bc6a19b96707afe756642a89ee45b5d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

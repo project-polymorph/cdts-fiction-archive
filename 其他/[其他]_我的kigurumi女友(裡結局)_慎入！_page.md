@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的kigurumi女友(裡結局)_慎入！.docx]([其他]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24090 bytes                           |
 | MD5             | 0ec6c6009bb9ca464c478c5c6806ac59                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[小说翻译]Escape_Ch.2（越狱_逃亡_第二章）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51756 bytes                           |
 | MD5             | 1be2db6b902ac9b99d8104c68d2bf318                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

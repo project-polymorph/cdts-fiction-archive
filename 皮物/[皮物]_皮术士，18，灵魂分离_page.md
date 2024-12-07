@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士，18，灵魂分离.docx]([皮物]_皮术士，1
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25490 bytes                           |
 | MD5             | dd5887fccb675c3a76011e56e5667f81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

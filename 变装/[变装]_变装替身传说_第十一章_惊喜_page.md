@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装替身传说_第十一章_惊喜.docx]([变装]_变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20148 bytes                           |
 | MD5             | e48a33788b62352c440ce20bda48aea5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

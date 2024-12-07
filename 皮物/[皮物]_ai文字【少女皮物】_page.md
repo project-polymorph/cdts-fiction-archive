@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_ai文字【少女皮物】.docx]([皮物]_ai文字【少�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18279 bytes                           |
 | MD5             | 737970cc221e56ae766f750a1c92cb72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

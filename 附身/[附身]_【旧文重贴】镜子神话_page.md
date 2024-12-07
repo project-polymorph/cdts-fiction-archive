@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【旧文重贴】镜子神话.doc]([附身]_【旧文重�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | b53a8bc7524f6f09fd68ee0d8d608a1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

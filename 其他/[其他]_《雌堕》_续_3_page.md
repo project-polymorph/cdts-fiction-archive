@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《雌堕》_续_3.doc]([其他]_《雌堕》_续_3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | efc32e4ceab7a5792015a90d8a5dc5d5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

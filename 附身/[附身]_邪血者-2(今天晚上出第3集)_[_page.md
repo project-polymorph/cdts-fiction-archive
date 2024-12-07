@@ -20,7 +20,7 @@ TXT 下载: [[附身]_邪血者-2(今天晚上出第3集)_[.docx]([附身]_邪�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17765 bytes                           |
 | MD5             | 7526369e3ccd22c066804d5c6b7a94d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lijie817                               |
 | Region          | 中国大陆                               |

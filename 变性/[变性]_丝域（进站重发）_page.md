@@ -20,7 +20,7 @@ TXT 下载: [[变性]_丝域（进站重发）.docx]([变性]_丝域（进站重
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32089 bytes                           |
 | MD5             | 52cf3831bda5c38f062a698ede318f78                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 老阿朔                               |
 | Region          | 中国大陆                               |

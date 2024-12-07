@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译变装】逃出生天.doc]([变装]_【翻译变�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 358860c4f9f85f2ffd55dfa7a385e904                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Angela Collins                               |
 | Region          | 未知                               |

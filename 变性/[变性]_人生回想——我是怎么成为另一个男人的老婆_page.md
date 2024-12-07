@@ -20,7 +20,7 @@ TXT 下载: [[变性]_人生回想——我是怎么成为另一个男人的老�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 555c4d9fee5e31716b49837078c7998d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong（翻译）                               |
 | Region          | 未知                               |

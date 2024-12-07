@@ -20,7 +20,7 @@ TXT 下载: [[变性]_DTX之新生-2.doc]([变性]_DTX之新生-2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 486980e2bfe1642da62fae2574d6e0c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

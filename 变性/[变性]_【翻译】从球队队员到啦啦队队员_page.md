@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】从球队队员到啦啦队队员.doc]([变性
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 31fbae17a6aa511e276591ca1b711d15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

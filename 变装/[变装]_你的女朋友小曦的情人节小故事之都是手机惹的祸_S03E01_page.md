@@ -20,7 +20,7 @@ TXT 下载: [[变装]_你的女朋友小曦的情人节小故事之都是手机�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 236aa299e4fb9ed679794713abbcd8a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

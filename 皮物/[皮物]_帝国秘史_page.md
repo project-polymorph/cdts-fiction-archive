@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_帝国秘史.doc]([皮物]_帝国秘史.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 211456 bytes                           |
 | MD5             | 74735c2586ce6e1b6d0c47ff3d418f7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

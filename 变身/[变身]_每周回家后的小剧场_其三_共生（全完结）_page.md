@@ -20,7 +20,7 @@ TXT 下载: [[变身]_每周回家后的小剧场_其三_共生（全完结）.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18979 bytes                           |
 | MD5             | f31278c70a42d44fe10a6e702cffc06b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_制服美女的修羅場(3).doc]([附身]_制服美女的�
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 426ff9b9044424733ce280ab24f3220d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

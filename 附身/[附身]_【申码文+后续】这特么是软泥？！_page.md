@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码文+后续】这特么是软泥？！.doc]([附�
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | 9b2ae18b6b13ee6c2eb41b5fab18fa87                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

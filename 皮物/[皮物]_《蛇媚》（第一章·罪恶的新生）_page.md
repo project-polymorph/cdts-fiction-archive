@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《蛇媚》（第一章·罪恶的新生）.docx]([皮物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22023 bytes                           |
 | MD5             | b843ab4a06881382264a429351d1fb49                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

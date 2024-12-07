@@ -20,7 +20,7 @@ TXT 下载: [[变装]_人生交换之财富与地位_4.docx]([变装]_人生交�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36586 bytes                           |
 | MD5             | a62d766eff427dc9d83f7645755afa08                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Susannah Donim                               |
 | Region          | 未知                               |

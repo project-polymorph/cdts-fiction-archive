@@ -20,7 +20,7 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第三章.docx]([交换]_胧月
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28164 bytes                           |
 | MD5             | 798f0c43d9372632be6e6a710b7ba2fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

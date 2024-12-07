@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《蛇媚》(第四章·沉迷女体的温柔乡).docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18261 bytes                           |
 | MD5             | 8ee295228fb3af6dd4cdb2e3666cc492                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

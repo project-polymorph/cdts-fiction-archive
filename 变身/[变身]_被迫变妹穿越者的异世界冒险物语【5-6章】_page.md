@@ -20,7 +20,7 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【5-6章】.
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 985de5054cb65ebd63846086940aec27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

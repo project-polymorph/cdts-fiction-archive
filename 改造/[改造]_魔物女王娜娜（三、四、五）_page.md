@@ -20,7 +20,7 @@ TXT 下载: [[改造]_魔物女王娜娜（三、四、五）.doc]([改造]_魔�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 40f01bef776953d06444e83725f308c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

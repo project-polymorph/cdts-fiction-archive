@@ -20,7 +20,7 @@ TXT 下载: [[改造]_许愿硬币（翻译风•现实改变系）.doc]([改造
 | Format          | Microsoft Word Document                               |
 | Size            | 99328 bytes                           |
 | MD5             | a95207b5e98548ac46cba5c51a663381                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

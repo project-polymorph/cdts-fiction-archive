@@ -20,7 +20,7 @@ TXT 下载: [[变装]_蝴蝶_2.doc]([变装]_蝴蝶_2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 6005e471c5af0f87df46c98f82a1f86c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

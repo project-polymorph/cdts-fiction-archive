@@ -20,7 +20,7 @@ TXT 下载: [[变装]_无奈人生之人妖婊子2.doc]([变装]_无奈人生之
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 975d4f5e97747b6b69e4f9d1a9be9e1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_知面不知心.doc]([皮物]_知面不知心.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 62976 bytes                           |
 | MD5             | 676a73794b1872299d29aaf6b806e65c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 马岛猬                               |
 | Region          | 中国大陆                               |

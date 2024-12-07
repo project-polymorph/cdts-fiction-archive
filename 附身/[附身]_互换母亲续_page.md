@@ -20,7 +20,7 @@ TXT 下载: [[附身]_互换母亲续.doc]([附身]_互换母亲续.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | b7fe7d911bd04945ee90991157992756                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

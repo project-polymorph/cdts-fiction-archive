@@ -20,7 +20,7 @@ TXT 下载: [[交换]_戏笑山河（一）.doc]([交换]_戏笑山河（一）.
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | 05d35720c2837a2ecd7cab597febf192                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

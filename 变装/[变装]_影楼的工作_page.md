@@ -20,7 +20,7 @@ TXT 下载: [[变装]_影楼的工作.docx]([变装]_影楼的工作.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20312 bytes                           |
 | MD5             | 063ad9aef93ee812f21f23b784efc2ad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

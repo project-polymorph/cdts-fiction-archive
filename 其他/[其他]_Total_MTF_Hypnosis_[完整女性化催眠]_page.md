@@ -20,7 +20,7 @@ TXT 下载: [[其他]_Total_MTF_Hypnosis_[完整女性化催眠].doc]([其他]_T
 | Format          | Microsoft Word Document                               |
 | Size            | 96256 bytes                           |
 | MD5             | 9626903240da8339a86aa09673b30878                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Dawna Tompson                               |
 | Region          | 未知                               |

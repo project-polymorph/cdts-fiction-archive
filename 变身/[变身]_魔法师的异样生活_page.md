@@ -20,7 +20,7 @@ TXT 下载: [[变身]_魔法师的异样生活.docx]([变身]_魔法师的异样
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28418 bytes                           |
 | MD5             | e0814971befc67d08eb90d19f5805b31                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

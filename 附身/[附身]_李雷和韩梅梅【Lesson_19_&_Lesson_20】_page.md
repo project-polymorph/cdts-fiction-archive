@@ -20,7 +20,7 @@ TXT 下载: [[附身]_李雷和韩梅梅【Lesson_19_&_Lesson_20】.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42951 bytes                           |
 | MD5             | 4f296f041af831f09e7b52fd9be06ad8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 永恒的狞笑                               |
 | Region          | 中国大陆                               |

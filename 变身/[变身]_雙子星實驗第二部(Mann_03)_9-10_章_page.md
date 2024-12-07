@@ -20,7 +20,7 @@ TXT 下载: [[变身]_雙子星實驗第二部(Mann_03)_9-10_章.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | a3aadbec5c281ecb6265578eeb031e47                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

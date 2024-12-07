@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_特工松藤之潜入学校.docx]([皮物]_特工松藤之
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24631 bytes                           |
 | MD5             | a611aa9ba7422121a833e2ba8c37bb92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

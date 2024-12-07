@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch05.docx]([皮物]_天使的救赎_Ch05.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26615 bytes                           |
 | MD5             | c2839a35e57231c59c785d38669d080f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

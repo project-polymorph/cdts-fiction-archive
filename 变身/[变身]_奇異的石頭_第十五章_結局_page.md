@@ -20,7 +20,7 @@ TXT 下载: [[变身]_奇異的石頭_第十五章_結局.doc]([变身]_奇異�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | fd4693acfe8ac1cf19bc3588e48f5896                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

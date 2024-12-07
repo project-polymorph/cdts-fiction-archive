@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_小雅和妈妈.docx]([皮物]_小雅和妈妈.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20217 bytes                           |
 | MD5             | e73d5be4d962e2081d9d994ecfd5d4d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

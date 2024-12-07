@@ -20,7 +20,7 @@ TXT 下载: [[附身]_空难.docx]([附身]_空难.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32567 bytes                           |
 | MD5             | bdfdc02f8f0b213b595381484b551958                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

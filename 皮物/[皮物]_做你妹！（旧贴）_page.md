@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_做你妹！（旧贴）.docx]([皮物]_做你妹！（旧
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41912 bytes                           |
 | MD5             | 624d5d76e943b6aaf933e3e8d335b24b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

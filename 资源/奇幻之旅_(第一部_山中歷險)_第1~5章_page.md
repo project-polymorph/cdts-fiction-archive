@@ -20,7 +20,7 @@ TXT 下载: [奇幻之旅_(第一部_山中歷險)_第1~5章.doc](奇幻之旅_(
 | Format          | Microsoft Word Document                               |
 | Size            | 71168 bytes                           |
 | MD5             | 9c784f6dbab269da7fdc4672a7ce40d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

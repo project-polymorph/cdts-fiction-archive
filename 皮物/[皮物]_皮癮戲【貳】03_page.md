@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮癮戲【貳】03.docx]([皮物]_皮癮戲【貳】03.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 137953 bytes                           |
 | MD5             | 6e19f0b3599ca8dd8042100df50c0d3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | FDisguise2                               |
 | Region          | 未知                               |

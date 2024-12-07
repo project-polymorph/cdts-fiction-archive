@@ -20,7 +20,7 @@ TXT 下载: [雌服主妇，美丽前行.doc](雌服主妇，美丽前行.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 126976 bytes                           |
 | MD5             | 6473379f3456c03c99c7b7c5a465759b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lisa Lovelace                               |
 | Region          | 未知                               |

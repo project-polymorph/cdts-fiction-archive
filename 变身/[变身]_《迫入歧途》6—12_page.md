@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《迫入歧途》6—12.docx]([变身]_《迫入歧途》
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 63306 bytes                           |
 | MD5             | 5edc71262a6e17ecfb635d2a8289a2d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

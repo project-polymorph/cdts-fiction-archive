@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第九章（唉，游戏害人�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | cd951082282a32ca3c2299a28a3efeb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_お人形達の学園１年２組・船越光男君の日�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24771 bytes                           |
 | MD5             | cf425e3dd01d83029014f7929972eac6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

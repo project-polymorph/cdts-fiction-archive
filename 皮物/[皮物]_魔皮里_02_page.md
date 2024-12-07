@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔皮里_02.docx]([皮物]_魔皮里_02.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24870 bytes                           |
 | MD5             | 94f4621dd119f4de2ec27ad5658d54a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

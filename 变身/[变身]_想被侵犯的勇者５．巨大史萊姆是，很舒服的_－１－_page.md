@@ -20,7 +20,7 @@ TXT 下载: [[变身]_想被侵犯的勇者５．巨大史萊姆是，很舒服�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26767 bytes                           |
 | MD5             | 50df059236e9744ccee26f1795544840                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

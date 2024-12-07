@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译】两害相权取其轻_3_3.doc]([变装]_【翻
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 5b699e6d5c5fdd3f1d7d8eacc4cce2a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

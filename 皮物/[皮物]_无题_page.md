@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_无题.docx]([皮物]_无题.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18004 bytes                           |
 | MD5             | f2172782a782fc4c15eb94e7d42397d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮巧克力（引子）博客漫画联动.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22510 bytes                           |
 | MD5             | d1c460551c65e96cac93752abe4eee96                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

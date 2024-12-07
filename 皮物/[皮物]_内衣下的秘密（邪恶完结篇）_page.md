@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_内衣下的秘密（邪恶完结篇）.docx]([皮物]_内
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22356 bytes                           |
 | MD5             | a5ffe686a6a9f17b9fe8631f35f6e647                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

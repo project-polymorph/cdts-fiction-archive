@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Call_me_maybe_（有可能给我打个电话？）.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | af1ab74bee251a4256b296cd1e8e6c48                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

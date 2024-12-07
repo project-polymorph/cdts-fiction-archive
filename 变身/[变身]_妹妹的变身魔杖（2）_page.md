@@ -20,7 +20,7 @@ TXT 下载: [[变身]_妹妹的变身魔杖（2）.docx]([变身]_妹妹的变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54663 bytes                           |
 | MD5             | 7f6178e8a708a5d87b14c7023069b729                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

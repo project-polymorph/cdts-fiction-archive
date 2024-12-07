@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_魔法のアプリでOLを皮にして遊ぶ話.docx]([皮
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23682 bytes                           |
 | MD5             | cea5c54c4b4890bb49f229acbe687b60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换民俗学.docx]([交换]_交换民俗学.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18080 bytes                           |
 | MD5             | 00dfb2953e1525387a70b2d4123dcc33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 仓さん                               |
 | Region          | 日本                               |

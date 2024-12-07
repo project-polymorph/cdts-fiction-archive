@@ -20,7 +20,7 @@ TXT 下载: [[交换]_正義的美少女——粉紅稜鏡.docx]([交换]_正義
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18961 bytes                           |
 | MD5             | 845318cee811f8ecdbf17b39084ff688                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

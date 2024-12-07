@@ -20,7 +20,7 @@ TXT 下载: [[附身]_七色校园.doc]([附身]_七色校园.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 83456 bytes                           |
 | MD5             | e57ea30fa17eea4ed515fb877a569653                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

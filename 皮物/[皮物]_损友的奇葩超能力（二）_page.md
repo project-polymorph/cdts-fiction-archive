@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_损友的奇葩超能力（二）.docx]([皮物]_损友的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32847 bytes                           |
 | MD5             | 5a6e1080920713d2f888365c2753fba6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

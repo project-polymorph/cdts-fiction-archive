@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔法拉链.docx]([皮物]_魔法拉链.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15306 bytes                           |
 | MD5             | 5bbf2ad531427d063359964dccabec56                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ZIPPER                               |
 | Region          | 未知                               |

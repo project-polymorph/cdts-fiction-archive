@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_海神大人的泳衣.docx]([皮物]_海神大人的泳衣
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53203 bytes                           |
 | MD5             | 5e1eb14d1086f506e861d8b7d1458ab7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 灯台守                               |
 | Region          | 未知                               |

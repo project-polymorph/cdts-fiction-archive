@@ -20,7 +20,7 @@ TXT 下载: [[变装]_男媳（完整版）.docx]([变装]_男媳（完整版）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35277 bytes                           |
 | MD5             | 95f6f905e8fa971ce3cfad59740a3394                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

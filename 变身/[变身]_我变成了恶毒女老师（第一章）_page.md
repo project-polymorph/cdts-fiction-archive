@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我变成了恶毒女老师（第一章）.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | bb96e9542ce8bc80a4078fe2b277bd5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

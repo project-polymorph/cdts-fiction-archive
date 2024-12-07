@@ -20,7 +20,7 @@ TXT 下载: [[附身]_EROS_（3）自闭死宅绝不死于交流……才怪.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 11eeecc61f77d73f871f1db0a647ada7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

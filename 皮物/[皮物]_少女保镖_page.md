@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_少女保镖.docx]([皮物]_少女保镖.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30592 bytes                           |
 | MD5             | b78fcd4d4863988c716bb115906c96fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

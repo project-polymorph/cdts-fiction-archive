@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】出错的身份.docx]([变性]_【翻译】出
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50525 bytes                           |
 | MD5             | 55bedaedfb4ae6386756f4546eff833f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

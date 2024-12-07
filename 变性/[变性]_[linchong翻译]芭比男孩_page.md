@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]芭比男孩.docx]([变性]_[linchong翻�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48826 bytes                           |
 | MD5             | 45b568c23bba534a8a9e0ac753ad6e1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Janet L. Stickney (翻译: linchong)                               |
 | Region          | 未知                               |

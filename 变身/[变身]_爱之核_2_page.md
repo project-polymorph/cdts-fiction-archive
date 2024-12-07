@@ -20,7 +20,7 @@ TXT 下载: [[变身]_爱之核_2.docx]([变身]_爱之核_2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 73550 bytes                           |
 | MD5             | 04f2a8421993de0dcdc90b0846e2aee9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

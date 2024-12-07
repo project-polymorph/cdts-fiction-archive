@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一念指妖_10.docx]([皮物]_一念指妖_10.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24247 bytes                           |
 | MD5             | 26b708c60105e5929d5f37acca2f6362                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

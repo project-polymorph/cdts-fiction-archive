@@ -20,7 +20,7 @@ TXT 下载: [[变身]_七十二变（1-2）.docx]([变身]_七十二变（1-2）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32986 bytes                           |
 | MD5             | 20744ff104ca67b3554c8dc46564e311                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

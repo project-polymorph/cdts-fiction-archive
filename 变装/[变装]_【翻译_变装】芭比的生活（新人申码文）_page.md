@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译_变装】芭比的生活（新人申码文）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 76288 bytes                           |
 | MD5             | 05645af0db9606f288dae6b6c06684ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_修仙的故事1～7—取名无力.doc]([附身]_修仙�
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | c2147203f41afb3fe639a173affa9abf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

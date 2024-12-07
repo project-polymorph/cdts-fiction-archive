@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_中元の轶事.docx]([皮物]_中元の轶事.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55427 bytes                           |
 | MD5             | 050c13582d04b538f23c89cb61bb9dac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

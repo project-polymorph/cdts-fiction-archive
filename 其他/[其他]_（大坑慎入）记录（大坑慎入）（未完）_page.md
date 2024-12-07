@@ -20,7 +20,7 @@ TXT 下载: [[其他]_（大坑慎入）记录（大坑慎入）（未完）.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 668e6e8ad64eabbbc6c7645018353879                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

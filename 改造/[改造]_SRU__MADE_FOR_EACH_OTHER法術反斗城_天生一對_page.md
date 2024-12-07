@@ -20,7 +20,7 @@ TXT 下载: [[改造]_SRU__MADE_FOR_EACH_OTHER法術反斗城_天生一對.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23408 bytes                           |
 | MD5             | 40d49a71c19185141743aab8ef556274                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Roy Del Frink                               |
 | Region          | 未知                               |

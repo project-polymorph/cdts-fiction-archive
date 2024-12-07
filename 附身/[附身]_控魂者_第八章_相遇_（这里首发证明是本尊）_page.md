@@ -20,7 +20,7 @@ TXT 下载: [[附身]_控魂者_第八章_相遇_（这里首发证明是本尊�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19470 bytes                           |
 | MD5             | 74be3cda46f7bb374c538b8c74ae0dde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(九）.doc]([改造]_[小晰]_BS_APP_(九
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | c7b0787b7acb0f396b314c8ad2a38038                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | little.she0310                               |
 | Region          | 未知                               |

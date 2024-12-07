@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我竟然被兄弟掰弯了.doc]([皮物]_我竟然被兄�
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 139340fb4286fa256ffa827086b7355e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_与朴素系巨乳女大学生互换的故事（1～5）.d
 | Format          | Microsoft Word Document                               |
 | Size            | 82944 bytes                           |
 | MD5             | db7c60172832d600907d579118edfbfe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

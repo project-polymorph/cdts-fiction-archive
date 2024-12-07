@@ -20,7 +20,7 @@ TXT 下载: [[其他]_脖子戲法.doc]([其他]_脖子戲法.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | d43c271b9c1a16d20ec406a014b3ce3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_雪村響子的另一面_(11)_[.docx]([附身]_雪村響�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28890 bytes                           |
 | MD5             | bded26b12786f88948b2736cbc32e8bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

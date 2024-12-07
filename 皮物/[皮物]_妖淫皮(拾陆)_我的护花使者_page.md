@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(拾陆)_我的护花使者.docx]([皮物]_妖淫
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22778 bytes                           |
 | MD5             | 2c3d76070d830bd564879c6cb987f1ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

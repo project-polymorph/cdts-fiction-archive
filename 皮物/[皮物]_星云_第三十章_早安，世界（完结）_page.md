@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星云_第三十章_早安，世界（完结）.docx]([皮
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24844 bytes                           |
 | MD5             | 1158df3c3b3f7a39a7e2aca8e10209d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

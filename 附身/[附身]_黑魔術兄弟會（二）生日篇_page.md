@@ -7,7 +7,7 @@ TXT 下载: [[附身]_黑魔術兄弟會（二）生日篇.docx]([附身]_黑魔
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《黑魔術兄弟會（二）生日篇》的内容，围绕一个生日派对展开，故事中的两个男孩——凱文和尚志，拜访凱文的朋友矢口美留。作品以第一人称视角展开，结合了一些性暗示和情色描写，描绘了他们对于生日派对的期待以及相互之间的互动和调侃。故事开头提到有部分情节包括情色描述、亂倫情节与变态内容，建议读者谨慎选择。尤其在描述美留的形象与举止时，充满了暗示性和挑逗性，例如美留在厨房里为尚志和凱文准备食物，并且展现她的身姿，造成了尚志的紧张和不安。这展示了人物之间的复杂情感和性别认同的探索，同时也包含了一些异性恋和可能的伪娘元素。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_黑魔術兄弟會（二）生日篇.docx]([附身]_黑魔
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51492 bytes                           |
 | MD5             | a9f2908eb3919a56790b486143c71fff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 生日派对, 情色小说, 强援, NTR, 性转, 男男恋, 交互关系, 调情, 青春期困惑, 家庭关系, 变身, 幻想情节, 教师角色, 独特的性别认同, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_妄想发明：脑波控制器_完结.docx]([附身]_妄�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23261 bytes                           |
 | MD5             | f3aa548b7ba9ab0cb6e0beffca9a383f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

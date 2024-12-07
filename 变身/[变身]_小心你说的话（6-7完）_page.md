@@ -20,7 +20,7 @@ TXT 下载: [[变身]_小心你说的话（6-7完）.doc]([变身]_小心你说�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | b67ccd32ee21467f9c99083965ff920a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

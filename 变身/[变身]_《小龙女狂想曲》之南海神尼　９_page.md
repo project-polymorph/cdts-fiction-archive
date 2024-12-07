@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　９.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 13c5201c80e99c81a80f97c3060e1d81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月神_——_01_【含背景设定与剧情人物关系�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19131 bytes                           |
 | MD5             | 138929e64e2721f50e66fc15c07875b7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | silverpine，ambiva                               |
 | Region          | 未知                               |

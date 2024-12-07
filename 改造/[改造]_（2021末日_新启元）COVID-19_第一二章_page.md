@@ -20,7 +20,7 @@ TXT 下载: [[改造]_（2021末日_新启元）COVID-19_第一二章.doc]([改�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 87f6ffa204be6134b0f2237152924400                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

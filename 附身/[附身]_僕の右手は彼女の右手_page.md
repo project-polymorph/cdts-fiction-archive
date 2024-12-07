@@ -20,7 +20,7 @@ TXT 下载: [[附身]_僕の右手は彼女の右手.doc]([附身]_僕の右手�
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | e118c7259c5ce701c0563eba511dc7ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー                               |
 | Region          | 未知                               |

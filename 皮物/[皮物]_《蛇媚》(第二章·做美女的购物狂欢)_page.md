@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《蛇媚》(第二章·做美女的购物狂欢).docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23608 bytes                           |
 | MD5             | 6e7ac17d53e8d6f3d18f42ba022343ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

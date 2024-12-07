@@ -20,7 +20,7 @@ TXT 下载: [[交换]_主神墓地_1、2.doc]([交换]_主神墓地_1、2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | f3ffa84929bed69d323e49a89309cc3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

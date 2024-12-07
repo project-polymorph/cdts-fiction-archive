@@ -20,7 +20,7 @@ TXT 下载: [[交换]_Turned_Tables.doc]([交换]_Turned_Tables.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 62fed8ef671becdee3461b6bec26b355                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

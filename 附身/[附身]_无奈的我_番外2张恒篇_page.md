@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无奈的我_番外2张恒篇.doc]([附身]_无奈的我_�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 660dc6e5d61a155322bb8ef2757f4c2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

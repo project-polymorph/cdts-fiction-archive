@@ -20,7 +20,7 @@ TXT 下载: [[变身]_申码文重发-变身伪装成护士侵犯正太君的故
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 9661027d0327ba99772da6bedc3b45c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

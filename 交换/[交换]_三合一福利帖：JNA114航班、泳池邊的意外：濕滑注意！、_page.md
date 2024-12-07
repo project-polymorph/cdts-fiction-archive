@@ -22,7 +22,7 @@ TXT 下载: [[交换]_三合一福利帖：JNA114航班、泳池邊的意外：�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 70626 bytes                           |
 | MD5             | 1a0322b68021c17e4f0ad28a60d287da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮癮戲--劇情整理_(1~12)_[.docx]([皮物]_皮癮戲-
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19131 bytes                           |
 | MD5             | aff0e1cb8a9531cfe85751c7a28afea3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

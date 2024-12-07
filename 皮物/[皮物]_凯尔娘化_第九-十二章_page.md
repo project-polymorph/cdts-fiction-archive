@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_凯尔娘化_第九-十二章.doc]([皮物]_凯尔娘化_�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | c579ed5f3dc7ff931b0e66dfd161124a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

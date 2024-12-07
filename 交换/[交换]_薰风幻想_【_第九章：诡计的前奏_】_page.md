@@ -20,7 +20,7 @@ TXT 下载: [[交换]_薰风幻想_【_第九章：诡计的前奏_】.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29277 bytes                           |
 | MD5             | 03a2550e5f86c9eadbf76ed203a3f743                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RERE                               |
 | Region          | 未知                               |

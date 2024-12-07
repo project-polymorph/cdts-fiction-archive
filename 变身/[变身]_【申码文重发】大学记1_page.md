@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申码文重发】大学记1.doc]([变身]_【申码文
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 427f41aeb54cff465382315462ee2ee1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 人生万花筒                               |
 | Region          | 中国大陆                               |

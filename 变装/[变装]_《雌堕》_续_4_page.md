@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《雌堕》_续_4.doc]([变装]_《雌堕》_续_4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | fe52fb7c3a3d38266463f86df5ba67a4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

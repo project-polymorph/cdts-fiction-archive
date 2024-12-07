@@ -20,7 +20,7 @@ TXT 下载: [[附身]_孕变.doc]([附身]_孕变.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 86528 bytes                           |
 | MD5             | 4d8f3da33f4a522588d5f3e0bc93e75f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 轻音w                               |
 | Region          | 中国大陆                               |

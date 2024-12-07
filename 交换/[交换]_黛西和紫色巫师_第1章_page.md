@@ -20,7 +20,7 @@ TXT 下载: [[交换]_黛西和紫色巫师_第1章.docx]([交换]_黛西和紫�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27117 bytes                           |
 | MD5             | ca38bbaef8ea0c82d6cf11cd25975ebe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

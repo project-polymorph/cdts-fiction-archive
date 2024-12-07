@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《牧神记同人》第三章_作者：天天吃稀饭.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47936 bytes                           |
 | MD5             | 422649b261809ba4ac9c82dbd6b86948                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 天天吃稀饭                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_神炼空间物语_第四话.docx]([皮物]_神炼空间�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21590 bytes                           |
 | MD5             | f1729d9ed38082ef52132d6d707f2535                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【siro】[改编]潜入失败的女孩？.doc]([改造]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | e3f488b5beee95d97f496ef7da367be9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | しろ（siro）                               |
 | Region          | 未知                               |

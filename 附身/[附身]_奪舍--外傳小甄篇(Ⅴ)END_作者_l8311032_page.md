@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奪舍--外傳小甄篇(Ⅴ)END_作者_l8311032.docx]([附
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25780 bytes                           |
 | MD5             | 5ef672ba31e3e015609936c2c6e66c95                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | l8311032                               |
 | Region          | 未知                               |

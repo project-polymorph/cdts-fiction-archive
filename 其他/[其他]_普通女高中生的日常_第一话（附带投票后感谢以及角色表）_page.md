@@ -20,7 +20,7 @@ TXT 下载: [[其他]_普通女高中生的日常_第一话（附带投票后感
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30807 bytes                           |
 | MD5             | c0c15ac84a419769b3a8f2cbeaa484b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 甜食爱好者                               |
 | Region          | 中国大陆                               |

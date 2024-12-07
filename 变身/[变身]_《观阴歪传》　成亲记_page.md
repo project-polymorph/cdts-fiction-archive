@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《观阴歪传》　成亲记.doc]([变身]_《观阴歪�
 | Format          | Microsoft Word Document                               |
 | Size            | 124416 bytes                           |
 | MD5             | 3c29684562a54eb1d617a1dcd1fce642                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

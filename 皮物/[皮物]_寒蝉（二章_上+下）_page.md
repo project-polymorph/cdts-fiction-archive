@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寒蝉（二章_上+下）.docx]([皮物]_寒蝉（二章_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28259 bytes                           |
 | MD5             | 12d53456044328dfd1138c7661f3c017                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

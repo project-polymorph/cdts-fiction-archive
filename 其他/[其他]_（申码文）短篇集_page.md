@@ -20,7 +20,7 @@ TXT 下载: [[其他]_（申码文）短篇集.docx]([其他]_（申码文）短
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33404 bytes                           |
 | MD5             | e57694251dac948fdf4906e419c7ff6b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星际争霸同人_【第三章_不安其室】.docx]([皮
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31425 bytes                           |
 | MD5             | 2156ae2d665bc6a9accd4b4882cf9a63                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

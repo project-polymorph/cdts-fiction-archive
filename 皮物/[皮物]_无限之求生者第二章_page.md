@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_无限之求生者第二章.doc]([皮物]_无限之求生�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | cb9279228df52823167e11f6d33f2d99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_屌丝入替白富美1（祝福大家光棍节快乐）.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25492 bytes                           |
 | MD5             | d533626e714278ab05388530066011b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

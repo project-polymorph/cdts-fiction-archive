@@ -22,7 +22,7 @@ TXT 下载: [[附身]_浮夸往事.docx]([附身]_浮夸往事.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27165 bytes                           |
 | MD5             | 059e0f64c73972320ee4139a81f1d846                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

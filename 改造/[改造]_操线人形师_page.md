@@ -20,7 +20,7 @@ TXT 下载: [[改造]_操线人形师.doc]([改造]_操线人形师.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 4b3eff5fa96c97c8d4af509c936869b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

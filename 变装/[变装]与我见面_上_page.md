@@ -20,7 +20,7 @@ TXT 下载: [[变装]与我见面_上.doc]([变装]与我见面_上.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | a9bda3f6b816d25e1b4f2323869ad875                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

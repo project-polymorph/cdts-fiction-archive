@@ -20,7 +20,7 @@ TXT 下载: [[变性]_复制不贞妻——linchong短篇集第四辑（3）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28054 bytes                           |
 | MD5             | 49729bb9c887de068082eea04d4071e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | The Princess / linchong                               |
 | Region          | 未知                               |

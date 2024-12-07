@@ -24,7 +24,7 @@ TXT 下载: [[变装]_愚人节（易容变装）.docx]([变装]_愚人节（易
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20571 bytes                           |
 | MD5             | 7f5596438d647a6924fa2d58c733c124                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

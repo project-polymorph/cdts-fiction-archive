@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮物三国4_（很短，很短）.docx]([皮物]_皮物�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16305 bytes                           |
 | MD5             | 186151f120d9003f986798fa672f1fed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

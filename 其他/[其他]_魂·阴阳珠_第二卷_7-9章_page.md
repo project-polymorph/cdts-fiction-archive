@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魂·阴阳珠_第二卷_7-9章.doc]([其他]_魂·阴阳�
 | Format          | Microsoft Word Document                               |
 | Size            | 79360 bytes                           |
 | MD5             | e9ef22dc0cb3fe961ff639ae542c4464                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

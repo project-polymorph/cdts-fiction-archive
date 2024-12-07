@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_拯救迷途（第8章）.doc]([皮物]_拯救迷途（第
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 66499c386b89108fbb958b0a5b317bf7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

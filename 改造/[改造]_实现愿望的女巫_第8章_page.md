@@ -22,7 +22,7 @@ TXT 下载: [[改造]_实现愿望的女巫_第8章.doc]([改造]_实现愿望�
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | ab947d1311ab09dda17cf21d0767b78b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

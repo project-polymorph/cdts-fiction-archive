@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蛇身.docx]([附身]_蛇身.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16195 bytes                           |
 | MD5             | 5406fb798b7e39ee3d8dbf0d73d3359a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kigurumi“少女”的纯爱叙事诗_第七章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38163 bytes                           |
 | MD5             | bcf0162c632ff883aa6d13b3d3ecbf22                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

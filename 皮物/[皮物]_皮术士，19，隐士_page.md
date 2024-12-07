@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士，19，隐士.docx]([皮物]_皮术士，19，�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23373 bytes                           |
 | MD5             | d90df591bbfdc81be17013178affaa65                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

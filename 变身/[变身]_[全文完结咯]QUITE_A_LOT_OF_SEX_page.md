@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[全文完结咯]QUITE_A_LOT_OF_SEX.doc]([变身]_[全文�
 | Format          | Microsoft Word Document                               |
 | Size            | 143360 bytes                           |
 | MD5             | 2f7215436572817e235dad39a2244c4f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

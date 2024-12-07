@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_被入替的女警-王佳琪篇.doc]([皮物]_被入替的
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 8533c5b2ef8c0a03b40d1b081acd8c6f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

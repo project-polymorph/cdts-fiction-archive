@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[翻译]我是特殊调查人员.docx]([皮物]_[翻译]�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23705 bytes                           |
 | MD5             | 49d97f75e7695fb46100c3d2f19d19e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

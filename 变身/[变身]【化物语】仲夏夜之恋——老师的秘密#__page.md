@@ -20,7 +20,7 @@ TXT 下载: [[变身]【化物语】仲夏夜之恋——老师的秘密#_.doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | 4a450ae7fea03c7adfc58030e3642c9b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

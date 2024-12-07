@@ -20,7 +20,7 @@ TXT 下载: [[附身]_搬家.docx]([附身]_搬家.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55659 bytes                           |
 | MD5             | a67846f61a7c53101eb2ef6d06715fe6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 真(トゥルー）                               |
 | Region          | 未知                               |

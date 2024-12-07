@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装替身传说_至第十章_屈辱的姿势.docx]([变
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31484 bytes                           |
 | MD5             | 4437f3c5c89468d48a946b884963ddba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

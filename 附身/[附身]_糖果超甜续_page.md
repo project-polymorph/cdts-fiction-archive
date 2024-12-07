@@ -20,7 +20,7 @@ TXT 下载: [[附身]_糖果超甜续.doc]([附身]_糖果超甜续.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 97c662799cc29be0b8046f77b815c5cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

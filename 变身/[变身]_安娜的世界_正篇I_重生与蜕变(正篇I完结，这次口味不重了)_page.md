@@ -20,7 +20,7 @@ TXT 下载: [[变身]_安娜的世界_正篇I_重生与蜕变(正篇I完结，�
 | Format          | Microsoft Word Document                               |
 | Size            | 294400 bytes                           |
 | MD5             | 68d62bd7fd35cb7843e1c8bac1684b08                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

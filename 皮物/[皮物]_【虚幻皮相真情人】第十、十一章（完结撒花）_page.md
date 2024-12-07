@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【虚幻皮相真情人】第十、十一章（完结撒�
 | Format          | Microsoft Word Document                               |
 | Size            | 89088 bytes                           |
 | MD5             | f08d678c2dbdf00429c57bea03f118d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

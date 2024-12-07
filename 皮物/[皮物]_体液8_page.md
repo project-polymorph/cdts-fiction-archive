@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_体液8.docx]([皮物]_体液8.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18114 bytes                           |
 | MD5             | 068c42cdb9bf12b6cc9b6094c2f32a6a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

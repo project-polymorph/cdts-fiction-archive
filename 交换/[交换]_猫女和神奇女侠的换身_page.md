@@ -20,7 +20,7 @@ TXT 下载: [[交换]_猫女和神奇女侠的换身.docx]([交换]_猫女和神
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30316 bytes                           |
 | MD5             | a49316bfc0113067d6d2a7c19b1e3850                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Steve Zink和Eric                               |
 | Region          | 未知                               |

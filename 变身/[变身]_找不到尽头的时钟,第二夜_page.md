@@ -20,7 +20,7 @@ TXT 下载: [[变身]_找不到尽头的时钟,第二夜.docx]([变身]_找不�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25194 bytes                           |
 | MD5             | 590c5fd4f3007fbac4e40ba1002ad2d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

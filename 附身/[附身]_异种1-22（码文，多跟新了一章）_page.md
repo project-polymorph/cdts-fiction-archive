@@ -20,7 +20,7 @@ TXT 下载: [[附身]_异种1-22（码文，多跟新了一章）.docx]([附身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 147214 bytes                           |
 | MD5             | b2661f8963f981749056f89f0d4645f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

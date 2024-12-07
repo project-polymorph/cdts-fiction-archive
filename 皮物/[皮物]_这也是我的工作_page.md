@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_这也是我的工作.docx]([皮物]_这也是我的工作
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25806 bytes                           |
 | MD5             | ead3e15bed433d8a95e683e0a77f4dd2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tira                               |
 | Region          | 未知                               |

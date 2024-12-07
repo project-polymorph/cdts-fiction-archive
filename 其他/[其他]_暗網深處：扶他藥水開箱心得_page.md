@@ -20,7 +20,7 @@ TXT 下载: [[其他]_暗網深處：扶他藥水開箱心得.docx]([其他]_暗
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25011 bytes                           |
 | MD5             | 64b0743b57ec4749a7a5d90df9862c24                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | futa_ca_tw                               |
 | Region          | 未知                               |

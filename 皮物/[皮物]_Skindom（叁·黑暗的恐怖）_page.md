@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Skindom（叁·黑暗的恐怖）.docx]([皮物]_Skindom�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31030 bytes                           |
 | MD5             | 948d34e708b884db621dfc265c0d134f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

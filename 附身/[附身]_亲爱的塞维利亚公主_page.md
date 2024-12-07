@@ -20,7 +20,7 @@ TXT 下载: [[附身]_亲爱的塞维利亚公主.docx]([附身]_亲爱的塞维
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28620 bytes                           |
 | MD5             | b0e4455f2bd0936116bfbaabcfd17697                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

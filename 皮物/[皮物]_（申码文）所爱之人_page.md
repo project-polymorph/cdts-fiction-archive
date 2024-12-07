@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文）所爱之人.doc]([皮物]_（申码文）�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 5c488c35cdfb2d8ee5dcc23478d04faf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_神炼空间物语——前言.docx]([其他]_神炼空间
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16888 bytes                           |
 | MD5             | 64eb522f736af5582a6f66103cb09d17                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

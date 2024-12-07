@@ -20,7 +20,7 @@ TXT 下载: [[其他]_未來的可能性(4).docx]([其他]_未來的可能性(4)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35156 bytes                           |
 | MD5             | a41db77571f255c7afe6c06a0356a494                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

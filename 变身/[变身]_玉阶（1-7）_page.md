@@ -20,7 +20,7 @@ TXT 下载: [[变身]_玉阶（1-7）.docx]([变身]_玉阶（1-7）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 185870 bytes                           |
 | MD5             | bdacf71f61766b38cfb22d03393d889e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

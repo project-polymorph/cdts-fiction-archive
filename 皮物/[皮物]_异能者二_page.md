@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_异能者二.docx]([皮物]_异能者二.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16910 bytes                           |
 | MD5             | 76bf3bfe78ed79b5a5e37132262bae1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附体短篇集——増殖.docx]([附身]_附体短篇集
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22606 bytes                           |
 | MD5             | 7569b0a75a459ebaeadde03bb8bda6dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

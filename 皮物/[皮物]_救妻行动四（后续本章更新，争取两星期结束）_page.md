@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_救妻行动四（后续本章更新，争取两星期结�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16150 bytes                           |
 | MD5             | 08d3c2d70d6b33b55f545290880a63ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

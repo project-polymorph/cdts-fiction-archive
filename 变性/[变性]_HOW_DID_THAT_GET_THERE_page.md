@@ -20,7 +20,7 @@ TXT 下载: [[变性]_HOW_DID_THAT_GET_THERE.docx]([变性]_HOW_DID_THAT_GET_THE
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 71903 bytes                           |
 | MD5             | 8bf2ea64a2d62722ac5a390cb764d627                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

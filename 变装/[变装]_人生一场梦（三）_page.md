@@ -20,7 +20,7 @@ TXT 下载: [[变装]_人生一场梦（三）.docx]([变装]_人生一场梦（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 68578 bytes                           |
 | MD5             | 121d4798481a2b5a383d87ac73e8d991                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

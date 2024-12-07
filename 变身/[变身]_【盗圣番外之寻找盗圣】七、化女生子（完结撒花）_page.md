@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】七、化女生子（完�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35097 bytes                           |
 | MD5             | 620186ce3493a14774ac9e9eb447cfe8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

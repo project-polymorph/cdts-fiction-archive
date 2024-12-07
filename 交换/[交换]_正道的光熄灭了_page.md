@@ -20,7 +20,7 @@ TXT 下载: [[交换]_正道的光熄灭了.doc]([交换]_正道的光熄灭了.
 | Format          | Microsoft Word Document                               |
 | Size            | 355328 bytes                           |
 | MD5             | 8fd2615804d6e2e9d795ffc684724d59                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

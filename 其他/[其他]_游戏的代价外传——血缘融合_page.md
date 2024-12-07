@@ -20,7 +20,7 @@ TXT 下载: [[其他]_游戏的代价外传——血缘融合.docx]([其他]_游
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45898 bytes                           |
 | MD5             | 77a510b6a62470cc7ec1154cef66d005                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

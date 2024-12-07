@@ -20,7 +20,7 @@ TXT 下载: [[改造]_被变成雌性异形的我该如何生存（原标题：m
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53188 bytes                           |
 | MD5             | 734635c78eb8aadd08248e7d68614e94                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

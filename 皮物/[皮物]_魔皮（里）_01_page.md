@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔皮（里）_01.docx]([皮物]_魔皮（里）_01.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24784 bytes                           |
 | MD5             | 989d270e672bca7019b2d95900f92029                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

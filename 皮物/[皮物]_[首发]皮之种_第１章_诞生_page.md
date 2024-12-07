@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[首发]皮之种_第１章_诞生.docx]([皮物]_[首发]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30455 bytes                           |
 | MD5             | c526ff69d51e642d20ae3542775604a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 嵐山ＧＯ                               |
 | Region          | 未知                               |

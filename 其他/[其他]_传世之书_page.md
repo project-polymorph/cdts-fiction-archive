@@ -20,7 +20,7 @@ TXT 下载: [[其他]_传世之书.doc]([其他]_传世之书.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 2086c2a61b87c85bfb4fd9f39ffbad67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_圣诞之遇【七夕之遇后.docx]([皮物]_圣诞之遇
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21631 bytes                           |
 | MD5             | 0a162fd7439176405a385c8a07d0a032                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

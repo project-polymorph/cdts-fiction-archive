@@ -20,7 +20,7 @@ TXT 下载: [[交换]_应该分享的责任_第八章.docx]([交换]_应该分�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20714 bytes                           |
 | MD5             | 325d944edcea395fe4f67b62d37e95ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

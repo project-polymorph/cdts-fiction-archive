@@ -20,7 +20,7 @@ TXT 下载: [[变身]_公司奖励（申码文).docx]([变身]_公司奖励（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62983 bytes                           |
 | MD5             | 2b4ec4678bdb5254c5741091f0056732                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

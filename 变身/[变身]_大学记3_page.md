@@ -20,7 +20,7 @@ TXT 下载: [[变身]_大学记3.doc]([变身]_大学记3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 61984d382bbf173df93b25393511fdd0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 人生万花筒2                               |
 | Region          | 中国大陆                               |

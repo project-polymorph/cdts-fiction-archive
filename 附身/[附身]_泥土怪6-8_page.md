@@ -22,7 +22,7 @@ TXT 下载: [[附身]_泥土怪6-8.docx]([附身]_泥土怪6-8.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36245 bytes                           |
 | MD5             | 39e46ab4128f60b54cd83a0c6eccd08a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

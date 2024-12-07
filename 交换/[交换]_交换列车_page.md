@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换列车.docx]([交换]_交换列车.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30247 bytes                           |
 | MD5             | 7d8f9b717841686a38ce57e80f95b16b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

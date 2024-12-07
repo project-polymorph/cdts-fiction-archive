@@ -20,7 +20,7 @@ TXT 下载: [[变身]_tsf揭示版翻译三则（申码文）.doc]([变身]_tsf�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | f13aadd51087f927e49174406c693cb3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

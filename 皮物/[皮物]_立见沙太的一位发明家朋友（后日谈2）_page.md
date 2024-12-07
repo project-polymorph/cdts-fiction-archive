@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_立见沙太的一位发明家朋友（后日谈2）.doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 62464 bytes                           |
 | MD5             | 7d5d28c719423741ff457a0ead59d2c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_申码文《没想到室友竟是同好》.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 6ca6488a230b728e466123cc05a54bcd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

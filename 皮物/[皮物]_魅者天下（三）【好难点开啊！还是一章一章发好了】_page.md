@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魅者天下（三）【好难点开啊！还是一章一�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22508 bytes                           |
 | MD5             | f767bbd2532c0df55c14c431dffe745f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

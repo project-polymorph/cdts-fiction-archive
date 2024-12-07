@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第七回.doc](《金枝奇缘》第七回.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 278df6df99f81eb91666218e71170e2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

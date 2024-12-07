@@ -20,7 +20,7 @@ TXT 下载: [[附身]_来自未知的馈赠-第5-6章.docx]([附身]_来自未�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26003 bytes                           |
 | MD5             | 23e5c8edd590c259ab7801bb34034c0d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

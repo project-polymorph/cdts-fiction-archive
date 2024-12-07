@@ -20,7 +20,7 @@ TXT 下载: [[改造]_（申码文）雌堕成为肉便器的我.doc]([改造]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | e3be4fb3653cdf2869fc5bb7a9c22fd9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_狩妖(四)　姑获鸟篇.doc]([交换]_狩妖(四)　姑
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | d46069d7f017cfc5768cf3cf5f2132be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

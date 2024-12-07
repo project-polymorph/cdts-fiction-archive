@@ -20,7 +20,7 @@ TXT 下载: [[交换]_TS童话_灰姑娘（纯）.docx]([交换]_TS童话_灰姑
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17411 bytes                           |
 | MD5             | 249998d50be3dee68a14c094f4d3ddb4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | みのむーさん                               |
 | Region          | 未知                               |

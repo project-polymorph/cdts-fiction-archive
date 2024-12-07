@@ -20,7 +20,7 @@ TXT 下载: [[交换]_半条坠饰（全5章）.doc]([交换]_半条坠饰（全
 | Format          | Microsoft Word Document                               |
 | Size            | 80384 bytes                           |
 | MD5             | 7ffb4b800b467434851083850de3f263                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

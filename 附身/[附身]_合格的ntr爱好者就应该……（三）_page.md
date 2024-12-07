@@ -20,7 +20,7 @@ TXT 下载: [[附身]_合格的ntr爱好者就应该……（三）.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 8b69034534281895e16a3ba5570f9c60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

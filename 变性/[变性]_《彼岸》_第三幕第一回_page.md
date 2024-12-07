@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《彼岸》_第三幕第一回.docx]([变性]_《彼岸�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34466 bytes                           |
 | MD5             | b5e540b8a9c88ba7c7a9525eb8304b5a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Nellie Sheila                               |
 | Region          | 中国大陆                               |

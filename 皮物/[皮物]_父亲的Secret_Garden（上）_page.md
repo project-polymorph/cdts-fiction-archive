@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_父亲的Secret_Garden（上）.docx]([皮物]_父亲的Se
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22394 bytes                           |
 | MD5             | aa8a6c89a377aeabd2531d72cb0afd1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

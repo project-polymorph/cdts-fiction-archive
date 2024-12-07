@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[翻译]不停复仇的意外后果-（完结）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42063 bytes                           |
 | MD5             | a4e1575b0f231b67b6a7940f87ddbb6b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Ingrid HALB                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_旧帖失效，重发+更新《变身神域》第②章.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 57880 bytes                           |
 | MD5             | c076a94263c201ccd01d4cab06f2be52                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

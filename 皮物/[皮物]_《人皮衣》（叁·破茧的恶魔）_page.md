@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《人皮衣》（叁·破茧的恶魔）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 9c7af45719506ac677a344dcfee5acd3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

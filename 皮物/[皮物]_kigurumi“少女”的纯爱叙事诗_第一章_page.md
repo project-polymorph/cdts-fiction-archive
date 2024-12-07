@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kigurumi“少女”的纯爱叙事诗_第一章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55909 bytes                           |
 | MD5             | c53634db0d1b354ccb591bf3e582577a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

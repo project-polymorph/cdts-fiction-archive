@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[linchong翻译]公主带给我们希望.docx]([变身]_[l
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35153 bytes                           |
 | MD5             | 83343ce9d98d91962ad96517caeb9cc8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong                               |
 | Region          | 未知                               |

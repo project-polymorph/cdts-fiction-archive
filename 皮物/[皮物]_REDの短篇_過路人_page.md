@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_REDの短篇_過路人.doc]([皮物]_REDの短篇_過路�
 | Format          | Microsoft Word Document                               |
 | Size            | 74752 bytes                           |
 | MD5             | 5116a5c528596848797fc662ff08c546                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RED                               |
 | Region          | 未知                               |

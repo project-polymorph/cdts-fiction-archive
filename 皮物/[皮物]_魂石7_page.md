@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魂石7.docx]([皮物]_魂石7.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22527 bytes                           |
 | MD5             | 763df54efb3c46ff844a4d9977e23c36                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

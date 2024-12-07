@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【乐园计划】第二十五章：洛月璃想买内衣.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20910 bytes                           |
 | MD5             | a4cba89929ea37902c7347e8c3b3d198                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

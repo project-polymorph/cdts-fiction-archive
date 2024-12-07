@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch11.doc]([皮物]_天使的救赎_Ch11.do
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 99bd8af06605e8c68dca9d8901ab94fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

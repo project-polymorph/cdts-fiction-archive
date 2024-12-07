@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身绳缘_十六_十七.doc]([变身]_变身绳缘_十�
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 0b7979e0aed7df9878297ec0f1662eea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魅魔的皮：前篇(サキュバスの皮：前編).docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26182 bytes                           |
 | MD5             | 860f1b9c28c37ad08b1f524b4dcd6640                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | カンテ                               |
 | Region          | 未知                               |

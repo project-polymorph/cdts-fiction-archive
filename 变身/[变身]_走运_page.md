@@ -20,7 +20,7 @@ TXT 下载: [[变身]_走运.doc]([变身]_走运.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 24347b808464d0cc7ad1a55a5cbd22b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | theokgatsby                               |
 | Region          | 未知                               |

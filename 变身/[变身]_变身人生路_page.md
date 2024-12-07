@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身人生路.doc]([变身]_变身人生路.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 71680 bytes                           |
 | MD5             | 9391e1ef121cc596c2cec36077e0e156                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

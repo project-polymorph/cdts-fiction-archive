@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_青发的她_最终话.docx]([皮物]_青发的她_最终�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32900 bytes                           |
 | MD5             | a10e60cb5cba74684e3431dc2b30e02d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

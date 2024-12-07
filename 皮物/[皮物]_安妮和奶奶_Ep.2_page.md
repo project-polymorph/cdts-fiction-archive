@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_安妮和奶奶_Ep.2.doc]([皮物]_安妮和奶奶_Ep.2.do
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | f7eecb777223d7f9e42f1a01cefe97d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

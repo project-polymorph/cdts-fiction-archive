@@ -22,7 +22,7 @@ TXT 下载: [[变装]_疫情之下的意外（本帖内更新）.doc]([变装]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | cd67bcd914a592c06939b8616e91d944                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

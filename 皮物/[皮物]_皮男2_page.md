@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮男2.docx]([皮物]_皮男2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19753 bytes                           |
 | MD5             | f1b118b8f75d4a1e85078b410f701da3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

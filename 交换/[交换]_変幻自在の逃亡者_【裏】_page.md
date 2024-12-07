@@ -20,7 +20,7 @@ TXT 下载: [[交换]_変幻自在の逃亡者_【裏】.docx]([交换]_変幻�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17795 bytes                           |
 | MD5             | 16170b2df0329aa08668316a5e4146ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 无名＠純白の憑依人                               |
 | Region          | 未知                               |

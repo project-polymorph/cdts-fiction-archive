@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《彼岸》_第二回.doc]([改造]_《彼岸》_第二�
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | b3813782fd077b5b85c1069b198a4cc3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

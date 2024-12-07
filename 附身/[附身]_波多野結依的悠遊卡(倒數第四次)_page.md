@@ -22,7 +22,7 @@ TXT 下载: [[附身]_波多野結依的悠遊卡(倒數第四次).doc]([附身]
 | Format          | Microsoft Word Document                               |
 | Size            | 59904 bytes                           |
 | MD5             | 1017ade78e9835670df1d3e80105bfcb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

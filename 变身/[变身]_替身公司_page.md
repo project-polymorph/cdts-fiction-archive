@@ -20,7 +20,7 @@ TXT 下载: [[变身]_替身公司.docx]([变身]_替身公司.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24061 bytes                           |
 | MD5             | cb2c7eb55e94608720383d4896222bb6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

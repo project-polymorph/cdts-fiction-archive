@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天魔王1-7.docx]([附身]_天魔王1-7.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58173 bytes                           |
 | MD5             | d6dba34c5a4e6f0b92e29d7fb42ca1ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 大王ペンギン                               |
 | Region          | 未知                               |

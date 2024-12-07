@@ -20,7 +20,7 @@ TXT 下载: [[其他]_掠夺【短篇】.docx]([其他]_掠夺【短篇】.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18297 bytes                           |
 | MD5             | 58a5429666dc059860e6fd80cb3cae03                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

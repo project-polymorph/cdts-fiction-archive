@@ -20,7 +20,7 @@ TXT 下载: [[附身]_粉红之塔共19章7万字（附身、催眠、剑与魔�
 | Format          | Microsoft Word Document                               |
 | Size            | 131072 bytes                           |
 | MD5             | 03ebacda6fde27062a75c35174ba3097                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 大萌术士                               |
 | Region          | 未知                               |

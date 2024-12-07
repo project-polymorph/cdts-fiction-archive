@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[悬赏道具]丝袜的新人生_-_之後的新生活.doc]
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 79574720666c47332a2d4e0a4dd16c8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

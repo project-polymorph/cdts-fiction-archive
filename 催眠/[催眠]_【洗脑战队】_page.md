@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_【洗脑战队】.doc]([催眠]_【洗脑战队】.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 126c3bafa6e0eec811aaed1fd83a0a92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

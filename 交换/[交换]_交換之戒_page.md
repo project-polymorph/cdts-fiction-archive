@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交換之戒.docx]([交换]_交換之戒.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22204 bytes                           |
 | MD5             | d807de5ad82c506873f8a59b9b084848                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

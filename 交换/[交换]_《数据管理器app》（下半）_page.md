@@ -20,7 +20,7 @@ TXT 下载: [[交换]_《数据管理器app》（下半）.doc]([交换]_《数�
 | Format          | Microsoft Word Document                               |
 | Size            | 127488 bytes                           |
 | MD5             | 4ac42648626a4e64a2a918392e5ad1ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

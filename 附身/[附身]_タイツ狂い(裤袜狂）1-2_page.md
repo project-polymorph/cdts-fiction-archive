@@ -20,7 +20,7 @@ TXT 下载: [[附身]_タイツ狂い(裤袜狂）1-2.doc]([附身]_タイツ狂
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | f387de0280af2412011a5e8599332ff4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 无名                               |
 | Region          | 未知                               |

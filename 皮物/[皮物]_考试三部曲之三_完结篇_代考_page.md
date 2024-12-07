@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_考试三部曲之三_完结篇_代考.docx]([皮物]_考�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35019 bytes                           |
 | MD5             | ce896177c2da6546b840f9767ddb6c0c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

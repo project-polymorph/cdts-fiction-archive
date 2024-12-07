@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【原创】蒸发_2.doc]([皮物]_【原创】蒸发_2.do
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | fd177866d53aea465f0dd8773c0ab75f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

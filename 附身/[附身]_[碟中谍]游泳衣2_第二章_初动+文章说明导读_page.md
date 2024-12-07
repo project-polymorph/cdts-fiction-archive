@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_第二章_初动+文章说明导读.
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 6a078469988f5a0beae7f6a9d743fc27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

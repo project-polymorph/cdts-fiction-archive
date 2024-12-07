@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之战_1.docx]([皮物]_皮之战_1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28657 bytes                           |
 | MD5             | 513c910f1f07f6f9792e1bd10af672f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | K27 (文)、みゆき (插图)                               |
 | Region          | 日本                               |

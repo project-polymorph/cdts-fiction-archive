@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【就当是新年文】地府的小尴尬.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 0c7f5ab95920642cd77d40422342df76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 未知                               |

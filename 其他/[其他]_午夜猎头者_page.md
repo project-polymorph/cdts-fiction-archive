@@ -20,7 +20,7 @@ TXT 下载: [[其他]_午夜猎头者.doc]([其他]_午夜猎头者.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 842c285b014085d0e13fd30403ab1826                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

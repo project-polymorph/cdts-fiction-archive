@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】一、英雄救美.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 041c90d37870c463ba80a91a34f1d409                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

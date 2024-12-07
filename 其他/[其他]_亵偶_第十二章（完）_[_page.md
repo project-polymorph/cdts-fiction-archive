@@ -20,7 +20,7 @@ TXT 下载: [[其他]_亵偶_第十二章（完）_[.docx]([其他]_亵偶_第�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20838 bytes                           |
 | MD5             | c0ec7c34a170b6ea35eb0a4d31322694                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

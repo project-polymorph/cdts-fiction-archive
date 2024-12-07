@@ -20,7 +20,7 @@ TXT 下载: [[交换]_长大后，我就成了你（白玉篇）.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 63088 bytes                           |
 | MD5             | 9ca0e9ced2852cf8b6bf369ea26e1636                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔物大陆_第三章.docx]([其他]_魔物大陆_第三�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19109 bytes                           |
 | MD5             | 3fefb094c62a4a0528b0b777ecc477ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

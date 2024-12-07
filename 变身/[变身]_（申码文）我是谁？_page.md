@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（申码文）我是谁？.docx]([变身]_（申码文）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28507 bytes                           |
 | MD5             | a3963b707d496cef9f5b70d3f49c147c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

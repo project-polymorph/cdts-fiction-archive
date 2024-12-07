@@ -20,7 +20,7 @@ TXT 下载: [[其他]_舊短篇二篇__夜很色，撿屍吧__舞台表演.doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 58c15de4068859916e2a2c605e56ca1b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

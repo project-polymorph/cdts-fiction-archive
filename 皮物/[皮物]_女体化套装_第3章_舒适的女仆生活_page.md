@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女体化套装_第3章_舒适的女仆生活.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 56937 bytes                           |
 | MD5             | 78ed5d34eee8edfc014bc2e506bab226                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

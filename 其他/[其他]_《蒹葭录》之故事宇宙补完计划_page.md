@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《蒹葭录》之故事宇宙补完计划.doc]([其他]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 2e62a27980cd9d91436aa73aa9cd105b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

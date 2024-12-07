@@ -20,7 +20,7 @@ TXT 下载: [[交换]_邻家女_（下）.docx]([交换]_邻家女_（下）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48082 bytes                           |
 | MD5             | 809af7c55bb8f1a2f6d733776fa8965a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

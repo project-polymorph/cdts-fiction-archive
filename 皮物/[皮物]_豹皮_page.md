@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_豹皮.doc]([皮物]_豹皮.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 29184 bytes                           |
 | MD5             | b27a34c3db45ddc727eec38f7c0118f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

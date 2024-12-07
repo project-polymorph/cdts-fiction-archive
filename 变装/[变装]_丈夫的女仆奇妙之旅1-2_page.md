@@ -20,7 +20,7 @@ TXT 下载: [[变装]_丈夫的女仆奇妙之旅1-2.docx]([变装]_丈夫的女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23735 bytes                           |
 | MD5             | 893d485dd987640fbf6ac65f97d2c2f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

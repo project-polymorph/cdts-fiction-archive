@@ -20,7 +20,7 @@ TXT 下载: [[变性]_赫马佛洛狄忒荒岛女王【上】.docx]([变性]_赫
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53018 bytes                           |
 | MD5             | 6d80502886e7a6ce9b850335edd6a60c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

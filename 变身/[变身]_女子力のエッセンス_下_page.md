@@ -22,7 +22,7 @@ TXT 下载: [[变身]_女子力のエッセンス_下.docx]([变身]_女子力�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34766 bytes                           |
 | MD5             | c6b68066f1faaf6d779e2df2967060d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

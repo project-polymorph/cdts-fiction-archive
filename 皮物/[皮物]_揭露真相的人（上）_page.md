@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_揭露真相的人（上）.docx]([皮物]_揭露真相的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41796 bytes                           |
 | MD5             | 515842aeceaf2f7813a5722e8d150651                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

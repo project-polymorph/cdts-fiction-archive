@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_短片练习.docx]([皮物]_短片练习.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19638 bytes                           |
 | MD5             | d2c2f05b31b797f66d592f5703470cb3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

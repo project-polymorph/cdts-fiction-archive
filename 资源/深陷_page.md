@@ -20,7 +20,7 @@ TXT 下载: [深陷.docx](深陷.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 111152 bytes                           |
 | MD5             | 0babd1d093482146b3756c9b8ee69437                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

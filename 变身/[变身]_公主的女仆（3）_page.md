@@ -20,7 +20,7 @@ TXT 下载: [[变身]_公主的女仆（3）.docx]([变身]_公主的女仆（3�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29847 bytes                           |
 | MD5             | cebbaeec3b700b3b19dc5aae1f1af30d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

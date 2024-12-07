@@ -20,7 +20,7 @@ TXT 下载: [[变装]_葵花旧事（18）.doc]([变装]_葵花旧事（18）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | be42c84a262e803e5c75424e7b235ed5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

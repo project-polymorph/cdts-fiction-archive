@@ -20,7 +20,7 @@ TXT 下载: [[变装]_女孩子的房间（二，三，完）.doc]([变装]_女�
 | Format          | Microsoft Word Document                               |
 | Size            | 86528 bytes                           |
 | MD5             | e56c28bac107798fb441303f23bd4219                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

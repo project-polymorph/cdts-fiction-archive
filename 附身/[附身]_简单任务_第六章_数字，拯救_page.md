@@ -20,7 +20,7 @@ TXT 下载: [[附身]_简单任务_第六章_数字，拯救.docx]([附身]_简�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24387 bytes                           |
 | MD5             | eb041bf6fe979fe39226b795af96466d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

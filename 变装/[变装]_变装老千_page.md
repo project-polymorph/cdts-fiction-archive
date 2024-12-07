@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装老千.doc]([变装]_变装老千.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 7dfad2b3fa5971a4b742d6fee471c945                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

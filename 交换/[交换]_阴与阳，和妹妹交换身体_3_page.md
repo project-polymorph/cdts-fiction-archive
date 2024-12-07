@@ -20,7 +20,7 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_3.doc]([交换]_阴与�
 | Format          | Microsoft Word Document                               |
 | Size            | 72704 bytes                           |
 | MD5             | 820e696dbdbed435c5b2c1bb40f4ed85                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kris K                               |
 | Region          | 未知                               |

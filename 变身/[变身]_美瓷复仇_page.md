@@ -20,7 +20,7 @@ TXT 下载: [[变身]_美瓷复仇.doc]([变身]_美瓷复仇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 69274c1882478a9246816a364d6d4165                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

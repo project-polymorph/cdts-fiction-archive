@@ -20,7 +20,7 @@ TXT 下载: [[改造]_控制(一)_Contro.doc]([改造]_控制(一)_Contro.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 864ba1bdc794975e4710db06c5a22dfd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

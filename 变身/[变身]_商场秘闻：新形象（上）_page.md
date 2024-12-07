@@ -20,7 +20,7 @@ TXT 下载: [[变身]_商场秘闻：新形象（上）.doc]([变身]_商场秘�
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | ba5827029a3238bdb9bfc8ac8c9c1fd6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]【xly翻译】魔术师后续.doc]([变装]【xly翻译】
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 8752d01b640995d94b3e63ff590bd64f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | xly000                               |
 | Region          | 未知                               |

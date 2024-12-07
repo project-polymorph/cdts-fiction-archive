@@ -20,7 +20,7 @@ TXT 下载: [[交换]_小城大事(完结）.docx]([交换]_小城大事(完结�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51187 bytes                           |
 | MD5             | d3f842158a36eb1c603c726d987e08c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

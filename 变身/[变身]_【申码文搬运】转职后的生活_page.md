@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申码文搬运】转职后的生活.doc]([变身]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 1535b78761dbca025d33d5e8db3f0b9b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

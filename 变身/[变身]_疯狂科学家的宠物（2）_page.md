@@ -20,7 +20,7 @@ TXT 下载: [[变身]_疯狂科学家的宠物（2）.docx]([变身]_疯狂科�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25728 bytes                           |
 | MD5             | a5d8224536e03ef3189e45909acf0107                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

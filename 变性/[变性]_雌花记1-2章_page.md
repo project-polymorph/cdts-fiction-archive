@@ -20,7 +20,7 @@ TXT 下载: [[变性]_雌花记1-2章.docx]([变性]_雌花记1-2章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30331 bytes                           |
 | MD5             | 2f460fcf4a68d54002a3ed01dfc6bc61                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

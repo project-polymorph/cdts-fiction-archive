@@ -20,7 +20,7 @@ TXT 下载: [[改造]_奇异的治疗方案.doc]([改造]_奇异的治疗方案.
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 4956b8cc56588897a814790c39d524b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

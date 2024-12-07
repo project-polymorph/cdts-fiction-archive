@@ -20,7 +20,7 @@ TXT 下载: [[变身]_荆棘王冠（18）告诉你们一个鬼故事，存稿�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21605 bytes                           |
 | MD5             | 7b4ca7bac12f4345fd1df65cf3ca7acc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮癮戲--前傳_(中).docx]([皮物]_皮癮戲--前傳_(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44128 bytes                           |
 | MD5             | 7016e838f0ac520faf331af8cb834105                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

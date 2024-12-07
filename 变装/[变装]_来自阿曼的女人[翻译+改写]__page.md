@@ -20,7 +20,7 @@ TXT 下载: [[变装]_来自阿曼的女人[翻译+改写]_.docx]([变装]_来�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49862 bytes                           |
 | MD5             | ce28e29f562ac3e14f04c6cbea1ada8f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cassandra Morgan                               |
 | Region          | 阿曼                               |

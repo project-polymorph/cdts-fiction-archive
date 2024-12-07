@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（kig学院）冲突·亲情改.doc]([皮物]_（kig学�
 | Format          | Microsoft Word Document                               |
 | Size            | 67072 bytes                           |
 | MD5             | 00dacb98d8d16bffdd822ee270c37fda                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

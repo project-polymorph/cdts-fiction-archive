@@ -20,7 +20,7 @@ TXT 下载: [[变装]_彼岸_第二幕_第二回.docx]([变装]_彼岸_第二幕
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33741 bytes                           |
 | MD5             | f452fe7f0910d902632ae438ac5ad1e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

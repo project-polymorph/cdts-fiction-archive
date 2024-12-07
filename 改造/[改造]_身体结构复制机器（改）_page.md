@@ -20,7 +20,7 @@ TXT 下载: [[改造]_身体结构复制机器（改）.docx]([改造]_身体结
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21119 bytes                           |
 | MD5             | ebce3206d9970cceec00c87c36e89dc0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_神秘家族之一自力更生1.docx]([皮物]_神秘家�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20122 bytes                           |
 | MD5             | 7c7db01c5f11d229c7f03bb8bf01c60e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

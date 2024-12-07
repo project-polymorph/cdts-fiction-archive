@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]药丸-03.docx]([变身]_[翻译]药丸-03.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26210 bytes                           |
 | MD5             | 6d3c784146a91c0c9628882160b6390a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

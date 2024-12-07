@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(捌)_猎物.docx]([皮物]_妖淫皮(捌)_猎物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23858 bytes                           |
 | MD5             | 129cae419f1d65b44a18acc3edeebdb0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的女儿&立场交换APP《电车篇》.doc]([其他]_
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | c74959ceca16fd9872254e2e6e9fba25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tina Vettress, 憑五郎                               |
 | Region          | 未知                               |

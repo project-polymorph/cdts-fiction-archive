@@ -20,7 +20,7 @@ TXT 下载: [[变性]_江湖二少.docx]([变性]_江湖二少.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26869 bytes                           |
 | MD5             | ac4f7c79cceeba8dae51bdf2f0953973                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 人生万花筒8                               |
 | Region          | 未知                               |

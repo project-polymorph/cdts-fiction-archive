@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【文章】宝芬尼的故事.doc]([变性]_【文章】�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 60a19aff2dc0b633e83d6e7014b446c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

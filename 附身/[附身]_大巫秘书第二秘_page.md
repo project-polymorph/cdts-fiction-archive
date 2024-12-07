@@ -20,7 +20,7 @@ TXT 下载: [[附身]_大巫秘书第二秘.docx]([附身]_大巫秘书第二秘
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30789 bytes                           |
 | MD5             | d4a690ea3789b9405e8a275807a136bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

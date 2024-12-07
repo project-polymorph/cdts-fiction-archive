@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《昨天怎么了》.docx]([皮物]_《昨天怎么了》
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19299 bytes                           |
 | MD5             | 9d1fa9318d529ccb23c9755d5039c710                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

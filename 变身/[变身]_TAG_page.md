@@ -20,7 +20,7 @@ TXT 下载: [[变身]_TAG.doc]([变身]_TAG.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 88576 bytes                           |
 | MD5             | 575700fafb57429b31cc622e1827e81c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ZeDD                               |
 | Region          | 未知                               |

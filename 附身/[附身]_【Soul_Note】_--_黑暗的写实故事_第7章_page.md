@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【Soul_Note】_--_黑暗的写实故事_第7章.doc]([附
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | c1a9fe9e8d282d5a5adaa7d114e5a3e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

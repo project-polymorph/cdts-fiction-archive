@@ -20,7 +20,7 @@ TXT 下载: [[改造]_SRU_The_Card_Deck_法術反斗城_紙牌遊戲.docx]([改�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53631 bytes                           |
 | MD5             | e9f4b9ac046884ccc25752cb2af26c2f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | JRD                               |
 | Region          | 未知                               |

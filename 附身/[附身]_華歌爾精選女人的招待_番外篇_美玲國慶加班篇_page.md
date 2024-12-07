@@ -20,7 +20,7 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇_美玲國慶加�
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | de2c1f9ed12101a73b94f07567113b11                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

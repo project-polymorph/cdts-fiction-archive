@@ -20,7 +20,7 @@ TXT 下载: [[变性]_变化日记.doc]([变性]_变化日记.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | c34f2aba528ed28e80bfdcd994f894c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

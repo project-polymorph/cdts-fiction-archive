@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂契（四）.docx]([附身]_魂契（四）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30959 bytes                           |
 | MD5             | 682539f08cc76c6eccb4899456e643e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

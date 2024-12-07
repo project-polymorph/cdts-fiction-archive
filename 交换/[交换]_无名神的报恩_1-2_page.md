@@ -20,7 +20,7 @@ TXT 下载: [[交换]_无名神的报恩_1-2.docx]([交换]_无名神的报恩_1
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23551 bytes                           |
 | MD5             | 695286a8b8d7c84287f67252b6e02d48                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

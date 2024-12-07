@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_诛仙（更新至31章）.doc]([皮物]_诛仙（更新�
 | Format          | Microsoft Word Document                               |
 | Size            | 173568 bytes                           |
 | MD5             | bee8c6895cd44596c4f250d0b6907d8a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

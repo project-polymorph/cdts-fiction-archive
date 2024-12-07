@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_2X17（重制版）.doc]([皮物]_2X17（重制版）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | 425863e89fc1c5bad6808afb5ab41b89                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

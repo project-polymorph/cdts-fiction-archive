@@ -20,7 +20,7 @@ TXT 下载: [[变性]_大学记8.doc]([变性]_大学记8.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | d5e10a471b5cb95507cbd4fafb6bb518                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 人生万花筒                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我和女友的假日生活（第二季.docx]([变装]_我
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23656 bytes                           |
 | MD5             | 0918c8764c7248305126a0e51f5193dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

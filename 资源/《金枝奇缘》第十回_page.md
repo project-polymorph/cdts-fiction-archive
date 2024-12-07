@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第十回.doc](《金枝奇缘》第十回.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 8825e21150f3a63cd1062d6c0c1400b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_手游线下活动记.doc]([皮物]_手游线下活动记.
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 28f579b84e99428e1b7cabf77aa2ef39                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

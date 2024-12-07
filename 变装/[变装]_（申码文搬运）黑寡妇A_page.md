@@ -20,7 +20,7 @@ TXT 下载: [[变装]_（申码文搬运）黑寡妇A.doc]([变装]_（申码文
 | Format          | Microsoft Word Document                               |
 | Size            | 80384 bytes                           |
 | MD5             | bae9e0786f3170609ff3ceba1707f97a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Holly Sharp                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_代孕（全）精简版.docx]([附身]_代孕（全）精
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 68355 bytes                           |
 | MD5             | aea746879257ec0a5168f8f9e79ee706                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

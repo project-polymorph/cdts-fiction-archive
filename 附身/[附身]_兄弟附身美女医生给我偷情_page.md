@@ -20,7 +20,7 @@ TXT 下载: [[附身]_兄弟附身美女医生给我偷情.doc]([附身]_兄弟�
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | bfa562614363199b383ad6b6589126a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

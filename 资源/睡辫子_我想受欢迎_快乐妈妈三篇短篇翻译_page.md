@@ -20,7 +20,7 @@ TXT 下载: [睡辫子_我想受欢迎_快乐妈妈三篇短篇翻译.doc](睡�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | c8d1c1cf5a4cdfcc38e63581de210132                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

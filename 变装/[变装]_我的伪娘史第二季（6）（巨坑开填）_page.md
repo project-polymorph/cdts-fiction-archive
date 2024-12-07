@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我的伪娘史第二季（6）（巨坑开填）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19911 bytes                           |
 | MD5             | 2ac7c62f666f128f65e2145d55fd25ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | jijinglf                               |
 | Region          | 中国大陆                               |

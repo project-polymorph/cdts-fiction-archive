@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的老婆会魔法（番外）.docx]([皮物]_我的老
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 81927 bytes                           |
 | MD5             | 6512ee6b36950890e34f344a6803858f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

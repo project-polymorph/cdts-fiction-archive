@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_被触手魔物逼着穿上圣女的皮是否搞错了啥.
 | Format          | Microsoft Word Document                               |
 | Size            | 96768 bytes                           |
 | MD5             | 4513cd4eb8c95ab53c5682b037673176                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

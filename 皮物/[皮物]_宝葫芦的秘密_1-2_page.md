@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_宝葫芦的秘密_1-2.doc]([皮物]_宝葫芦的秘密_1-
 | Format          | Microsoft Word Document                               |
 | Size            | 74752 bytes                           |
 | MD5             | aa632832861ff1e616f9b4c9cee0eab6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

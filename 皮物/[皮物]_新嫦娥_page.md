@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新嫦娥.docx]([皮物]_新嫦娥.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24857 bytes                           |
 | MD5             | 12aff739ae2cc2139b7a8dd9edb42482                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

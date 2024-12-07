@@ -20,7 +20,7 @@ TXT 下载: [[改造]_小莎莉(一).docx]([改造]_小莎莉(一).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27631 bytes                           |
 | MD5             | 2f10454085a83deab32efc090350d919                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

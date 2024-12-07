@@ -20,7 +20,7 @@ TXT 下载: [[变装]蓝荆花档案_第九章.doc]([变装]蓝荆花档案_第�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | c17097c5ca78e10e3b76dc06f79f60f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

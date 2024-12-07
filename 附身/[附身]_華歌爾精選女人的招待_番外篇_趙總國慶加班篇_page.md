@@ -20,7 +20,7 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇_趙總國慶加�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 9677c433ac2de2c861b2df5b13faf33c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

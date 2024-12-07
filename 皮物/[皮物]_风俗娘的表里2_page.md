@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_风俗娘的表里2.docx]([皮物]_风俗娘的表里2.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23221 bytes                           |
 | MD5             | 5cff982bbbe4c37a175b029ba21db37f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_立场交换：母子的互换（2）.doc]([交换]_立场
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | b6b4a10ad669dd1b6ec7e36e230ad3c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_意外的生活.docx]([变装]_意外的生活.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27784 bytes                           |
 | MD5             | ad6323a4a967be2b4c0b1832c8efe702                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

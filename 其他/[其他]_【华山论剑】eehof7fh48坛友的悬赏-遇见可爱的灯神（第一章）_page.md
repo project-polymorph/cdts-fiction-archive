@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【华山论剑】eehof7fh48坛友的悬赏-遇见可爱�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18011 bytes                           |
 | MD5             | 356ba601e02a50b394bf2b6dde911b4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Incredibleintruder                               |
 | Region          | 未知                               |

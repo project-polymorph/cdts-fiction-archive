@@ -20,7 +20,7 @@ TXT 下载: [[附身]_虚拟世界的狂欢（2）.docx]([附身]_虚拟世界�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19135 bytes                           |
 | MD5             | a647518ead548c20b51813f02f2e3bd8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

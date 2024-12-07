@@ -20,7 +20,7 @@ TXT 下载: [[附身]_护卫者_1.docx]([附身]_护卫者_1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25501 bytes                           |
 | MD5             | c26a9915b806bd6b9c28d247f60ac596                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

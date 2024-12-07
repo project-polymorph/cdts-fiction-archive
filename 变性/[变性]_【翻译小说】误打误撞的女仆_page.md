@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译小说】误打误撞的女仆.docx]([变性]_【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49759 bytes                           |
 | MD5             | 1c55c1714dfe10b78033ff7722e6c1ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

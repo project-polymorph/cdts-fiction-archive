@@ -20,7 +20,7 @@ TXT 下载: [[交换]_每周回家的小剧场_其一_匕首.docx]([交换]_每�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19873 bytes                           |
 | MD5             | caf65fbcbc64c7f4ea16a7245d4631cd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

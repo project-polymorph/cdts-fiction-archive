@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_猫の嫉妬_蛇足編_（猫的嫉妒心_续篇）.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44210 bytes                           |
 | MD5             | e0b50ab942d61e1944d3ba258157705b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

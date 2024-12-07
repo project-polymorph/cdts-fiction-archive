@@ -20,7 +20,7 @@ TXT 下载: [[变性]_你失去了自己的人生！.doc]([变性]_你失去了�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 7998538f08dcaf83a9f5e5a6718a01ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Dr. Otto                               |
 | Region          | 未知                               |

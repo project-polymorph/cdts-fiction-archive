@@ -20,7 +20,7 @@ TXT 下载: [[变身]_瞬间变身_(舊文).docx]([变身]_瞬间变身_(舊文)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21865 bytes                           |
 | MD5             | 4c58cfeb317b745d2de77db941bc79a6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

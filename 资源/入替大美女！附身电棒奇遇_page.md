@@ -24,7 +24,7 @@ TXT 下载: [入替大美女！附身电棒奇遇.doc](入替大美女！附身�
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | c9ec38abe701197477188c7d54183a2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

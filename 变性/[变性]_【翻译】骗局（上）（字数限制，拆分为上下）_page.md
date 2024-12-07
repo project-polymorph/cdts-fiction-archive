@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】骗局（上）（字数限制，拆分为上�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51572 bytes                           |
 | MD5             | 40604114c786122dc7505d6caf860fbd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Denver（原著）、魔之天涯（编译）                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游戏就是我的人生.docx]([附身]_游戏就是我的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29900 bytes                           |
 | MD5             | 8826fd95ea8440945df6aca1fb180c39                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

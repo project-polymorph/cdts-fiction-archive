@@ -20,7 +20,7 @@ TXT 下载: [[附身]_灰变_了结·净化_-_完全版大结局_[.docx]([附身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17648 bytes                           |
 | MD5             | e628c473b6a1d1ebc80987adf728a941                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

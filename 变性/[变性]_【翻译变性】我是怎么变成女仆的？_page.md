@@ -22,7 +22,7 @@ TXT 下载: [[变性]_【翻译变性】我是怎么变成女仆的？.doc]([变
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 5a736c1b1171cc166e63ac71d6825562                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kitty Chan                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_艾鲁鲁大冒险【第一章】.doc]([皮物]_艾鲁鲁�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 0e9c308885abc430e5c91ed6ff2fbb9b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | NeverZ                               |
 | Region          | 未知                               |

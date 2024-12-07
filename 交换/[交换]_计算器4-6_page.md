@@ -20,7 +20,7 @@ TXT 下载: [[交换]_计算器4-6.docx]([交换]_计算器4-6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30680 bytes                           |
 | MD5             | cf2d5bab926396bb5ae8c8dbcc9bab3c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

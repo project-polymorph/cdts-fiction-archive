@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_〔皮物置换〕皮囊（前）：美梦开始.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 9237ed1f70b8a5d1ce330735e183ba0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

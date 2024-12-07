@@ -20,7 +20,7 @@ TXT 下载: [[交换]_回到那个家（6）.doc]([交换]_回到那个家（6�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 1370a29f7ed6f33efa6903da9d2b4e5a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

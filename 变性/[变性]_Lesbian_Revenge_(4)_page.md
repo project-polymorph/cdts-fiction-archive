@@ -20,7 +20,7 @@ TXT 下载: [[变性]_Lesbian_Revenge_(4).docx]([变性]_Lesbian_Revenge_(4).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19480 bytes                           |
 | MD5             | b6991f0e0d23604ed0fc9b4a9a263bde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Angela Collins                               |
 | Region          | 未知                               |

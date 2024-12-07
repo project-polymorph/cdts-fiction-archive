@@ -20,7 +20,7 @@ TXT 下载: [[附身]_暑期临近双弹齐发——灵魂管理器新篇03.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25237 bytes                           |
 | MD5             | 41d59029f05d95ae3fbf0375627a5905                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

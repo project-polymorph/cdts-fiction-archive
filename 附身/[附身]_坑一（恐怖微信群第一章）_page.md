@@ -20,7 +20,7 @@ TXT 下载: [[附身]_坑一（恐怖微信群第一章）.docx]([附身]_坑一
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45257 bytes                           |
 | MD5             | 5fe7b6f4aa6f4542999d6db0cd7b2083                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奪った友人と、奪われたクラスメイト.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 96ff3f3df9f69a382318ec27a64bf091                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ファンタのコーラ味                               |
 | Region          | 日本                               |

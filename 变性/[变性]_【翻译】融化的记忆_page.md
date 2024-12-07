@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】融化的记忆.doc]([变性]_【翻译】融�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 6203282f945deeb362af3fcfbe5337af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Princess Kay                               |
 | Region          | 未知                               |

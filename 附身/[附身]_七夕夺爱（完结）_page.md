@@ -20,7 +20,7 @@ TXT 下载: [[附身]_七夕夺爱（完结）.docx]([附身]_七夕夺爱（完
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52170 bytes                           |
 | MD5             | 102c4c2d557f69ea9201c63e5985d6cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

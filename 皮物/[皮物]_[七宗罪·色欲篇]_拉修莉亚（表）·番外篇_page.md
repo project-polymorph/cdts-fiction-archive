@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[七宗罪·色欲篇]_拉修莉亚（表）·番外篇.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 561438 bytes                           |
 | MD5             | ebe4f8e6f89a8f6a2585030061a8bc93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

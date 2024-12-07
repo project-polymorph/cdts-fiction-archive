@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_全面入侵.docx]([皮物]_全面入侵.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40475 bytes                           |
 | MD5             | 8a72f1ab7a0590c12239691665bcf259                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

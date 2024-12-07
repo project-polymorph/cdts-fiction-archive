@@ -20,7 +20,7 @@ TXT 下载: [换体公司.doc](换体公司.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | 5791def42fc877e4f652f8a7f16a7732                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

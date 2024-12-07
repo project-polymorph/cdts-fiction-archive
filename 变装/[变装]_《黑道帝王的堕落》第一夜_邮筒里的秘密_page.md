@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《黑道帝王的堕落》第一夜_邮筒里的秘密.do
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | c78fbc843beb48cc258eaf8968842358                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

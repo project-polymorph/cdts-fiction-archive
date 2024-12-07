@@ -20,7 +20,7 @@ TXT 下载: [[附身]_这就是崩坏（2）_笨蛋舰长一日游.docx]([附身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26640 bytes                           |
 | MD5             | c4242cebf5321a606c3b7649d5b022b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

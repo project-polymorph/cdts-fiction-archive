@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——A路线义母の时（堕恶
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19426 bytes                           |
 | MD5             | ce848f93cb16e8f29fd3d3b565fe46d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

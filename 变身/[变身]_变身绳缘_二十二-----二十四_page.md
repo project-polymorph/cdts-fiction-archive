@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身绳缘_二十二-----二十四.doc]([变身]_变身�
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 3b8102c276c355c32f5213b6224868ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 精灵树                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_(LongTNSee)_毁灭者—新生.doc]([皮物]_(LongTNSee)_�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 2d41e96b4b8a08cf77256092b7f9a209                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

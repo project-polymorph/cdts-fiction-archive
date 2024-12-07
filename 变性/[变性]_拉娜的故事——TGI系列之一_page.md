@@ -20,7 +20,7 @@ TXT 下载: [[变性]_拉娜的故事——TGI系列之一.docx]([变性]_拉娜
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 67877 bytes                           |
 | MD5             | 9cb1c404d4ed8dd11fec4849028e1f94                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lana B.                               |
 | Region          | 美国                               |

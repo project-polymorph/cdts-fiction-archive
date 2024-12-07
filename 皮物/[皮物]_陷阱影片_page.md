@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_陷阱影片.docx]([皮物]_陷阱影片.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32310 bytes                           |
 | MD5             | 17504bed9d38a37ced7e324059f61eff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

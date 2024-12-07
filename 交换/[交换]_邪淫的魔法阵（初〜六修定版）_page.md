@@ -20,7 +20,7 @@ TXT 下载: [[交换]_邪淫的魔法阵（初〜六修定版）.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58397 bytes                           |
 | MD5             | fd6fdaf5bc04e2a2d8a21e86f47a6682                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

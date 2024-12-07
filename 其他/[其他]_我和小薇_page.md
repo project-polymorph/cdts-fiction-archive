@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我和小薇.docx]([其他]_我和小薇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21016 bytes                           |
 | MD5             | 4e6241133d17954b5c69ef6f96a3d34f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

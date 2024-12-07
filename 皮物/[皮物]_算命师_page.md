@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_算命师.doc]([皮物]_算命师.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | de599f52064a94153d7129b4f1409078                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

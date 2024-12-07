@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Change第一章（起点）.docx]([皮物]_Change第一章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18610 bytes                           |
 | MD5             | e47f3e0490099da5d53c5c962e664c29                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

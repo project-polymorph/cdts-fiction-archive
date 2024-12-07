@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我成了我姐夫的妻子.doc]([变装]_我成了我姐�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | cdb56ff948eeb14a8be23d5f993bbc26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Feinux                               |
 | Region          | 未知                               |

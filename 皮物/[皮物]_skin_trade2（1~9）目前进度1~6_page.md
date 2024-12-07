@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_skin_trade2（1~9）目前进度1~6.docx]([皮物]_skin_tr
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45004 bytes                           |
 | MD5             | 18fef4e188ddb94aa9dab0dcaec29a8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 嵐山GO                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_疯狂的双胞胎_第2章.docx]([变装]_疯狂的双胞�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24843 bytes                           |
 | MD5             | d01a40dfb9e804dcfce55a3b120ea65e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jan Wood                               |
 | Region          | 未知                               |

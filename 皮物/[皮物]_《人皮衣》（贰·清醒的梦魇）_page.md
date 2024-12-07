@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《人皮衣》（贰·清醒的梦魇）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | cefe4b28349ea802d09f2eb21c646663                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

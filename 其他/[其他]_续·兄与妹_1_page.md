@@ -20,7 +20,7 @@ TXT 下载: [[其他]_续·兄与妹_1.doc]([其他]_续·兄与妹_1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 4fff18ded0b64db61153031b321fe9dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

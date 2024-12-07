@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_02___宅男女神郭雪芙.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44087 bytes                           |
 | MD5             | 0c9c273747e28c9ccf55c92b792ab834                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

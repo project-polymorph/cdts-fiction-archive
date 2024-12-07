@@ -20,7 +20,7 @@ TXT 下载: [[改造]_铭记的蝴蝶.docx]([改造]_铭记的蝴蝶.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60233 bytes                           |
 | MD5             | 30171d82ad8fab8b00d59dce34e74acd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附體短篇集——變成外星人的少女.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18343 bytes                           |
 | MD5             | b36dc3dd5a6239298fcc6dc508b60db3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー（True）                               |
 | Region          | 未知                               |

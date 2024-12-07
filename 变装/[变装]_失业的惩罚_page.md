@@ -20,7 +20,7 @@ TXT 下载: [[变装]_失业的惩罚.doc]([变装]_失业的惩罚.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 222208 bytes                           |
 | MD5             | 3f0148fc3564a8aa5b356a20a2fcd97f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

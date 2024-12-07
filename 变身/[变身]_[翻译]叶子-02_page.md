@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]叶子-02.docx]([变身]_[翻译]叶子-02.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23976 bytes                           |
 | MD5             | fd75a954a7eb6d4e5356392bf1029d4a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Liz M                               |
 | Region          | 未知                               |

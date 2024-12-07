@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_校花学妹？.doc]([皮物]_校花学妹？.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 5b691bb8b9357d156489ce000e9058aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

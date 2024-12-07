@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《欲望的归宿》(下）.docx]([附身]_《欲望的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38758 bytes                           |
 | MD5             | 88d199d6ba766e123b27f41080acc224                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

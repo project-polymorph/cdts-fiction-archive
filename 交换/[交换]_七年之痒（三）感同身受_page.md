@@ -20,7 +20,7 @@ TXT 下载: [[交换]_七年之痒（三）感同身受.docx]([交换]_七年之
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28589 bytes                           |
 | MD5             | 27d4d63570e3d54884235d7071de8e33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ft3020997(yudi)                               |
 | Region          | 未知                               |

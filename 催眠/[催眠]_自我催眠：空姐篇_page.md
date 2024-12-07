@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_自我催眠：空姐篇.doc]([催眠]_自我催眠：空�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 1d3c74f57d4094d84f86c6edb883477c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

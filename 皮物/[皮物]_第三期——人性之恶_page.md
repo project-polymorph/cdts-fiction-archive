@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_第三期——人性之恶.doc]([皮物]_第三期——�
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 1d29e311e4b7d091ba580f16fcaa59aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

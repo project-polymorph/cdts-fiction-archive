@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_混迹末世1+2.docx]([皮物]_混迹末世1+2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26675 bytes                           |
 | MD5             | 5f04f33a71073a86fff1a80bf7306fb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

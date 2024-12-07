@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【翻译】人质.docx]([附身]_【翻译】人质.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48544 bytes                           |
 | MD5             | cd80c645b8259ecb8de35ded26129c5d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tira 著 hys564219 译                               |
 | Region          | 未知                               |

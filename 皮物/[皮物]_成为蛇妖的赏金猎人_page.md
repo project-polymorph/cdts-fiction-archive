@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_成为蛇妖的赏金猎人.docx]([皮物]_成为蛇妖的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19608 bytes                           |
 | MD5             | 243949d4b1832a7ada8d011445441b86                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

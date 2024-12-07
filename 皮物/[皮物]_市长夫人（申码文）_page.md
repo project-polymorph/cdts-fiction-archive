@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_市长夫人（申码文）.docx]([皮物]_市长夫人（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19561 bytes                           |
 | MD5             | 3d00c1cf58f7dcc5b28493376d2e0d5a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_采茶玉女记.doc]([变装]_采茶玉女记.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 55c8e028ba7515de072b89adf97499a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

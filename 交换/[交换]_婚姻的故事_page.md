@@ -20,7 +20,7 @@ TXT 下载: [[交换]_婚姻的故事.doc]([交换]_婚姻的故事.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 1020a80e9632582e7022e846373cb2e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Eric                               |
 | Region          | 未知                               |

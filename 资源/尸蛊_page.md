@@ -20,7 +20,7 @@ TXT 下载: [尸蛊.doc](尸蛊.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 204800 bytes                           |
 | MD5             | b4ea9716228925de57026409e023e6da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -22,7 +22,7 @@ TXT 下载: [北欧女神2改編文_片段之一.doc](北欧女神2改編文_片
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 64197bb11179ccb5797071b8c9db845f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

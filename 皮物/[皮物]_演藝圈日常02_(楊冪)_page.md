@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_演藝圈日常02_(楊冪).docx]([皮物]_演藝圈日常0
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21674 bytes                           |
 | MD5             | da3dcfd5c639ccf4b4810b8797a8e57a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

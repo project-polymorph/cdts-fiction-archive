@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_把少女变成人皮来玩乐的故事.docx]([皮物]_把
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35997 bytes                           |
 | MD5             | d12067a60d2c0b3025cc29decac40d68                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 猫餅                               |
 | Region          | 未知                               |

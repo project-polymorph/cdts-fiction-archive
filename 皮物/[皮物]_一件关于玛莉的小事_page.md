@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一件关于玛莉的小事.docx]([皮物]_一件关于玛
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32530 bytes                           |
 | MD5             | 682dd75679f619c14098d952d4501a5d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lheriss                               |
 | Region          | 未知                               |

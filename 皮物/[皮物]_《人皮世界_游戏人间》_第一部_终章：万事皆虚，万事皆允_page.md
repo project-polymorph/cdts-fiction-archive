@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《人皮世界_游戏人间》_第一部_终章：万事�
 | Format          | Microsoft Word Document                               |
 | Size            | 86016 bytes                           |
 | MD5             | 62b8e2c336ca5d7ef94ee08237975449                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

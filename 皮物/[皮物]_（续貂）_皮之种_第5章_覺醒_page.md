@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（续貂）_皮之种_第5章_覺醒.doc]([皮物]_（续
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 871d57f0cf79f62e59fd0f0d281485a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

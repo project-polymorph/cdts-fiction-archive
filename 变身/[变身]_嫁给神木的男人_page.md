@@ -20,7 +20,7 @@ TXT 下载: [[变身]_嫁给神木的男人.docx]([变身]_嫁给神木的男人
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23864 bytes                           |
 | MD5             | 713a80609345210a560e0e9e61b619ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_相机物语（1）.docx]([变身]_相机物语（1）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27972 bytes                           |
 | MD5             | 5f941ec854811f96e9906791b5178e7f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

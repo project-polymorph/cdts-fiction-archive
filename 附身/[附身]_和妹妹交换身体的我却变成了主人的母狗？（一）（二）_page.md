@@ -20,7 +20,7 @@ TXT 下载: [[附身]_和妹妹交换身体的我却变成了主人的母狗？�
 | Format          | Microsoft Word Document                               |
 | Size            | 77824 bytes                           |
 | MD5             | 90f902ed863a09306564ae0b5741c824                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

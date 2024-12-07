@@ -20,7 +20,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(上.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30410 bytes                           |
 | MD5             | 08e6a0be5f42094de7d875cbb5120380                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

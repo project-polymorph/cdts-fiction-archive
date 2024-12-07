@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_律_（序）.docx]([皮物]_律_（序）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31087 bytes                           |
 | MD5             | 21cf617cd3672c0d47dd2b1bfbb78754                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

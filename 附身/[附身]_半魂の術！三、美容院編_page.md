@@ -20,7 +20,7 @@ TXT 下载: [[附身]_半魂の術！三、美容院編.docx]([附身]_半魂の
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37550 bytes                           |
 | MD5             | f0f93cd54a7c3f3cc97902bdba799500                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TRUE!                               |
 | Region          | 未知                               |

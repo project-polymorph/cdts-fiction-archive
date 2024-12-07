@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_大叔的引力.doc]([皮物]_大叔的引力.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 430bbcf4e38b151570aae8bf8dfd27f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

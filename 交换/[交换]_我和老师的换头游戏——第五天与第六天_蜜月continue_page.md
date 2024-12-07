@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——第五天与第六天_蜜
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33837 bytes                           |
 | MD5             | d1cd119c5a389c1bc9b7bbdf77a7bff6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

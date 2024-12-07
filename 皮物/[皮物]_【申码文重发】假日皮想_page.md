@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文重发】假日皮想.doc]([皮物]_【申码�
 | Format          | Microsoft Word Document                               |
 | Size            | 108544 bytes                           |
 | MD5             | 72cd5f391e3eb22a87604ca3671259a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 干蒸                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_子路传——蓝培星卷（1）.docx]([变装]_子路�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46637 bytes                           |
 | MD5             | c37bacf01f882eac94038c4218ef69e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

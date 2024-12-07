@@ -20,7 +20,7 @@ TXT 下载: [[变性]_Metamorphose(更新＃23).docx]([变性]_Metamorphose(更�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 64293 bytes                           |
 | MD5             | b9d93d6a47216738024ebdf74441ecc2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 月夜眠                               |
 | Region          | 未知                               |

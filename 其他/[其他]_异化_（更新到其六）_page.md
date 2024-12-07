@@ -20,7 +20,7 @@ TXT 下载: [[其他]_异化_（更新到其六）.docx]([其他]_异化_（更�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26770 bytes                           |
 | MD5             | 6369c50022177a2939e1e15416d6e326                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

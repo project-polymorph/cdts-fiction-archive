@@ -20,7 +20,7 @@ TXT 下载: [[附身]_被掌控一家人（上）.doc]([附身]_被掌控一家�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | d04bdf42e019b28f854eb96c256ca6fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

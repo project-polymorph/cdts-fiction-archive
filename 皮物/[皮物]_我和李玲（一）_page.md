@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我和李玲（一）.doc]([皮物]_我和李玲（一）.
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 23c6995e28d58b48affe6ac2eef7eed1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

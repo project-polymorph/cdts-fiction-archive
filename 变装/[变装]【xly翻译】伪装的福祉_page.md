@@ -20,7 +20,7 @@ TXT 下载: [[变装]【xly翻译】伪装的福祉.doc]([变装]【xly翻译】
 | Format          | Microsoft Word Document                               |
 | Size            | 116224 bytes                           |
 | MD5             | 56be6fd39aa465f510c3d16cc2bfba2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

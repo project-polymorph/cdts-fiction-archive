@@ -20,7 +20,7 @@ TXT 下载: [[交换]_急性换身欲望（校园篇）：学霸×太妹.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 447971 bytes                           |
 | MD5             | 1a4b05e307d93462a9e389a8cc8c32ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

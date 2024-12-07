@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_舞会-第四章_下.docx]([皮物]_舞会-第四章_下.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36825 bytes                           |
 | MD5             | 552ba0fe317bf7c4a474283f11c21332                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

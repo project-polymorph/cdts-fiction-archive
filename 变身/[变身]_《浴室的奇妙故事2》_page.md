@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《浴室的奇妙故事2》.doc]([变身]_《浴室的奇
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 1156e051114971f0a49b76b3d395d5dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_欲望忍法_写身之术.doc]([附身]_欲望忍法_写�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | d28324704fbcc0a3678ea67af2af2283                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

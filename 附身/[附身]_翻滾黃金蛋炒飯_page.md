@@ -20,7 +20,7 @@ TXT 下载: [[附身]_翻滾黃金蛋炒飯.docx]([附身]_翻滾黃金蛋炒飯
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34912 bytes                           |
 | MD5             | f631c49b198179bebb47f27367e3e0c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

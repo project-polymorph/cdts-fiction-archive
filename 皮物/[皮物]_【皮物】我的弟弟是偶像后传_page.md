@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮物】我的弟弟是偶像后传.doc]([皮物]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | ab24e16d66a9f0e87488a6633fce52b7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_异常物质：红色书包【幼体化，精神改变】.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20978 bytes                           |
 | MD5             | 1e5727f5cc256cc4375ee9cb393df64b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

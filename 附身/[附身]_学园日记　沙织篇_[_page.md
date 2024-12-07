@@ -20,7 +20,7 @@ TXT 下载: [[附身]_学园日记　沙织篇_[.docx]([附身]_学园日记　�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35733 bytes                           |
 | MD5             | 4225b5921616c54ca9702b5c06c5f2cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

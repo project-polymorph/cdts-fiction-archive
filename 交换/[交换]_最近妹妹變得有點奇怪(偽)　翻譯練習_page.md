@@ -20,7 +20,7 @@ TXT 下载: [[交换]_最近妹妹變得有點奇怪(偽)　翻譯練習.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30754 bytes                           |
 | MD5             | ce68fef406405b5d46388e022d59f0de                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

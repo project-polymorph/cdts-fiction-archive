@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_无尽异能_番外（一）.docx]([皮物]_无尽异能_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20497 bytes                           |
 | MD5             | a000a915d2c4a5c891c0c3ad0ff93f3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

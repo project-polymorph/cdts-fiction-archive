@@ -20,7 +20,7 @@ TXT 下载: [[变性]_被买走的女仆_11.doc]([变性]_被买走的女仆_11.
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | e9ee56b2d65822e319b21859f67fe6ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lisa Lovelace                               |
 | Region          | 未知                               |

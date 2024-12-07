@@ -20,7 +20,7 @@ TXT 下载: [[变身]_夜店脱星（女友复仇第一弹）.docx]([变身]_夜
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54511 bytes                           |
 | MD5             | 649c05132a13cf350798e541577be7ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

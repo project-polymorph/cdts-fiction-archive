@@ -20,7 +20,7 @@ TXT 下载: [[交换]_間諜遊戲(1).docx]([交换]_間諜遊戲(1).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28580 bytes                           |
 | MD5             | 9af70fcd7aa584c093435e6dcd9fb3dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Morpheus                               |
 | Region          | 未知                               |

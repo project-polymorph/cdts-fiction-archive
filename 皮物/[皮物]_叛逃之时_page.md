@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_叛逃之时.doc]([皮物]_叛逃之时.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 1b3e7ba390ee6cfc575c94e913fff43f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_ζ1ε03_-_Driving_Lesson.docx]([皮物]_ζ1ε03_-_Driving_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23389 bytes                           |
 | MD5             | 19750d3ae2a45d2abd7309557e79d8f1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Hazel M                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_邪恶狂想曲之我想加入CDBOOK.docx]([附身]_邪恶
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30130 bytes                           |
 | MD5             | 1d0b111d3d37fa4043d822e008459541                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

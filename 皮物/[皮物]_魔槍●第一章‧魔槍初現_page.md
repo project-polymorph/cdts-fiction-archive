@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔槍●第一章‧魔槍初現.docx]([皮物]_魔槍●
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18469 bytes                           |
 | MD5             | 009eabed686e54017a3118f369470501                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

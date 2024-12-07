@@ -20,7 +20,7 @@ TXT 下载: [高跟鞋与服从.doc](高跟鞋与服从.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 133632 bytes                           |
 | MD5             | df9806fa3d0752d5977816b1a74eac88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

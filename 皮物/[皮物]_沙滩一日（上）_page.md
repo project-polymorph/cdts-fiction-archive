@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_沙滩一日（上）.docx]([皮物]_沙滩一日（上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19626 bytes                           |
 | MD5             | 1c71cd971a9db24edf2a7ec09a9f323b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未名作家 Lissa                               |
 | Region          | 未知                               |

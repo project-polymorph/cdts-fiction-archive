@@ -20,7 +20,7 @@ TXT 下载: [刑警队长白兵续写.docx](刑警队长白兵续写.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 67973 bytes                           |
 | MD5             | 670586c8fd52c1323cdb2afa05370d80                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

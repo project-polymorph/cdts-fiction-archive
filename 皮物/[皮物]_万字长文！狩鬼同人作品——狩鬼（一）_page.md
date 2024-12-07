@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_万字长文！狩鬼同人作品——狩鬼（一）.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 78848 bytes                           |
 | MD5             | 92365a4104f07f80ee0ea32c42d6ef35                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

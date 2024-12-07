@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_原神：琴与丽莎的皮物奏鸣曲（7-8）.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 76288 bytes                           |
 | MD5             | 65a33b9c054e235c0f524c2dae947d56                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

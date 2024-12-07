@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_换身主播的日常.doc]([皮物]_换身主播的日常.
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 7feebeb5766de7fd7706cd58abbbc93a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

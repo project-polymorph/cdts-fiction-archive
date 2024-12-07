@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码文重发】靈魂操控師_(一).docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24922 bytes                           |
 | MD5             | 4b43cc65790ac5a3b7a98e7bfdc6c029                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

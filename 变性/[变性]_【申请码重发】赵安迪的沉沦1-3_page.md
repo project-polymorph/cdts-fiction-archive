@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【申请码重发】赵安迪的沉沦1-3.doc]([变性]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | d3bba58c1454fec278cff220162b99bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 陈肥肥                               |
 | Region          | 中国大陆                               |

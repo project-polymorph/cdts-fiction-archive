@@ -20,7 +20,7 @@ TXT 下载: [[附身]_昌美_与女明星.docx]([附身]_昌美_与女明星.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21242 bytes                           |
 | MD5             | 84a946d5a007b1d4973303fad1500796                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

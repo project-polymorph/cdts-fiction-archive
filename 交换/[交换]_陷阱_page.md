@@ -20,7 +20,7 @@ TXT 下载: [[交换]_陷阱.docx]([交换]_陷阱.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34589 bytes                           |
 | MD5             | e8ca5046e59bab9bdb96f76771b6cd20                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

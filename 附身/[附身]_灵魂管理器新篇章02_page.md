@@ -20,7 +20,7 @@ TXT 下载: [[附身]_灵魂管理器新篇章02.docx]([附身]_灵魂管理器�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25779 bytes                           |
 | MD5             | 3d5756a17c7b989f9c8cc8a234a4e126                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

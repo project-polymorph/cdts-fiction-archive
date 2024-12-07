@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第10章_自我阉割.doc]([改造]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 117760 bytes                           |
 | MD5             | c3d4b1db26b5d96625e68abe680444f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

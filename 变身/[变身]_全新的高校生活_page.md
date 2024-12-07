@@ -20,7 +20,7 @@ TXT 下载: [[变身]_全新的高校生活.doc]([变身]_全新的高校生活.
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | cee6a779152c0bd049b21e089e5f8e20                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | nowayjose661                               |
 | Region          | 未知                               |

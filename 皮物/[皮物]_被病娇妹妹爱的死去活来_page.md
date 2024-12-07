@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_被病娇妹妹爱的死去活来.doc]([皮物]_被病娇�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 6b680afffad9f8ee15e726a735b0f13e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

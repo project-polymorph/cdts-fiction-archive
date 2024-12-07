@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【中秋禮物】小娥的秘密.doc]([皮物]_【中秋�
 | Format          | Microsoft Word Document                               |
 | Size            | 59904 bytes                           |
 | MD5             | f0d16b703312153f1fe6e4c71f6e44d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_選物販賣機_兔子形狀防狼警報器.doc]([变身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | eb573079deb5f113163155ff7adc4401                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

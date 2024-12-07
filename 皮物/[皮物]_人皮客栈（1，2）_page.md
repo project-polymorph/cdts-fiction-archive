@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮客栈（1，2）.docx]([皮物]_人皮客栈（1，
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29592 bytes                           |
 | MD5             | 4bceb0f7ba49ced86e516917f641983e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

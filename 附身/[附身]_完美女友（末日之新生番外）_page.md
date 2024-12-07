@@ -20,7 +20,7 @@ TXT 下载: [[附身]_完美女友（末日之新生番外）.doc]([附身]_完�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 2f79e0440a77faa6b20f6a9c571c72b5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

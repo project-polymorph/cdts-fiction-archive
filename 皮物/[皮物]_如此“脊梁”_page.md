@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_如此“脊梁”.doc]([皮物]_如此“脊梁”.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | f1664648e557be0d911c649ef15fb29b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

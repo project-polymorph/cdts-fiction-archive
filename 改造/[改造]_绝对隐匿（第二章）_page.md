@@ -20,7 +20,7 @@ TXT 下载: [[改造]_绝对隐匿（第二章）.doc]([改造]_绝对隐匿（�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 08280ac21a0f4a8176ee2a308014b39b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

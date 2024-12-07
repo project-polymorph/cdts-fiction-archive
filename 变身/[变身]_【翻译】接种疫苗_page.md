@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】接种疫苗.doc]([变身]_【翻译】接种�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 2a6f9bff450d6fb98ccaa1b4689fbced                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

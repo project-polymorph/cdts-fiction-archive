@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_意外的后果_第一章_受害者.docx]([皮物]_意外�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27633 bytes                           |
 | MD5             | 49f5e5cdd592687087535a238417de11                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

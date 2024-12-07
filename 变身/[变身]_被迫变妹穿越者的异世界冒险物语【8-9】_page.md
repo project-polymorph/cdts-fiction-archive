@@ -20,7 +20,7 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【8-9】.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 6f29ccc2f4af25e85b083a8a488cefdd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_宫城四美——玉环篇.doc]([变装]_宫城四美—�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | a81900e0e20f655853e0b2cf29bbc97f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

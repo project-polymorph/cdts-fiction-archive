@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_21_落幕（大结局）.doc]([交换]_龙舌兰
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | f28986b65ec46d2d760b082840bc8292                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[翻譯]凯恩的女孩.docx]([变性]_[翻譯]凯恩的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40371 bytes                           |
 | MD5             | 461633a74e7cf8c2e53b09d79350cf65                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

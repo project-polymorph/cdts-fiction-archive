@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】三个愿望.docx]([变性]_【翻译】三个
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23559 bytes                           |
 | MD5             | f28c10582ac20f9c0c2d7b49fbdd83f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ShinnokRaiden99                               |
 | Region          | 未知                               |

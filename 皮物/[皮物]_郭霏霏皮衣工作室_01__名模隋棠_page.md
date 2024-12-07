@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_01__名模隋棠.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29131 bytes                           |
 | MD5             | d0e30d73d84a35e3268ea81c97cb87b6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 郭霏霏皮衣工作室                               |
 | Region          | 未知                               |

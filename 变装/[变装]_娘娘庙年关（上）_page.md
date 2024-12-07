@@ -20,7 +20,7 @@ TXT 下载: [[变装]_娘娘庙年关（上）.docx]([变装]_娘娘庙年关（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21363 bytes                           |
 | MD5             | 049a99a531f4637542ed2e20bfcbe62d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

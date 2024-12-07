@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】不完美的小姑娘.docx]([变性]_【翻译
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27508 bytes                           |
 | MD5             | 36c5731c16192b6bf0b01136e10b9841                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | suki                               |
 | Region          | 未知                               |

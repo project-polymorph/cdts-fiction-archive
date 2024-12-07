@@ -20,7 +20,7 @@ TXT 下载: [A_MAID_FOR_THE_MANSION.doc](A_MAID_FOR_THE_MANSION.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 75264 bytes                           |
 | MD5             | ed5a58835d34b2db9d1c7ba954e2fed7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

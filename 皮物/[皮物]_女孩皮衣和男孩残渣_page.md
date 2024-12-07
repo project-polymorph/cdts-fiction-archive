@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女孩皮衣和男孩残渣.docx]([皮物]_女孩皮衣和
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41551 bytes                           |
 | MD5             | c67ab8b89cf87398527792f998e98c85                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Blot                               |
 | Region          | 未知                               |

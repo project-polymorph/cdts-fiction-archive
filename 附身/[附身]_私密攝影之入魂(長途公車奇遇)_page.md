@@ -20,7 +20,7 @@ TXT 下载: [[附身]_私密攝影之入魂(長途公車奇遇).docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36550 bytes                           |
 | MD5             | 2da16635423d970d563dfdc537b671d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 谢菜鸟                               |
 | Region          | 未知                               |

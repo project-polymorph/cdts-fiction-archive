@@ -20,7 +20,7 @@ TXT 下载: [[变身]_剑仙与妖女的强制夺舍.doc]([变身]_剑仙与妖�
 | Format          | Microsoft Word Document                               |
 | Size            | 327168 bytes                           |
 | MD5             | 0e8c741914282ccc1d7aabf5e368a708                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 千浔的法惹                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_顾秋妍的假期二.docx]([皮物]_顾秋妍的假期二
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28533 bytes                           |
 | MD5             | 391fc8d506c8a8bd12a252888d7d8102                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

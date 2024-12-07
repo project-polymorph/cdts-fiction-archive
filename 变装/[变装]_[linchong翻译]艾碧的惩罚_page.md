@@ -20,7 +20,7 @@ TXT 下载: [[变装]_[linchong翻译]艾碧的惩罚.docx]([变装]_[linchong�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 68263 bytes                           |
 | MD5             | 7826ca76f2cfa4d7b01409ea19fba014                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Serena Lawhead                               |
 | Region          | 未知                               |

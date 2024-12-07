@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_o(￣▽￣)o大家人.doc]([催眠]_o(￣▽￣)o大家�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 413b428bcccdc79ac85d10f3140d08ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

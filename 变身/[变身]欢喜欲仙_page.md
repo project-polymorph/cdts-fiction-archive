@@ -20,7 +20,7 @@ TXT 下载: [[变身]欢喜欲仙.doc]([变身]欢喜欲仙.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 1747456 bytes                           |
 | MD5             | a1adc49c7ea3c24eedbb0bc08a8ce99d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | paladina                               |
 | Region          | 未知                               |

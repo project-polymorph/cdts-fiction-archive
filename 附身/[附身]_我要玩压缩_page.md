@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我要玩压缩.doc]([附身]_我要玩压缩.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 1921249790e094091d1419ce8238eed3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

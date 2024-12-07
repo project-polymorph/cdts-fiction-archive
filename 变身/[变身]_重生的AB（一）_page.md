@@ -20,7 +20,7 @@ TXT 下载: [[变身]_重生的AB（一）.doc]([变身]_重生的AB（一）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | acf49f4e495164d27e80dc67d6fbd4d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

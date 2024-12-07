@@ -20,7 +20,7 @@ TXT 下载: [[改造]【原创文字】巨根伪娘改造广告.doc]([改造]【
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | e4de08754c0b3347b104eaf5010f9f2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 堕落的Fox                               |
 | Region          | 未知                               |

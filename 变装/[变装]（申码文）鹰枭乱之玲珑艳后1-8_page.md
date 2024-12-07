@@ -20,7 +20,7 @@ TXT 下载: [[变装]（申码文）鹰枭乱之玲珑艳后1-8.doc]([变装]（
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | 8fc9e8285e86d14b079aece99e86c9cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

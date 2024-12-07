@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我竟然和降为奴隶的大小姐交换了身体.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31241 bytes                           |
 | MD5             | 95ab2513648cb0ef13e681781121d23d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

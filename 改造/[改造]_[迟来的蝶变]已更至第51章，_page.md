@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[迟来的蝶变]已更至第51章，.doc]([改造]_[迟�
 | Format          | Microsoft Word Document                               |
 | Size            | 687104 bytes                           |
 | MD5             | 42811a840c42d5b96a38d704214ef0d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

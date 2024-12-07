@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_风清气正新社会.doc]([皮物]_风清气正新社会.
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 7da2532f379ecf8ea933af20650f0c15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

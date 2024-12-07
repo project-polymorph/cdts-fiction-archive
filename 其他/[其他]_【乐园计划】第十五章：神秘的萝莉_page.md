@@ -22,7 +22,7 @@ TXT 下载: [[其他]_【乐园计划】第十五章：神秘的萝莉.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21711 bytes                           |
 | MD5             | d856baaed87d164447550ef607088f57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

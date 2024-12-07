@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_化皮软件（上）.docx]([皮物]_化皮软件（上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37714 bytes                           |
 | MD5             | 760c0ba3e6be1cd181dbc2f21219465f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

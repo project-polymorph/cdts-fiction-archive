@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣前传7_-_代价(完)_结局2_失落.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 2ad98ce1ace5a894fa08ceece6088b3c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

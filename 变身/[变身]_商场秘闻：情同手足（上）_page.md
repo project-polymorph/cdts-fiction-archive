@@ -20,7 +20,7 @@ TXT 下载: [[变身]_商场秘闻：情同手足（上）.docx]([变身]_商场
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62702 bytes                           |
 | MD5             | e8fe9ac4b1491645e0cef0f65ec230ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

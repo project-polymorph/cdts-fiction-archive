@@ -20,7 +20,7 @@ TXT 下载: [[其他]_梦蝶_（申码文）.doc]([其他]_梦蝶_（申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | 4ad5c5be6ac7c7be8417f5a9b2c25fb3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译小说】卧底副警长1-10.docx]([改造]_【�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 73112 bytes                           |
 | MD5             | f5bf8bf49ccd96c434a030666636897e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

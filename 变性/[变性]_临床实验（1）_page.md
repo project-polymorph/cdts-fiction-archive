@@ -20,7 +20,7 @@ TXT 下载: [[变性]_临床实验（1）.docx]([变性]_临床实验（1）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32099 bytes                           |
 | MD5             | c46f7668165a53258ed726c3d4854e22                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

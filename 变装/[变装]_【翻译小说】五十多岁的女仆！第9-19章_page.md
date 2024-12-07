@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】五十多岁的女仆！第9-19章.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 76067 bytes                           |
 | MD5             | 207b6cc39a38354218b63ec44e304b41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮鞭(中)--收費來玩玩吧.docx]([皮物]_皮鞭(中)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18954 bytes                           |
 | MD5             | 5365e89eb06a54613847486e569e7cd6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

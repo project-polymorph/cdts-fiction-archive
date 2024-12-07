@@ -20,7 +20,7 @@ TXT 下载: [[变性]_卧底记者（4）.docx]([变性]_卧底记者（4）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30243 bytes                           |
 | MD5             | b513ea68eb5b4792a99cd6abbd2f5543                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

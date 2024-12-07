@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码文】附身偶像.doc]([附身]_【申码文】�
 | Format          | Microsoft Word Document                               |
 | Size            | 68608 bytes                           |
 | MD5             | 1a30e4d03ba6d39bbc7eeb51ee0b3062                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

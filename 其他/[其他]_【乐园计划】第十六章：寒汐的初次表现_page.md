@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第十六章：寒汐的初次表现.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21624 bytes                           |
 | MD5             | 9ac94b5274b5524e0e07e0a9b926375c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

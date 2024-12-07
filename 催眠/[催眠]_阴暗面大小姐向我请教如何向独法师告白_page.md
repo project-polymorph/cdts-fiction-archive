@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_阴暗面大小姐向我请教如何向独法师告白.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 1b6f2b1f22028982e96c0acdd999857c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

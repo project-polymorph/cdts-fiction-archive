@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之种（10+终章）.docx]([皮物]_皮之种（10+终
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 64474 bytes                           |
 | MD5             | 16381e3de391b864a682e0c602eb8422                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 嵐山GO                               |
 | Region          | 未知                               |

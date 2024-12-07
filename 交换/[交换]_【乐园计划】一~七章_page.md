@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【乐园计划】一~七章.docx]([交换]_【乐园计�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 59290 bytes                           |
 | MD5             | eb063c9fcd174b14f9e84ac1d70e64e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

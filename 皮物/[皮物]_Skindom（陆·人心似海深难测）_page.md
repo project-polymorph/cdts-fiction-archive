@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Skindom（陆·人心似海深难测）.docx]([皮物]_Ski
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26652 bytes                           |
 | MD5             | b1a51a9f0cb406373f19589af8d255e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

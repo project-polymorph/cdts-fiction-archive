@@ -20,7 +20,7 @@ TXT 下载: [[变装]_My_High_School_Homecoming_Dance（Part_I）.docx]([变装]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38158 bytes                           |
 | MD5             | d0b5a939f58715007d7f6e64688e9fb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rachael Free                               |
 | Region          | 未知                               |

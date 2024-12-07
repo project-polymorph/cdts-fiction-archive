@@ -20,7 +20,7 @@ TXT 下载: [[变装]_后窗2_2.doc]([变装]_后窗2_2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 46fd2a759c3bc52a7275c3ea21735c2e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | NikkieSilk                               |
 | Region          | 未知                               |

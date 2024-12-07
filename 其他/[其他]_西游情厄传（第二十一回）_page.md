@@ -20,7 +20,7 @@ TXT 下载: [[其他]_西游情厄传（第二十一回）.docx]([其他]_西游
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24561 bytes                           |
 | MD5             | 6c8e2fd654fc3358984e85a55e4e7235                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

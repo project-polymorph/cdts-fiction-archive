@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_缘，妙不可言_第三回.docx]([皮物]_缘，妙不�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28869 bytes                           |
 | MD5             | 2c1084876cad186931c8126c9e33c2b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

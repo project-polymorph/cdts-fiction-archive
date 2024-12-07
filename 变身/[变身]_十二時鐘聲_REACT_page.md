@@ -20,7 +20,7 @@ TXT 下载: [[变身]_十二時鐘聲_REACT.docx]([变身]_十二時鐘聲_REACT
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38957 bytes                           |
 | MD5             | 78d56f7808aef1473b3d3c471d2b3bed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_星球护卫者(申码文).doc]([其他]_星球护卫者(�
 | Format          | Microsoft Word Document                               |
 | Size            | 90112 bytes                           |
 | MD5             | 0f6c1d0c8bbf49514f309abe070d1115                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

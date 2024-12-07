@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_相親介紹所.docx]([皮物]_相親介紹所.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28753 bytes                           |
 | MD5             | 75244dd7be070176f06a85fb505e2fe7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

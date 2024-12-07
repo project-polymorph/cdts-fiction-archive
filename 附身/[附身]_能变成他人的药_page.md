@@ -20,7 +20,7 @@ TXT 下载: [[附身]_能变成他人的药.doc]([附身]_能变成他人的药.
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 0e1f19a2d9f5e70f3c36a67cdd012eec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

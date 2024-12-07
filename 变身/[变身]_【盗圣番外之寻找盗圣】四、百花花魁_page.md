@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】四、百花花魁.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | b64d7f62f305761c24ffc4cd023c8110                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

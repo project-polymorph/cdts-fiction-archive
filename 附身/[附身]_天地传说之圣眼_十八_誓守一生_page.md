@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天地传说之圣眼_十八_誓守一生.doc]([附身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | a94880b47fad6e7bd6caf1f286b73582                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_穿越武侠世界变身皇室公主.doc]([变身]_穿越�
 | Format          | Microsoft Word Document                               |
 | Size            | 172032 bytes                           |
 | MD5             | 3aad028171b6799cf8a250ceb6610d2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

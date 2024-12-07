@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的女友江月白2.docx]([皮物]_我的女友江月�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17614 bytes                           |
 | MD5             | f054ca1f2227ad1ccee36d36a6ecbb26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_日系短篇-事故後的重生.doc]([附身]_日系短篇
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 030c45b5de4709bfec53b3988db6ce41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_清明奇遇—小短文，无H。算完结了，也算没
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17040 bytes                           |
 | MD5             | a0a597683382500eb45436c24a702199                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

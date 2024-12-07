@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[首发]皮之种_第３章_拟态.docx]([皮物]_[首发]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27582 bytes                           |
 | MD5             | 392ca63e71c0fc927a9af3497e91576c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 嵐山ＧＯ                               |
 | Region          | 未知                               |

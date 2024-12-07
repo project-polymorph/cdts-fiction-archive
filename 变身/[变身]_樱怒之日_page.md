@@ -20,7 +20,7 @@ TXT 下载: [[变身]_樱怒之日.doc]([变身]_樱怒之日.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 6577d79f90f1f0d88ea3320ba1716147                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

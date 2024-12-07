@@ -20,7 +20,7 @@ TXT 下载: [[附身]_超自然对策所凭依部（上）.docx]([附身]_超自
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29644 bytes                           |
 | MD5             | 7eabbb39cc1f2130587e9e8003243dcc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

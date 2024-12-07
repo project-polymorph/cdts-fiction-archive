@@ -20,7 +20,7 @@ TXT 下载: [[附身]_都市传说（八）.docx]([附身]_都市传说（八）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39642 bytes                           |
 | MD5             | 28043aa9bb0424a6687f8a7f7cc84a7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

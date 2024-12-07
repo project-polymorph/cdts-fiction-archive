@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_skin_sister_3.docx]([皮物]_skin_sister_3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40040 bytes                           |
 | MD5             | b283cfb68608cec1a295e04c534fce32                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 嵐山GO                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_越狱（完结）.docx]([变装]_越狱（完结）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19137 bytes                           |
 | MD5             | 940ac562f6ae61e535aabc08f61f87ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lzishen                               |
 | Region          | 未知                               |

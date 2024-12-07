@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_喉舌计划——（六到九章）.doc]([皮物]_喉舌�
 | Format          | Microsoft Word Document                               |
 | Size            | 84992 bytes                           |
 | MD5             | f5f48ee0f638856db496546f3373c434                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_辐射蚊子.doc]([交换]_辐射蚊子.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | c12da96c1f969afecaf8ce7e26a69ed6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_这是谁的梦？.doc]([变性]_这是谁的梦？.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 4186f02f79e11f062a5953bc0ff77bd8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rebecca Klein                               |
 | Region          | 未知                               |

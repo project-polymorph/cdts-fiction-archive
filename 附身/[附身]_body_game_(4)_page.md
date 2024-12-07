@@ -20,7 +20,7 @@ TXT 下载: [[附身]_body_game_(4).doc]([附身]_body_game_(4).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | f4daf5de07f544317642bb34e0930cfd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

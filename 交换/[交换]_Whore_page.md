@@ -20,7 +20,7 @@ TXT 下载: [[交换]_Whore.docx]([交换]_Whore.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40650 bytes                           |
 | MD5             | 13d7f42e988da9eadfa33e1fb085aa72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Emma Finn                               |
 | Region          | 未知                               |

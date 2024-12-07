@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码文】手记.doc]([附身]_【申码文】手记.
 | Format          | Microsoft Word Document                               |
 | Size            | 87040 bytes                           |
 | MD5             | 93a74bfef304e04aac80b8427d4b553f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

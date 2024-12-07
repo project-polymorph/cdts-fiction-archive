@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_05__美女主播張宇_(中).docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 109218 bytes                           |
 | MD5             | 3b00a28f563273e34f52b547ee5797c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 郭霏霏                               |
 | Region          | 台湾                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_邪淫裸尸魔法阵中的小矮人（初章+第一章）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28438 bytes                           |
 | MD5             | 2e6a10880804c99b1c038d0de0614bd8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RERE                               |
 | Region          | 未知                               |

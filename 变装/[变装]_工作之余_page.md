@@ -20,7 +20,7 @@ TXT 下载: [[变装]_工作之余.doc]([变装]_工作之余.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | e69fe180f42193addad9f199defee3f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Suzie Swallows                               |
 | Region          | 未知                               |

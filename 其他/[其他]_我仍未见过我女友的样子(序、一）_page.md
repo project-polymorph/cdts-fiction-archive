@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我仍未见过我女友的样子(序、一）.docx]([其�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39472 bytes                           |
 | MD5             | 725c4d8e3de5f86a5943f47857ddf0c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 语冰泗非                               |
 | Region          | 中国大陆                               |

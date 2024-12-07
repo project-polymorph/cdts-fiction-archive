@@ -20,7 +20,7 @@ TXT 下载: [[变身]_愿望的诅咒（代价）3.doc]([变身]_愿望的诅咒
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 1ea9e6406434e637b9f4edfde5792ad4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

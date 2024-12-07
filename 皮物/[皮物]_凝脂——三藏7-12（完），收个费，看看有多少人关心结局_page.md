@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_凝脂——三藏7-12（完），收个费，看看有多
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52414 bytes                           |
 | MD5             | 6d80ed7c0fdde4e7131298acb381e9a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

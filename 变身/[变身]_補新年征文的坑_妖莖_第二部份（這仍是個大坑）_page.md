@@ -20,7 +20,7 @@ TXT 下载: [[变身]_補新年征文的坑_妖莖_第二部份（這仍是個�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | d15298350efea81738570262fae1882c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

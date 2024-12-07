@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_试衣间.docx]([皮物]_试衣间.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19973 bytes                           |
 | MD5             | e1eb436114518874a5d8f99cb8fcb7c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

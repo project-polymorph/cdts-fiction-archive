@@ -20,7 +20,7 @@ TXT 下载: [[变装]_从金变成金佰丽1-2.docx]([变装]_从金变成金佰
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44102 bytes                           |
 | MD5             | 3a88bcacda0bb62c2b59bdb100b64d4c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Suzi B. Queen                               |
 | Region          | 未知                               |

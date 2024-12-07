@@ -20,7 +20,7 @@ TXT 下载: [[附身]_驱魔（全完）.docx]([附身]_驱魔（全完）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 91756 bytes                           |
 | MD5             | c3458b21776610dee4edbd58e849e66a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

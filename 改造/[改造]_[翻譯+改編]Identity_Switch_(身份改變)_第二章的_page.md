@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[翻譯+改編]Identity_Switch_(身份改變)_第二章的
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | 2e8df63e4f98e471f56c50150f033201                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

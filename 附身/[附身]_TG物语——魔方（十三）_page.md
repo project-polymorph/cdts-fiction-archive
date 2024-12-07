@@ -20,7 +20,7 @@ TXT 下载: [[附身]_TG物语——魔方（十三）.doc]([附身]_TG物语—
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | e70632b1563037a98999a45c94b45e71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

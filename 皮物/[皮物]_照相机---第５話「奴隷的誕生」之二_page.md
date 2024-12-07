@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_照相机---第５話「奴隷的誕生」之二.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16950 bytes                           |
 | MD5             | d88554fa34dd9b85d8aee8b1ef55a657                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

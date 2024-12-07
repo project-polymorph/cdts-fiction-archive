@@ -20,7 +20,7 @@ TXT 下载: [王之夙愿.doc](王之夙愿.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 171520 bytes                           |
 | MD5             | 8ba1fc4bb959c8b627f2d9ac0d6ee8e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

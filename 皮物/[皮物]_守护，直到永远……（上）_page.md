@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_守护，直到永远……（上）.docx]([皮物]_守护
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21115 bytes                           |
 | MD5             | 9afb806f3f8cff30659b401787365ce1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我的狐妖女友（一）.docx]([交换]_我的狐妖女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34376 bytes                           |
 | MD5             | d1f1e3f45fa62ed2a23386aa8d167760                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

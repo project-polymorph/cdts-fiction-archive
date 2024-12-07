@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_大明宫词_第二回_天罡武府见真龙_媚娘入宫�
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 6c7b357675e89a817a96a096b9169312                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

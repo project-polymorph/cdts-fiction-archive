@@ -20,7 +20,7 @@ TXT 下载: [[皮物]__《一生一代一双人》.doc]([皮物]__《一生一�
 | Format          | Microsoft Word Document                               |
 | Size            | 393216 bytes                           |
 | MD5             | 12f269c011850aa95958a941c2252633                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

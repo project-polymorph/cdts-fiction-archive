@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_激情1-5.docx]([皮物]_激情1-5.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31310 bytes                           |
 | MD5             | 9bf2297c86996c5b8f99a8b652ece14d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

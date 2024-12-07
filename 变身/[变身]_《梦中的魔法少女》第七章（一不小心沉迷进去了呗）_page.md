@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第七章（一不小心沉迷�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 2c77664dc462ba772f543dbaa0c6174a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

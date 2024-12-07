@@ -20,7 +20,7 @@ TXT 下载: [[交换]_在游泳池交換身體.docx]([交换]_在游泳池交換
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22376 bytes                           |
 | MD5             | b7e989da717b555a28c2ec4e92e99a6e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | シクノレ5 J0 c# C4 b                               |
 | Region          | 未知                               |

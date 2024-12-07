@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Skinner_(三+四）黑暗邪恶系强推.doc]([皮物]_Ski
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | d19ab8e1ad6f1888f1cb43e88236ac88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

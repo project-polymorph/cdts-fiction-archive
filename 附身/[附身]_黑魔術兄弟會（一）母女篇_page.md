@@ -7,7 +7,7 @@ TXT 下载: [[附身]_黑魔術兄弟會（一）母女篇.docx]([附身]_黑魔
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《黑魔術兄弟會（一）母女篇》的小说开篇，故事围绕着一个年轻母亲和她十岁的女儿之间的日常相处展开。小说描绘了炎热夏季的一天，母女俩为了避暑而寻找空调餐厅。在描述中，女孩真季充满活力，体现出孩童的天真与快乐，而母亲则展现出一丝不拘小节的风范。小说开头即包含警告，指明本作品内含若干色情及黑暗内容，意在满足个人的欲望创作，同时也试图引起他人的兴趣。作品中有许多对话和细致的场景描写，展示了人物的表情、情感和互动。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_黑魔術兄弟會（一）母女篇.docx]([附身]_黑魔
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33569 bytes                           |
 | MD5             | 2087536c99493237bbcdfe03ccad8605                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 水晶                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 黑魔术, 母女关系, 青春, 日常生活, 亲情, 成熟女性, 女性角色, 家庭聚会, 人物互动, 儿童生活, 情感探索, 都市小说, 性别转变, 奇幻冒险, 心灵成长, 亲子关系, 冒险旅行                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

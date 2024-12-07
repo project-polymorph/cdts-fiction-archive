@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案14.doc]([皮物]_【碟�
 | Format          | Microsoft Word Document                               |
 | Size            | 349696 bytes                           |
 | MD5             | 5ea7f6702e21e2b592d1304775f2edd4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

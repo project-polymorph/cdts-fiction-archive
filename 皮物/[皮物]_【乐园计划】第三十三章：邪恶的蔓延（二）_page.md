@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【乐园计划】第三十三章：邪恶的蔓延（二�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21201 bytes                           |
 | MD5             | 333e7c4fa142e112d1e45d7d2eb8f8d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

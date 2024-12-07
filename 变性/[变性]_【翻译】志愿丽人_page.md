@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】志愿丽人.doc]([变性]_【翻译】志愿�
 | Format          | Microsoft Word Document                               |
 | Size            | 124928 bytes                           |
 | MD5             | c3236668db5e231d3beca8023ce6dfca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Farleven                               |
 | Region          | 未知                               |

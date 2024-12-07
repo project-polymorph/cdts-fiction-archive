@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】因为我爱我的妹妹.docx]([变性]_【翻
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27924 bytes                           |
 | MD5             | a157175d84e0c4e9146419cd00a460a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Anyya                               |
 | Region          | 未知                               |

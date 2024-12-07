@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_ガンシャ！[顏射_前篇](心控類).doc]([催眠]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 70144 bytes                           |
 | MD5             | 9569a1280d30d461e064b9a6b470b4e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_丹妮的惩罚（1）——TGI系列之三.docx]([变性]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27251 bytes                           |
 | MD5             | 8312d0912c4e869aee32a1434b9204cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lana B. | 翻译者：linchong                               |
 | Region          | 未知                               |

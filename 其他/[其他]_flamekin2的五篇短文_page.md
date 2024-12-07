@@ -20,7 +20,7 @@ TXT 下载: [[其他]_flamekin2的五篇短文.doc]([其他]_flamekin2的五篇�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 931121de07ca24df632f28571d0081fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | flamekin2                               |
 | Region          | 未知                               |

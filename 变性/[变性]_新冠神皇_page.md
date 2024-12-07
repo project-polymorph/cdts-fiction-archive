@@ -20,7 +20,7 @@ TXT 下载: [[变性]_新冠神皇.doc]([变性]_新冠神皇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 87552 bytes                           |
 | MD5             | f4f45e737a05cd898c0334421ce42f83                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

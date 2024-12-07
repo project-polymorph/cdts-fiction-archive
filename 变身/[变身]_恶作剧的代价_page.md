@@ -20,7 +20,7 @@ TXT 下载: [[变身]_恶作剧的代价.doc]([变身]_恶作剧的代价.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 29184 bytes                           |
 | MD5             | e790382cbf90d7d2509ec5ac7949bb2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | nowayjose661                               |
 | Region          | 未知                               |

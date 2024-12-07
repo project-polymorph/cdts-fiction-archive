@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_被腹黑猫娘变成魅魔了（1）.docx]([皮物]_被�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28423 bytes                           |
 | MD5             | 126c78ec849621c22ca0ccbf4fc83ad2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

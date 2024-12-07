@@ -20,7 +20,7 @@ TXT 下载: [命中注定做女人.docx](命中注定做女人.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52025 bytes                           |
 | MD5             | e998d753d42b95b1d7f4c04f25f0a187                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | CD潇潇                               |
 | Region          | 中国大陆                               |

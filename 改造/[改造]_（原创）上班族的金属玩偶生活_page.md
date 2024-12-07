@@ -20,7 +20,7 @@ TXT 下载: [[改造]_（原创）上班族的金属玩偶生活.doc]([改造]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 92672 bytes                           |
 | MD5             | a768d97cf229f1362c84a04cc5ea0e69                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

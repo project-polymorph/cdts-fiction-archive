@@ -20,7 +20,7 @@ TXT 下载: [[附身]_人格排泄＋附身的魔法世界.doc]([附身]_人格�
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 6b03d374dc3e5a8a18d3798f4f9a6af5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

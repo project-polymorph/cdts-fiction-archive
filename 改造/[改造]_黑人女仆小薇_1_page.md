@@ -20,7 +20,7 @@ TXT 下载: [[改造]_黑人女仆小薇_1.doc]([改造]_黑人女仆小薇_1.do
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | 211fe70b72308992dc68304714b11db0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_花将军外传（9-10）---------拟更名《四美图》
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26754 bytes                           |
 | MD5             | e6f891b95ffb2f9704af36c8debd4c1b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

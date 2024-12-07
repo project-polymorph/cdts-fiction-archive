@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第33章女装.doc]([改造]_《夫尊�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 207d626431b9d5cacf99298090a6f264                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

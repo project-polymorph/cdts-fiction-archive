@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我才不要变成你的皮（女主视角）.doc]([皮物
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 6bc1869f12abc4dc979f945e7fe9f5b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

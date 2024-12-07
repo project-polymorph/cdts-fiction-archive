@@ -20,7 +20,7 @@ TXT 下载: [[交换]_生體解離凝膠(上).docx]([交换]_生體解離凝膠(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22602 bytes                           |
 | MD5             | 69aadf1cf53a49b0bc79b1e169d09aa0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

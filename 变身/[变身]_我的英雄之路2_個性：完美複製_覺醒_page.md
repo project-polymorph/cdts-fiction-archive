@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我的英雄之路2_個性：完美複製_覺醒.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23155 bytes                           |
 | MD5             | 76c5345c1b87d3e0c9ccfa05ca54a2fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

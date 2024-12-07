@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_20_密谋.docx]([交换]_龙舌兰_20_密谋.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27787 bytes                           |
 | MD5             | 6250c6ba7b9e5a59e522d29384220689                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yudi（ft3020997）                               |
 | Region          | 未知                               |

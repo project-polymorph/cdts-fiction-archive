@@ -20,7 +20,7 @@ TXT 下载: [[皮物]妖魔鬼怪制造厂.doc]([皮物]妖魔鬼怪制造厂.do
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 38539fce0fdf28a02b364ed07d026cb0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | wlw崔                               |
 | Region          | 未知                               |

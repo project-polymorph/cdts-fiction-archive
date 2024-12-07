@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一个刺激的夜和一个心塞的我！（第3-4节）.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29608 bytes                           |
 | MD5             | 19b143c20ae29caf46b44ce5d2a61508                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_阴玉仙箓.doc]([变装]_阴玉仙箓.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 95744 bytes                           |
 | MD5             | 10d790eded527e00168e83f4b8fcab13                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_入替中枢1-4（重排小修）.docx]([附身]_入替中
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32850 bytes                           |
 | MD5             | 93e88457c07413d2997f729bd16bdb9e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

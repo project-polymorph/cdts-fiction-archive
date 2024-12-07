@@ -24,7 +24,7 @@ TXT 下载: [[变身]_王子的哀伤.docx]([变身]_王子的哀伤.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18407 bytes                           |
 | MD5             | bdbac9cef5486633dab720ff9f8ae012                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

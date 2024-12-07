@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一种全新的皮物艺术形式---千面妖妇EX的视�
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | 08fdf862ff7f925b5be573ccafac95ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 千面妖妇EX                               |
 | Region          | 中国大陆                               |

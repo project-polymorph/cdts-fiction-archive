@@ -20,7 +20,7 @@ TXT 下载: [[交换]_（桐人）我的妹妹意想不到的可爱.doc]([交换
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | 218a2a5252d444cb610de73b7e06a7b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

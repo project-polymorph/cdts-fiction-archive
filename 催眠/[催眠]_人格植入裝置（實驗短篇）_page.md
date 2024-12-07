@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_人格植入裝置（實驗短篇）.doc]([催眠]_人格�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 0507707ed2d091a9dc931f4675e96ab1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

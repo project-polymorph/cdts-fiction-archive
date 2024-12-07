@@ -20,7 +20,7 @@ TXT 下载: [[附身]_梦的彼方0~4.docx]([附身]_梦的彼方0~4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 68983 bytes                           |
 | MD5             | b61b016801ba0e089317997dc2248632                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

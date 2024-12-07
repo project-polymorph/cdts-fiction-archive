@@ -20,7 +20,7 @@ TXT 下载: [空难-续写.doc](空难-续写.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 10bfb30604dc1eb11567c950f6034650                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑暗的世界3-4.docx]([皮物]_黑暗的世界3-4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32846 bytes                           |
 | MD5             | 9beed54ca0dc4924befc6e720b3fb8ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

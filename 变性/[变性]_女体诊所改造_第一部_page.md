@@ -20,7 +20,7 @@ TXT 下载: [[变性]_女体诊所改造_第一部.docx]([变性]_女体诊所�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37860 bytes                           |
 | MD5             | 699cdb26c1d1354b63b5331f5873ed4c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

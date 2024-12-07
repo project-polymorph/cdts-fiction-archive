@@ -20,7 +20,7 @@ TXT 下载: [[改造]_被变成巨乳家畜TS娘的男人逐渐发生内心变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27784 bytes                           |
 | MD5             | 69cbe7aca9462a40a7a5219112a2220b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | メス牡蠣                               |
 | Region          | 未知                               |

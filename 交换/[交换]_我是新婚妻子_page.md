@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我是新婚妻子.docx]([交换]_我是新婚妻子.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16804 bytes                           |
 | MD5             | 0b466936964727d63a1b69b52964319c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

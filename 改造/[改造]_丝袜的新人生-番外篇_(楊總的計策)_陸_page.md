@@ -20,7 +20,7 @@ TXT 下载: [[改造]_丝袜的新人生-番外篇_(楊總的計策)_陸.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | cfdb457e4785377cf255b8c6a03c1c8d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

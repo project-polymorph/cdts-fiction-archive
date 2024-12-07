@@ -20,7 +20,7 @@ TXT 下载: [[变身]_愿望硬币.docx]([变身]_愿望硬币.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60899 bytes                           |
 | MD5             | ee902b3b3a93d45c8e052630dc64ab5d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Melanie Brown                               |
 | Region          | 未知                               |

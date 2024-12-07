@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_交错的锁钥5.docx]([皮物]_交错的锁钥5.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19679 bytes                           |
 | MD5             | 1d0cc2beea1024f304a48d677253b332                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

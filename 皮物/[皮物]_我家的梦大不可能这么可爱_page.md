@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我家的梦大不可能这么可爱.docx]([皮物]_我家
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40718 bytes                           |
 | MD5             | 3a3e622bcdc3fed8aa92a3681b864282                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

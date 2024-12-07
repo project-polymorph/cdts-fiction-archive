@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《碟中碟》新生的美少妇外传1.doc]([皮物]_《
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 6b30045d7ee9b2e3b0fb6afacaae9fa0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

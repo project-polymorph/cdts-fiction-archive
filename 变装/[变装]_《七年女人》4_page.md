@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《七年女人》4.doc]([变装]_《七年女人》4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 84992 bytes                           |
 | MD5             | db70e64d528f8fbc4c7a2a7b4f54057c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Holly Sharp                               |
 | Region          | 未知                               |

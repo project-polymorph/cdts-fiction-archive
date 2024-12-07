@@ -20,7 +20,7 @@ TXT 下载: [[变身]_偷穿女孩子衣服的下场.doc]([变身]_偷穿女孩�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 44d4362163e8d89a1e94abd68dd75100                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

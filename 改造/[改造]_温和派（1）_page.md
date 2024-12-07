@@ -20,7 +20,7 @@ TXT 下载: [[改造]_温和派（1）.doc]([改造]_温和派（1）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | da768683d0e3329051c119ba6702021b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

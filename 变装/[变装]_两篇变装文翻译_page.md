@@ -20,7 +20,7 @@ TXT 下载: [[变装]_两篇变装文翻译.doc]([变装]_两篇变装文翻译.
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | f172705bce0dc98533f8b44ca7a279d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Mega720, runscape68                               |
 | Region          | 未知                               |

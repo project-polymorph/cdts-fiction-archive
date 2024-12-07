@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第21章，山雨欲来.doc]([改造]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 127c0e8a8fdec0d68290419760d08621                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译变性】Jennifer系列作品：回到学校—�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | fbe7a73b7b9bd25b20304fc37a2c806f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White，翻译：露娜·埃葵斯                               |
 | Region          | 未知                               |

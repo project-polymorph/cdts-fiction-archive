@@ -20,7 +20,7 @@ TXT 下载: [[交换]_玉观音（大团圆结局）.docx]([交换]_玉观音（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29600 bytes                           |
 | MD5             | 0a488e816cad809b09b4d356127bb371                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

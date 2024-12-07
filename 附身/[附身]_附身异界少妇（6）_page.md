@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附身异界少妇（6）.doc]([附身]_附身异界少妇
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | d563a5285d644ac3d4809c7f250a2a39                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

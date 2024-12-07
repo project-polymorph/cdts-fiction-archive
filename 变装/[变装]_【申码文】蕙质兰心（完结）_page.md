@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【申码文】蕙质兰心（完结）.doc]([变装]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 357888 bytes                           |
 | MD5             | f9bf074cbdc9f900b0e42de4bf7a31f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | MTC                               |
 | Region          | 未知                               |

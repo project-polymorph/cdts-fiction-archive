@@ -22,7 +22,7 @@ TXT 下载: [[附身]_附身美女学生会长.docx]([附身]_附身美女学生
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25428 bytes                           |
 | MD5             | 78b13fe21d9deb1fc29d182c57bd2b2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

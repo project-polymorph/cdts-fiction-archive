@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_意外的后果_第四章_计划进行中1.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19008 bytes                           |
 | MD5             | 8e5905a09c757a26d982c8b63faff43f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

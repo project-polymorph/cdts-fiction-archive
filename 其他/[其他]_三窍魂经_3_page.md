@@ -20,7 +20,7 @@ TXT 下载: [[其他]_三窍魂经_3.doc]([其他]_三窍魂经_3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 3a2560812b179544bcc67ec00a55ac67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文搬运】跨叙事层支援（非原名）.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 0879cb25eedfe10414a35f96c058648b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

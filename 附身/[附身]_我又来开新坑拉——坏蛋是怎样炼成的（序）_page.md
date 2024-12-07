@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我又来开新坑拉——坏蛋是怎样炼成的（序�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 1aa09a9e18e82034f83b87f7d95585a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

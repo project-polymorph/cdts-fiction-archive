@@ -20,7 +20,7 @@ TXT 下载: [[变身]_哈利·波特与翡翠女巫的诅咒（三）.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 75776 bytes                           |
 | MD5             | 9915a12e9fd4e492e88751188369ebc3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

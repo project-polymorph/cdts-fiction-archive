@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_廢教會怪談.doc]([皮物]_廢教會怪談.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | 04cf5f6b7ed6a101962b55fdf8895a64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

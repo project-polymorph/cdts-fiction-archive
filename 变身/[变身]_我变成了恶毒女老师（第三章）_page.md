@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我变成了恶毒女老师（第三章）.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 8bcd2aee5c2032898c173f9a98ea172f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

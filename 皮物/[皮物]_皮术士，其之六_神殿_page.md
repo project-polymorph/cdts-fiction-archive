@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士，其之六_神殿.docx]([皮物]_皮术士，�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21796 bytes                           |
 | MD5             | 65e0f47e34f737caf48cd9cfed64b777                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

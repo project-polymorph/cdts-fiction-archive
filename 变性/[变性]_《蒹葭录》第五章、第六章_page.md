@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第五章、第六章.doc]([变性]_《蒹�
 | Format          | Microsoft Word Document                               |
 | Size            | 80896 bytes                           |
 | MD5             | 30a3a72b2bd45c2045ef5c5919dbd658                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

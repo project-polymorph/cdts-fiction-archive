@@ -20,7 +20,7 @@ TXT 下载: [[改造]_正式发《全包性奴》（第一部）_(2).docx]([改�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44334 bytes                           |
 | MD5             | 62206620d21036570301affecc9b8fbd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

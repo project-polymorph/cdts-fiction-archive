@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[申碼文]媽媽的新生妙藥.doc]([附身]_[申碼文]
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 6a033f1320586c38a4a12e6504f03401                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

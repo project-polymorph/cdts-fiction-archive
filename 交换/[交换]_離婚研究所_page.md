@@ -20,7 +20,7 @@ TXT 下载: [[交换]_離婚研究所.docx]([交换]_離婚研究所.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30987 bytes                           |
 | MD5             | e5c94d3dfd2241cd0e1d0410474eb123                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 英明                               |
 | Region          | 未知                               |

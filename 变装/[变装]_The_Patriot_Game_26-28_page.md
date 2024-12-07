@@ -20,7 +20,7 @@ TXT 下载: [[变装]_The_Patriot_Game_26-28.doc]([变装]_The_Patriot_Game_26-2
 | Format          | Microsoft Word Document                               |
 | Size            | 83968 bytes                           |
 | MD5             | f4b4da0d46134bad7cea619ddc14dd57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

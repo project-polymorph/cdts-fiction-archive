@@ -20,7 +20,7 @@ TXT 下载: [[改造]_No_One_Notices_a_Secretary.docx]([改造]_No_One_Notices_a
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 80515 bytes                           |
 | MD5             | bb6744821727bb025a8924872e272be2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

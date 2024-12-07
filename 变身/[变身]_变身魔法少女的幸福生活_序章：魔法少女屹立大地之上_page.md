@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身魔法少女的幸福生活_序章：魔法少女屹
 | Format          | Microsoft Word Document                               |
 | Size            | 87040 bytes                           |
 | MD5             | 0017cf2db580498a3c12bb275174ec5c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

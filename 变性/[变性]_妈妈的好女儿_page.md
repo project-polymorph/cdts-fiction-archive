@@ -20,7 +20,7 @@ TXT 下载: [[变性]_妈妈的好女儿.doc]([变性]_妈妈的好女儿.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 5ec28dc3a4b5b10ff0ef1a3703a8a1be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sissy Slut Ally                               |
 | Region          | 未知                               |

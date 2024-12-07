@@ -20,7 +20,7 @@ TXT 下载: [[变装]_[非首發]_沒有名字_二章之二_(1~3)_算完吧.doc]
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 5b096e1dd30dff3c5a1cfd33f8bb61f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

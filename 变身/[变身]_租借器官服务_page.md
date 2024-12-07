@@ -20,7 +20,7 @@ TXT 下载: [[变身]_租借器官服务.docx]([变身]_租借器官服务.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 14688 bytes                           |
 | MD5             | 8125d1d4c67bed8360b22744043cc07b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

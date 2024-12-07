@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第一章_长海艺校_+SCP档案.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 147187 bytes                           |
 | MD5             | 7260497d662f41233bb68f969dd25617                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

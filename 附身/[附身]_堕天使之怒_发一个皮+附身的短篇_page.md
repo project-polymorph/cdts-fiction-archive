@@ -20,7 +20,7 @@ TXT 下载: [[附身]_堕天使之怒_发一个皮+附身的短篇.docx]([附身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18744 bytes                           |
 | MD5             | 74aa0abb1c2a07fc4d586ea916afbcf2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

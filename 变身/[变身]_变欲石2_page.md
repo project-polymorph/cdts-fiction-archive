@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变欲石2.doc]([变身]_变欲石2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 37ac618445908a0c6698822be93f01b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

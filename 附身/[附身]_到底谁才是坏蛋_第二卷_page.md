@@ -20,7 +20,7 @@ TXT 下载: [[附身]_到底谁才是坏蛋_第二卷.docx]([附身]_到底谁�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19052 bytes                           |
 | MD5             | cb435071f696ab3efd2fe5090d691faf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

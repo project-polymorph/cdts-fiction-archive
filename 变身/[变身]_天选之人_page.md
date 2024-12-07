@@ -20,7 +20,7 @@ TXT 下载: [[变身]_天选之人.doc]([变身]_天选之人.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 332be5b6ee3333abfc701d0a69ee4ed7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

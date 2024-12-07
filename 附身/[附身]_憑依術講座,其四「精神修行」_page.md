@@ -22,7 +22,7 @@ TXT 下载: [[附身]_憑依術講座,其四「精神修行」.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42087 bytes                           |
 | MD5             | 124bc7dcf2d41f2f016108f016e3bc33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー                               |
 | Region          | 未知                               |

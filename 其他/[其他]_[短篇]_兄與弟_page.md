@@ -20,7 +20,7 @@ TXT 下载: [[其他]_[短篇]_兄與弟.doc]([其他]_[短篇]_兄與弟.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 3d1a4c7ddc56ee3513e15ca6db78f7c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | arthz                               |
 | Region          | 未知                               |

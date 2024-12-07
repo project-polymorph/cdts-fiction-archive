@@ -20,7 +20,7 @@ TXT 下载: [[交换]_绽放在黯暗炼狱中的浦公英花(第三章).docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23606 bytes                           |
 | MD5             | 3da744e627d3eaf9a264f155d40de54b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

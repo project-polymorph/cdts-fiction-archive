@@ -20,7 +20,7 @@ TXT 下载: [[变性]_成為母親.doc]([变性]_成為母親.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 822533205627b2cef8596a64b81a8970                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Janet L. Stickney                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我不是娘娘腔.docx]([变装]_我不是娘娘腔.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37651 bytes                           |
 | MD5             | 8b1edc58f329b357983067df76079104                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

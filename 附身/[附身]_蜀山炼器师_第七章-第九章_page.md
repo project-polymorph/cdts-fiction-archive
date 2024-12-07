@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蜀山炼器师_第七章-第九章.docx]([附身]_蜀山�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58174 bytes                           |
 | MD5             | 127e599d26067ee1c5924814141bfc50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_完美的妥协（6）.doc]([变性]_完美的妥协（6�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | cba82a5d1a95b561861c408c9927a7ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

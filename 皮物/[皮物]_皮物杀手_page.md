@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮物杀手.doc]([皮物]_皮物杀手.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 154112 bytes                           |
 | MD5             | 5ebec65aeda01223dbc585151936250d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 皮小黑                               |
 | Region          | 未知                               |

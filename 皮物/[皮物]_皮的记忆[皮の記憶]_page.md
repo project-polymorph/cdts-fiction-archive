@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮的记忆[皮の記憶].doc]([皮物]_皮的记忆[皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | fceba36c8ee85c6041efd49a60f56c88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 无名                               |
 | Region          | 未知                               |

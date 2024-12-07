@@ -22,7 +22,7 @@ TXT 下载: [[改造]_假如亚当重锤的脑子被塞进了丽贝卡的义体�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28803 bytes                           |
 | MD5             | a3baf2dd64c110bb9f0fe5b629e4047f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

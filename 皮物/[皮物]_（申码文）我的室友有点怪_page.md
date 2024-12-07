@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文）我的室友有点怪.doc]([皮物]_（申�
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | d3d02606d9b465dcc2700a82038a0efc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

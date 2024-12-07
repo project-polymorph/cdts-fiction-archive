@@ -20,7 +20,7 @@ TXT 下载: [[交换]_永恆吊墜_(中).docx]([交换]_永恆吊墜_(中).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41334 bytes                           |
 | MD5             | fbf691f0cfeb9c1209f2f3326ad0ef5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Zapper                               |
 | Region          | 未知                               |

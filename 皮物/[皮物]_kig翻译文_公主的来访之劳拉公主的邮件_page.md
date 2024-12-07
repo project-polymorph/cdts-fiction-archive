@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kig翻译文_公主的来访之劳拉公主的邮件.doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 80384 bytes                           |
 | MD5             | 29210f921349c314f7d45b5804a7f545                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我认识了一名kiger_卷三_[.docx]([其他]_我认识�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30668 bytes                           |
 | MD5             | 0f01396996f40b79419c5013868afb83                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

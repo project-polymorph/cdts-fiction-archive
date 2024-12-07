@@ -20,7 +20,7 @@ TXT 下载: [[其他]_圣人之言——催眠催命①.docx]([其他]_圣人之
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23931 bytes                           |
 | MD5             | 1509c9e099ce75709374a6c0087feeb6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

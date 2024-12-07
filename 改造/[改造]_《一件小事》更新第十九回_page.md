@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《一件小事》更新第十九回.doc]([改造]_《一�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 01efd13d1153e7a4fecaeed051e6e157                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

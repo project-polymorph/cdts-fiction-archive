@@ -20,7 +20,7 @@ TXT 下载: [[变身]_女神黛维.docx]([变身]_女神黛维.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21724 bytes                           |
 | MD5             | 453dea0617079a14a5e5a61f53d6b4f7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

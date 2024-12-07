@@ -20,7 +20,7 @@ TXT 下载: [[其他]_一個奇怪的夢_-_防疫中藥_(下_一_).doc]([其他]
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | a656756b66aa56f90e637f956b7ca4cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

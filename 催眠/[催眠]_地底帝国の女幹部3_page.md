@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_地底帝国の女幹部3.docx]([催眠]_地底帝国の�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37194 bytes                           |
 | MD5             | f2b2c4468307a3e117c6ff575377d938                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 舞方雅人                               |
 | Region          | 未知                               |

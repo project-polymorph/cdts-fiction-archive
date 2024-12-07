@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·浮生若梦（第八篇）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 5dff79cdc8071c9426ecd4b34eac483c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

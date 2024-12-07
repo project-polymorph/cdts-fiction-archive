@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_王子的新衣　８.docx]([皮物]_王子的新衣　８
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17131 bytes                           |
 | MD5             | e82dbcfd8a04899ee2280899fd39a0e5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

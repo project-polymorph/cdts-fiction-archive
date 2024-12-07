@@ -20,7 +20,7 @@ TXT 下载: [[变身]_魔法少女才是人民喜闻乐见好少女—序幕（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20180 bytes                           |
 | MD5             | 9e0bb2f48fafc4fe4929f04b3689d4d5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

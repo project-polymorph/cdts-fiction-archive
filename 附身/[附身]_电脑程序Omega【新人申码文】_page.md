@@ -20,7 +20,7 @@ TXT 下载: [[附身]_电脑程序Omega【新人申码文】.doc]([附身]_电�
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 4ec07db2a5d923f75a60a1f3b1674797                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

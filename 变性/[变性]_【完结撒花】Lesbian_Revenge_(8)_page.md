@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【完结撒花】Lesbian_Revenge_(8).docx]([变性]_【�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31968 bytes                           |
 | MD5             | c7180d93a3a41abd69e969aa686b195b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Angela Collins                               |
 | Region          | 未知                               |

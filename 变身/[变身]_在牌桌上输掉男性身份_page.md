@@ -22,7 +22,7 @@ TXT 下载: [[变身]_在牌桌上输掉男性身份.docx]([变身]_在牌桌上
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54100 bytes                           |
 | MD5             | 7aec957f4e3e3bf5a73be8b7a82f844c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

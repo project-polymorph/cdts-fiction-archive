@@ -22,7 +22,7 @@ TXT 下载: [[变身]_無臉者_第一章.doc]([变身]_無臉者_第一章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | ecd1b08cd30fdcab10c85da7ae1d61d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lu9mimi                               |
 | Region          | 台湾                               |

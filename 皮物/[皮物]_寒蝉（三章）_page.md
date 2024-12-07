@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寒蝉（三章）.docx]([皮物]_寒蝉（三章）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28008 bytes                           |
 | MD5             | c497f5dff6b42a8671c51de01c092421                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

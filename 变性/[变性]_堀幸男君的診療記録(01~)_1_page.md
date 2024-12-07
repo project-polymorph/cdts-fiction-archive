@@ -20,7 +20,7 @@ TXT 下载: [[变性]_堀幸男君的診療記録(01~)_1.docx]([变性]_堀幸�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17731 bytes                           |
 | MD5             | 15786dd44536f9b3e8871f538c4b5193                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

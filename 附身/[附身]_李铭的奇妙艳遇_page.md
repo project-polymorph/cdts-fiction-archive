@@ -20,7 +20,7 @@ TXT 下载: [[附身]_李铭的奇妙艳遇.doc]([附身]_李铭的奇妙艳遇.
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 992017ffa1baf8661f7a94be6cca055b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

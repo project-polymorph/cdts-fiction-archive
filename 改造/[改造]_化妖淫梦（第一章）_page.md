@@ -22,7 +22,7 @@ TXT 下载: [[改造]_化妖淫梦（第一章）.doc]([改造]_化妖淫梦（�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 3e59f5725957735d56977cd1425c9d98                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

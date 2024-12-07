@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第三章.doc]([变性]_《蒹葭录》第�
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | a8996cf22c2e9066cbde01dc4ce0c20a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

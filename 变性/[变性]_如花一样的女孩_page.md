@@ -20,7 +20,7 @@ TXT 下载: [[变性]_如花一样的女孩.doc]([变性]_如花一样的女孩.
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | f0c02aca54e86dee422fe816181e8115                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Janet L. Stickney                               |
 | Region          | 未知                               |

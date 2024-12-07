@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_帝都风云_（八）.doc]([皮物]_帝都风云_（八�
 | Format          | Microsoft Word Document                               |
 | Size            | 79872 bytes                           |
 | MD5             | ea5de4669b13b1400c6e9ec6e6d58b4e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

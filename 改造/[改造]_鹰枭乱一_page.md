@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱一.docx]([改造]_鹰枭乱一.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16473 bytes                           |
 | MD5             | 20494f891c37a9a118c3f565cd31ca01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二十二章（完）附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 542602 bytes                           |
 | MD5             | b78c60812f7bb2ad93f766f06e70161a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 紫依                               |
 | Region          | 中国大陆                               |

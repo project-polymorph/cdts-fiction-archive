@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的乡下女友2_[.docx]([皮物]_我的乡下女友2_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21300 bytes                           |
 | MD5             | cc860711483462799b44772ae701db97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

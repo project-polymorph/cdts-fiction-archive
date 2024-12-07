@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱二（噩梦的开始）_(2).docx]([改造]_鹰�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18077 bytes                           |
 | MD5             | 9b18782138980fd3ff7b088dca82804f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_皮条王的下场_第一章_多图给力.docx]([变身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33657 bytes                           |
 | MD5             | 0771e6e2d7c588d866a368be24e6c00a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

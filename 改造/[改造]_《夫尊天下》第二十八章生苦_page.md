@@ -24,7 +24,7 @@ TXT 下载: [[改造]_《夫尊天下》第二十八章生苦.doc]([改造]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 47b35931850a2101f6478246f851a622                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

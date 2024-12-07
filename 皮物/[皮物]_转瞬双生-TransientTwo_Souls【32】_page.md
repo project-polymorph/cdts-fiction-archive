@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_转瞬双生-TransientTwo_Souls【32】.doc]([皮物]_转�
 | Format          | Microsoft Word Document                               |
 | Size            | 73728 bytes                           |
 | MD5             | 007e428745ab10aa9e64af51b1b46863                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

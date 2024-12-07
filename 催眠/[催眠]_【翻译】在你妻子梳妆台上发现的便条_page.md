@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_【翻译】在你妻子梳妆台上发现的便条.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 706d468ca6c80820c349a457b5cb3dff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Dark7                               |
 | Region          | 未知                               |

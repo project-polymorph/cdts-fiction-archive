@@ -20,7 +20,7 @@ TXT 下载: [[变性]_她们的幸福（一）.doc]([变性]_她们的幸福（�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 66de1649fee901f87039a1ba58a11193                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 九缠                               |
 | Region          | 中国大陆                               |

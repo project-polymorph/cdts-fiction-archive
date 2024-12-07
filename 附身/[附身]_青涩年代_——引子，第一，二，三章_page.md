@@ -20,7 +20,7 @@ TXT 下载: [[附身]_青涩年代_——引子，第一，二，三章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24706 bytes                           |
 | MD5             | c9c71be41514fa476afe9a593b3421e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

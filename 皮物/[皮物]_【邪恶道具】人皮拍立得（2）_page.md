@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【邪恶道具】人皮拍立得（2）.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22373 bytes                           |
 | MD5             | 19f9d549ff4d6619fd6295aaf702763c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

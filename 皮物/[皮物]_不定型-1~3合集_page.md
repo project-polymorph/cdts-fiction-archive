@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_不定型-1~3合集.doc]([皮物]_不定型-1~3合集.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 61952 bytes                           |
 | MD5             | 75bce77b2135fb460be8a4bf007fa8ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

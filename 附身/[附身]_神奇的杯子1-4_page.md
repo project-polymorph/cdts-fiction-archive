@@ -20,7 +20,7 @@ TXT 下载: [[附身]_神奇的杯子1-4.docx]([附身]_神奇的杯子1-4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29011 bytes                           |
 | MD5             | f59e76b77a44432bc5b97d102cd68d8a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

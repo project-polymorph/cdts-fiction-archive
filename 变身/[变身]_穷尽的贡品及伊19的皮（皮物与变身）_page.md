@@ -22,7 +22,7 @@ TXT 下载: [[变身]_穷尽的贡品及伊19的皮（皮物与变身）.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26992 bytes                           |
 | MD5             | d6d5dfe1c4c43b02a2e275756ca5592a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_青青的幸福生活【同好乱入番外篇】.doc]([变
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | f052cc99060d2b4a43ab0cb1a4204cee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

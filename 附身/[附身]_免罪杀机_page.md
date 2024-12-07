@@ -20,7 +20,7 @@ TXT 下载: [[附身]_免罪杀机.doc]([附身]_免罪杀机.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 81920 bytes                           |
 | MD5             | e2db95d27e3375b745c4f0bc05ab0db9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

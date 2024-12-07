@@ -20,7 +20,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_57.doc]([改造]_把男朋友�
 | Format          | Microsoft Word Document                               |
 | Size            | 117248 bytes                           |
 | MD5             | fcb90ce4841d547b2d7a8d25fb2e58ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Nicegent42                               |
 | Region          | 未知                               |

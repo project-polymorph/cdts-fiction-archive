@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的主人愛網購_(同人文)_原創_非翻譯.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23325 bytes                           |
 | MD5             | 113493f99201b3f09088cb4572197a0b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

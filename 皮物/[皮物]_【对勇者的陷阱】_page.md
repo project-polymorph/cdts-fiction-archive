@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【对勇者的陷阱】.doc]([皮物]_【对勇者的陷�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 2d98974496e00ee5aad06f6b3f75c452                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

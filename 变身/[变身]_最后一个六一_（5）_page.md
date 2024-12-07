@@ -20,7 +20,7 @@ TXT 下载: [[变身]_最后一个六一_（5）.doc]([变身]_最后一个六�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 2b109974593a6099b4c87c20606d56c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

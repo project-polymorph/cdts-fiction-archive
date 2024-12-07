@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Side_Effects_Ch.1（副作用_第一章）.doc]([皮物]_S
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | 8deae338b42a07428c7b3d6313700500                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

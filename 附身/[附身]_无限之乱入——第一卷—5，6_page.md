@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无限之乱入——第一卷—5，6.docx]([附身]_无�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24122 bytes                           |
 | MD5             | 2cd54be954383cbe3dddb728d1746292                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

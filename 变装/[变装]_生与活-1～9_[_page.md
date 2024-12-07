@@ -20,7 +20,7 @@ TXT 下载: [[变装]_生与活-1～9_[.docx]([变装]_生与活-1～9_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43287 bytes                           |
 | MD5             | b4f41ece3b7a0d9a3d48d166aa9c9ec3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_幽灵第一部（申码文）.docx]([附身]_幽灵第一
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27019 bytes                           |
 | MD5             | 081b6b43a68a7f6d6d00ef448be6493a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

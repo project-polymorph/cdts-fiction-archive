@@ -20,7 +20,7 @@ TXT 下载: [[变装]_kigurumi情緣_(4).doc]([变装]_kigurumi情緣_(4).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 62976 bytes                           |
 | MD5             | 85798679b9946b9b1ae9b2210ee6e2b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

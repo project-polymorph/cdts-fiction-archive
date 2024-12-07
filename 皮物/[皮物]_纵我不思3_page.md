@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_纵我不思3.doc]([皮物]_纵我不思3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | da650b154e131c68a83e733687f16a08                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

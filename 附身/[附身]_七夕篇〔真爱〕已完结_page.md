@@ -22,7 +22,7 @@ TXT 下载: [[附身]_七夕篇〔真爱〕已完结.docx]([附身]_七夕篇〔
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44649 bytes                           |
 | MD5             | 1434d1b1a28b6b571ff6576f73c1d686                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

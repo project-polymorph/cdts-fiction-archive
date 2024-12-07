@@ -20,7 +20,7 @@ TXT 下载: [[变身]_公寓（一）.docx]([变身]_公寓（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17939 bytes                           |
 | MD5             | e3d7ca931c74d9acc0cc3c5e67031e93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

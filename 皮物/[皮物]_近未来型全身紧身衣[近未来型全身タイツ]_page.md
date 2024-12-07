@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_近未来型全身紧身衣[近未来型全身タイツ].d
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | bac8cef427869b7485d44416c42b31a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ＠ぽっけ                               |
 | Region          | 未知                               |

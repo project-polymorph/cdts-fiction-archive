@@ -20,7 +20,7 @@ TXT 下载: [[交换]_再会前，再会后.docx]([交换]_再会前，再会后
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 133628 bytes                           |
 | MD5             | 2279d4cf68e493b762348ce714510f8c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | K C A' T3                               |
 | Region          | 未知                               |

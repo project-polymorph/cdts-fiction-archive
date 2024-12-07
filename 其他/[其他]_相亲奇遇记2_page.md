@@ -20,7 +20,7 @@ TXT 下载: [[其他]_相亲奇遇记2.docx]([其他]_相亲奇遇记2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16685 bytes                           |
 | MD5             | a45482c5c2b2558def4eda7f5f1eb522                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

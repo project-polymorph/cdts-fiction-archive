@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_欲望忍法_皮物之术.doc]([皮物]_欲望忍法_皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 762357deb23ca910dd9b911f37ff1bff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

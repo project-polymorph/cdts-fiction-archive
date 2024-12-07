@@ -20,7 +20,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十六章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24546 bytes                           |
 | MD5             | 86e7b0bf0fa8f171bc75ee9348276e2f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

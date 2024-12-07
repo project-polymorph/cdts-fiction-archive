@@ -20,7 +20,7 @@ TXT 下载: [[附身]_Self-NTR.doc]([附身]_Self-NTR.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | fa6afd4d17317f8bf8bc617a265d35eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

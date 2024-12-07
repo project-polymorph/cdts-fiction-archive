@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【毒液莉莉丝】断章.doc]([变身]_【毒液莉莉�
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | c1618f623d9ae9a7073dba611f879ba2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

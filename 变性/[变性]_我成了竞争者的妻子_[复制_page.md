@@ -20,7 +20,7 @@ TXT 下载: [[变性]_我成了竞争者的妻子_[复制.docx]([变性]_我成�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26503 bytes                           |
 | MD5             | d39fc8c5bccbac0e298ba3ea68816182                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

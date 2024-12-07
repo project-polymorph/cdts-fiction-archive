@@ -20,7 +20,7 @@ TXT 下载: [[交换]_离婚协议书.docx]([交换]_离婚协议书.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26941 bytes                           |
 | MD5             | a456da91aa252e2337830dbf4d23a9af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | teru                               |
 | Region          | 未知                               |

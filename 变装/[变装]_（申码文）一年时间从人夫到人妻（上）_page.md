@@ -20,7 +20,7 @@ TXT 下载: [[变装]_（申码文）一年时间从人夫到人妻（上）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47719 bytes                           |
 | MD5             | 262d3aeb1c8be6491d7219b80f1b84a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 改造人夫                               |
 | Region          | 中国大陆                               |

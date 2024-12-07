@@ -20,7 +20,7 @@ TXT 下载: [[变身]_荆棘王冠（19）等二十章搞个总集篇吧···_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21864 bytes                           |
 | MD5             | 7c1ce2a24ff7ab23adcda2f2007d2933                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

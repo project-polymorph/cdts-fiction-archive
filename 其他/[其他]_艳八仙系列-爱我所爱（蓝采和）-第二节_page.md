@@ -20,7 +20,7 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第二节.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17710 bytes                           |
 | MD5             | 6dba8b139c5d3265116cbbde5c70e31b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

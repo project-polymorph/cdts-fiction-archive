@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新人生（下）.docx]([皮物]_新人生（下）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22044 bytes                           |
 | MD5             | bd5e510356515857923d66466593c7dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

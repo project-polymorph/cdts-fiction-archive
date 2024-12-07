@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【碟中谍征文活动】戈德曼一家_（The_Family_G
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50626 bytes                           |
 | MD5             | 411b44efe909ba296319c45bc447793d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

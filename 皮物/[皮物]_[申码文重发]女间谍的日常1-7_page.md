@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[申码文重发]女间谍的日常1-7.docx]([皮物]_[申
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33017 bytes                           |
 | MD5             | ffdff5f6682bce86bf744de15b3dc1ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

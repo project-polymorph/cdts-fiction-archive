@@ -20,7 +20,7 @@ TXT 下载: [[附身]_連続憑依人・田中①～遊園地～.doc]([附身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 713ca07491717cac93fcb32c358cc1ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

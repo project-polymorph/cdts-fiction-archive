@@ -20,7 +20,7 @@ TXT 下载: [[交换]_SWP和人妻交換〈一〉〈五〉，11__10更新〈五�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47458 bytes                           |
 | MD5             | 1b7a4c0125d539f6c4249fd8613ff9ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

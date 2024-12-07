@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_情景系列_-_媽媽是特務的情況.docx]([皮物]_情
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27532 bytes                           |
 | MD5             | a03199e147f7e17e150d4b00f3221804                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

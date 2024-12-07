@@ -20,7 +20,7 @@ TXT 下载: [[其他]_永遠心中有著剎那.doc]([其他]_永遠心中有著�
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | bdee447682c8702588da1471001e0a6c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

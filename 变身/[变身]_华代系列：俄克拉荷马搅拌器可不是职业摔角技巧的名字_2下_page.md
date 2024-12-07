@@ -20,7 +20,7 @@ TXT 下载: [[变身]_华代系列：俄克拉荷马搅拌器可不是职业摔�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28367 bytes                           |
 | MD5             | a45ce229fafa54eb1d8657aecf04e1a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

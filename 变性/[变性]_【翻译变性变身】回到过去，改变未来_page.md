@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译变性变身】回到过去，改变未来.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | c5d9cac718e05e65febd9828befa01fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer Whiter                               |
 | Region          | 未知                               |

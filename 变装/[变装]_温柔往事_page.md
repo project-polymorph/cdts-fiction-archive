@@ -20,7 +20,7 @@ TXT 下载: [[变装]_温柔往事.docx]([变装]_温柔往事.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22157 bytes                           |
 | MD5             | c5c94df626e70a0c1a1ba17b20188185                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

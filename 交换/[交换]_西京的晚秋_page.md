@@ -20,7 +20,7 @@ TXT 下载: [[交换]_西京的晚秋.doc]([交换]_西京的晚秋.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 3e364788bdddff6441c6438e66bf8bfc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

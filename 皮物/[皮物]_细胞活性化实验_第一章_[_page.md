@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_细胞活性化实验_第一章_[.docx]([皮物]_细胞活
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20934 bytes                           |
 | MD5             | 32089f34b43cd41f7664e747c339f4e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

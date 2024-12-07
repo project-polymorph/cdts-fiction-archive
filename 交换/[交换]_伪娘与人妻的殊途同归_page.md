@@ -20,7 +20,7 @@ TXT 下载: [[交换]_伪娘与人妻的殊途同归.doc]([交换]_伪娘与人�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | ed8bc0170c69297bd5ade3482b82b461                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

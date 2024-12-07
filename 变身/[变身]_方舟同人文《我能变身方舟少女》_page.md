@@ -20,7 +20,7 @@ TXT 下载: [[变身]_方舟同人文《我能变身方舟少女》.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 125440 bytes                           |
 | MD5             | 9ff940d80f28f323537ebda4cbaf791a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

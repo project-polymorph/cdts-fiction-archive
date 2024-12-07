@@ -20,7 +20,7 @@ TXT 下载: [[其他]_同人小说《三国·杀！》楔子-第十一章.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34374 bytes                           |
 | MD5             | 8bd640708614f95d32535eeea12378c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

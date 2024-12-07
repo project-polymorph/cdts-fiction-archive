@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_inside_doll翻译文_人偶学院之横川雪江的故事�
 | Format          | Microsoft Word Document                               |
 | Size            | 107520 bytes                           |
 | MD5             | 0b46a747c43b0e8c6fa26225beeaa1ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_赞托星的女人们（2）.docx]([改造]_赞托星的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 57879 bytes                           |
 | MD5             | 408e3c15ccf36afe3774f054f8165c4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【少前文】《身为指挥官的我为什么被装罐�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 93e3d90d20fa708e638f7be8163be38b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

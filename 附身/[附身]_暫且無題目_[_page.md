@@ -20,7 +20,7 @@ TXT 下载: [[附身]_暫且無題目_[.docx]([附身]_暫且無題目_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26935 bytes                           |
 | MD5             | e6a873bcf42bb28c77064881d2ad7f55                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

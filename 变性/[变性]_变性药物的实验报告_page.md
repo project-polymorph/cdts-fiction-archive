@@ -20,7 +20,7 @@ TXT 下载: [[变性]_变性药物的实验报告.doc]([变性]_变性药物的�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 01995ce3f9430804258ca55f4b39a05d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 黑川                               |
 | Region          | 未知                               |

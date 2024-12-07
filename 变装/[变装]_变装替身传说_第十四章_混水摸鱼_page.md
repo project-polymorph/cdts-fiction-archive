@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装替身传说_第十四章_混水摸鱼.docx]([变装
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25943 bytes                           |
 | MD5             | 931f67479df23f84a096c417111e0239                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

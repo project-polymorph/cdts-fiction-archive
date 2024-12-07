@@ -20,7 +20,7 @@ TXT 下载: [[附身]_転身——OL遠藤理沙篇（上）.docx]([附身]_転�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20354 bytes                           |
 | MD5             | e92054b06a8a85fa60c58c9b4d7b45fa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | g19901228                               |
 | Region          | 未知                               |

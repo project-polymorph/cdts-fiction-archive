@@ -20,7 +20,7 @@ TXT 下载: [[变身]_DT事务所的故事_楔子+第一章.doc]([变身]_DT事�
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 9e8f7b9d6508179b20fdd6954b6e16a6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

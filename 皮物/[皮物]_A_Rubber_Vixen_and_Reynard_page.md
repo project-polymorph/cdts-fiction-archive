@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_A_Rubber_Vixen_and_Reynard.doc]([皮物]_A_Rubber_Vixen_an
 | Format          | Microsoft Word Document                               |
 | Size            | 29184 bytes                           |
 | MD5             | 7601ca3ca237a0b4f0bbab508d00cb93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

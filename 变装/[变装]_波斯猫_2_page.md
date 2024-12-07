@@ -20,7 +20,7 @@ TXT 下载: [[变装]_波斯猫_2.doc]([变装]_波斯猫_2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 31656a279e57546eb1f063e31e954d0b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

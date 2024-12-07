@@ -20,7 +20,7 @@ TXT 下载: [[附身]_变成了色情妹妹的我-1.doc]([附身]_变成了色�
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 794e5d2be1cf947c545ee9d43225144f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

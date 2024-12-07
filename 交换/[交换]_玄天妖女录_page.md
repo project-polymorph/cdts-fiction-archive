@@ -20,7 +20,7 @@ TXT 下载: [[交换]_玄天妖女录.docx]([交换]_玄天妖女录.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 76335 bytes                           |
 | MD5             | 246c22d3b7bf789e9b65dd839be3ce1b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

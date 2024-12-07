@@ -20,7 +20,7 @@ TXT 下载: [[其他]_男人和扶她的有两次性高潮的世界_之_她来�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19954 bytes                           |
 | MD5             | 65e21e66f2779e6cfacf469c388044e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

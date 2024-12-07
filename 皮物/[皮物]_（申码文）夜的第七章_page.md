@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文）夜的第七章.doc]([皮物]_（申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | dbe6020337618ee01e5bbca3d366d7b5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

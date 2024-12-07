@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《被封印的魔女》第二篇.doc]([变身]_《被封�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 91e70dc685e35a34aadfb4f33e7db138                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

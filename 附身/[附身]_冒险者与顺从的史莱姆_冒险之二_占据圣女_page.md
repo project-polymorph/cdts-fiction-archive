@@ -20,7 +20,7 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之二_占据圣女.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30064 bytes                           |
 | MD5             | fa0e14a1f078ccec58ac8e73113096e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 藻屑                               |
 | Region          | 未知                               |

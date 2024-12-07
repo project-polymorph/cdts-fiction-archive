@@ -20,7 +20,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-FIVE.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19447 bytes                           |
 | MD5             | d98d8ad37c5c072495f8df813c76adb3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

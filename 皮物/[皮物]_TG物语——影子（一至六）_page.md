@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_TG物语——影子（一至六）.doc]([皮物]_TG物语
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 6988d4366b0c1b540a64368eb443460d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

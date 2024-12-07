@@ -20,7 +20,7 @@ TXT 下载: [[变装]_下属变爱妻（上）.docx]([变装]_下属变爱妻（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30292 bytes                           |
 | MD5             | 6d95cedef6c347f72db5b2cb1b497eb8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

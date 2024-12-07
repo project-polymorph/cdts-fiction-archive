@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_保密计划1-4.doc]([皮物]_保密计划1-4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 63f09dc87a42ad007b673c9f928727c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lzishen                               |
 | Region          | 未知                               |

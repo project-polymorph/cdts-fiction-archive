@@ -20,7 +20,7 @@ TXT 下载: [[其他]_淫乱大将军之金蛇姬.docx]([其他]_淫乱大将军
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20205 bytes                           |
 | MD5             | 70d00a1dd55b4ef1de7b6de44d59efe1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

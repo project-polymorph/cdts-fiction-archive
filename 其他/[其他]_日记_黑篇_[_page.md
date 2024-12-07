@@ -20,7 +20,7 @@ TXT 下载: [[其他]_日记_黑篇_[.docx]([其他]_日记_黑篇_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44723 bytes                           |
 | MD5             | 8a032dcef961510b6a53db3d84e1397e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 史左黑                               |
 | Region          | 未知                               |

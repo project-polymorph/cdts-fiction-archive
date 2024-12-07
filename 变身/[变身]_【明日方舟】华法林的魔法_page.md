@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【明日方舟】华法林的魔法.doc]([变身]_【明�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | e496ae450681baf7105d18b744851e43                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

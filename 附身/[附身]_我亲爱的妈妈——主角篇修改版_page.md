@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我亲爱的妈妈——主角篇修改版.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22276 bytes                           |
 | MD5             | 1f15e9eec2822b50155f3d9dd0d0f93b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

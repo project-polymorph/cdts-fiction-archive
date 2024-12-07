@@ -20,7 +20,7 @@ TXT 下载: [[变装]_出生死亡和结婚.docx]([变装]_出生死亡和结婚
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31405 bytes                           |
 | MD5             | ea720fc4f710a1828a3d3a74d32542c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

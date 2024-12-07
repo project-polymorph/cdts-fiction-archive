@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_DT事务所的故事（前传）——我大学生活的�
 | Format          | Microsoft Word Document                               |
 | Size            | 29184 bytes                           |
 | MD5             | d77dd6b9d5b6b0b4a4545ba32a2c69ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

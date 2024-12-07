@@ -20,7 +20,7 @@ TXT 下载: [[变性]_我美丽的第二人生.doc]([变性]_我美丽的第二�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 780e1f6441a67f16c6766f2c5ee8a9d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | YancyVoss                               |
 | Region          | 未知                               |

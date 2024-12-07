@@ -20,7 +20,7 @@ TXT 下载: [[变身]_与外星人接触之后1.docx]([变身]_与外星人接�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20941 bytes                           |
 | MD5             | 92533e16afd71541a6e405d89d4af8a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

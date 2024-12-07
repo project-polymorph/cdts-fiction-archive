@@ -20,7 +20,7 @@ TXT 下载: [[改造]_基因技术的危害1_(2).docx]([改造]_基因技术的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19635 bytes                           |
 | MD5             | b1f576139bea6bc69916efe7bd6bc2dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

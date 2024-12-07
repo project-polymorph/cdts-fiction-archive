@@ -20,7 +20,7 @@ TXT 下载: [[变性]_tug_of_war.doc]([变性]_tug_of_war.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 6338560 bytes                           |
 | MD5             | 7c3f62a318c3fc532f74ecab9d216006                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Melissa N.                               |
 | Region          | 未知                               |

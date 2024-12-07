@@ -20,7 +20,7 @@ TXT 下载: [[变身]_靓丽女丈夫（三）_[.docx]([变身]_靓丽女丈夫�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19559 bytes                           |
 | MD5             | b3657242b3072ba492ef329d4f78dc7e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

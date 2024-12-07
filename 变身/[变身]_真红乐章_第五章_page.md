@@ -20,7 +20,7 @@ TXT 下载: [[变身]_真红乐章_第五章.docx]([变身]_真红乐章_第五�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24014 bytes                           |
 | MD5             | 279fcc1ce987820cfffe2feb46c09f34                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

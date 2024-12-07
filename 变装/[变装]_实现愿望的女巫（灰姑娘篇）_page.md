@@ -20,7 +20,7 @@ TXT 下载: [[变装]_实现愿望的女巫（灰姑娘篇）.doc]([变装]_实�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 2aee6f0e32b9eef25293333d00e9438b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

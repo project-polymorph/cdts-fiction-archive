@@ -20,7 +20,7 @@ TXT 下载: [[交换]_伊森（一）.docx]([交换]_伊森（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22351 bytes                           |
 | MD5             | a6101724bde6bd1a1ac799297c482e5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

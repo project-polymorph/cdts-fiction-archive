@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_化皮软件_重修_一.doc]([皮物]_化皮软件_重修_
 | Format          | Microsoft Word Document                               |
 | Size            | 119296 bytes                           |
 | MD5             | 4d0fe0f21537cab64227c78c4b3bf18d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

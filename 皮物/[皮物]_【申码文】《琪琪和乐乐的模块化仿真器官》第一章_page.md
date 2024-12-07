@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文】《琪琪和乐乐的模块化仿真器官�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 3beffe124a3e550b85dc9f084d5444f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

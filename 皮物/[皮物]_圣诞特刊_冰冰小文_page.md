@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_圣诞特刊_冰冰小文.docx]([皮物]_圣诞特刊_冰�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17210 bytes                           |
 | MD5             | 0612f1b3bc07ab8ca8a70e9d8a7add91                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

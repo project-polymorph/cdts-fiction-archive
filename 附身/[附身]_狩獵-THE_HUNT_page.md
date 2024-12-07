@@ -20,7 +20,7 @@ TXT 下载: [[附身]_狩獵-THE_HUNT.docx]([附身]_狩獵-THE_HUNT.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18199 bytes                           |
 | MD5             | 853a15ee7f1f24e03efa01c733a953f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

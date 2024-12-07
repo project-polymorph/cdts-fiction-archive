@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_知面不知心_番外.doc]([皮物]_知面不知心_番�
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | 48f91d38efca7e76cee17a1435dfa2f7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

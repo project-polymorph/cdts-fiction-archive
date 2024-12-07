@@ -20,7 +20,7 @@ TXT 下载: [[其他]_迟来的蝶变（前言及1-3章）.docx]([其他]_迟来
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72052 bytes                           |
 | MD5             | 7f64a56e36e6538eb667b61cce913f93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

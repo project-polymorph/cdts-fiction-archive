@@ -20,7 +20,7 @@ TXT 下载: [[附身]_共工氏之若水（序、1、2章）.docx]([附身]_共�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20269 bytes                           |
 | MD5             | 7776f24531ca3596dc833ddf2c73ccb7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

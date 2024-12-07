@@ -20,7 +20,7 @@ TXT 下载: [[变装]_侦探的故事_-1.docx]([变装]_侦探的故事_-1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29085 bytes                           |
 | MD5             | c949ceb363c4182217afb85e788161b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer Stewart                               |
 | Region          | 未知                               |

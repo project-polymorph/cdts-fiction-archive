@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_油田·暗夜卫队2.docx]([皮物]_油田·暗夜卫队2
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26190 bytes                           |
 | MD5             | 75f0c856f088b6fec282701aef51d27a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

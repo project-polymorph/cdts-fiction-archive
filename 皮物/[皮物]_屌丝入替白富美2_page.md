@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_屌丝入替白富美2.docx]([皮物]_屌丝入替白富�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21807 bytes                           |
 | MD5             | f9e15356a3982593844f3fc7abc13416                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

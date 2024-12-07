@@ -20,7 +20,7 @@ TXT 下载: [[改造]_小李的沉沦_【第三章_堕落在女装的周末】.d
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 160aba953c7be551ca85802bff381727                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

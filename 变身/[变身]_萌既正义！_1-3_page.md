@@ -20,7 +20,7 @@ TXT 下载: [[变身]_萌既正义！_1-3.docx]([变身]_萌既正义！_1-3.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34657 bytes                           |
 | MD5             | cbc2beea69a56073d6db9770c7b6fe59                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

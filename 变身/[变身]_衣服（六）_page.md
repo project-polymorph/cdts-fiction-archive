@@ -20,7 +20,7 @@ TXT 下载: [[变身]_衣服（六）.doc]([变身]_衣服（六）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 234d5d8aebb70138ed398af4310692eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_阴阳草第四章.docx]([附身]_阴阳草第四章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19357 bytes                           |
 | MD5             | 0bd0d3331ad34310396e7d89825600d1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

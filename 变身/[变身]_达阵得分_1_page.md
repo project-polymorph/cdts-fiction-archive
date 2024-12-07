@@ -20,7 +20,7 @@ TXT 下载: [[变身]_达阵得分_1.docx]([变身]_达阵得分_1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31227 bytes                           |
 | MD5             | 19fbe72ba4fd8edf4e84c858be30bac0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TGFictionStv                               |
 | Region          | 未知                               |

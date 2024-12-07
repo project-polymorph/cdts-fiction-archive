@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身之穿越阿朱（十一至十三）.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 07ecb8dc5098be362d86ec21e1a33494                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_逆袭〈一〉.docx]([交换]_逆袭〈一〉.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33701 bytes                           |
 | MD5             | 04683ca57341a98e80d5da15369abcf4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_心魂协议：心网.doc]([附身]_心魂协议：心网.
 | Format          | Microsoft Word Document                               |
 | Size            | 84480 bytes                           |
 | MD5             | 38f5c674d9a0b0a8582ed887f5a3256f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

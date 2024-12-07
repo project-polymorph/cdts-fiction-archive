@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（免费）错乱（三）（8-10章）.doc]([皮物]_（
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | ff8b55a06275eed3393a21bef4a4fdb0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

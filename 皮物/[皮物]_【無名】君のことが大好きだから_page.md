@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【無名】君のことが大好きだから.doc]([皮物
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 8e426f7fd81f56a09c6a38a0b44c01e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

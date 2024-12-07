@@ -20,7 +20,7 @@ TXT 下载: [[附身]_移魂摄魄(第十章).doc]([附身]_移魂摄魄(第十�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | fac4e3cd90f1bdb0ec10fddf294c9e92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

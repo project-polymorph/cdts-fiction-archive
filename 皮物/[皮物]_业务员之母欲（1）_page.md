@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_业务员之母欲（1）.docx]([皮物]_业务员之母�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21706 bytes                           |
 | MD5             | 376b03145a0b4b00d3bcba4c4f824735                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

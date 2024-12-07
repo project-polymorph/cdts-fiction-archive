@@ -20,7 +20,7 @@ TXT 下载: [[附身]_被侵蚀的平安夜.docx]([附身]_被侵蚀的平安夜
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21093 bytes                           |
 | MD5             | 963617f29e52e845307bd6d81e426810                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

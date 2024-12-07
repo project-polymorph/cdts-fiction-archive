@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_诡异的开端（一）.docx]([皮物]_诡异的开端（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20572 bytes                           |
 | MD5             | 80c8e4777691458e7aef70d5fa5492da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 风铃                               |
 | Region          | 未知                               |

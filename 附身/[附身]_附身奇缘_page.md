@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附身奇缘.docx]([附身]_附身奇缘.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17065 bytes                           |
 | MD5             | 3e32b042db1ddf9eae306d39fbfc9e13                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

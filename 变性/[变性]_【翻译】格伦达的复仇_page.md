@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】格伦达的复仇.docx]([变性]_【翻译】
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32629 bytes                           |
 | MD5             | f12e44adb269fd6c8cdf8665d808126a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | PYT                               |
 | Region          | 未知                               |

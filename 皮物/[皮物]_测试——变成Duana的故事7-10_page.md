@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_测试——变成Duana的故事7-10.docx]([皮物]_测试
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21220 bytes                           |
 | MD5             | 591df1523bcb1c4a75e239d61c4f930f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

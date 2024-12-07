@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_潛徒S-2.doc]([皮物]_潛徒S-2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | d4803b17afc3bbdb717d9a807ffaed2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_三生.docx]([其他]_三生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23315 bytes                           |
 | MD5             | b6505820548e201f60f07f2a5dfc4b54                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

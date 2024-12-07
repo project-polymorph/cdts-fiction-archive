@@ -20,7 +20,7 @@ TXT 下载: [[其他]_[非首發]_沒有名字_二章之零_二章之四四A番�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 36e6cbd56adea72590358e6a017b5fe9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

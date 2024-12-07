@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_美女蛇杀人事件（改进版---修士文章，撸点�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23664 bytes                           |
 | MD5             | 2b736f9135d6bd84c5aa55694cdf0f55                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

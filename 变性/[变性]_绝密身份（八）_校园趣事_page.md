@@ -20,7 +20,7 @@ TXT 下载: [[变性]_绝密身份（八）_校园趣事.docx]([变性]_绝密�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26314 bytes                           |
 | MD5             | 44deeeb5db8b08ec5d519c0cd360a573                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_男子高中生變成了魔法少女（3-4）.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | e5fabc928327a9bd13c41a4df60694f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 7011768（P站ID）                               |
 | Region          | 未知                               |

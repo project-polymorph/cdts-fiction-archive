@@ -20,7 +20,7 @@ TXT 下载: [[变装]_雌服，美丽前行.doc]([变装]_雌服，美丽前行.
 | Format          | Microsoft Word Document                               |
 | Size            | 79360 bytes                           |
 | MD5             | db3d6cfefc4b1efe982dc020f755d072                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

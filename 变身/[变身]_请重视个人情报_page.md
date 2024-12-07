@@ -20,7 +20,7 @@ TXT 下载: [[变身]_请重视个人情报.docx]([变身]_请重视个人情报
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31038 bytes                           |
 | MD5             | ec110d2ee704ccf12d6080d5d4e38779                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | tsfのF3                               |
 | Region          | 未知                               |

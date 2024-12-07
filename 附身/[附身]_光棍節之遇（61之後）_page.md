@@ -20,7 +20,7 @@ TXT 下载: [[附身]_光棍節之遇（61之後）.docx]([附身]_光棍節之�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21473 bytes                           |
 | MD5             | 8c9a3c5b785ee56ea3cf0dd904904fde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_大毒枭_序~第二章.docx]([变装]_大毒枭_序~第�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32818 bytes                           |
 | MD5             | e3ed8f18f9ea8cc5cdc714a14fa3cff9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

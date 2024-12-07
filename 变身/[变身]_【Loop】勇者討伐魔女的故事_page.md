@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【Loop】勇者討伐魔女的故事.doc]([变身]_【Loo
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | 17a61cff9660ae342eff5b08588d8362                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_漫展路上.docx]([皮物]_漫展路上.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24062 bytes                           |
 | MD5             | 462e4884b8f15bd9d7909b5eaf814aae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

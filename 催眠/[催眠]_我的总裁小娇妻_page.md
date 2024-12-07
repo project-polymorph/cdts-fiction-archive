@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_我的总裁小娇妻.doc]([催眠]_我的总裁小娇妻.
 | Format          | Microsoft Word Document                               |
 | Size            | 26112 bytes                           |
 | MD5             | b4d2f2b7055244ca0ce44e0d0da810fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

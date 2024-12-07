@@ -20,7 +20,7 @@ TXT 下载: [[改造]_魔雌淫悦3.doc]([改造]_魔雌淫悦3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68608 bytes                           |
 | MD5             | 07512409232304847339f6e0c078894d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

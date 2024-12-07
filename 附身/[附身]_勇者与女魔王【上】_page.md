@@ -20,7 +20,7 @@ TXT 下载: [[附身]_勇者与女魔王【上】.doc]([附身]_勇者与女魔�
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | ac1227a880cc8a29a54121827eb30c82                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

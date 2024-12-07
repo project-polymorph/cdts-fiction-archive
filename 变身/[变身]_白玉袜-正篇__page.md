@@ -20,7 +20,7 @@ TXT 下载: [[变身]_白玉袜-正篇_.docx]([变身]_白玉袜-正篇_.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 135648 bytes                           |
 | MD5             | c009ef3a4f32b7ceffc35bfd930ea043                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

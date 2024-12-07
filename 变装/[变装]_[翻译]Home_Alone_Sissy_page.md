@@ -20,7 +20,7 @@ TXT 下载: [[变装]_[翻译]Home_Alone_Sissy.doc]([变装]_[翻译]Home_Alone_
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | b6cb59bdce40971187f60b97a50a52a6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | DavinaMcG                               |
 | Region          | 未知                               |

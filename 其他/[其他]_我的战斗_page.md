@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的战斗.docx]([其他]_我的战斗.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19162 bytes                           |
 | MD5             | a7c283cfad47add362aed6b3999fe794                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

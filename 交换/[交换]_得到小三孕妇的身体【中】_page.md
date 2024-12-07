@@ -20,7 +20,7 @@ TXT 下载: [[交换]_得到小三孕妇的身体【中】.docx]([交换]_得到
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23135 bytes                           |
 | MD5             | 957980515d03016c7fc58a56503a87f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

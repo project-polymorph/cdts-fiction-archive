@@ -20,7 +20,7 @@ TXT 下载: [[附身]_两极反转.docx]([附身]_两极反转.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23835 bytes                           |
 | MD5             | 39889b478d396cfb106c1b435e571605                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

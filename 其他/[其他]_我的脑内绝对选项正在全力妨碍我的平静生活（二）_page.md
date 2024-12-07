@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的脑内绝对选项正在全力妨碍我的平静生�
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | 117cb5a78f47580299e3a67f6d0b070d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

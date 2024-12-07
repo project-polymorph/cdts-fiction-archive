@@ -20,7 +20,7 @@ TXT 下载: [[附身]_代表幸運的任務_(一).docx]([附身]_代表幸運的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21231 bytes                           |
 | MD5             | b99b2cc6614a1e855e391b414d324f53                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 璃火韻                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_三国杀之元宇宙.doc]([附身]_三国杀之元宇宙.
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 0fad7cb81253999e7d2a7db1c129a855                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

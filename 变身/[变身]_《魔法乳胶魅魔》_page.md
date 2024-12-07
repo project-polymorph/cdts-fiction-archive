@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《魔法乳胶魅魔》.doc]([变身]_《魔法乳胶魅�
 | Format          | Microsoft Word Document                               |
 | Size            | 73216 bytes                           |
 | MD5             | 34ded65d329732c8d1da3e4bf5336bcb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

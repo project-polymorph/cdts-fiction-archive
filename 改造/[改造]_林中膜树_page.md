@@ -20,7 +20,7 @@ TXT 下载: [[改造]_林中膜树.doc]([改造]_林中膜树.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 69120 bytes                           |
 | MD5             | 92c2d45e5b18751fcbee37672bfed389                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

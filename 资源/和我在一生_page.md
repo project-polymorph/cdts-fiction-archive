@@ -20,7 +20,7 @@ TXT 下载: [和我在一生.docx](和我在一生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26826 bytes                           |
 | MD5             | 16539460eee36c45008b8e27623845b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

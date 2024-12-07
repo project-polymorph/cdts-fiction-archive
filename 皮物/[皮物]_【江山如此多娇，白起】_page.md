@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【江山如此多娇，白起】.doc]([皮物]_【江山�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 6b06b35959ae315d10e37dc30c01e00f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

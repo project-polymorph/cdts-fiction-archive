@@ -20,7 +20,7 @@ TXT 下载: [[变身]_監考的老師如是說.doc]([变身]_監考的老師如�
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | 8ad64a099ff5ef37ca5f2494eb19dd0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [Of_All_Days.doc](Of_All_Days.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 102400 bytes                           |
 | MD5             | 06ec837ac8c7e9fbf321fdfc3d7e5104                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Belladonna                               |
 | Region          | 未知                               |

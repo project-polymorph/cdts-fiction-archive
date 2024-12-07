@@ -20,7 +20,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列BOOK-ONE.docx]([附
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16339 bytes                           |
 | MD5             | 276cc45d2077931272c2f9a66eb76b51                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

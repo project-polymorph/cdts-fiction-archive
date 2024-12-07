@@ -20,7 +20,7 @@ TXT 下载: [[变装]_任务Z（2）.doc]([变装]_任务Z（2）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | cadecc64f3f63334e6663beb446fcfae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

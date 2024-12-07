@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月神_——_04.docx]([皮物]_月神_——_04.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22369 bytes                           |
 | MD5             | 3fa2a2fb06a87a529596cfa365139394                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | silverpine, ambiva$                               |
 | Region          | 未知                               |

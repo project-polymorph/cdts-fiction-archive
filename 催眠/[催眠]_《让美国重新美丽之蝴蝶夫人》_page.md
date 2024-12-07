@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_《让美国重新美丽之蝴蝶夫人》.doc]([催眠]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | d426f3220c854f08ab50820a93361478                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

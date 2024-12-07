@@ -20,7 +20,7 @@ TXT 下载: [[交换]_圣诞的极黑夜(上).docx]([交换]_圣诞的极黑夜(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22838 bytes                           |
 | MD5             | c7a02f89137c5914d054813c7f578b8b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

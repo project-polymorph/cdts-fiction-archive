@@ -20,7 +20,7 @@ TXT 下载: [[变装]清泉家的“大小姐”们.doc]([变装]清泉家的“
 | Format          | Microsoft Word Document                               |
 | Size            | 119296 bytes                           |
 | MD5             | 7915c3641bd6b8b23101f1247eff387c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 鬼畜奏                               |
 | Region          | 未知                               |

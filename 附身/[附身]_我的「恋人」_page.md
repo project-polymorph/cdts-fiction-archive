@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我的「恋人」.docx]([附身]_我的「恋人」.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25538 bytes                           |
 | MD5             | 328cf60738fc26bf1201435dff83e1a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | みや                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_火种（零肉戏）.docx]([皮物]_火种（零肉戏）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26488 bytes                           |
 | MD5             | e7b26fbee5961a3effcf27981faa04e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 席科长                               |
 | Region          | 未知                               |

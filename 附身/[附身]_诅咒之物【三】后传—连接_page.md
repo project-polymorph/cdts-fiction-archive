@@ -20,7 +20,7 @@ TXT 下载: [[附身]_诅咒之物【三】后传—连接.doc]([附身]_诅咒�
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | ec68e3e5f8fd0f8939135caff140233b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

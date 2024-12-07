@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_全篇补完《皮之獠牙》_新发.docx]([皮物]_全�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31982 bytes                           |
 | MD5             | f34d5f9d907ef0260493a6bd2fcb40df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

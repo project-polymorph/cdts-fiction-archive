@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]The_Sissy_Bride.docx]([变性]_[linchong�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47700 bytes                           |
 | MD5             | 5f125da62ad768c7ff1badb26cab5f79                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Janice337（翻译：linchong）                               |
 | Region          | 未知                               |

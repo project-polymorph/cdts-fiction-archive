@@ -20,7 +20,7 @@ TXT 下载: [[交换]_第二个故事（1）——试阅“骗”.docx]([交换]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18793 bytes                           |
 | MD5             | 7b69235147015976539dadc1a66b625e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 艾伦·维克                               |
 | Region          | 未知                               |

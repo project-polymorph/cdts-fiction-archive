@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_明日方舟——虚实交错时间.docx]([皮物]_明日
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 84648 bytes                           |
 | MD5             | 7e5562fbc23741b672840962c2fc6836                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 彤琦瑞、雪风                               |
 | Region          | 中国大陆                               |

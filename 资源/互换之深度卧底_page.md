@@ -20,7 +20,7 @@ TXT 下载: [互换之深度卧底.docx](互换之深度卧底.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 112684 bytes                           |
 | MD5             | cf3fb12bfa023a0fa0ae91e2a0b2a023                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_高级主神学院的入学手记_-_Page1.docx]([其他]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21335 bytes                           |
 | MD5             | c0ffe00627e6c16875682f96352f305b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

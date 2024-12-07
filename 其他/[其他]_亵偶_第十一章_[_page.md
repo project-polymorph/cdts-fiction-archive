@@ -20,7 +20,7 @@ TXT 下载: [[其他]_亵偶_第十一章_[.docx]([其他]_亵偶_第十一章_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19917 bytes                           |
 | MD5             | 57ac377093fcedce1aefeeb1d55f6175                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

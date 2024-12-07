@@ -20,7 +20,7 @@ TXT 下载: [[变装]_喜欢雌堕他人的我在元宇宙成神.docx]([变装]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24043 bytes                           |
 | MD5             | e8601fc5b1a3b5bc0bfc001e67bcb12d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

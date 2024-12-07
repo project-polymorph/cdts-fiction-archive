@@ -20,7 +20,7 @@ TXT 下载: [[改造]_情人节的兔女郎.doc]([改造]_情人节的兔女郎.
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | ce11009fb269cf36d717757b29f7d70d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Todd Cobble Chez                               |
 | Region          | 未知                               |

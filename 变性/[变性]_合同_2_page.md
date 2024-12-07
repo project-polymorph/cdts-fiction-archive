@@ -20,7 +20,7 @@ TXT 下载: [[变性]_合同_2.docx]([变性]_合同_2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42234 bytes                           |
 | MD5             | c83f68896beeb7446247d64495ac3a44                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cheryl                               |
 | Region          | 未知                               |

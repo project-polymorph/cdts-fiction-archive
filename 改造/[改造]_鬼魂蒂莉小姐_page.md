@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鬼魂蒂莉小姐.doc]([改造]_鬼魂蒂莉小姐.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | 8c1c95a4fd35fd42aa6e9a79795b580a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

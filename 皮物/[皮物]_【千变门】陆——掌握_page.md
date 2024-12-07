@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【千变门】陆——掌握.doc]([皮物]_【千变门�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | ae8b338bd095d2dd7b5ccd293762431d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [小曦的日常小故事之神秘的口香糖S01E02.doc](小曦的�
 | Format          | Microsoft Word Document                               |
 | Size            | 61952 bytes                           |
 | MD5             | c764073682fb12f774a2a109a26c2190                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

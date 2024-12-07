@@ -20,7 +20,7 @@ TXT 下载: [[变装]_小曦的日常小故事之前列腺风波之一肉色丝�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | b9af3df4f2f4e5f48a53731c43ee16c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

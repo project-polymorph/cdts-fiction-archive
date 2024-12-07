@@ -20,7 +20,7 @@ TXT 下载: [[其他]_薰风幻想外传【_第二章_】.docx]([其他]_薰风�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25532 bytes                           |
 | MD5             | eb7540398ed99c8be0c2661fca27f88d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

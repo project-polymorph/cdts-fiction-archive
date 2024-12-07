@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一夜(在皮物的基础上稍微尝试了下变装和交
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29092 bytes                           |
 | MD5             | 62c8dcd55a617a93644e1c2ea41aaf1f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星云_第十二章.docx]([皮物]_星云_第十二章.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17960 bytes                           |
 | MD5             | 4c5b8c5abc8c07b34d3782960136e511                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

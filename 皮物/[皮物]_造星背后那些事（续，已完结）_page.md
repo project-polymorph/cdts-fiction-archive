@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_造星背后那些事（续，已完结）.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23067 bytes                           |
 | MD5             | 534e9c39b0314c9498915c834416cbc1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

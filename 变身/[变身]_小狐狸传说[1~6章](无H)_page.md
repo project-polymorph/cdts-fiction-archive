@@ -20,7 +20,7 @@ TXT 下载: [[变身]_小狐狸传说[1~6章](无H).docx]([变身]_小狐狸传�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 94647 bytes                           |
 | MD5             | d9fc6e28526c73ea51d90a67b9698c5a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 亚兹拉尔(Azrael)                               |
 | Region          | 未知                               |

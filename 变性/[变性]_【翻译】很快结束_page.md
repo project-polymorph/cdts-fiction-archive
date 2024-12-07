@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】很快结束.doc]([变性]_【翻译】很快�
 | Format          | Microsoft Word Document                               |
 | Size            | 62976 bytes                           |
 | MD5             | 5224eaeb0bcf1b36bed292d75dee1496                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | veggiechips（翻译：魔之天涯）                               |
 | Region          | 未知                               |

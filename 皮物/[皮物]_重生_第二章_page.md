@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_重生_第二章.docx]([皮物]_重生_第二章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39987 bytes                           |
 | MD5             | cdfe7889b65927a1822584c821816bbc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

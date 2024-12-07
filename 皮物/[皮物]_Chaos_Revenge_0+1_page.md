@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Chaos_Revenge_0+1.docx]([皮物]_Chaos_Revenge_0+1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27410 bytes                           |
 | MD5             | 5a2ea73a5a59c2fc64c1b58ebc3a2ac9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | FP                               |
 | Region          | 未知                               |

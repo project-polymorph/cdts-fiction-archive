@@ -20,7 +20,7 @@ TXT 下载: [[变身]_错位的夫妻（扶她X变身）第三章_（非重复�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 9dcb6d0058db03dda32b1621a1e68bb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

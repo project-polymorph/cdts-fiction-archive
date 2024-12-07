@@ -20,7 +20,7 @@ TXT 下载: [[附身]_变质的友情.doc]([附身]_变质的友情.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 3af28ee4c22a85c803f4586c766cca6e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

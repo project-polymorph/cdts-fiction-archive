@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_AI信仰.doc]([催眠]_AI信仰.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | e3f8ace9309a7f570a26582f74a386e1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

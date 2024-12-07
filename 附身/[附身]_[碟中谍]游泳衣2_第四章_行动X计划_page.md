@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_第四章_行动X计划.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | c97cb991212ef256df732cdf8f25dd44                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

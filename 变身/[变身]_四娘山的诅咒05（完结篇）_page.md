@@ -20,7 +20,7 @@ TXT 下载: [[变身]_四娘山的诅咒05（完结篇）.doc]([变身]_四娘�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 7ac5f5d449d6a8e1bfe89a7402a68413                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

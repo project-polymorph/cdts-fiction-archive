@@ -7,7 +7,7 @@ TXT 下载: [[附身]碧池攻略.doc]([附身]碧池攻略.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《[附身]碧池攻略》是一部以异世界为背景的变身与冒险题材小说，讲述了主人公在一个充满灵气的星球上经历的冒险与挑战。故事开篇介绍了这个新星球的环境和人类的适应过程，描述了学校的教育体系以及年轻学生们面对魔兽的模拟试炼。在试炼过程中，主人公与同伴们面临了多种冒险，特别是与魔兽的遭遇，让人紧张不已。随着情节的发展，逐渐展现出角色们的人际关系、心理斗争和危险的选择，以及面对生死时刻的困境。通过生动的场景和细腻的人物描写，强调了青春的残酷与成长的艰辛。文件中包含了对魔兽的详细描绘和战斗过程，带有一定的奇幻色彩，反映出角色在生死边缘的挣扎和自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]碧池攻略.doc]([附身]碧池攻略.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 296960 bytes                           |
 | MD5             | 003b6d02d4d97cab841df679a052835f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 异世界, 冒险, 魔兽, 成长, 心理斗争, 学校生活, 勇气, 生死, 友情, 战斗, 逃避, 生存, 人际关系, 角色发展, 灵气                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

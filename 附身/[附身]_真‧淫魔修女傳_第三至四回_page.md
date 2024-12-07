@@ -20,7 +20,7 @@ TXT 下载: [[附身]_真‧淫魔修女傳_第三至四回.docx]([附身]_真�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49007 bytes                           |
 | MD5             | 40b02a5a94704d75d005708d21fff742                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

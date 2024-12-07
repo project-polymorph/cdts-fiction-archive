@@ -20,7 +20,7 @@ TXT 下载: [[附身]_不可思議研究會(二).doc]([附身]_不可思議研�
 | Format          | Microsoft Word Document                               |
 | Size            | 61952 bytes                           |
 | MD5             | 0c782ffe916bb2e41fdd061f89b890be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

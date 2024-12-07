@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(拾柒)_房间内的课业温习.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27205 bytes                           |
 | MD5             | fc5475a70fff21272f0f3bdcd4cba3d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

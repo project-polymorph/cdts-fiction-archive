@@ -20,7 +20,7 @@ TXT 下载: [[附身]_DN第三研究所（9-10）.docx]([附身]_DN第三研究�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33267 bytes                           |
 | MD5             | 4de9cccd0d08ad38088dc2935d512381                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

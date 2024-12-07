@@ -20,7 +20,7 @@ TXT 下载: [[交换]_恋爱随意链接（申码文搬运）.docx]([交换]_恋
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37343 bytes                           |
 | MD5             | d9d09c2d7dda4c84707f6cd294fc1033                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

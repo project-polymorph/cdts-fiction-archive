@@ -20,7 +20,7 @@ TXT 下载: [[附身]_移魂摄魄(第四章).doc]([附身]_移魂摄魄(第四�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 5fdc87006ed776f005433c5e46603429                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

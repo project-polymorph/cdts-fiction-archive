@@ -20,7 +20,7 @@ TXT 下载: [[附身]_错魂体_第五篇_错体惊魂.docx]([附身]_错魂体_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30171 bytes                           |
 | MD5             | ba2c0ec0b374d793de0e80c0c2dd59fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_神选者——5_[.docx]([其他]_神选者——5_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20378 bytes                           |
 | MD5             | 064968fa2cf52427555ed86d0341d28c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

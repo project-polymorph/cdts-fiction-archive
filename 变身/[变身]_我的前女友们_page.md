@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我的前女友们.docx]([变身]_我的前女友们.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29115 bytes                           |
 | MD5             | a7627585c7d7cc9a81a969fba295fbe8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 龙中哀伤                               |
 | Region          | 未知                               |

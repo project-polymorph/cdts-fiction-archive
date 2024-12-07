@@ -20,7 +20,7 @@ TXT 下载: [[变性]_被变成“女孩子”的男孩子.doc]([变性]_被变�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 681bd2646ef82dd4b7a6959a3a945fc3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 移管                               |
 | Region          | 未知                               |

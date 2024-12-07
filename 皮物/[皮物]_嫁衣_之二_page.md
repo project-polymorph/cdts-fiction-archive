@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_嫁衣_之二.docx]([皮物]_嫁衣_之二.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29931 bytes                           |
 | MD5             | 9159be8247c6912b8ea57ff67d1beb21                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

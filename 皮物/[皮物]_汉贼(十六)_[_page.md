@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_汉贼(十六)_[.docx]([皮物]_汉贼(十六)_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24701 bytes                           |
 | MD5             | 444ff62f72d1c67959eb31b5d9d49913                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

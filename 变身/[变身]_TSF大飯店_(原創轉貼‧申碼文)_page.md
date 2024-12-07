@@ -20,7 +20,7 @@ TXT 下载: [[变身]_TSF大飯店_(原創轉貼‧申碼文).doc]([变身]_TSF�
 | Format          | Microsoft Word Document                               |
 | Size            | 104960 bytes                           |
 | MD5             | c1246d765276c5b42e6f82c9ad422b66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

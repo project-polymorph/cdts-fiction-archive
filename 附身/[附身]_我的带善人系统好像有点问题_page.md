@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我的带善人系统好像有点问题.docx]([附身]_我
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23762 bytes                           |
 | MD5             | 10d8a5f70a47dc1473e82efe480d8525                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

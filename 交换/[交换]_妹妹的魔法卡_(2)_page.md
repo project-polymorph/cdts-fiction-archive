@@ -20,7 +20,7 @@ TXT 下载: [[交换]_妹妹的魔法卡_(2).docx]([交换]_妹妹的魔法卡_(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28290 bytes                           |
 | MD5             | 9a78cd353ae8670c44b60545c7f89fd1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

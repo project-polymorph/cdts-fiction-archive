@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_幽冥幻见录（上）.doc]([皮物]_幽冥幻见录（�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | c9ae45242e79470a8381a305c06086eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

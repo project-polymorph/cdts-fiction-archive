@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_性轉奴隸.doc]([催眠]_性轉奴隸.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 2855f137d3d9087542f37fafcd51f86b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 亜豆魔茶                               |
 | Region          | 未知                               |

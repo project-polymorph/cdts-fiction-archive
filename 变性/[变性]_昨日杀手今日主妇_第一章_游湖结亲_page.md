@@ -20,7 +20,7 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第一章_游湖结亲.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | e16d8a84bfb57d4701c01cf1c3b9686d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_SRU__Winning_the_Pot_法術反斗城_賭注.docx]([改造]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44137 bytes                           |
 | MD5             | 50ec6fb82ad8c7206615ed1a70c57ad2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Morpheus                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_永久性M[回帖更新]_(2).docx]([改造]_永久性M[回
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17112 bytes                           |
 | MD5             | d29e6506f7861ebffd66010da185f03c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

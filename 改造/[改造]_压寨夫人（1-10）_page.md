@@ -20,7 +20,7 @@ TXT 下载: [[改造]_压寨夫人（1-10）.doc]([改造]_压寨夫人（1-10�
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 512ba4b48e0327e51127e370474335fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

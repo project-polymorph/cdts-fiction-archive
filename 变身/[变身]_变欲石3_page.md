@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变欲石3.doc]([变身]_变欲石3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | f443b344e7d9b11a438d944ad974a65d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

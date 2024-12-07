@@ -20,7 +20,7 @@ TXT 下载: [[交换]_所以你想成为你的妈妈【完结】.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38423 bytes                           |
 | MD5             | d61e73cf1bd687dc71c9ce056e87a318                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

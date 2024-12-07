@@ -20,7 +20,7 @@ TXT 下载: [[改造]_万事通六.doc]([改造]_万事通六.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | 91662ebb6f6bd3f03b52712a68a1dae2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

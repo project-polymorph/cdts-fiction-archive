@@ -20,7 +20,7 @@ TXT 下载: [[交换]_巧遇淫贼.docx]([交换]_巧遇淫贼.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24425 bytes                           |
 | MD5             | 255b3c62fb8643ebd547dbcc06ec40bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

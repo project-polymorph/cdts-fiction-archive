@@ -20,7 +20,7 @@ TXT 下载: [[交换]_妻子的猜忌.doc]([交换]_妻子的猜忌.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | d79cb370a60124df5e227e12708e96a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

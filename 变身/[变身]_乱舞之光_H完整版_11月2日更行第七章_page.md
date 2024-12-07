@@ -20,7 +20,7 @@ TXT 下载: [[变身]_乱舞之光_H完整版_11月2日更行第七章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36833 bytes                           |
 | MD5             | 25abfefeb4de69d511ebd6abaa8191b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lanlee                               |
 | Region          | 中国大陆                               |

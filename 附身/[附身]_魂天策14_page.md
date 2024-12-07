@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂天策14.docx]([附身]_魂天策14.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18817 bytes                           |
 | MD5             | d90ff8f9e5adb41bfdf62ead15aa5482                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

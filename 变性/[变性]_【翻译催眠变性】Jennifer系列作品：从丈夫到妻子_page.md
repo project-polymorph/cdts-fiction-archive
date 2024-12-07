@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译催眠变性】Jennifer系列作品：从丈夫�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 4fd475a6b82c7faa6d21e09798aa1279                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

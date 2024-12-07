@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【乐园计划】第八~十章.docx]([交换]_【乐园�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32389 bytes                           |
 | MD5             | 1b8943d5c9e7a26370cff93c2db140ab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

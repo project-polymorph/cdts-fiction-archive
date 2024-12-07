@@ -20,7 +20,7 @@ TXT 下载: [[附身]_転身——运动少女水谷美紀（2合一加长篇）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25795 bytes                           |
 | MD5             | 5e42090e887876ca97bc6d87a3956efd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

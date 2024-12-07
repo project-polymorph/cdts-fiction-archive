@@ -20,7 +20,7 @@ TXT 下载: [[其他]_S道人的作文小课堂~.doc]([其他]_S道人的作文�
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | a349c779f52b49d460e7797623c64c90                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | S道人                               |
 | Region          | 中国大陆                               |

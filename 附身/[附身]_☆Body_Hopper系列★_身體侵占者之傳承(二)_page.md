@@ -20,7 +20,7 @@ TXT 下载: [[附身]_☆Body_Hopper系列★_身體侵占者之傳承(二).docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31481 bytes                           |
 | MD5             | 5f95f5c7c45757189c87134f6b54291b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

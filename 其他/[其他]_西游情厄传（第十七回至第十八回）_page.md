@@ -20,7 +20,7 @@ TXT 下载: [[其他]_西游情厄传（第十七回至第十八回）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30096 bytes                           |
 | MD5             | 9d642ae296ecfb00720e6c32e6b2a94d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

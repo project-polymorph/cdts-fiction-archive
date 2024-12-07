@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_端午贺礼——粽子.docx]([皮物]_端午贺礼——
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21372 bytes                           |
 | MD5             | f49757cb9e3873e6992479c6f5b26294                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_损友的奇葩超能力（四）.docx]([变身]_损友的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18365 bytes                           |
 | MD5             | 9129ef4aedff21aae36d28a5ba987fbe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_绑架事件的结局（上）.doc]([变装]_绑架事件�
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 8a54cd6132bfa526d1d89942d75fd117                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | K C                               |
 | Region          | 未知                               |

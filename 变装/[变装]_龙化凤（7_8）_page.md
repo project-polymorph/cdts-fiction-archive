@@ -20,7 +20,7 @@ TXT 下载: [[变装]_龙化凤（7_8）.docx]([变装]_龙化凤（7_8）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20119 bytes                           |
 | MD5             | 13e319dc48841466b6c66a2fdc23a7bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

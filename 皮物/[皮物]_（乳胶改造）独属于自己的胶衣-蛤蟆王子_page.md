@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（乳胶改造）独属于自己的胶衣-蛤蟆王子.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23661 bytes                           |
 | MD5             | 2f788947459db42e3915c328e470fb9d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 蛤蟆王子                               |
 | Region          | 中国大陆                               |

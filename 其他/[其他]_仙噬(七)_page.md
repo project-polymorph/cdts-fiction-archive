@@ -24,7 +24,7 @@ TXT 下载: [[其他]_仙噬(七).docx]([其他]_仙噬(七).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21489 bytes                           |
 | MD5             | cdbef4f8d231e776bd05e2d1dce9a0b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

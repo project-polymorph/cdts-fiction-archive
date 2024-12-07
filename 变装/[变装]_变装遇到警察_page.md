@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装遇到警察.doc]([变装]_变装遇到警察.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 61952 bytes                           |
 | MD5             | f071745fee117d42ca3b2d5031ac2bb8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_一个女装大佬的故事2.doc]([变装]_一个女装大
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | cbab4db50e5cd4bf5e06d516c1fef4b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

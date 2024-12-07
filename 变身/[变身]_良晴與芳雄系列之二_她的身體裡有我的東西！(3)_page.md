@@ -20,7 +20,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之二_她的身體裡有我的東西
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | b2c43b0787cc9c8761beacba3e2d6224                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

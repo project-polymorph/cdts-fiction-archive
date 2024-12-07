@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_荆棘鸟村迎兔年.docx]([皮物]_荆棘鸟村迎兔年
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15926 bytes                           |
 | MD5             | a8be93f3f8a54314e2d54accf0bb5ecb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

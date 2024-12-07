@@ -20,7 +20,7 @@ TXT 下载: [[附身]_能力变异药剂_17_金色的夏日协奏曲.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19475 bytes                           |
 | MD5             | 836f89934301fe87956d7ca17571f5c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

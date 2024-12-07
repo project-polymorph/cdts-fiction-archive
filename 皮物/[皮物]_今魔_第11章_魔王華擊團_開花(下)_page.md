@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_今魔_第11章_魔王華擊團_開花(下).docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38938 bytes                           |
 | MD5             | bc7befc16f7c11f5d0b9e97dd2394897                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

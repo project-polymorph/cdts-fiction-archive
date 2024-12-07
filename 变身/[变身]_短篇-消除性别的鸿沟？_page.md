@@ -20,7 +20,7 @@ TXT 下载: [[变身]_短篇-消除性别的鸿沟？.docx]([变身]_短篇-消�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18649 bytes                           |
 | MD5             | b62e21a06b91b20c8155ff8f0ef6bee7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Roy Del Frink / 翻译：QWERASDW                               |
 | Region          | 未知                               |

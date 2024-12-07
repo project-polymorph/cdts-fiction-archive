@@ -24,7 +24,7 @@ TXT 下载: [[变性]_让美国重新美丽.doc]([变性]_让美国重新美丽.
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | 596f716e0756a17d3562616dbbe307bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

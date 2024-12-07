@@ -20,7 +20,7 @@ TXT 下载: [[改造]_塚鬼袶_第十三回、浴火鳳凰，生死涅槃之殤
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31241 bytes                           |
 | MD5             | 5ca8b674f2c4ecaea312ed1b21bcf598                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

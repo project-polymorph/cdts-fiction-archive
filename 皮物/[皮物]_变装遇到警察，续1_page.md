@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变装遇到警察，续1.doc]([皮物]_变装遇到警察
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 7f57bac4a5e0f154d4041db4bf278414                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

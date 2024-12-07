@@ -24,7 +24,7 @@ TXT 下载: [[其他]_从兄弟的女友开始1~4.docx]([其他]_从兄弟的女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27252 bytes                           |
 | MD5             | 143378007e6fe10a609f8ecf84168c7b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

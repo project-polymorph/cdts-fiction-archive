@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无奈的我_正文完结篇.doc]([附身]_无奈的我_�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | eef77d2a406d2c3dab52e4072e7eada6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

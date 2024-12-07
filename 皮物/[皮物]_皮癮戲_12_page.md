@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮癮戲_12.docx]([皮物]_皮癮戲_12.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29605 bytes                           |
 | MD5             | 36cb1b0cf9de3185ebbdc0ca57b2ae0a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

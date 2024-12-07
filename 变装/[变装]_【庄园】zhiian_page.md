@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【庄园】zhiian.doc]([变装]_【庄园】zhiian.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | beb26316aedd6e2a097f4f12c20b631a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

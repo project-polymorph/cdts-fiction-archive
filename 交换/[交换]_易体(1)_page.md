@@ -20,7 +20,7 @@ TXT 下载: [[交换]_易体(1).doc]([交换]_易体(1).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 66569b66b240ce18363ee71b0d48d4af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

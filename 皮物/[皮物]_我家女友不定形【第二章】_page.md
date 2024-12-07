@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我家女友不定形【第二章】.doc]([皮物]_我家�
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | 04e3095619f1ecdbadf01158f8e230c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

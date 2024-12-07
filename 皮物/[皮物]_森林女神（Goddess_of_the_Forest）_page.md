@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_森林女神（Goddess_of_the_Forest）.doc]([皮物]_森�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 37b38ce681a17b00d2d903a8c16981ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Megazone23                               |
 | Region          | 未知                               |

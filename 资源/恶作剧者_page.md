@@ -20,7 +20,7 @@ TXT 下载: [恶作剧者.doc](恶作剧者.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 117248 bytes                           |
 | MD5             | cf1a902dfc2a5ad3ed3c0518f9a52b39                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TGFictionStv，译者：魔之天涯                               |
 | Region          | 未知                               |

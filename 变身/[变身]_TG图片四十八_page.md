@@ -20,7 +20,7 @@ TXT 下载: [[变身]_TG图片四十八.doc]([变身]_TG图片四十八.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 48a853669629560f719e767d6571cc8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

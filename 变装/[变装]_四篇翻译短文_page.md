@@ -20,7 +20,7 @@ TXT 下载: [[变装]_四篇翻译短文.doc]([变装]_四篇翻译短文.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | d2838413c05edd46def0a6ecf3bfd8ad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | unknown                               |
 | Region          | 未知                               |

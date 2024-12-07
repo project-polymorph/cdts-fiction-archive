@@ -20,7 +20,7 @@ TXT 下载: [回家路上——挚友相聚（5-6）.doc](回家路上——挚�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 6227bff96628f4f37a7c8e59f77bd58c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

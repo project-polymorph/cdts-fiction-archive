@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_九尾刃第八章.docx]([皮物]_九尾刃第八章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21586 bytes                           |
 | MD5             | 5973780189e7a2f634c55f9f316ca162                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

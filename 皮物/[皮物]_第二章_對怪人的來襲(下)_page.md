@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_第二章_對怪人的來襲(下).docx]([皮物]_第二章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21394 bytes                           |
 | MD5             | 13604b3d845ddbd9bf1c514a727d6ed5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

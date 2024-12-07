@@ -20,7 +20,7 @@ TXT 下载: [[变身]_化けの皮(幽体之蔽)_第三章-第五章.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | c186138d381ef3275270f463dc7c6bf8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 岚山ＧＯ                               |
 | Region          | 未知                               |

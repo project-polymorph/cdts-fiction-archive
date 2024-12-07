@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_欺诈行为2.doc]([皮物]_欺诈行为2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | d94ce25e91d69fff76e6bbd150f31d85                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

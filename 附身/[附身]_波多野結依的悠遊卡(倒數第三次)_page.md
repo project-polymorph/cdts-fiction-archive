@@ -20,7 +20,7 @@ TXT 下载: [[附身]_波多野結依的悠遊卡(倒數第三次).doc]([附身]
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | 12e67a7ecbd15d84e184d35848bb2a2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

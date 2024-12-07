@@ -20,7 +20,7 @@ TXT 下载: [[其他]_。名窟庵。_(短篇).doc]([其他]_。名窟庵。_(�
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | b4ffc42e864abf9b24a1401a2e0c5160                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

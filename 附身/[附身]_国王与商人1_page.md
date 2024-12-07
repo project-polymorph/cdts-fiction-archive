@@ -20,7 +20,7 @@ TXT 下载: [[附身]_国王与商人1.docx]([附身]_国王与商人1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50710 bytes                           |
 | MD5             | f4fdcafcfce8dd927de8958df780882e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_入替之刃.docx]([皮物]_入替之刃.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 122557 bytes                           |
 | MD5             | 7a1098c20ba8196721713daff768b098                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

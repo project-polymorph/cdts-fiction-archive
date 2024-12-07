@@ -20,7 +20,7 @@ TXT 下载: [[交换]_薰风幻想_【_第八章：堕落_】_[.docx]([交换]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33201 bytes                           |
 | MD5             | 3cfe4cfba2225802253f4630d4ff7946                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

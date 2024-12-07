@@ -20,7 +20,7 @@ TXT 下载: [暗月杀机之肆虐.doc](暗月杀机之肆虐.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 53615e97cfb92eb63f8370c8007332f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

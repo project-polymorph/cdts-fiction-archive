@@ -20,7 +20,7 @@ TXT 下载: [[变性]_向命运妥协（下）.docx]([变性]_向命运妥协（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46392 bytes                           |
 | MD5             | 935f0e2a256cc1aa53987ff2362a38f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

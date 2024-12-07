@@ -20,7 +20,7 @@ TXT 下载: [[变性]_意外的结果_第三章_抓住了.docx]([变性]_意外�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20886 bytes                           |
 | MD5             | 6067d560b622e07c33912602a4df69e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

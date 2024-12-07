@@ -20,7 +20,7 @@ TXT 下载: [[其他]_恶魔之泪_2_过渡.docx]([其他]_恶魔之泪_2_过渡
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16862 bytes                           |
 | MD5             | e03d8cf607d41576ea86d983c0e61fdb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

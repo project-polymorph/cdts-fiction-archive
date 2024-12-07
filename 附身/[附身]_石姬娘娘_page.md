@@ -20,7 +20,7 @@ TXT 下载: [[附身]_石姬娘娘.docx]([附身]_石姬娘娘.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53067 bytes                           |
 | MD5             | c742182537240f14baabb35eafe62fd5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

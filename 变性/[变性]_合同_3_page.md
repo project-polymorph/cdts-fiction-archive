@@ -20,7 +20,7 @@ TXT 下载: [[变性]_合同_3.docx]([变性]_合同_3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39664 bytes                           |
 | MD5             | 1a61281aa9d24f2f485121e4522b8cfe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cheryl8 K1 F& P, J6 ]# @. j / 翻译：lisa; F" S! K( X* L                               |
 | Region          | 未知                               |

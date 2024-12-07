@@ -20,7 +20,7 @@ TXT 下载: [[交换]全都是我的.doc]([交换]全都是我的.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 131584 bytes                           |
 | MD5             | 06a63c81f5b2b6011684ea1f665c7f62                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TS喜欢者                               |
 | Region          | 日本                               |

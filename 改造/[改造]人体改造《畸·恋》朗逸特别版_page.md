@@ -20,7 +20,7 @@ TXT 下载: [[改造]人体改造《畸·恋》朗逸特别版.doc]([改造]人�
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | eb27b3b4388016a075088f4a8ad7e2e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_大富翁.doc]([交换]_大富翁.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 601c42b5f3343652059508bebff69871                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

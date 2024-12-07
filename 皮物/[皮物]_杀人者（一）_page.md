@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_杀人者（一）.docx]([皮物]_杀人者（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22622 bytes                           |
 | MD5             | 6d0cbb6e711ab20d86c6193d93b3dd44                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

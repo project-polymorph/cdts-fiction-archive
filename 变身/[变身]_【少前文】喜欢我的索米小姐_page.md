@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【少前文】喜欢我的索米小姐.doc]([变身]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | a858a95be4ae458d7d1b211e4b07bfb0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

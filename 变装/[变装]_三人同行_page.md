@@ -20,7 +20,7 @@ TXT 下载: [[变装]_三人同行.doc]([变装]_三人同行.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | c510a0cd47c9cfe0d9601cb1d4b1efb6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Leeanna197, 露娜·埃葵斯                               |
 | Region          | 未知                               |

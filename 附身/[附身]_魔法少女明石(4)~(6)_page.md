@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔法少女明石(4)~(6).docx]([附身]_魔法少女明�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的小说《魔法少女明石(4)~(6)》的部分章节，描绘了主角明石夏美在学校的生活，她突然进入了一个附身状态，想要了解魔法少女的秘密。故事开头，夏美在课堂上困倦，回想起早上乘电车时遭受性骚扰的经历，感到羞愧和无助。随着情节的发展，叙述者也在她的身体内，试图利用夏美的思维来获取更多关于魔法少女的信息。文本涉及到性别认同和性的思考，展示了角色面对自我欲望的挣扎和探索。文件内容包含许多关于性侵、欲望与性别认同的情节，探讨了心理状态与生理行为之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔法少女明石(4)~(6).docx]([附身]_魔法少女明�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49650 bytes                           |
 | MD5             | 2163206826c6bbb91437641c76f16adf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 性转, 附身, 性骚扰, 自我认知, 心理冲突, 青春期困惑, 欲望探索, 性别认同, 文化评论, TSF, 校园生活, 女同, 自我反思, 心理操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

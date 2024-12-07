@@ -20,7 +20,7 @@ TXT 下载: [[附身]_尘释录_[破镜篇]_1-2章.docx]([附身]_尘释录_[破
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25490 bytes                           |
 | MD5             | 96a840411d8676fd1f837170fe3a81e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 白雨萱                               |
 | Region          | 中国大陆                               |

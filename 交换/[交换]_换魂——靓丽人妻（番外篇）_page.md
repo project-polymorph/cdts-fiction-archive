@@ -20,7 +20,7 @@ TXT 下载: [[交换]_换魂——靓丽人妻（番外篇）.doc]([交换]_换�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | a088112f24669a72207498ce731f4242                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

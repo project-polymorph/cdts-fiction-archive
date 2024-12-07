@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_表弟滴女友.doc]([皮物]_表弟滴女友.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 7061654bdbe08d667b019277a5a4ec50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

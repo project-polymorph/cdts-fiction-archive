@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_皮癮戲【貳】_01.doc]([皮物]_皮癮戲【貳】_01.
 | Format          | Microsoft Word Document                               |
 | Size            | 107008 bytes                           |
 | MD5             | d554eaca77e17ea6eaae2c19eca7ab0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | FDisguise                               |
 | Region          | 未知                               |

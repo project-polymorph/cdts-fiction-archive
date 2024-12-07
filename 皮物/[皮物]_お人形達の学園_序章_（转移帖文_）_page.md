@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_お人形達の学園_序章_（转移帖文_）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21423 bytes                           |
 | MD5             | 74c24e04a6f3e838fb7b47fbe2d2d0da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

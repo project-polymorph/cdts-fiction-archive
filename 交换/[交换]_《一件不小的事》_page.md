@@ -20,7 +20,7 @@ TXT 下载: [[交换]_《一件不小的事》.doc]([交换]_《一件不小的�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 459a024adde1b90cc4fe92e3b2134ae6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

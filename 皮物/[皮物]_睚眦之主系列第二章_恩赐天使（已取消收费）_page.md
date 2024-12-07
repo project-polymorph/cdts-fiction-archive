@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_睚眦之主系列第二章_恩赐天使（已取消收费
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46305 bytes                           |
 | MD5             | d8be87c82ce08658d2fa371d757056dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

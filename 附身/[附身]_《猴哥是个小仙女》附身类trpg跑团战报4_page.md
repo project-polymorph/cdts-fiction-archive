@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《猴哥是个小仙女》附身类trpg跑团战报4.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35676 bytes                           |
 | MD5             | ad82ac03c4bbad547eb39e43f508d411                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_为美好的世界献上身体(5).docx]([附身]_为美好
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29602 bytes                           |
 | MD5             | eb98abea28e56c9a321bc76760418442                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

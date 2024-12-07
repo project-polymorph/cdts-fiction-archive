@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_赏金猎人尤丽安1_[.docx]([皮物]_赏金猎人尤丽
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16499 bytes                           |
 | MD5             | 9e826813e92aa2776d246777f9b36bd6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

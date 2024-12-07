@@ -20,7 +20,7 @@ TXT 下载: [[交换]_道殇(12).docx]([交换]_道殇(12).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41621 bytes                           |
 | MD5             | 6a6342a344267f4e804b15ad4dd2001e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]原创文字鹰枭乱之极致改造.doc]([改造]原创文
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 42d37106e5135f1d498b5e9fe9dfc760                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | james会得瑟                               |
 | Region          | 未知                               |

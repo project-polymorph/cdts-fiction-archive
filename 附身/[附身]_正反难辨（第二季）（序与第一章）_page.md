@@ -20,7 +20,7 @@ TXT 下载: [[附身]_正反难辨（第二季）（序与第一章）.doc]([附
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 783b9fdf0102d063b41b053f5f7366e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

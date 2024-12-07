@@ -20,7 +20,7 @@ TXT 下载: [被夺走的人生.docx](被夺走的人生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 161153 bytes                           |
 | MD5             | b3a6f405504669ae89b40c394eec2bb8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

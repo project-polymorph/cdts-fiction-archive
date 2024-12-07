@@ -20,7 +20,7 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第二章.docx]([交换]_胧月
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40561 bytes                           |
 | MD5             | e671638259f3b73410d7f94cfdd96d19                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

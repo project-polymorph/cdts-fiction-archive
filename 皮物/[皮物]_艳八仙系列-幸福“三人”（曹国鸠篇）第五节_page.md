@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_艳八仙系列-幸福“三人”（曹国鸠篇）第五
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20182 bytes                           |
 | MD5             | 33a1ec436cc292cfbe7c586a29f69978                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | znznzn1984                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_《同桌在随处施展神迹：其三（上篇＋下篇�
 | Format          | Microsoft Word Document                               |
 | Size            | 76800 bytes                           |
 | MD5             | 0c24f8f2cd767f290df7f831057847c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

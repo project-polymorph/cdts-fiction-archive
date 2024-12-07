@@ -20,7 +20,7 @@ TXT 下载: [[改造]_A_Life_of_Wishes_願望人生.docx]([改造]_A_Life_of_Wis
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19782 bytes                           |
 | MD5             | 1cead4d86c64c23fe72ee33c5da8b259                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TG_Inferno                               |
 | Region          | 未知                               |

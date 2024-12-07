@@ -20,7 +20,7 @@ TXT 下载: [[其他]_小片段（1）_[.docx]([其他]_小片段（1）_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17940 bytes                           |
 | MD5             | a571eb3e3d6da43e4431dd8f170124be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

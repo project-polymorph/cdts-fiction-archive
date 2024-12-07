@@ -20,7 +20,7 @@ TXT 下载: [[交换]_攻略地牢时的陷阱（上篇）.doc]([交换]_攻略�
 | Format          | Microsoft Word Document                               |
 | Size            | 79872 bytes                           |
 | MD5             | a931719099fc9b8dafc09e36399bd47c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

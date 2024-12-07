@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】五、山河药铺.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | b778184285b1bad5740a2a93345c75c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

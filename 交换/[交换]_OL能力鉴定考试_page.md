@@ -20,7 +20,7 @@ TXT 下载: [[交换]_OL能力鉴定考试.docx]([交换]_OL能力鉴定考试.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24583 bytes                           |
 | MD5             | a29805d35436fd10456126c7943f1fdf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 野村岳史                               |
 | Region          | 未知                               |

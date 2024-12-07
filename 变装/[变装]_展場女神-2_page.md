@@ -20,7 +20,7 @@ TXT 下载: [[变装]_展場女神-2.docx]([变装]_展場女神-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22202 bytes                           |
 | MD5             | e1cbc698ad17566b4d7ce32b1b42b5ad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[申码文重发]魅魔的欲望（初次修订）.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29397 bytes                           |
 | MD5             | d7cb2cf7d42116454856ee0f32ad0814                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kinozaki                               |
 | Region          | 未知                               |

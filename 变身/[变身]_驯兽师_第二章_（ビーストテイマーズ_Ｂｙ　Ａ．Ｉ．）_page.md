@@ -20,7 +20,7 @@ TXT 下载: [[变身]_驯兽师_第二章_（ビーストテイマーズ_Ｂｙ�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22549 bytes                           |
 | MD5             | a1881c0994fe98c53ce286c86cc2888a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

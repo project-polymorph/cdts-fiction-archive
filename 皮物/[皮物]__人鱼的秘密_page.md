@@ -20,7 +20,7 @@ TXT 下载: [[皮物]__人鱼的秘密.doc]([皮物]__人鱼的秘密.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 30936e3b5ab9d99e5a2ef21db91bab71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 灯台守                               |
 | Region          | 未知                               |

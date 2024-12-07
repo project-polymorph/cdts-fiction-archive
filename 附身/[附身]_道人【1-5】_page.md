@@ -20,7 +20,7 @@ TXT 下载: [[附身]_道人【1-5】.docx]([附身]_道人【1-5】.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62753 bytes                           |
 | MD5             | 7468f3c2ba78758fff6500e7f82293fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

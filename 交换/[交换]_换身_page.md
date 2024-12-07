@@ -20,7 +20,7 @@ TXT 下载: [[交换]_换身.doc]([交换]_换身.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68608 bytes                           |
 | MD5             | e6a9c5e7d1e657e46747521d1e0f83b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

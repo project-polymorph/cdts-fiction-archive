@@ -20,7 +20,7 @@ TXT 下载: [[变身]_元旦當天的禮物!!開苞的驚喜.docx]([变身]_元�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25547 bytes                           |
 | MD5             | 29bdb3a0d81bcc47dd650b176eb4ae81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kigurumi“少女”的纯爱叙事诗_第五章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48169 bytes                           |
 | MD5             | ab5501f9959e88b6b6b2805736024efd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

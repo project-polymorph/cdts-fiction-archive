@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_转瞬双生-Transient_Two_Souls.docx]([皮物]_转瞬双�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42910 bytes                           |
 | MD5             | 5309bace3eff93975f42025b0e9cc4d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

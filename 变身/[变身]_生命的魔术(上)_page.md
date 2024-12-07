@@ -20,7 +20,7 @@ TXT 下载: [[变身]_生命的魔术(上).doc]([变身]_生命的魔术(上).do
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | e352ab7022edc49fb9827f3e9d0befe9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_涵涵的校园生活（II）完结.doc]([附身]_涵涵�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 5ee47dafd1a9c4b072da8224a837ef9b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

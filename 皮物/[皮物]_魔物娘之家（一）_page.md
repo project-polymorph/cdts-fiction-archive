@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_魔物娘之家（一）.doc]([皮物]_魔物娘之家（�
 | Format          | Microsoft Word Document                               |
 | Size            | 1139200 bytes                           |
 | MD5             | fbbc85d94ff0f945b584f023a3b84293                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]最佳女伴.docx]([变性]_[linchong翻�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72776 bytes                           |
 | MD5             | 3a15797eb666345fa35ab2d1b9bef689                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Pink Bra，翻译：linchong                               |
 | Region          | 未知                               |

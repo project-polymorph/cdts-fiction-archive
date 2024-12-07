@@ -20,7 +20,7 @@ TXT 下载: [[其他]_戀愛病.docx]([其他]_戀愛病.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19557 bytes                           |
 | MD5             | f4292d88fefaedcf5844d6a0ec841ce4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

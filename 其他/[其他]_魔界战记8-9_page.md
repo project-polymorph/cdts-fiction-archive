@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔界战记8-9.docx]([其他]_魔界战记8-9.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25085 bytes                           |
 | MD5             | eafdc7395751c1f6e8bc65ad7c077d4a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

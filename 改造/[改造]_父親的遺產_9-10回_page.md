@@ -20,7 +20,7 @@ TXT 下载: [[改造]_父親的遺產_9-10回.docx]([改造]_父親的遺產_9-1
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47851 bytes                           |
 | MD5             | 1db9d8a2335ff8916e18e44f453008d1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

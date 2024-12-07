@@ -20,7 +20,7 @@ TXT 下载: [[交换]_生物模具（上）.docx]([交换]_生物模具（上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45734 bytes                           |
 | MD5             | d5d9c394a17849d16136ed0976ff398b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

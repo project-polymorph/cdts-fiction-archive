@@ -20,7 +20,7 @@ TXT 下载: [[附身]_分身.docx]([附身]_分身.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22622 bytes                           |
 | MD5             | 507bd7359dbdc729e65ab4448fc10516                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

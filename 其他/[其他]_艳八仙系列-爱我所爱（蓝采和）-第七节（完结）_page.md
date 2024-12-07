@@ -22,7 +22,7 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第七节（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19016 bytes                           |
 | MD5             | f8ed7908f34396c8b5c280bef87b954b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | znznzn1984                               |
 | Region          | 未知                               |

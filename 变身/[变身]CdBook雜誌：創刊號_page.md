@@ -20,7 +20,7 @@ TXT 下载: [[变身]CdBook雜誌：創刊號.doc]([变身]CdBook雜誌：創刊
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | be032e4a451adfb73df0546a55fd0c84                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

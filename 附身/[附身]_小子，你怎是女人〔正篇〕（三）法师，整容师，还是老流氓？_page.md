@@ -20,7 +20,7 @@ TXT 下载: [[附身]_小子，你怎是女人〔正篇〕（三）法师，整�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36546 bytes                           |
 | MD5             | cc3bcbd1350ee9e4c2fb0dd980c109ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

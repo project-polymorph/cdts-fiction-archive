@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奪舍--外傳小甄篇(Ⅰ).docx]([附身]_奪舍--外傳
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17977 bytes                           |
 | MD5             | aac177a9cde282a290450a7d7a7189b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | l8311032                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【重口慎入】安娜的世界前传_II_牵绊与自由
 | Format          | Microsoft Word Document                               |
 | Size            | 80384 bytes                           |
 | MD5             | 9824c5bb38fb9e9164420bf05a6a1a03                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

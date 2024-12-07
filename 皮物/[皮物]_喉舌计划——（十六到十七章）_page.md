@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_喉舌计划——（十六到十七章）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | 3cbcf7f13188e04a625fc9c26f5ae7c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

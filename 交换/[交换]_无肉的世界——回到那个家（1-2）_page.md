@@ -20,7 +20,7 @@ TXT 下载: [[交换]_无肉的世界——回到那个家（1-2）.doc]([交换
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | b2512fe5a0a8b4c23465268bbe170145                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

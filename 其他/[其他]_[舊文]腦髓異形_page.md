@@ -20,7 +20,7 @@ TXT 下载: [[其他]_[舊文]腦髓異形.doc]([其他]_[舊文]腦髓異形.do
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | bff124521867f3a155af85212babffa9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小雅香                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [小曦的日常小故事之片场客串S01E05_第一季完毕.doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 7553ac53786f82c0fcb9ec98e588cae0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TZ99                               |
 | Region          | 中国大陆                               |

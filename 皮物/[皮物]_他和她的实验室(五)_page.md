@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_他和她的实验室(五).doc]([皮物]_他和她的实�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | ca546bdc2e4c881c88ebcc59042a1549                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_5更)有人穿越种田,有人穿越修仙,为啥我的穿
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 81161 bytes                           |
 | MD5             | 1a41681c1d97dc0da36c8734fef2a7e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

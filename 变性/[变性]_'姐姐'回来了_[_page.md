@@ -20,7 +20,7 @@ TXT 下载: [[变性]_'姐姐'回来了_[.docx]([变性]_'姐姐'回来了_[.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21103 bytes                           |
 | MD5             | 5c91890b218b770eb838738914825aaf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

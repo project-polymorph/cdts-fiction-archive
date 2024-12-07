@@ -20,7 +20,7 @@ TXT 下载: [魂不守舍.doc](魂不守舍.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 153600 bytes                           |
 | MD5             | 1068fcf584fd785ecc986c32ccbf1a8f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

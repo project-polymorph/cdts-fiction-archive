@@ -20,7 +20,7 @@ TXT 下载: [[变装]_她在对我微笑吗？【下】.doc]([变装]_她在对�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 3fa04475ac03192ebb4b80620cc6be3d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

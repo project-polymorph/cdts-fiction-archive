@@ -20,7 +20,7 @@ TXT 下载: [[变身]_Good_Morning_Dear,_Guess_what_I've_turned_you_into_today�
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | a6ff133b0a9897700b5a6b01d76e9fed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

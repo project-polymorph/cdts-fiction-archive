@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【轮回空间】第1~3章.docx]([变身]_【轮回空间
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 95427 bytes                           |
 | MD5             | 99f8ca998c1e537060a8da813546613a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

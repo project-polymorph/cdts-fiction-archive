@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我老婆的最佳女友_第2章_-_苏珊与黛安娜_第3
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31693 bytes                           |
 | MD5             | 51d41121fa5ae3aca1179217b48ee7a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

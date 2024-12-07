@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮之使徒】『修订版』.doc]([皮物]_【皮之�
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 552200b21c6ff2a24f5aca193a06236e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

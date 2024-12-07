@@ -20,7 +20,7 @@ TXT 下载: [[变装]绿色手镯4.doc]([变装]绿色手镯4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 8cbbff862250bc1617aa927c2ed7eaa0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

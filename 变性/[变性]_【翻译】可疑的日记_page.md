@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】可疑的日记.doc]([变性]_【翻译】可�
 | Format          | Microsoft Word Document                               |
 | Size            | 80384 bytes                           |
 | MD5             | d73c8abe8c2e1e29a22b2e59a1d6d77c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

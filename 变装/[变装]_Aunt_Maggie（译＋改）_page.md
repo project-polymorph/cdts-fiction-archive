@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Aunt_Maggie（译＋改）.docx]([变装]_Aunt_Maggie（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 70098 bytes                           |
 | MD5             | 8595bf85c4bb7ec0b75d4f1b62a95dd8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Pink Pumps                               |
 | Region          | 未知                               |

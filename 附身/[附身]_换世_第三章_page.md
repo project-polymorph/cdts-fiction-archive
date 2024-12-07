@@ -20,7 +20,7 @@ TXT 下载: [[附身]_换世_第三章.doc]([附身]_换世_第三章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 633a2bf1b7f71193728ef956de4a2c0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

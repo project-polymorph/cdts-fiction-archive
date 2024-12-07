@@ -20,7 +20,7 @@ TXT 下载: [[变身]_月隐-3-变形！_[.docx]([变身]_月隐-3-变形！_[.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26144 bytes                           |
 | MD5             | dbd3fd4061f84e454a2a055e65ff9317                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

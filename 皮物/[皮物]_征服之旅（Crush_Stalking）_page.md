@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_征服之旅（Crush_Stalking）.doc]([皮物]_征服之�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 755455384d2948db1d187876f6b47634                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | notwhatitsemes                               |
 | Region          | 未知                               |

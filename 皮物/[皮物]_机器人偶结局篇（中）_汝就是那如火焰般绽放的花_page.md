@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机器人偶结局篇（中）_汝就是那如火焰般绽
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22284 bytes                           |
 | MD5             | d4f5243461aaa50d26dc46ceb9c00aa4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

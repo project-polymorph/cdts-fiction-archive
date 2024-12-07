@@ -20,7 +20,7 @@ TXT 下载: [[交换]_《我还是原来的我吗？》–赵思雅篇.doc]([交
 | Format          | Microsoft Word Document                               |
 | Size            | 87040 bytes                           |
 | MD5             | 936c7de291ed96380bce638f448d2a44                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

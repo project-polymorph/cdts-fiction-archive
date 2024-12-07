@@ -20,7 +20,7 @@ TXT 下载: [[附身]_月，魔界的崛起(六)本文绝不会坑！.docx]([附
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17576 bytes                           |
 | MD5             | 211c5daa13b58d126a3f70d513094dfd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2新篇开启_第一章_劫案_(已补
 | Format          | Microsoft Word Document                               |
 | Size            | 82944 bytes                           |
 | MD5             | b486161300afa1928a7d7c104aef2258                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

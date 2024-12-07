@@ -20,7 +20,7 @@ TXT 下载: [[变装]_The_Patriot_Game_7-9.doc]([变装]_The_Patriot_Game_7-9.do
 | Format          | Microsoft Word Document                               |
 | Size            | 83456 bytes                           |
 | MD5             | 6dbf6ae2c1e9b3ab08a47d04a30c4a3f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

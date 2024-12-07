@@ -20,7 +20,7 @@ TXT 下载: [[附身]_鬼屋那些事（二）.doc]([附身]_鬼屋那些事（�
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | 1e933634bacb7a12936d9af0a9cd3006                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

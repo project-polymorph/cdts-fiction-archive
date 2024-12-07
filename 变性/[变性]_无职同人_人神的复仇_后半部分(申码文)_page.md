@@ -24,7 +24,7 @@ TXT 下载: [[变性]_无职同人_人神的复仇_后半部分(申码文).doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 77312 bytes                           |
 | MD5             | 4498adaef5a351033f1b97e023d834f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_齊人.docx]([皮物]_齊人.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27896 bytes                           |
 | MD5             | c24b7e887d7cc033a00737d3cb9954b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

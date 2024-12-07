@@ -20,7 +20,7 @@ TXT 下载: [[其他]_西游情厄传（第二十二回）.docx]([其他]_西游
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19550 bytes                           |
 | MD5             | a922521f961e8a5724c6e84c074399d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

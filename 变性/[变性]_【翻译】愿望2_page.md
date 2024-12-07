@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】愿望2.docx]([变性]_【翻译】愿望2.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29541 bytes                           |
 | MD5             | 2862b66635e71ba35800fdd1a85545e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TGFictionStv / 魔之天涯                               |
 | Region          | 未知                               |

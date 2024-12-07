@@ -20,7 +20,7 @@ TXT 下载: [[其他]_逃避者酒吧.docx]([其他]_逃避者酒吧.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28008 bytes                           |
 | MD5             | 6efe056e20017efcbd1ce7b2e03b3180                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

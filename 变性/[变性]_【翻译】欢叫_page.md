@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】欢叫.doc]([变性]_【翻译】欢叫.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 125440 bytes                           |
 | MD5             | 38579ec58f9d275322d52126954ce064                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

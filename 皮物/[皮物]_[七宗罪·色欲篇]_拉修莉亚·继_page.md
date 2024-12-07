@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[七宗罪·色欲篇]_拉修莉亚·继.docx]([皮物]_[�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33170 bytes                           |
 | MD5             | 989aafad6722294ccddf0db65caf1969                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

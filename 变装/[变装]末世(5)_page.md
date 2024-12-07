@@ -20,7 +20,7 @@ TXT 下载: [[变装]末世(5).doc]([变装]末世(5).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 258e3ab2144b9edaa919723aef4d5b54                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

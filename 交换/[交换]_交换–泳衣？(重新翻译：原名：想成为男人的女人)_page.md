@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换–泳衣？(重新翻译：原名：想成为男人
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27730 bytes                           |
 | MD5             | b0601e482c2d4761991a0a70fc7bcb3d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

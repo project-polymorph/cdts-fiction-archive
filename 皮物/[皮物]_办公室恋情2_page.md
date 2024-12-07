@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_办公室恋情2.docx]([皮物]_办公室恋情2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18291 bytes                           |
 | MD5             | dafd4a775032ab08c6517e10217c1665                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Trevor                               |
 | Region          | 未知                               |

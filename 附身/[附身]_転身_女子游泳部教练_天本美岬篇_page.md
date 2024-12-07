@@ -20,7 +20,7 @@ TXT 下载: [[附身]_転身_女子游泳部教练_天本美岬篇.docx]([附身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29643 bytes                           |
 | MD5             | 93b5cbe940d65cc1e1350fa2878eb928                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

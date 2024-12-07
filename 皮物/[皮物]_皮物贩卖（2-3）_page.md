@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_皮物贩卖（2-3）.doc]([皮物]_皮物贩卖（2-3）.
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 819162384daa72c9029ff1b69c7698da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_聖誕節的真諦已經不見啦！.doc]([变身]_聖誕�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 900ddbcf91993f7e1456ddffe0730dbf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一带一路高铁上的京剧狂想曲.doc]([皮物]_一�
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | b4e8f196a19979eedcf33fa932cf1426                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

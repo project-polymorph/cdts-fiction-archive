@@ -20,7 +20,7 @@ TXT 下载: [[附身]_坏蛋是怎样炼成的2（整形篇）.doc]([附身]_坏
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | e26fa3cbff349ac1b497af4e9d0ba7b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

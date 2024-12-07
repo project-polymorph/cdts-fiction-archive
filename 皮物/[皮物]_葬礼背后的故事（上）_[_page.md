@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_葬礼背后的故事（上）_[.docx]([皮物]_葬礼背�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18422 bytes                           |
 | MD5             | e5898542dedf29a349e988f8a061a08b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

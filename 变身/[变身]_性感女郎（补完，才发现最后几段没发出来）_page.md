@@ -20,7 +20,7 @@ TXT 下载: [[变身]_性感女郎（补完，才发现最后几段没发出来�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28645 bytes                           |
 | MD5             | abbefbfa578fce201c702600eee7e173                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 魔之天涯                               |
 | Region          | 未知                               |

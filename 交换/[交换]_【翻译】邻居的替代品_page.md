@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【翻译】邻居的替代品.doc]([交换]_【翻译】�
 | Format          | Microsoft Word Document                               |
 | Size            | 72704 bytes                           |
 | MD5             | dd326138d4b7c6870c55666bd8a5165b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | SilviaTS                               |
 | Region          | 未知                               |

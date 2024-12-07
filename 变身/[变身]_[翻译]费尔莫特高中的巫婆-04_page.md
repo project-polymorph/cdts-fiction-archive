@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-04.docx]([变身]_[翻
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27570 bytes                           |
 | MD5             | 6ba102a0d3f8fcf1f9ecf9ede0915745                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

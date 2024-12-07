@@ -20,7 +20,7 @@ TXT 下载: [[附身]_香烟————完结（不写长篇的感觉真好）_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27821 bytes                           |
 | MD5             | 857a49b7976188b32ad3bca7757e4cc8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

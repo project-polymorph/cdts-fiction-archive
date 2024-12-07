@@ -20,7 +20,7 @@ TXT 下载: [[附身]_愛人。安安.doc]([附身]_愛人。安安.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 139264 bytes                           |
 | MD5             | d19db4218ca656931e85291e242862e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 白紙                               |
 | Region          | 未知                               |

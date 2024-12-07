@@ -20,7 +20,7 @@ TXT 下载: [[变装]_『_OJT职位交换指令』.docx]([变装]_『_OJT职位�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27615 bytes                           |
 | MD5             | 1dbd4d39b9aaaecdfa97da350f7bb9d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ＫＣＡ（嵐山之鬼子）                               |
 | Region          | 未知                               |

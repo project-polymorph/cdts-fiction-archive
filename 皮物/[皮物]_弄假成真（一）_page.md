@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_弄假成真（一）.doc]([皮物]_弄假成真（一）.
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 06a61952e1c7926f18cad13496eb442a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

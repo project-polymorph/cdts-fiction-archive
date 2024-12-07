@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第四章.doc]([变性]_《蒹葭录》第�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | ce9639545ad935b126e872da73813d83                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

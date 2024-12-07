@@ -20,7 +20,7 @@ TXT 下载: [[附身]_三角關係日本母女編_下.docx]([附身]_三角關�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20628 bytes                           |
 | MD5             | 88e306cad350cdbf53c1f40136cbd475                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [【万万没想到】玫瑰谷谜案.doc](【万万没想到】玫�
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | ac2aa7e9b30ebc8bf437ea5fc13a7adb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

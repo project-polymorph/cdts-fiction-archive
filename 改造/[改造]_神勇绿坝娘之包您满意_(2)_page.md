@@ -20,7 +20,7 @@ TXT 下载: [[改造]_神勇绿坝娘之包您满意_(2).docx]([改造]_神勇�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 77523 bytes                           |
 | MD5             | 0ceb4ea830724515e41313d1ba77b584                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

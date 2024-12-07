@@ -22,7 +22,7 @@ TXT 下载: [[其他]_恐怖微信群_第四章.docx]([其他]_恐怖微信群_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24750 bytes                           |
 | MD5             | 87e42b64289530a7d471fa00b5619262                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

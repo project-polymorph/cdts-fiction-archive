@@ -20,7 +20,7 @@ TXT 下载: [[附身]_TG遊戲王_前篇.doc]([附身]_TG遊戲王_前篇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | bd84b48d0d62d2a08ed7deba870cee45                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

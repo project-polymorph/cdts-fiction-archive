@@ -20,7 +20,7 @@ TXT 下载: [[变身]_女妖的宫殿【完】.doc]([变身]_女妖的宫殿【�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 72e5409dbec3e62efa917b832111f253                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

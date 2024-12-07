@@ -20,7 +20,7 @@ TXT 下载: [[皮物]真实系皮物幻想.doc]([皮物]真实系皮物幻想.do
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 7bfbd7dc7715bc35cf68a43a009e4999                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 千页豆腐酱                               |
 | Region          | 中国大陆                               |

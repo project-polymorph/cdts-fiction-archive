@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《雌堕》序章.doc]([其他]_《雌堕》序章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 8f8b2174cc6e2a94721ed578addfff7e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

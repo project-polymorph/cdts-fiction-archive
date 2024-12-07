@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[短篇]就是要她的身體.doc]([附身]_[短篇]就是
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 361a1adb93482525ba5d0bf3c1366697                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

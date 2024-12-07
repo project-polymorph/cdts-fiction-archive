@@ -20,7 +20,7 @@ TXT 下载: [[变装]_甜品猎人——世界观.docx]([变装]_甜品猎人—
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20702 bytes                           |
 | MD5             | c1d3c9bc70076cea2092fbfce2635211                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

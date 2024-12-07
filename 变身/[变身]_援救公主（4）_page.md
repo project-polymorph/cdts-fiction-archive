@@ -20,7 +20,7 @@ TXT 下载: [[变身]_援救公主（4）.docx]([变身]_援救公主（4）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25863 bytes                           |
 | MD5             | 703cf6bc43e75cfb0b5246182d9f6e70                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Shamus                               |
 | Region          | 未知                               |

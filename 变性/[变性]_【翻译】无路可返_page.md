@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】无路可返.doc]([变性]_【翻译】无路�
 | Format          | Microsoft Word Document                               |
 | Size            | 76800 bytes                           |
 | MD5             | aa8a9300e897904227ca7056c4c19a4f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

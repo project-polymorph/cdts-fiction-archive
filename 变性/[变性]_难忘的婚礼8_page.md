@@ -20,7 +20,7 @@ TXT 下载: [[变性]_难忘的婚礼8.docx]([变性]_难忘的婚礼8.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17721 bytes                           |
 | MD5             | e1995dee4aee46c385be1819a7022176                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

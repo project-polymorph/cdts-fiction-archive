@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_水心_（皮物）_二.docx]([皮物]_水心_（皮物）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23438 bytes                           |
 | MD5             | 3f66fd119f3c654db37ff4343fa38025                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

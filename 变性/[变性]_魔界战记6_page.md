@@ -20,7 +20,7 @@ TXT 下载: [[变性]_魔界战记6.docx]([变性]_魔界战记6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21780 bytes                           |
 | MD5             | 4786007dd0dfe5c94062750a833268f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_何以为人.doc]([皮物]_何以为人.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 0d267c9a19cd661c45bd0a2326b47ab3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我和迷妹换了身.docx]([交换]_我和迷妹换了身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28547 bytes                           |
 | MD5             | 71cb1265c8b080ed856d54f3e4dc78a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

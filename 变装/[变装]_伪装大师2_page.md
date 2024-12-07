@@ -20,7 +20,7 @@ TXT 下载: [[变装]_伪装大师2.docx]([变装]_伪装大师2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22677 bytes                           |
 | MD5             | 9629a830e8623af8851f308c536db755                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

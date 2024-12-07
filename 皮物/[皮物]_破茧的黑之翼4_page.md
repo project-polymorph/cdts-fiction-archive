@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_破茧的黑之翼4.doc]([皮物]_破茧的黑之翼4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 393ccd9dfef681e5751870d7aab8f42c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

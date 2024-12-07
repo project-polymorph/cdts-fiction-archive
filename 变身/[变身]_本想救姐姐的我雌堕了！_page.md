@@ -20,7 +20,7 @@ TXT 下载: [[变身]_本想救姐姐的我雌堕了！.doc]([变身]_本想救�
 | Format          | Microsoft Word Document                               |
 | Size            | 69120 bytes                           |
 | MD5             | 7d825d2f6c010fac476dc65b49fbffbc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

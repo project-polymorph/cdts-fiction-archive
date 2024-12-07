@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[英文翻译]_好太太们(The_Good_Wives)_By_sammig82.do
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | f7589bd9b7d2444662a1b7ed584fddb7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【江山如此多娇，黑棋】.doc]([改造]_【江山�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 5208d25d70ad10bad40ef5034430dfdb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 黑旗                               |
 | Region          | 未知                               |

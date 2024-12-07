@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣前传2_－_沙漠篇_古国真相.doc]([附身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | abe2f8de47924a08cc2b7d8d4b03d187                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

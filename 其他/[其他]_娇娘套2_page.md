@@ -20,7 +20,7 @@ TXT 下载: [[其他]_娇娘套2.docx]([其他]_娇娘套2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21832 bytes                           |
 | MD5             | b1ad3a14c3283d69201c1210d1a7b651                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

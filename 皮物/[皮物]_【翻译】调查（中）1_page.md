@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【翻译】调查（中）1.docx]([皮物]_【翻译】�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19876 bytes                           |
 | MD5             | 0bb19cefcc80e5a75a4b66706d2fa50c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

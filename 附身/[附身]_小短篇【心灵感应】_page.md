@@ -20,7 +20,7 @@ TXT 下载: [[附身]_小短篇【心灵感应】.doc]([附身]_小短篇【心�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 5426c2601dcacaaa5af276f225db9773                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

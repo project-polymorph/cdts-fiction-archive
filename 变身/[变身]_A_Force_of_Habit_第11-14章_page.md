@@ -20,7 +20,7 @@ TXT 下载: [[变身]_A_Force_of_Habit_第11-14章.docx]([变身]_A_Force_of_Hab
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46744 bytes                           |
 | MD5             | a2ef16ec5846687acf46ae72a4442fa4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_解离症第二季豪门乱（2）.docx]([变性]_解离�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23198 bytes                           |
 | MD5             | cafbdf64e772170e33b1addb76d1bfb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

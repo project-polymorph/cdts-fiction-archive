@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_诱惑—反击（申码文）.doc]([皮物]_诱惑—反�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | d5b51e0413410f990caba4981c7f086d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

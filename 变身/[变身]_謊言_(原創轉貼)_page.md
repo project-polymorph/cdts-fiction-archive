@@ -20,7 +20,7 @@ TXT 下载: [[变身]_謊言_(原創轉貼).docx]([变身]_謊言_(原創轉貼)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21015 bytes                           |
 | MD5             | a0257fe772af21a65f0d3dcd4ecf425f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

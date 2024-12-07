@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文）反转的人皮试剂.docx]([皮物]_（申
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24634 bytes                           |
 | MD5             | 6f42eb2b2bb3b9cf6f7c08efc6824bcc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

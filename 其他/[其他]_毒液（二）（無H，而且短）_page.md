@@ -20,7 +20,7 @@ TXT 下载: [[其他]_毒液（二）（無H，而且短）.docx]([其他]_毒�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19715 bytes                           |
 | MD5             | a2cd808859b0d5f4f619e44c8496ab65                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 凌空蝶                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮DOLL_2.doc]([皮物]_皮DOLL_2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | a95c7e8f217c73ad973f35348657a948                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

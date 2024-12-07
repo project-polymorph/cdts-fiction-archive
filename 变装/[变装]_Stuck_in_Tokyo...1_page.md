@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Stuck_in_Tokyo...1.docx]([变装]_Stuck_in_Tokyo...1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18219 bytes                           |
 | MD5             | a0aec6cb118cfa5357de868910f16ddd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_控魂者_1-4.docx]([附身]_控魂者_1-4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 71550 bytes                           |
 | MD5             | d25718fa08e1d137f95b9b09e2443374                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

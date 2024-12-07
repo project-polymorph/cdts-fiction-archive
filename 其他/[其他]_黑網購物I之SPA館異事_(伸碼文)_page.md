@@ -20,7 +20,7 @@ TXT 下载: [[其他]_黑網購物I之SPA館異事_(伸碼文).docx]([其他]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43384 bytes                           |
 | MD5             | 5c861d62cdf911a4e78a6fe2924a9abb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

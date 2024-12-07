@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[祝贺万圣节活动成功&R大生日快乐]万圣节面
 | Format          | Microsoft Word Document                               |
 | Size            | 62464 bytes                           |
 | MD5             | 99d5b530f2dfa0485fc7964e916f4398                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -24,7 +24,7 @@ TXT 下载: [[变装]_蕾蕾新作《毕业——第二季》第一弹.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18260 bytes                           |
 | MD5             | c4c66132b9d47c1d7d6183b51af09320                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 蕾蕾                               |
 | Region          | 未知                               |

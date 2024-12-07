@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一点星光剑8_之_失身？.docx]([皮物]_一点星光
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17413 bytes                           |
 | MD5             | c7f5f2295287aaaad688d85e47be7570                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

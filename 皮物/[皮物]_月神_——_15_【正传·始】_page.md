@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月神_——_15_【正传·始】.docx]([皮物]_月神_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19331 bytes                           |
 | MD5             | 1d71b0105128cd826e4a4059c6dbc598                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ambiva                               |
 | Region          | 中国大陆                               |

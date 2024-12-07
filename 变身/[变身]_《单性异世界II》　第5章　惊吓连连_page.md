@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《单性异世界II》　第5章　惊吓连连.doc]([变
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 5187fbab63bc8b2230ca0c30e8371506                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

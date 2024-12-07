@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_秀-大小姐X管家.docx]([皮物]_秀-大小姐X管家.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22017 bytes                           |
 | MD5             | f52309bd52e72a47a0bf1e165d2aa0c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

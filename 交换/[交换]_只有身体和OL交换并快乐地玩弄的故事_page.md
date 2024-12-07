@@ -20,7 +20,7 @@ TXT 下载: [[交换]_只有身体和OL交换并快乐地玩弄的故事.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 24b41fa5dcac9831a319ad1f1df6e1de                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

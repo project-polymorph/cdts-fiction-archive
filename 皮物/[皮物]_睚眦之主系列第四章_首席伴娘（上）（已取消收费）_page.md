@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_睚眦之主系列第四章_首席伴娘（上）（已取
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46659 bytes                           |
 | MD5             | b58f1f1b026b64d8a8d00cc4b679721b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

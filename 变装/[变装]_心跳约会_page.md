@@ -20,7 +20,7 @@ TXT 下载: [[变装]_心跳约会.docx]([变装]_心跳约会.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32560 bytes                           |
 | MD5             | a0f574b038303b9e9600597e9bcc8b93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

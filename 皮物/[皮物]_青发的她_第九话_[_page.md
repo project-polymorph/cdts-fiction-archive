@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_青发的她_第九话_[.docx]([皮物]_青发的她_第�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36956 bytes                           |
 | MD5             | c277b44b72f7cd3780467418816b97c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

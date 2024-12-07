@@ -20,7 +20,7 @@ TXT 下载: [[变性]_洗脑金属猫娘，题材是变性洗脑改造.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37024 bytes                           |
 | MD5             | fd541f04862a5c84b4fd3aad68ba3ad7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

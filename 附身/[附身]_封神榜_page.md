@@ -20,7 +20,7 @@ TXT 下载: [[附身]_封神榜.docx]([附身]_封神榜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 86886 bytes                           |
 | MD5             | 783e1289f10484d017e50515ad52765a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

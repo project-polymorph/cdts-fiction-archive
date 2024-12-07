@@ -20,7 +20,7 @@ TXT 下载: [[其他]_勇者的觉醒.docx]([其他]_勇者的觉醒.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33591 bytes                           |
 | MD5             | 24976ccf6c4a1beddcac48be00a74e4c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 原作・あむぁい（加筆編集・風祭玲）                               |
 | Region          | 未知                               |

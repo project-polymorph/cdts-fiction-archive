@@ -20,7 +20,7 @@ TXT 下载: [回家路上——被占有的……（番外篇）.doc](回家路�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 062e970b2858584c97814833d4b15ef0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

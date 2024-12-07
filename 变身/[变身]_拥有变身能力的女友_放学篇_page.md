@@ -20,7 +20,7 @@ TXT 下载: [[变身]_拥有变身能力的女友_放学篇.docx]([变身]_拥�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24634 bytes                           |
 | MD5             | 94ad7de014ea71d7bd69601ed6bc47cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

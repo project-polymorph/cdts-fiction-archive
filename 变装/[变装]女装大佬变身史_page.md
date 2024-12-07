@@ -20,7 +20,7 @@ TXT 下载: [[变装]女装大佬变身史.doc]([变装]女装大佬变身史.do
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 6967c92f333580b3d2367caa9e774f75                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

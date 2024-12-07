@@ -20,7 +20,7 @@ TXT 下载: [[改造]_须眉化妖_（第一章）.doc]([改造]_须眉化妖_�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 819d938cd215c93fda02db80c8fba09f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

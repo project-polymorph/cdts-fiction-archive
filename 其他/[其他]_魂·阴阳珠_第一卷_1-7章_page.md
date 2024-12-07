@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魂·阴阳珠_第一卷_1-7章.doc]([其他]_魂·阴阳�
 | Format          | Microsoft Word Document                               |
 | Size            | 149504 bytes                           |
 | MD5             | ec955062ca82b384cfd7a4a086be3070                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 黑月姬                               |
 | Region          | 中国大陆                               |

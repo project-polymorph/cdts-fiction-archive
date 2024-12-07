@@ -20,7 +20,7 @@ TXT 下载: [[改造]_未来的可能性(中学篇).doc]([改造]_未来的可�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | c6ceb7e0c2a6122e2750c347c89c43b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

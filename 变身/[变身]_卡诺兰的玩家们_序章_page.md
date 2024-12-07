@@ -20,7 +20,7 @@ TXT 下载: [[变身]_卡诺兰的玩家们_序章.docx]([变身]_卡诺兰的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52499 bytes                           |
 | MD5             | ff6005ab78ef8a41c456d1b7502a9649                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

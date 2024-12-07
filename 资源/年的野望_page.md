@@ -22,7 +22,7 @@ TXT 下载: [年的野望.doc](年的野望.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | afb74701018176077ab3cac4003a7d33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

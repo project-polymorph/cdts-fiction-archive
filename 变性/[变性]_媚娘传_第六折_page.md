@@ -20,7 +20,7 @@ TXT 下载: [[变性]_媚娘传_第六折.docx]([变性]_媚娘传_第六折.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21066 bytes                           |
 | MD5             | 273c495de229fea28e0753fbfc506663                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

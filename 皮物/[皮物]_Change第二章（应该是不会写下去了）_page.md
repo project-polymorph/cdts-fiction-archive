@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Change第二章（应该是不会写下去了）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20056 bytes                           |
 | MD5             | c5442d631cf7b732cb47b3e4e9c1a8d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

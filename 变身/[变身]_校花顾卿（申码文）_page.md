@@ -20,7 +20,7 @@ TXT 下载: [[变身]_校花顾卿（申码文）.docx]([变身]_校花顾卿（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35568 bytes                           |
 | MD5             | 9292c542e782ef91462a0e96db214431                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

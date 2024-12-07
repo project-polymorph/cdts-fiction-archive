@@ -20,7 +20,7 @@ TXT 下载: [[附身]_短篇《刘佳怡很漂亮》上、中、下，完结.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | 73eea985b5bd3caad9c47ec43c06f431                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

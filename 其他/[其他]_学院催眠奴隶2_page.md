@@ -20,7 +20,7 @@ TXT 下载: [[其他]_学院催眠奴隶2.docx]([其他]_学院催眠奴隶2.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19221 bytes                           |
 | MD5             | 6d12a3aa2ebbd58bdc339dcf57258c63                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | hcnhcn                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_万事通四.doc]([改造]_万事通四.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | 3ced41cb33f40e1e9c7c7038e809a805                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

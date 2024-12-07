@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_苏北：毛虫、蝴蝶、蟋蟀.docx]([皮物]_苏北：
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25478 bytes                           |
 | MD5             | 4dc85034129262965135e9aa2243107b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

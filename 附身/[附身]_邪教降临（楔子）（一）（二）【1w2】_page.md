@@ -20,7 +20,7 @@ TXT 下载: [[附身]_邪教降临（楔子）（一）（二）【1w2】.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34944 bytes                           |
 | MD5             | b009fadff56281f71da62c361d7aad20                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

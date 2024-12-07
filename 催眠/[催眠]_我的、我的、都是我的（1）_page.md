@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_我的、我的、都是我的（1）.doc]([催眠]_我的
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 30f2b68d763f4eb958e5ecc73ec5908a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

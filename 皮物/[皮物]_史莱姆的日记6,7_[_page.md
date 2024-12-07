@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_史莱姆的日记6,7_[.docx]([皮物]_史莱姆的日记6
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24159 bytes                           |
 | MD5             | 4f728c699a77b81b8aaede1c3a1ae552                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

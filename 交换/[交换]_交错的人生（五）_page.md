@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交错的人生（五）.doc]([交换]_交错的人生（�
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | e8a98e2f68cd02126c3e691ec62caaa9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

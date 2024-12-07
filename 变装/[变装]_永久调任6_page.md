@@ -20,7 +20,7 @@ TXT 下载: [[变装]_永久调任6.docx]([变装]_永久调任6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30852 bytes                           |
 | MD5             | b72638b683f52881357d84b1c4a045a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

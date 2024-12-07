@@ -20,7 +20,7 @@ TXT 下载: [[改造]_水浒别传之鲁氏娘子_作者：雪琳.doc]([改造]_
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 9e23b3a229c89c06bbcab741c990843c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 雪琳                               |
 | Region          | 中国大陆                               |

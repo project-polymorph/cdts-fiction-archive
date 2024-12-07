@@ -20,7 +20,7 @@ TXT 下载: [[附身]_阴阳大法（十七）完.docx]([附身]_阴阳大法（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26617 bytes                           |
 | MD5             | 5eb3cb0846e076f4ba37631aa28a7078                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

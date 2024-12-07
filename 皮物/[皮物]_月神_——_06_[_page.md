@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月神_——_06_[.docx]([皮物]_月神_——_06_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17130 bytes                           |
 | MD5             | 749c2db6e6033c7886c36ece2a665647                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | basana                               |
 | Region          | 未知                               |

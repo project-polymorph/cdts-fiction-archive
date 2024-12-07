@@ -20,7 +20,7 @@ TXT 下载: [[交换]_找到生存之计.doc]([交换]_找到生存之计.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | 7b47e83ffac6a5e0611e2d0d7ab01b9b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 风哥大大                               |
 | Region          | 未知                               |

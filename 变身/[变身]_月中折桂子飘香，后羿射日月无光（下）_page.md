@@ -20,7 +20,7 @@ TXT 下载: [[变身]_月中折桂子飘香，后羿射日月无光（下）.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 138a10caaee28003fc432eaa03fcf7a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

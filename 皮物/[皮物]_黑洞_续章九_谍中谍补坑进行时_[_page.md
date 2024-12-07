@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑洞_续章九_谍中谍补坑进行时_[.docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18371 bytes                           |
 | MD5             | 4a4e81b0a4b8d3815c0a555c40ddd9e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

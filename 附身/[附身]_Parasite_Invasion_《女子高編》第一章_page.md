@@ -22,7 +22,7 @@ TXT 下载: [[附身]_Parasite_Invasion_《女子高編》第一章.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36034 bytes                           |
 | MD5             | 28752f5de132c0b346ac11c2a8543b3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

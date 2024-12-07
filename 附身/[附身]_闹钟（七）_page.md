@@ -20,7 +20,7 @@ TXT 下载: [[附身]_闹钟（七）.doc]([附身]_闹钟（七）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | e43316244647a50171f35096ba551cf1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

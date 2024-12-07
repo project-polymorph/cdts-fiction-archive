@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十六）.doc]([改造]_[小晰]_BS_APP_(
 | Format          | Microsoft Word Document                               |
 | Size            | 456704 bytes                           |
 | MD5             | 627fe27b84d99dd9fc3b70c28ce72363                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

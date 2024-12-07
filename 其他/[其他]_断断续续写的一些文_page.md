@@ -20,7 +20,7 @@ TXT 下载: [[其他]_断断续续写的一些文.docx]([其他]_断断续续写
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24209 bytes                           |
 | MD5             | d0346d77ca8fac0d59729e17a6b6add0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

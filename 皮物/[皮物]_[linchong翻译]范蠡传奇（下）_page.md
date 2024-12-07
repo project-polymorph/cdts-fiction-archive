@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[linchong翻译]范蠡传奇（下）.docx]([皮物]_[linc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39488 bytes                           |
 | MD5             | eb87ac5a12e9ba48f7ee5b6aa019ff90                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong                               |
 | Region          | 中国                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_萱爱_（三）.doc]([交换]_萱爱_（三）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 1ad47698c6f3f2f3a082887d81bdac2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 萱爱                               |
 | Region          | 未知                               |

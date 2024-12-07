@@ -20,7 +20,7 @@ TXT 下载: [[交换]_血噬3.docx]([交换]_血噬3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30107 bytes                           |
 | MD5             | e89acefe4c824b0eee53dfaf5f2c602f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

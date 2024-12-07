@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂槍之巡警篇.docx]([附身]_魂槍之巡警篇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28309 bytes                           |
 | MD5             | 6412648d18ec449c283423213a960f26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

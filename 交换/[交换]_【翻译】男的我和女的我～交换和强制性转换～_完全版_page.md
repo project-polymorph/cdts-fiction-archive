@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【翻译】男的我和女的我～交换和强制性转�
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | 2b7bc828bd9b8de4bf67a217f605655d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 魔之天涯                               |
 | Region          | 未知                               |

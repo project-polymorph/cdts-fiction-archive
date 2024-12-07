@@ -20,7 +20,7 @@ TXT 下载: [[其他]_年龄调节器1_上篇_[.docx]([其他]_年龄调节器1_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23599 bytes                           |
 | MD5             | bc424b13e3320c16b45b166107f25575                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

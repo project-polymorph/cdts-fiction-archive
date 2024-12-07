@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【長篇】「新年快樂」_遲來的CDBOOK新年慶文
 | Format          | Microsoft Word Document                               |
 | Size            | 139776 bytes                           |
 | MD5             | f6149c87ed5c15b7018a33729ec223a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

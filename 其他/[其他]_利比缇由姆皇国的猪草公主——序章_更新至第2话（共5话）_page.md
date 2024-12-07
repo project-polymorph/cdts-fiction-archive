@@ -20,7 +20,7 @@ TXT 下载: [[其他]_利比缇由姆皇国的猪草公主——序章_更新至
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36823 bytes                           |
 | MD5             | e904293f06c54bcc6bf8df5f20ef4ae7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 佐崎一路                               |
 | Region          | 未知                               |

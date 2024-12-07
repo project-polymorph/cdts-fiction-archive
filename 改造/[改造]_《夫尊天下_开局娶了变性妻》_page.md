@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下_开局娶了变性妻》.doc]([改造]_《
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 8cf6a926fd9ecbc7c5603d20b48e2d34                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

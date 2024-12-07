@@ -20,7 +20,7 @@ TXT 下载: [[附身]_移魂咒（教師篇_下篇）.docx]([附身]_移魂咒�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21900 bytes                           |
 | MD5             | a9cc527c95432c121e1f039292444d05                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

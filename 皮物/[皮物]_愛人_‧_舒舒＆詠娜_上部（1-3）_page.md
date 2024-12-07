@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_愛人_‧_舒舒＆詠娜_上部（1-3）.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 117628 bytes                           |
 | MD5             | 2f5f97142baf1c2c216f1652f3ae957c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 白纸                               |
 | Region          | 未知                               |

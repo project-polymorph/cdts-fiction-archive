@@ -20,7 +20,7 @@ TXT 下载: [[交换]_欲望横行【_第一至四章_】【_校园欲望篇(全
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 56976 bytes                           |
 | MD5             | bbb9c4c6c44fa25de308fb7567915e78                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 中国大陆                               |

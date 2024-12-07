@@ -20,7 +20,7 @@ TXT 下载: [[交换]_一生仅有一次，⌈只有身体⌋和异性交换的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51139 bytes                           |
 | MD5             | ae1979df058ab19da88b78c391c80a9c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

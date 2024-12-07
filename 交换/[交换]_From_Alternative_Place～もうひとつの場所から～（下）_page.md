@@ -20,7 +20,7 @@ TXT 下载: [[交换]_From_Alternative_Place～もうひとつの場所から～
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 34c78bba63f3eea28d99496e00b4e5a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

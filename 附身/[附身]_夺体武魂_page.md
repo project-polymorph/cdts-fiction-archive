@@ -22,7 +22,7 @@ TXT 下载: [[附身]_夺体武魂.docx]([附身]_夺体武魂.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19936 bytes                           |
 | MD5             | 18efa8db7fe3bd1b851ca72ade342764                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

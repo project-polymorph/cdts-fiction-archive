@@ -20,7 +20,7 @@ TXT 下载: [[交换]_合欢换身术【贤者断更中】.docx]([交换]_合欢
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24373 bytes                           |
 | MD5             | 37fb12517e01cebbc8124b87885c14bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_逆命诀（申码文原标题缥缈踪）1-7.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 287d8c35af0b2f070046e5f988c53c43                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

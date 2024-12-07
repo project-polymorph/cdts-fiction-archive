@@ -20,7 +20,7 @@ TXT 下载: [[交换]_乐于助人_Part_2.doc]([交换]_乐于助人_Part_2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 956872346723b15c34bec0cfd897590f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

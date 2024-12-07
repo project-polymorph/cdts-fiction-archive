@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_双面爱恋.doc]([皮物]_双面爱恋.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 86016 bytes                           |
 | MD5             | 1bb869c313fd56ca0811057313d9cfa3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

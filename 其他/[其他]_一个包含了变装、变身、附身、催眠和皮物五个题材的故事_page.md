@@ -20,7 +20,7 @@ TXT 下载: [[其他]_一个包含了变装、变身、附身、催眠和皮物�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 83281 bytes                           |
 | MD5             | 8632762b4c8a4f45b5ae735202d3406a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

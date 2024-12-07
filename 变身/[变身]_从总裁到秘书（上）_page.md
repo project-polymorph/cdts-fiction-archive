@@ -20,7 +20,7 @@ TXT 下载: [[变身]_从总裁到秘书（上）.docx]([变身]_从总裁到秘
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24283 bytes                           |
 | MD5             | 252874e6c9dff50e883e1498caec8229                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_由一个神秘十字架引发的系列事件序章及1~2.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21888 bytes                           |
 | MD5             | d7962dca59582df478f81054341d0678                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 随便                               |
 | Region          | 中国大陆                               |

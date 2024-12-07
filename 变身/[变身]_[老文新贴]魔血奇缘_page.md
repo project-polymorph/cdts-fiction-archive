@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[老文新贴]魔血奇缘.doc]([变身]_[老文新贴]魔
 | Format          | Microsoft Word Document                               |
 | Size            | 77312 bytes                           |
 | MD5             | e745488fb5f3a56d5a85c930fc584187                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

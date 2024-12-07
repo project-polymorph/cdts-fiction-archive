@@ -20,7 +20,7 @@ TXT 下载: [[附身]_柔性思想_[.docx]([附身]_柔性思想_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 77851 bytes                           |
 | MD5             | 149f51e87dbdaf04a53767a192b2f086                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

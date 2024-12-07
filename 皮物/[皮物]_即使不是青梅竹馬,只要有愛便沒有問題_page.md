@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_即使不是青梅竹馬,只要有愛便沒有問題.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35938 bytes                           |
 | MD5             | 40e90fb75dc4be87b8223cdde96d4541                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

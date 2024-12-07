@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱十（秘密被发现？）.docx]([改造]_鹰枭
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22719 bytes                           |
 | MD5             | 55415782d596c52a55e9a3a5a0afd2a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

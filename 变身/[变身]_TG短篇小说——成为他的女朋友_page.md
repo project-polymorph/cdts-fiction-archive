@@ -20,7 +20,7 @@ TXT 下载: [[变身]_TG短篇小说——成为他的女朋友.doc]([变身]_TG
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | b3d8659279e59d5281adc7e6a37d593d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jumbo Shirmp                               |
 | Region          | 未知                               |

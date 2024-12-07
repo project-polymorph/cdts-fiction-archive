@@ -20,7 +20,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（四）奈美不�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26408 bytes                           |
 | MD5             | 5cc81eac1721aea52f34e86c78b007d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

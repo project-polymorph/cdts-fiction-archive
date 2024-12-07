@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]为了那完美的快感2.docx]([变性]_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21936 bytes                           |
 | MD5             | 1caa03653e314cfd315b0167dd3a542f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong                               |
 | Region          | 未知                               |

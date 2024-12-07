@@ -20,7 +20,7 @@ TXT 下载: [[改造]_My_Wife_the_Doctor【已完工】.doc]([改造]_My_Wife_th
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | 94ce6ffcdf1cddec8dee800174c0a9a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | superbuilt7                               |
 | Region          | 美国                               |

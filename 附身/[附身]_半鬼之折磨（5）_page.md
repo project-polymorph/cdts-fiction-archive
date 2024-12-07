@@ -20,7 +20,7 @@ TXT 下载: [[附身]_半鬼之折磨（5）.doc]([附身]_半鬼之折磨（5�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 20a7abfeca56498d744995061361f3b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

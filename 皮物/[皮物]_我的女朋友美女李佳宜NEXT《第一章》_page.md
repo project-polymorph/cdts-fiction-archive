@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的女朋友美女李佳宜NEXT《第一章》.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33676 bytes                           |
 | MD5             | e3a8776df8f44cef82c0f7eb5c9946e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_妄想发明：魂枪.docx]([附身]_妄想发明：魂枪
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20892 bytes                           |
 | MD5             | e6420cb849d6e36b0578324e53647e92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

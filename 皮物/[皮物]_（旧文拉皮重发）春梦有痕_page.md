@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（旧文拉皮重发）春梦有痕.doc]([皮物]_（旧�
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 1685fc6734f27b9b90b51831458ee260                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

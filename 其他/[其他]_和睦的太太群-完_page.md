@@ -20,7 +20,7 @@ TXT 下载: [[其他]_和睦的太太群-完.doc]([其他]_和睦的太太群-�
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | a0dad87998047fb46912e4f2da6b9b4f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

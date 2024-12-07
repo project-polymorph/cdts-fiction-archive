@@ -20,7 +20,7 @@ TXT 下载: [[附身]_道童美姬：第二章.doc]([附身]_道童美姬：第�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 35fad8bd5c2d8b4c6627b0d83bf423d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

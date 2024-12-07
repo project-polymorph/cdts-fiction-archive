@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_着替之男.docx]([皮物]_着替之男.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41546 bytes                           |
 | MD5             | f876d439f732d1abb8ac5f4ef4600549                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 搭杢煉瓦                               |
 | Region          | 未知                               |

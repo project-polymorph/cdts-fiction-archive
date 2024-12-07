@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我是史莱姆我最叼！序_[.docx]([附身]_我是史�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16670 bytes                           |
 | MD5             | e6126709df4bb76d40d95630fca318a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

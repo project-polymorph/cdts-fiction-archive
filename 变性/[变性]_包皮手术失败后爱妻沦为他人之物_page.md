@@ -20,7 +20,7 @@ TXT 下载: [[变性]_包皮手术失败后爱妻沦为他人之物.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37204 bytes                           |
 | MD5             | ecfa7b2302eab6bf54490669e610dc80                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

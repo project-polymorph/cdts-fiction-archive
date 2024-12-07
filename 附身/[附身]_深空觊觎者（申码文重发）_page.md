@@ -20,7 +20,7 @@ TXT 下载: [[附身]_深空觊觎者（申码文重发）.doc]([附身]_深空�
 | Format          | Microsoft Word Document                               |
 | Size            | 78848 bytes                           |
 | MD5             | 8bc34f5113e681ee455853d840b527c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

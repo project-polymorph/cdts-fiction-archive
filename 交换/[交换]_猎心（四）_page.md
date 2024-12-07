@@ -20,7 +20,7 @@ TXT 下载: [[交换]_猎心（四）.doc]([交换]_猎心（四）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 1c3501ae9231f4cded0d47c0cf010243                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_古神的恩赐（凯瑟琳篇_上）.doc]([改造]_古神
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | f1bc674433bcc2610bab59dda1d1641f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

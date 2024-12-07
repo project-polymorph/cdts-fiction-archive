@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱三（醒来之后的噩梦）_(2).docx]([改造]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16829 bytes                           |
 | MD5             | f376ddbf8aa467266ad3b3e83a53e625                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

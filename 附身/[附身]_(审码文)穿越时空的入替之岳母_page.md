@@ -20,7 +20,7 @@ TXT 下载: [[附身]_(审码文)穿越时空的入替之岳母.doc]([附身]_(�
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | c859899471524dd2a16185611f9950b7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

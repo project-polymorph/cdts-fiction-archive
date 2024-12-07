@@ -20,7 +20,7 @@ TXT 下载: [[变装]_目击者_part_1.docx]([变装]_目击者_part_1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50360 bytes                           |
 | MD5             | 2d62cc5dbc79b54177cfe2dbc50a5575                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Marina Twelve                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_血猎（复刻加长版）.docx]([其他]_血猎（复刻
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45613 bytes                           |
 | MD5             | 2ba509afe5e8af5dead53fd6eaa98916                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

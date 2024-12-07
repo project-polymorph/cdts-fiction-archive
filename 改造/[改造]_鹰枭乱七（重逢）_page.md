@@ -22,7 +22,7 @@ TXT 下载: [[改造]_鹰枭乱七（重逢）.docx]([改造]_鹰枭乱七（重
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20673 bytes                           |
 | MD5             | 4839de23e960917c984b3098876b773e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_竞技场后日谈2.doc]([其他]_竞技场后日谈2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | f18bb16f46063cec6c05ebb5bdb5c451                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

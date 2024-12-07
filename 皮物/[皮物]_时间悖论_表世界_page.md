@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_时间悖论_表世界.docx]([皮物]_时间悖论_表世�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29719 bytes                           |
 | MD5             | 1a80cd89baa0b7492fec8f3f7bf20d8d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

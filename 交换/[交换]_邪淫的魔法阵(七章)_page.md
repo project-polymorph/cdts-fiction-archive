@@ -20,7 +20,7 @@ TXT 下载: [[交换]_邪淫的魔法阵(七章).docx]([交换]_邪淫的魔法�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23192 bytes                           |
 | MD5             | f828951842290035fbdf8be330d23ab8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

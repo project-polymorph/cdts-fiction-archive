@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Eager_Beaver_1.doc]([变装]_Eager_Beaver_1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | df9e6dcd2f42ddd773ee7e7a3d806fb0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

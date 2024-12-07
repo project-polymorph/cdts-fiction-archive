@@ -20,7 +20,7 @@ TXT 下载: [[其他]_类似于百合吧！最近迷上了克隆斗，就随便�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31399 bytes                           |
 | MD5             | 23fdd26eaec08c1e63cbec83e7b9dadf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

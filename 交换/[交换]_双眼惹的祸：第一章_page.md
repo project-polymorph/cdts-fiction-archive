@@ -20,7 +20,7 @@ TXT 下载: [[交换]_双眼惹的祸：第一章.docx]([交换]_双眼惹的祸
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20124 bytes                           |
 | MD5             | 2802b510018891ba6a2717238cdf61a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

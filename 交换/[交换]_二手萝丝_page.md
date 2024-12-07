@@ -20,7 +20,7 @@ TXT 下载: [[交换]_二手萝丝.docx]([交换]_二手萝丝.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24534 bytes                           |
 | MD5             | 83880f80aaf0d7fd774ab58f57ddf7d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Blot，翻译者为czq123                               |
 | Region          | 未知                               |

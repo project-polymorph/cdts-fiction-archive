@@ -20,7 +20,7 @@ TXT 下载: [[附身]_死神空间-针（上）.doc]([附身]_死神空间-针�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 4ebee20402f85019439c0abd67b02a06                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

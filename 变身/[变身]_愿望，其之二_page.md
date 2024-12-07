@@ -20,7 +20,7 @@ TXT 下载: [[变身]_愿望，其之二.docx]([变身]_愿望，其之二.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24818 bytes                           |
 | MD5             | e870919b0d202d66ef4c72e6de301bbc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

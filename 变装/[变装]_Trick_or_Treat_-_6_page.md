@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Trick_or_Treat_-_6.docx]([变装]_Trick_or_Treat_-_6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 67091 bytes                           |
 | MD5             | a6194cc57610339bbf849b6b2bf24eeb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_五一开坑——灵魂管理器新篇章01.docx]([附身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19829 bytes                           |
 | MD5             | 7390018e1683b877ddcb046399d3a19e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

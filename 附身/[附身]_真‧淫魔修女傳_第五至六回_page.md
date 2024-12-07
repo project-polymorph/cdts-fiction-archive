@@ -20,7 +20,7 @@ TXT 下载: [[附身]_真‧淫魔修女傳_第五至六回.docx]([附身]_真�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51706 bytes                           |
 | MD5             | 65812771a62a952c8798706eb8d9efc4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

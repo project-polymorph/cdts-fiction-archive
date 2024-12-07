@@ -20,7 +20,7 @@ TXT 下载: [[其他]_孽缘—基友（风起）.docx]([其他]_孽缘—基友
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22366 bytes                           |
 | MD5             | 70409410183866b649da5dd15bc86800                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

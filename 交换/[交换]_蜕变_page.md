@@ -20,7 +20,7 @@ TXT 下载: [[交换]_蜕变.docx]([交换]_蜕变.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 71201 bytes                           |
 | MD5             | 5ee744e17cf5e1c759263fbe1ec065f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

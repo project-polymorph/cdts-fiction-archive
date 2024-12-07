@@ -20,7 +20,7 @@ TXT 下载: [[交换]_万万没想到2.docx]([交换]_万万没想到2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53539 bytes                           |
 | MD5             | de6b9d36a27ccfc553b6ef3cc7678253                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_脑洞抗日战争（1）.docx]([皮物]_脑洞抗日战�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23952 bytes                           |
 | MD5             | 486f964d7c40a186fdefac294d1207e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

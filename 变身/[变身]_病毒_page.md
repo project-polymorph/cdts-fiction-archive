@@ -20,7 +20,7 @@ TXT 下载: [[变身]_病毒.doc]([变身]_病毒.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 86d9b413891695e68eac87b292f6c434                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

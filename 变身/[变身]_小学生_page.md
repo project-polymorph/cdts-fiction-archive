@@ -24,7 +24,7 @@ TXT 下载: [[变身]_小学生.docx]([变身]_小学生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21407 bytes                           |
 | MD5             | fdad555ff49ec5e557a57046c6bd2453                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

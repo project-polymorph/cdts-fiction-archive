@@ -20,7 +20,7 @@ TXT 下载: [[附身]_网购少女第一、二章.docx]([附身]_网购少女第
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45292 bytes                           |
 | MD5             | 563b31583033521cc8a9609208a1e8d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

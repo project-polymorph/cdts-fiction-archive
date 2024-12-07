@@ -20,7 +20,7 @@ TXT 下载: [[附身]_慾望(二)週末.docx]([附身]_慾望(二)週末.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38440 bytes                           |
 | MD5             | 3a48794d00ec3235d900e055adc615bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

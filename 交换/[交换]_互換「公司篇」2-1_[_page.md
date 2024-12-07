@@ -20,7 +20,7 @@ TXT 下载: [[交换]_互換「公司篇」2-1_[.docx]([交换]_互換「公司�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21073 bytes                           |
 | MD5             | 8019c44227b6160c11c97025247b4433                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

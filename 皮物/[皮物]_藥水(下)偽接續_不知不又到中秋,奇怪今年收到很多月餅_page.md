@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_藥水(下)偽接續_不知不又到中秋,奇怪今年收
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26963 bytes                           |
 | MD5             | c6236ffeaf567a25589b976801711fdb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

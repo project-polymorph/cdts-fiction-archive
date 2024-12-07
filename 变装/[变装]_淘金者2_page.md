@@ -20,7 +20,7 @@ TXT 下载: [[变装]_淘金者2.doc]([变装]_淘金者2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | ce78732da123cf7b8497d11cf5ea65fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_红绡梦_第一章_乱世胭脂.docx]([变性]_红绡梦_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17369 bytes                           |
 | MD5             | f69c72a232106383a357ea3596326365                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

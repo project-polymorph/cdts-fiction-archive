@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_业务员之师恋（1）＋（2）.docx]([皮物]_业务�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21726 bytes                           |
 | MD5             | 0cefcab074a8451cb5b8d8ce754ca7e5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

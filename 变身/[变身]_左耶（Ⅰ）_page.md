@@ -20,7 +20,7 @@ TXT 下载: [[变身]_左耶（Ⅰ）.docx]([变身]_左耶（Ⅰ）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32444 bytes                           |
 | MD5             | df54bd4fd2a3cb0813ec92dad4725cb3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【校园】話劇的女主角是我？.doc]([变装]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 125440 bytes                           |
 | MD5             | 5d665ea596e3bde28e23673acd97294e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | kk9700                               |
 | Region          | 未知                               |

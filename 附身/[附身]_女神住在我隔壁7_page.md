@@ -20,7 +20,7 @@ TXT 下载: [[附身]_女神住在我隔壁7.docx]([附身]_女神住在我隔�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18877 bytes                           |
 | MD5             | 859771d8e19d3f64fc3b608fda525175                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

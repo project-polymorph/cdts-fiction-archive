@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_魔法少女红月（3）.doc]([催眠]_魔法少女红月
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | adc12ae1fec94cfda7d5c9c63002989c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

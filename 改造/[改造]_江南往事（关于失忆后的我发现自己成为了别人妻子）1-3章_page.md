@@ -20,7 +20,7 @@ TXT 下载: [[改造]_江南往事（关于失忆后的我发现自己成为了�
 | Format          | Microsoft Word Document                               |
 | Size            | 73216 bytes                           |
 | MD5             | 29ffc91ba6ae8500f11e24adbed3a86a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 鬼畜奏                               |
 | Region          | 未知                               |

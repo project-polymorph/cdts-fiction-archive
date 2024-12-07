@@ -20,7 +20,7 @@ TXT 下载: [[附身]_古典仙侠《小蜘蛛修仙记》4-6.doc]([附身]_古�
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | b8d5f088eafce35c6b47e16da0c4fe97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

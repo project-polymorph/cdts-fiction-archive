@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士，20，地宫.docx]([皮物]_皮术士，20，�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26667 bytes                           |
 | MD5             | ff615ae3f48e1300ac1d659637a8d92a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_不可能错过你.docx]([皮物]_不可能错过你.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53644 bytes                           |
 | MD5             | 5c643876169ee2a216d2adc5381513a6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

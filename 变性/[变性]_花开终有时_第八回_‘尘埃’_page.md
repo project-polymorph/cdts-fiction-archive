@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花开终有时_第八回_‘尘埃’.docx]([变性]_花�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33867 bytes                           |
 | MD5             | 8652de3af3472f9c37f36162ed1877cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

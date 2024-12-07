@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——最终日_归于日常.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41509 bytes                           |
 | MD5             | 99d4a7f47223f6997f3e33d2aa8647d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

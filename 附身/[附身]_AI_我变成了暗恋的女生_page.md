@@ -20,7 +20,7 @@ TXT 下载: [[附身]_AI_我变成了暗恋的女生.docx]([附身]_AI_我变成
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 1451005 bytes                           |
 | MD5             | 139e1e85f561f3901763db55ed464c81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

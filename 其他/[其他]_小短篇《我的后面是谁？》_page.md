@@ -20,7 +20,7 @@ TXT 下载: [[其他]_小短篇《我的后面是谁？》.docx]([其他]_小短
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16551 bytes                           |
 | MD5             | 0ce56bb13cfcf360e9be2f9061b6789a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_冷.docx]([皮物]_冷.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21173 bytes                           |
 | MD5             | 6610faa1d83edee89532b43bd00d1af2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

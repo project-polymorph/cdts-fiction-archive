@@ -20,7 +20,7 @@ TXT 下载: [[变装]_舞蹈老师.doc]([变装]_舞蹈老师.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 116736 bytes                           |
 | MD5             | cdf9c1fb34ea66d2dc62942d0c96bf4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Bruce B                               |
 | Region          | 未知                               |

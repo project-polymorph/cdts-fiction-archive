@@ -20,7 +20,7 @@ TXT 下载: [[变身]_白玉袜-番外：小玥玥的一天.docx]([变身]_白�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24706 bytes                           |
 | MD5             | a9cd57fcf306be15430e7e44aa710ab9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

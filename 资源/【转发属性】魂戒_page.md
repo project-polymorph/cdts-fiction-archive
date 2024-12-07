@@ -20,7 +20,7 @@ TXT 下载: [【转发属性】魂戒.doc](【转发属性】魂戒.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 0a554488b970540f61dbe0d0dbe12292                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 深渊の王                               |
 | Region          | 未知                               |

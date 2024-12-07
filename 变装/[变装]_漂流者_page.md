@@ -20,7 +20,7 @@ TXT 下载: [[变装]_漂流者.doc]([变装]_漂流者.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 75264 bytes                           |
 | MD5             | e3293f5d1e36e4a7721c26e52f30a331                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kasumi                               |
 | Region          | 未知                               |

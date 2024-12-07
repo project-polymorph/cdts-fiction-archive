@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_杀手姊妹花（求码文）.docx]([皮物]_杀手姊妹
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17881 bytes                           |
 | MD5             | b1278ae4d0d5d2a75308f58de0408388                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

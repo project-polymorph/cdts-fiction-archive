@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_七彩布.docx]([皮物]_七彩布.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18874 bytes                           |
 | MD5             | c9365b3391fc971b8a5812e30e5fabdd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

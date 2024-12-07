@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申请码重发】修真炉鼎的重启人生1-7.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 81920 bytes                           |
 | MD5             | 9c55cbb6313577edaa0b660cd48e9e7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_亚马逊空军.doc]([皮物]_亚马逊空军.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 40fddca398f6b9ae6f36117f39763320                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

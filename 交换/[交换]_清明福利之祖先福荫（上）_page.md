@@ -20,7 +20,7 @@ TXT 下载: [[交换]_清明福利之祖先福荫（上）.doc]([交换]_清明�
 | Format          | Microsoft Word Document                               |
 | Size            | 70144 bytes                           |
 | MD5             | 7f7e972f965380c22a256534155f5bf1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

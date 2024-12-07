@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我家女友不定形【第十章】.doc]([皮物]_我家�
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 27fb158c27190efd7d24b7f131860041                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

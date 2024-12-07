@@ -20,7 +20,7 @@ TXT 下载: [[交换]_万万没想到终章.docx]([交换]_万万没想到终章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27874 bytes                           |
 | MD5             | 1852d061538a1b788cf73047a58c1181                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

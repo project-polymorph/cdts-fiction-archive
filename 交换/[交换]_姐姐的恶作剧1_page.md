@@ -20,7 +20,7 @@ TXT 下载: [[交换]_姐姐的恶作剧1.docx]([交换]_姐姐的恶作剧1.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35624 bytes                           |
 | MD5             | 4be2496190e0e96d77b79e7ae3526f20                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

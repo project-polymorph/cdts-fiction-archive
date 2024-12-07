@@ -20,7 +20,7 @@ TXT 下载: [[交换]_平常的一天.docx]([交换]_平常的一天.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25817 bytes                           |
 | MD5             | fa5d19d52f8536b5d4ff18c375c6963e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

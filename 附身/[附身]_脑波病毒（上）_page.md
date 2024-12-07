@@ -20,7 +20,7 @@ TXT 下载: [[附身]_脑波病毒（上）.docx]([附身]_脑波病毒（上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23280 bytes                           |
 | MD5             | aa7f206d50eccc480ba854528dcd251c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

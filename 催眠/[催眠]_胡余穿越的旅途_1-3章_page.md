@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_胡余穿越的旅途_1-3章.doc]([催眠]_胡余穿越的
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 619efa8b7619a88eb24653929f4552cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_符咒.docx]([交换]_符咒.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32469 bytes                           |
 | MD5             | d6066935f1a844fa675f24f2b2fc44ad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

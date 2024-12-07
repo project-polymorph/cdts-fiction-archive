@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_安乐·灭亡（上）.doc]([皮物]_安乐·灭亡（上
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 97df48e74b153b9fd5f69f69b1faa1e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

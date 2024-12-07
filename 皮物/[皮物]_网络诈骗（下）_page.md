@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_网络诈骗（下）.docx]([皮物]_网络诈骗（下）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 129818 bytes                           |
 | MD5             | c84dda735403b69b16fdaa62c9965ff6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

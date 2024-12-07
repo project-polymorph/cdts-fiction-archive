@@ -20,7 +20,7 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第四节.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17392 bytes                           |
 | MD5             | 4f82b7ce7425e3827dbb8d6dd62dc6a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_做一天女仆.docx]([变装]_做一天女仆.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31606 bytes                           |
 | MD5             | 7de23fdd96ba9e9011d49cfcf6e69572                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

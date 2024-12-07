@@ -20,7 +20,7 @@ TXT 下载: [[变身]_肠胃感冒.docx]([变身]_肠胃感冒.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23888 bytes                           |
 | MD5             | 62fba48ab19fc9c22b18055225432bb7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

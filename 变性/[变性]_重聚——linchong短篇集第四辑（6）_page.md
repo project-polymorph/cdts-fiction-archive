@@ -20,7 +20,7 @@ TXT 下载: [[变性]_重聚——linchong短篇集第四辑（6）.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20663 bytes                           |
 | MD5             | 3d053c90a071ab664a2f878ce9916d2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong / Julie Wright                               |
 | Region          | 未知                               |

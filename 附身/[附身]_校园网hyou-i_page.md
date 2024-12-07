@@ -20,7 +20,7 @@ TXT 下载: [[附身]_校园网hyou-i.docx]([附身]_校园网hyou-i.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 98843 bytes                           |
 | MD5             | 91753eb39fede66f69aeeb34ebcad2a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

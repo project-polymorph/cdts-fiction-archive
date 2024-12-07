@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的女友是外星人（一）——人生只若初见(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21945 bytes                           |
 | MD5             | 2dc40cfdfabd5f99aae0888172a43aee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_救妻行动.doc]([皮物]_救妻行动.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 3dfe7d5611716e5f9f43374b87802516                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

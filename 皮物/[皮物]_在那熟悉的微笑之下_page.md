@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_在那熟悉的微笑之下.docx]([皮物]_在那熟悉的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42458 bytes                           |
 | MD5             | 300f36510165fb7f92492083692d589f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | dffou                               |
 | Region          | 未知                               |

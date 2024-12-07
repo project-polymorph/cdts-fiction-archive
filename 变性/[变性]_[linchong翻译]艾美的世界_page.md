@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]艾美的世界.docx]([变性]_[linchong�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 67093 bytes                           |
 | MD5             | 255dc83c3a061c5f9d3925628eb0096b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Serena Lawhead                               |
 | Region          | 未知                               |

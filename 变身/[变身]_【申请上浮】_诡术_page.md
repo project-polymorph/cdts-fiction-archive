@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申请上浮】_诡术.docx]([变身]_【申请上浮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27996 bytes                           |
 | MD5             | 849c1544a6847f64469003fb500417e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

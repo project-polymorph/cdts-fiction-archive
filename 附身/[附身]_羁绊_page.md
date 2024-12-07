@@ -20,7 +20,7 @@ TXT 下载: [[附身]_羁绊.doc]([附身]_羁绊.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 77824 bytes                           |
 | MD5             | 6d9151b1775df368fc04609c079baf2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tira                               |
 | Region          | 未知                               |

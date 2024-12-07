@@ -20,7 +20,7 @@ TXT 下载: [[交换]_身体交换_[.docx]([交换]_身体交换_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20264 bytes                           |
 | MD5             | b19e4e4b0f35b8b3da5c71e24070f6f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

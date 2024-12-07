@@ -20,7 +20,7 @@ TXT 下载: [[变身]_不可思议的决斗者（申码文）.doc]([变身]_不�
 | Format          | Microsoft Word Document                               |
 | Size            | 62464 bytes                           |
 | MD5             | d3f29920dc336191bdb6b7e905f9e8eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

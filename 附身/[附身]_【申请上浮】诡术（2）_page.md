@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申请上浮】诡术（2）.docx]([附身]_【申请�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23202 bytes                           |
 | MD5             | 8f4b6d81ff2337dda0f4000c2b024f82                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

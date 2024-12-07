@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_因为爱情①.docx]([皮物]_因为爱情①.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21006 bytes                           |
 | MD5             | c2d9d4d620c173685fa4e7020e8adaba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

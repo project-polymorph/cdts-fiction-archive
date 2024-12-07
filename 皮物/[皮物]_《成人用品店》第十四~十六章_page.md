@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《成人用品店》第十四~十六章.doc]([皮物]_《
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 564af6cb5953845b0c90dbc92b6648c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_秀_(下).docx]([皮物]_秀_(下).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22303 bytes                           |
 | MD5             | 81609a6d0b9e3b7fc40d8cd8991eb127                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_荆棘王冠（13）.docx]([变身]_荆棘王冠（13）.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18698 bytes                           |
 | MD5             | b1cd5b61907b8448b094a8fb83f73804                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[变身]_【翻译】霍莉.docx]([变身]_【翻译】霍莉.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22253 bytes                           |
 | MD5             | fe94061cd6bc22d5259701bfc8cad322                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kim Ott                               |
 | Region          | 未知                               |

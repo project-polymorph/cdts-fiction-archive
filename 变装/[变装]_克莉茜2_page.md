@@ -20,7 +20,7 @@ TXT 下载: [[变装]_克莉茜2.doc]([变装]_克莉茜2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 12657cc8f58dafb3301dee8c90025d05                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

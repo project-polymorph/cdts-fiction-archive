@@ -20,7 +20,7 @@ TXT 下载: [[交换]_与圣殿的水遣士交换身体.docx]([交换]_与圣殿
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38423 bytes                           |
 | MD5             | 8c68fff15c675895ff278169b6474c72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

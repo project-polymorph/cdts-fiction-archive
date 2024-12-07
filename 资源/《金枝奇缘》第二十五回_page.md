@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第二十五回.doc](《金枝奇缘》第二十�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 84d8a8ef97d6e15645f1dc1eabe765b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

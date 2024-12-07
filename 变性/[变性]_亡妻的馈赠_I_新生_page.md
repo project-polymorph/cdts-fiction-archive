@@ -20,7 +20,7 @@ TXT 下载: [[变性]_亡妻的馈赠_I_新生.doc]([变性]_亡妻的馈赠_I_�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 8187e2bef731cfb6462475e88d2472af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

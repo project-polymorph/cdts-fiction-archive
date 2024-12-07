@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花开终有时_第九回_‘破局.docx]([变性]_花开�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33349 bytes                           |
 | MD5             | 4329af867432946669439e11408a8cdd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

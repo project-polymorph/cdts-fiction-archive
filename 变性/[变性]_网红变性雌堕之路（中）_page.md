@@ -20,7 +20,7 @@ TXT 下载: [[变性]_网红变性雌堕之路（中）.docx]([变性]_网红变
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17408 bytes                           |
 | MD5             | 7b24179ef61f9705b261f70a561845e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

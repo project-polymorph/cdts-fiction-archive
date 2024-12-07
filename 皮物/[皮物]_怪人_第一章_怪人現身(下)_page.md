@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪人_第一章_怪人現身(下).docx]([皮物]_怪人_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19035 bytes                           |
 | MD5             | 7773a9152a49d4b4636400f97cbe8720                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

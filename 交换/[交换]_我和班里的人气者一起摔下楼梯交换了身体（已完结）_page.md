@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我和班里的人气者一起摔下楼梯交换了身体�
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 76acdb6ac3e272aff87c3c44599fa14c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ファンタのコーラ味                               |
 | Region          | 未知                               |

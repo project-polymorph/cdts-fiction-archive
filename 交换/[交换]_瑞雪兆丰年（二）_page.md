@@ -20,7 +20,7 @@ TXT 下载: [[交换]_瑞雪兆丰年（二）.doc]([交换]_瑞雪兆丰年（�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 32c98bdc07d83fb26bf3b1b73782c790                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的继母是男人番外(月的故事)二_玻璃心.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19096 bytes                           |
 | MD5             | 1d1ca1afb6c2ae39d69083ce0b596828                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

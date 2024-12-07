@@ -20,7 +20,7 @@ TXT 下载: [[其他]_黑暗英雄傳說_第三卷.docx]([其他]_黑暗英雄�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30589 bytes                           |
 | MD5             | 031fb611dbc848ae25009a68605431f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | FP                               |
 | Region          | 未知                               |

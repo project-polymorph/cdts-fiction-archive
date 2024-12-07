@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能（序~五章整合）.docx]([附身]_无尽�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42699 bytes                           |
 | MD5             | 3b9d7aee8d6f6141bf1baef9db5e6258                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

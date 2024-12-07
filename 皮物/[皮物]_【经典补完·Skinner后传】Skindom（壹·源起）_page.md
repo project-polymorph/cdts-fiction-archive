@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【经典补完·Skinner后传】Skindom（壹·源起）.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45332 bytes                           |
 | MD5             | 83eeedc88ff5199dde2c55005291e7b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

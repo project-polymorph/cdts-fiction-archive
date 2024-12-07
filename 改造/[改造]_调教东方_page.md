@@ -20,7 +20,7 @@ TXT 下载: [[改造]_调教东方.doc]([改造]_调教东方.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 248832 bytes                           |
 | MD5             | c4186065d6c21d1e7a2ae5a9e3ea7fec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

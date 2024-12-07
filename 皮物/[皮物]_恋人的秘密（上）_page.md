@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_恋人的秘密（上）.doc]([皮物]_恋人的秘密（�
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | b70ba6ee718e1aa9f7c349df67d46232                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

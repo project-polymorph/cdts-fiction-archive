@@ -20,7 +20,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-SIX.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18693 bytes                           |
 | MD5             | b3c9ec2fc5af32c418180783576ef4b5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

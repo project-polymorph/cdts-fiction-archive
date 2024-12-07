@@ -20,7 +20,7 @@ TXT 下载: [[其他]_兽_上半部.docx]([其他]_兽_上半部.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32157 bytes                           |
 | MD5             | d033f94089612424752353efea25dc42                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 那一夜指导:Sage                               |
 | Region          | 未知                               |

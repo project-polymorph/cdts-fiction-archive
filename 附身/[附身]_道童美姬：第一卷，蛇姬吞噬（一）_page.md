@@ -20,7 +20,7 @@ TXT 下载: [[附身]_道童美姬：第一卷，蛇姬吞噬（一）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27041 bytes                           |
 | MD5             | e67d13f890562e797fd7978f61d6e5f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

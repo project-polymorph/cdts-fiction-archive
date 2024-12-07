@@ -20,7 +20,7 @@ TXT 下载: [厨师变娇娘.doc](厨师变娇娘.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 80eed8624cb3d72e3c5d27f72c1a9717                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

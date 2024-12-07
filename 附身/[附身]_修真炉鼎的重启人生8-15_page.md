@@ -20,7 +20,7 @@ TXT 下载: [[附身]_修真炉鼎的重启人生8-15.doc]([附身]_修真炉鼎
 | Format          | Microsoft Word Document                               |
 | Size            | 95744 bytes                           |
 | MD5             | 4835a591744ac61da92ebfe701623a5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

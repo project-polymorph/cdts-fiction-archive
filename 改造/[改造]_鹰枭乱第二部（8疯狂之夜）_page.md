@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱第二部（8疯狂之夜）.docx]([改造]_鹰�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17770 bytes                           |
 | MD5             | 7b5c2852dd2ff39eafd0aa53a72ddc10                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

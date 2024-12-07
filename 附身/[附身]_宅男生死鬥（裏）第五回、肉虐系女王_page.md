@@ -20,7 +20,7 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第五回、肉虐系女王.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30486 bytes                           |
 | MD5             | a4223a9102d2911f70b46ef4731c0a4c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

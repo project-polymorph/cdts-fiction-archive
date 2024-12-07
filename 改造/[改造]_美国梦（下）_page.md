@@ -20,7 +20,7 @@ TXT 下载: [[改造]_美国梦（下）.doc]([改造]_美国梦（下）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 2a5f18d774192f39d2d7b75f7c604297                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

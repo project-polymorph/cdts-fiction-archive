@@ -20,7 +20,7 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第二、三章（新增制图�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41027 bytes                           |
 | MD5             | 0bb3ff748be7a603f19a333ad3974cab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [【万万没想到】脱不去的人皮衣.doc](【万万没想到�
 | Format          | Microsoft Word Document                               |
 | Size            | 122880 bytes                           |
 | MD5             | 8bd3a0693a662b2f8f9ff366115d54a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【第7章】
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 635dc44ee5d59b0d3d6195d1cbd72574                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

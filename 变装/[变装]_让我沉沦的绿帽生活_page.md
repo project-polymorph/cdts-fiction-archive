@@ -20,7 +20,7 @@ TXT 下载: [[变装]_让我沉沦的绿帽生活.doc]([变装]_让我沉沦的�
 | Format          | Microsoft Word Document                               |
 | Size            | 76800 bytes                           |
 | MD5             | a3c91c4fb18d1987cdc1b84616f3e4ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | fulvopilosus                               |
 | Region          | 未知                               |

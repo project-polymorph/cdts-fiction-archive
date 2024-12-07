@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_菟丝，女萝和番韭.doc]([皮物]_菟丝，女萝和�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | ed6030fd1ac9d9c771cff1dd10865c5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

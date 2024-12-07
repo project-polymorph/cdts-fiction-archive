@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《没有想好名字的无限流》_第五章_人与非�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 60e819436fa720f4ae527e6fb0ca98c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

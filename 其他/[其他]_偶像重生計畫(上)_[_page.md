@@ -20,7 +20,7 @@ TXT 下载: [[其他]_偶像重生計畫(上)_[.docx]([其他]_偶像重生計�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20321 bytes                           |
 | MD5             | 6b4d089fdffdbd4f7aa9ea1d91d479a6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_别墅里的皮物事件.doc]([皮物]_别墅里的皮物�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 57de16e5d4f6335f079f89c8c8ce251e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

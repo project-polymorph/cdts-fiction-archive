@@ -20,7 +20,7 @@ TXT 下载: [[变身]_失败的盗窃2——失踪的好友.docx]([变身]_失�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18787 bytes                           |
 | MD5             | f0eaa2746409589b51ad9e75bea8ba87                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

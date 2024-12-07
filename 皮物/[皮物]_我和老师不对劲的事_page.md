@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我和老师不对劲的事.doc]([皮物]_我和老师不�
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | c8e0516b7b22175194bbc0b7cb8f875a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

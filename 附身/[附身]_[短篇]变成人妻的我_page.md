@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[短篇]变成人妻的我.docx]([附身]_[短篇]变成�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18641 bytes                           |
 | MD5             | f5f46b3eed3f7dae2772a78e9c63d807                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | True                               |
 | Region          | 未知                               |

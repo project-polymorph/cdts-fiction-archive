@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_ｅｆｕｎｓ短篇集　　【針孔偷窺】.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | 087fb174b0355d7d27ad1a8991d8f83a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

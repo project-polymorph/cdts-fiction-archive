@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士_24_轮回.docx]([皮物]_皮术士_24_轮回.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25255 bytes                           |
 | MD5             | b77401c0d9e1b83c2ca80b814f724ef1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

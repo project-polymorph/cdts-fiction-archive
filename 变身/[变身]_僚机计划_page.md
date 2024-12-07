@@ -20,7 +20,7 @@ TXT 下载: [[变身]_僚机计划.doc]([变身]_僚机计划.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 4a0f5a40fb19906a066ac10363b4e60f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

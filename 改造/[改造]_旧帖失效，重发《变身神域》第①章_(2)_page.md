@@ -20,7 +20,7 @@ TXT 下载: [[改造]_旧帖失效，重发《变身神域》第①章_(2).docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51361 bytes                           |
 | MD5             | 0c5ff247f7b28a48ddc18a1bf640b625                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

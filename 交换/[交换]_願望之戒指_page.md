@@ -22,7 +22,7 @@ TXT 下载: [[交换]_願望之戒指.docx]([交换]_願望之戒指.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28058 bytes                           |
 | MD5             | ca8b6ddbc72138a3e18a4d1cd8ddc5a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 英明                               |
 | Region          | 未知                               |

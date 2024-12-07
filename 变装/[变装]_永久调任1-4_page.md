@@ -20,7 +20,7 @@ TXT 下载: [[变装]_永久调任1-4.docx]([变装]_永久调任1-4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32000 bytes                           |
 | MD5             | 52ea5c7d86978d5edd9a9a2d6df26e68                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kerrin Campbell                               |
 | Region          | 美国                               |

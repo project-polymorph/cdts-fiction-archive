@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译】我的变装启蒙之旅（申码文）.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 150528 bytes                           |
 | MD5             | 0d56e758aef5ad55e40d5f27a4bd8de0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | cdandy；翻译者：pantyhose4ever                               |
 | Region          | 未知                               |

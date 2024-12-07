@@ -20,7 +20,7 @@ TXT 下载: [[改造]_如果是可爱的男孩子得到了诅咒铠甲1-3.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 67072 bytes                           |
 | MD5             | 6b1800796a5a2da922ac4c25a55bf173                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

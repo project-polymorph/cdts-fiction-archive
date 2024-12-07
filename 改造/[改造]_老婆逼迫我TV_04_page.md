@@ -20,7 +20,7 @@ TXT 下载: [[改造]_老婆逼迫我TV_04.docx]([改造]_老婆逼迫我TV_04.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31710 bytes                           |
 | MD5             | c2344bbf1a07098bfd07da011fa4b59b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

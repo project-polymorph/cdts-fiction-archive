@@ -20,7 +20,7 @@ TXT 下载: [[交换]_被我夺去的双叶老师.docx]([交换]_被我夺去的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50284 bytes                           |
 | MD5             | 7356a09e352bf8b13519bc86666f6b9a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | せなちか                               |
 | Region          | 未知                               |

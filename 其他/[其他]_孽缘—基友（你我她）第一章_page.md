@@ -20,7 +20,7 @@ TXT 下载: [[其他]_孽缘—基友（你我她）第一章.docx]([其他]_孽
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20700 bytes                           |
 | MD5             | 1031fda206a1dfb6f1df3742d313039e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

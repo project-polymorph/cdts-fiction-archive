@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_这不是西游记_[.docx]([皮物]_这不是西游记_[.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25211 bytes                           |
 | MD5             | 1650eec78bbf4a79a2e9541fa5d5445c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

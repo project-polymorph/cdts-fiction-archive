@@ -20,7 +20,7 @@ TXT 下载: [[其他]_[翻译+改篇]_英语先生景子外传︰春川熏最初
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38373 bytes                           |
 | MD5             | 6147ae1c4b96a0b0cd0e35bf551adbed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

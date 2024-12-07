@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】五十多岁的女仆！第1-8章.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 59305 bytes                           |
 | MD5             | 2b2a86c134885df7e7377c8174728b68                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

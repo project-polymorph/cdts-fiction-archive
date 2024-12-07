@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_短篇.docx]([皮物]_短篇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19112 bytes                           |
 | MD5             | 104f78b2ff48cc193096deee42e2fa26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_新生的家庭2.docx]([变身]_新生的家庭2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23328 bytes                           |
 | MD5             | bad707bbfda7256ab22fb7aa9291d063                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_逆转人生_10.docx]([交换]_逆转人生_10.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20566 bytes                           |
 | MD5             | 3724d52633e1f0d7bd71af5c9a1ff00e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

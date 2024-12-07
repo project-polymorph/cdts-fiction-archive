@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔法少女星露③.docx]([附身]_魔法少女星露③
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于性别变换与自我探索的小说《雾霭里的晴天》，讲述了角色蓝星露在与猥琐男的互动中经历的奇幻冒险。故事中，蓝星露通过魔法少女的能力进入了其他人的身体，体验到了身体和性别的不同。文本包含大量的性暗示和情色场景，并探讨了角色如何在性和自我认同之间进行斗争。故事涉及时间冻结、灵魂转移等元素，使得角色对自己身体的使用产生了复杂的心理变化。文中出现的句子，如“我可不希望让她在小的时候就迷恋上性的快感”，展示了角色对性成长的担忧和对身体控制的挣扎。整体氛围既充满想象力，又伴随着对性别与身份的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔法少女星露③.docx]([附身]_魔法少女星露③
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37075 bytes                           |
 | MD5             | 90d1ade43ab80c9ca0994ff4c269de6d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 变身, 跨性别, 自我认同, 虚拟现实, 少年, 魔法少女, 校园, 灵魂交换, 伦理争议, 性意识, 异世界, 操控幻想, 强奸, 调教, 独特视角, 性别探索, 现代都市, 奇幻冒险, 心理剧, 医学改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

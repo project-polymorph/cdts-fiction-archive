@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_永久脱毛.doc]([皮物]_永久脱毛.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | fe0df7206116cc678ec4f9b5adf934d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 灯台守                               |
 | Region          | 未知                               |

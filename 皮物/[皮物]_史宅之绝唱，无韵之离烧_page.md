@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_史宅之绝唱，无韵之离烧.docx]([皮物]_史宅之
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 76927 bytes                           |
 | MD5             | d7a87127aaa197df2c81644ec5c42c40                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

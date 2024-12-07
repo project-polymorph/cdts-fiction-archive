@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天地传说之圣眼_十五_邪气进化.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21168 bytes                           |
 | MD5             | 820a8e2cf785647ddf677fa48151d6fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

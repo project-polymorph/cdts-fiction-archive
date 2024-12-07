@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[华代系列同人]暗恋.doc]([变身]_[华代系列同�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 50e11c21690ae77dea16d69f14ed935e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 子由理                               |
 | Region          | 未知                               |

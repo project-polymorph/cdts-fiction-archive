@@ -20,7 +20,7 @@ TXT 下载: [[附身]_竖子尔敢！.doc]([附身]_竖子尔敢！.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | f024866d023f6629f364bbf4718ddd28                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

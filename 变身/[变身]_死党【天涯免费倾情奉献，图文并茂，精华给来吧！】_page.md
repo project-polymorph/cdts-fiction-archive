@@ -20,7 +20,7 @@ TXT 下载: [[变身]_死党【天涯免费倾情奉献，图文并茂，精华�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42173 bytes                           |
 | MD5             | ff5e5832247c4eb35df6971a6630c62d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Joe Six-pack                               |
 | Region          | 未知                               |

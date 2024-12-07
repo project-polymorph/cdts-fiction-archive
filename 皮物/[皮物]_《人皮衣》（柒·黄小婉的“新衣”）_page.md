@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《人皮衣》（柒·黄小婉的“新衣”）.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 1a4bbffe54b53b371fda335197de0278                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

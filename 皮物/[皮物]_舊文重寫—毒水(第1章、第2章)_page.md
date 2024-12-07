@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_舊文重寫—毒水(第1章、第2章).docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22649 bytes                           |
 | MD5             | b3f72b6dca6061a7e7d6cf2f98c8d816                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

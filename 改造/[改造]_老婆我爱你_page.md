@@ -20,7 +20,7 @@ TXT 下载: [[改造]_老婆我爱你.doc]([改造]_老婆我爱你.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 299008 bytes                           |
 | MD5             | 221e4d1511398ed372a480f2aad8d7d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

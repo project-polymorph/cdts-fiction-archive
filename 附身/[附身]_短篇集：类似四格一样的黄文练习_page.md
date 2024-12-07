@@ -20,7 +20,7 @@ TXT 下载: [[附身]_短篇集：类似四格一样的黄文练习.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29257 bytes                           |
 | MD5             | 938a839d916d4574151c4b0f3459372c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

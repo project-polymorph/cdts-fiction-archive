@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_喉舌计划——（二十、二十一、二十二章）.
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | 28e45965d52fd61b0c329d0b5e2f9ed0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

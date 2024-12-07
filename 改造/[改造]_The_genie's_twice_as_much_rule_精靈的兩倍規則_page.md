@@ -20,7 +20,7 @@ TXT 下载: [[改造]_The_genie's_twice_as_much_rule_精靈的兩倍規則.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17935 bytes                           |
 | MD5             | c4059a7f83ae993c9f0edbdc8d0b181d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

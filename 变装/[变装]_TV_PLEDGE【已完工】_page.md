@@ -20,7 +20,7 @@ TXT 下载: [[变装]_TV_PLEDGE【已完工】.doc]([变装]_TV_PLEDGE【已完�
 | Format          | Microsoft Word Document                               |
 | Size            | 134656 bytes                           |
 | MD5             | 6188b0a133b47ddbdeaf2c05de8c13ab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | c.c.                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我的高考——人生可以重来.doc]([附身]_我的�
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | a2034cf46c4a69e577c6ba33e040d09c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

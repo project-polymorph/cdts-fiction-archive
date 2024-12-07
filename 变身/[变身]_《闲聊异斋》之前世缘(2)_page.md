@@ -22,7 +22,7 @@ TXT 下载: [[变身]_《闲聊异斋》之前世缘(2).doc]([变身]_《闲聊�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | f0b2791134aa86ef2ae2ef07f7cffdbe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

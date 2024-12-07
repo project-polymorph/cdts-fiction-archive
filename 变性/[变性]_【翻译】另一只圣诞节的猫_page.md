@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】另一只圣诞节的猫.doc]([变性]_【翻�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 55597fe96586903b5fb2035cc2b77eed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Paula Girl，翻译：魔之天涯                               |
 | Region          | 未知                               |

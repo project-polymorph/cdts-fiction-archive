@@ -20,7 +20,7 @@ TXT 下载: [[附身]_学园日记　诗乃篇.docx]([附身]_学园日记　诗
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37118 bytes                           |
 | MD5             | 3a376040bac7fe802fe60812cf26a45a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_说好的论文，论变身小说的两种流派.doc]([其
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 2c1419e60c074ccc10d897705b42f7bb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

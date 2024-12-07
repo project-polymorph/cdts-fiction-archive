@@ -20,7 +20,7 @@ TXT 下载: [[交换]_小弟的背叛使他成了被绑票的空姐.doc]([交换
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | fd5fc90746f7d39f5c8640fb90a9b74e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

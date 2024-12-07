@@ -20,7 +20,7 @@ TXT 下载: [[变身]_堕落时代_第一章.doc]([变身]_堕落时代_第一�
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 2de0a2164ada4e0547ed4df454cb4517                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

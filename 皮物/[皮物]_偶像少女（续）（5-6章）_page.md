@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_偶像少女（续）（5-6章）.docx]([皮物]_偶像少
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23059 bytes                           |
 | MD5             | 94b280dffc2dc90051df195dda39180e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蓝晶8_[.docx]([附身]_蓝晶8_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20714 bytes                           |
 | MD5             | b56382d29a650e3a099ac5e998acd7da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

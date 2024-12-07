@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_平和，痛，并快乐着的同居生活（下）.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 87040 bytes                           |
 | MD5             | b8988b824dca0021440ee6d53682bbd4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | S道人                               |
 | Region          | 未知                               |

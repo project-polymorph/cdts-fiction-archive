@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寻觅伊甸园8~14.docx]([皮物]_寻觅伊甸园8~14.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 59296 bytes                           |
 | MD5             | bef3c6581eb660854052e3184728f46a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

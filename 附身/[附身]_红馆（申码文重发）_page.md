@@ -20,7 +20,7 @@ TXT 下载: [[附身]_红馆（申码文重发）.doc]([附身]_红馆（申码�
 | Format          | Microsoft Word Document                               |
 | Size            | 188928 bytes                           |
 | MD5             | fb5632c37e62c6451e5affbb9c67c4d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

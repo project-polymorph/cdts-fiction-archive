@@ -20,7 +20,7 @@ TXT 下载: [[其他]_Kat's_Eyes_3.docx]([其他]_Kat's_Eyes_3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17253 bytes                           |
 | MD5             | d2b00f99fe51695b16858e7c45d7d751                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

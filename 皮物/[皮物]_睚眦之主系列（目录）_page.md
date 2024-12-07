@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_睚眦之主系列（目录）.doc]([皮物]_睚眦之主�
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | c7623c90f9f1adf7afcaa96baaa2cb8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 卡特琳娜·赫拉姆                               |
 | Region          | 未知                               |

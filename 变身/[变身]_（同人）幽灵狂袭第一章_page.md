@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（同人）幽灵狂袭第一章.doc]([变身]_（同人�
 | Format          | Microsoft Word Document                               |
 | Size            | 68608 bytes                           |
 | MD5             | f4b196b69372755dbb542b289b2aefc3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

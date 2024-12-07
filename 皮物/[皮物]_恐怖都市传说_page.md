@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_恐怖都市传说.docx]([皮物]_恐怖都市传说.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21293 bytes                           |
 | MD5             | 1513661dfcb19e89e31fc08479097b77                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

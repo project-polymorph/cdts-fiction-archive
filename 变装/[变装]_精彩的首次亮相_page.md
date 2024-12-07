@@ -20,7 +20,7 @@ TXT 下载: [[变装]_精彩的首次亮相.docx]([变装]_精彩的首次亮相
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20110 bytes                           |
 | MD5             | d14b895ed7b441ecdb68b67bd8858a8a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sissy Slut Ally                               |
 | Region          | 未知                               |

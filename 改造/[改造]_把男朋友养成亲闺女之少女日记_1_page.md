@@ -20,7 +20,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女之少女日记_1.doc]([改造]
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 5f84f06cac48c5e56d41cd6605747c33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Nicegent429                               |
 | Region          | 未知                               |

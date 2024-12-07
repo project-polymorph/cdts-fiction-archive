@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身“美女”的遭遇.doc]([变身]_变身“美女�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 4498d075920386bbb4e296d4cc7b6c72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

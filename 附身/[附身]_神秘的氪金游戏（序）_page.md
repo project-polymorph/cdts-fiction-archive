@@ -20,7 +20,7 @@ TXT 下载: [[附身]_神秘的氪金游戏（序）.docx]([附身]_神秘的氪
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20494 bytes                           |
 | MD5             | 3e6b144775da0034aab69f28f29d874d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

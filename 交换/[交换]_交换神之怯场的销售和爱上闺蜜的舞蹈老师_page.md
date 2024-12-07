@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换神之怯场的销售和爱上闺蜜的舞蹈老师.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23600 bytes                           |
 | MD5             | ef2ee266f9ba01a3b5e28065cb134617                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

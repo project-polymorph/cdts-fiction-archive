@@ -22,7 +22,7 @@ TXT 下载: [[改造]_小流氓_第五章.docx]([改造]_小流氓_第五章.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22191 bytes                           |
 | MD5             | 6ba5e4371aba91ac2763823eefa0d0db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

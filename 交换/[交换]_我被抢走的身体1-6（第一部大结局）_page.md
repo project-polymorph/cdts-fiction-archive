@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我被抢走的身体1-6（第一部大结局）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26375 bytes                           |
 | MD5             | f4ba0e507dd16058e752dd6d92f72a36                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

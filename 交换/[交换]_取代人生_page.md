@@ -20,7 +20,7 @@ TXT 下载: [[交换]_取代人生.doc]([交换]_取代人生.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 2ca148a4052064fc7556761052373aed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 心里的影子                               |
 | Region          | 未知                               |

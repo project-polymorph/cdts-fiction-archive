@@ -20,7 +20,7 @@ TXT 下载: [[变装]_小曦的日常小故事之前列腺风波之二_黑色丝
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 40e91fe737fa14c049f7745c6fcb0939                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

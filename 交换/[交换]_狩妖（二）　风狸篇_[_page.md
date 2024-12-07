@@ -20,7 +20,7 @@ TXT 下载: [[交换]_狩妖（二）　风狸篇_[.docx]([交换]_狩妖（二�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44632 bytes                           |
 | MD5             | 2341b7c6cb9bf26796366dbb11f85d93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

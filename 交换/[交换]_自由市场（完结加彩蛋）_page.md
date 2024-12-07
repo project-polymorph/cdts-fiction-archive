@@ -20,7 +20,7 @@ TXT 下载: [[交换]_自由市场（完结加彩蛋）.doc]([交换]_自由市�
 | Format          | Microsoft Word Document                               |
 | Size            | 62464 bytes                           |
 | MD5             | dacd4da07a064c35c9ceee55a688d616                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

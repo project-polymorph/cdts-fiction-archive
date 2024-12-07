@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】师父大人说的话——在启程前便结�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 24c799eb65a3011767eef156e851f2c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_The_Costume(1).docx]([变性]_The_Costume(1).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20127 bytes                           |
 | MD5             | 1451c6fbb79013ddc7d640097c192464                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Arecee                               |
 | Region          | 未知                               |

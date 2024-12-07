@@ -21,7 +21,7 @@ TXT 下载: [[变身]_拟态忍者_序章.doc]([变身]_拟态忍者_序章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | 61fd00ce6995a054f0155b45be3a8a06                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

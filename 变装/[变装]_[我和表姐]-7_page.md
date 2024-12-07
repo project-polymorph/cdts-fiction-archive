@@ -20,7 +20,7 @@ TXT 下载: [[变装]_[我和表姐]-7.doc]([变装]_[我和表姐]-7.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 872bfdb8d57809dcba13eef8fc21a55f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

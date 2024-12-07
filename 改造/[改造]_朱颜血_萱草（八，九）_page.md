@@ -20,7 +20,7 @@ TXT 下载: [[改造]_朱颜血_萱草（八，九）.doc]([改造]_朱颜血_�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 024a021fc7c475a3f95b686c590317db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

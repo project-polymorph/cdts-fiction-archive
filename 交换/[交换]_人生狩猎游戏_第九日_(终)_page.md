@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人生狩猎游戏_第九日_(终).doc]([交换]_人生狩
 | Format          | Microsoft Word Document                               |
 | Size            | 59904 bytes                           |
 | MD5             | 88d763e5ff8a76284ecf7389e6147e28                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[变装]_夏威夷假日_7_12.doc]([变装]_夏威夷假日_7_12.do
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | cfd6e68ec419532e93eafec60e0560c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Clara                               |
 | Region          | 未知                               |

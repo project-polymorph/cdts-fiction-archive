@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_吴天和陈雪_上.docx]([皮物]_吴天和陈雪_上.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19727 bytes                           |
 | MD5             | 61ab47346005291fa3e742a001fa94c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

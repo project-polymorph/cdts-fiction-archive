@@ -20,7 +20,7 @@ TXT 下载: [[其他]_娛樂圈暗黑紀事(Underworld_Idol).doc]([其他]_娛�
 | Format          | Microsoft Word Document                               |
 | Size            | 175104 bytes                           |
 | MD5             | f60dfd768a903ee71ff745789c0e9f1b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

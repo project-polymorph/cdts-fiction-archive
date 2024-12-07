@@ -20,7 +20,7 @@ TXT 下载: [[变身]_衣服（十九）.doc]([变身]_衣服（十九）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | a01749e3957437989caf5a9d37bf9479                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

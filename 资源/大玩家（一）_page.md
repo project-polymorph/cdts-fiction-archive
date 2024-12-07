@@ -20,7 +20,7 @@ TXT 下载: [大玩家（一）.doc](大玩家（一）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | 72ccd28ada1e67296db566af5c27486b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

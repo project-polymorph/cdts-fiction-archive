@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_邪之道C.docx]([皮物]_邪之道C.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26296 bytes                           |
 | MD5             | 3c8796121df8dcf30e9127c1949b6437                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

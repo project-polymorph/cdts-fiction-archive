@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_《我是谁？》_序+第一章.doc]([催眠]_《我是�
 | Format          | Microsoft Word Document                               |
 | Size            | 96768 bytes                           |
 | MD5             | 3c382311fa4d4867e917ba2300642f4e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

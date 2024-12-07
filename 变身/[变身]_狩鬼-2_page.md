@@ -20,7 +20,7 @@ TXT 下载: [[变身]_狩鬼-2.docx]([变身]_狩鬼-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44247 bytes                           |
 | MD5             | 9523d6fc0b6f4624ba4ca47aa78a4457                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 忘卻                               |
 | Region          | 中国大陆                               |

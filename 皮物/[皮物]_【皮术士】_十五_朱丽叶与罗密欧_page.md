@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮术士】_十五_朱丽叶与罗密欧.doc]([皮物]
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | d0ede49e2500a4c4063e2b93a7a47ace                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -24,7 +24,7 @@ TXT 下载: [[交换]_猎心（八）.docx]([交换]_猎心（八）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33066 bytes                           |
 | MD5             | 8da2314f684ec6846a079093df8986ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

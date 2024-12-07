@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《牧神记同人》第二章_作者：天天吃稀饭.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44340 bytes                           |
 | MD5             | 69914307b37fcbf5af8cc7526a9e4438                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 天天吃稀饭                               |
 | Region          | 未知                               |

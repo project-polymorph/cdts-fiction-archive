@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【秘密游戏】.doc]([附身]_【秘密游戏】.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 102912 bytes                           |
 | MD5             | d1474316beb8b40247f9942782098d9d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

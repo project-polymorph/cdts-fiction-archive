@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【同人向】丝魅_四.doc]([附身]_【同人向】丝
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 5b899dff32bb6be25df9de40e120f823                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

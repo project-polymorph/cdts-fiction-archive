@@ -20,7 +20,7 @@ TXT 下载: [[变装]_在接待室接待客人.doc]([变装]_在接待室接待�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | e086498a91636d07777e852e30e7be27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sissy Slut Ally                               |
 | Region          | 未知                               |

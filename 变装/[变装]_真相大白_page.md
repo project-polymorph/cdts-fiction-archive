@@ -20,7 +20,7 @@ TXT 下载: [[变装]_真相大白.doc]([变装]_真相大白.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | c423e0e297f4a0e82731894b7f9fcbe1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rebecca Klein (译者：露娜·埃葵斯)                               |
 | Region          | 未知                               |

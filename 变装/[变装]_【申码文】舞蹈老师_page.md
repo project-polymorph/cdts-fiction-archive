@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【申码文】舞蹈老师.doc]([变装]_【申码文】�
 | Format          | Microsoft Word Document                               |
 | Size            | 87552 bytes                           |
 | MD5             | 921ec5c1adf248cb14b947bb027c5363                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_想被侵犯的勇者２．系統是，需要確認的.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25932 bytes                           |
 | MD5             | 9bb6737181854386901553c6c00c9cd7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

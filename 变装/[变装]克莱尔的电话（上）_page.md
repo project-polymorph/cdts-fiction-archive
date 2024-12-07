@@ -20,7 +20,7 @@ TXT 下载: [[变装]克莱尔的电话（上）.doc]([变装]克莱尔的电话
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 397d729fc736b0ad341b026b5836076c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

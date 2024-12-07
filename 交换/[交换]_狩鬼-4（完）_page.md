@@ -20,7 +20,7 @@ TXT 下载: [[交换]_狩鬼-4（完）.docx]([交换]_狩鬼-4（完）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41374 bytes                           |
 | MD5             | b660429d6e3d21c8e8e6dac727f5dc01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 狩鬼 作者                               |
 | Region          | 中国大陆                               |

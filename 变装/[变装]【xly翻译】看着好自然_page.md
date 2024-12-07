@@ -20,7 +20,7 @@ TXT 下载: [[变装]【xly翻译】看着好自然.doc]([变装]【xly翻译】
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 7535eebbeb97d2e72af53e0411c69171                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

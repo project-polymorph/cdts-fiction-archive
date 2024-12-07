@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《一回神，我的身體已經打開了信箱，還自�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 631dd4349856161d3e976b7a36e489cd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

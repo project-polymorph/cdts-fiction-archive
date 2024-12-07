@@ -20,7 +20,7 @@ TXT 下载: [[其他]_异化（更新到其三）.docx]([其他]_异化（更新
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28451 bytes                           |
 | MD5             | 911c8b46c039c7ab4634bf85fb788559                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 果壳中的国王                               |
 | Region          | 中国大陆                               |

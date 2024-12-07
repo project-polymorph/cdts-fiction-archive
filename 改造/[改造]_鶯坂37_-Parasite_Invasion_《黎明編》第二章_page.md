@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鶯坂37_-Parasite_Invasion_《黎明編》第二章.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43218 bytes                           |
 | MD5             | 68f622f48551b0415c4c29358bddd959                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

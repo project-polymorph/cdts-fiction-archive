@@ -20,7 +20,7 @@ TXT 下载: [[变装]_从金变成金伯丽_8.docx]([变装]_从金变成金伯�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24602 bytes                           |
 | MD5             | 156f0ee1d436011ab7f9264db5c5254d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

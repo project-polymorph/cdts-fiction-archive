@@ -20,7 +20,7 @@ TXT 下载: [[变身]_華代酱系列“不景气”.docx]([变身]_華代酱系
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19310 bytes                           |
 | MD5             | b7ba48aea551ea2229808003cdeff896                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

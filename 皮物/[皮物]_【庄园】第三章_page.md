@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【庄园】第三章.doc]([皮物]_【庄园】第三章.
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | 76cd380eedec03d0b988ff639138b339                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

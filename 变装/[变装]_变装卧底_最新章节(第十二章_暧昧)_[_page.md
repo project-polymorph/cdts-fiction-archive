@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装卧底_最新章节(第十二章_暧昧)_[.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32396 bytes                           |
 | MD5             | f29c8439167fa9784aaba02b496be25d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

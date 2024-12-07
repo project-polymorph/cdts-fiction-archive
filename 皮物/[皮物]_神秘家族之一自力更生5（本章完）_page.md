@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_神秘家族之一自力更生5（本章完）.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22414 bytes                           |
 | MD5             | 34ad1a045268292fdd545f70debd1974                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

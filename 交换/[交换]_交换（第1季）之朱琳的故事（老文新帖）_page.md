@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换（第1季）之朱琳的故事（老文新帖）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 124416 bytes                           |
 | MD5             | 15d15d305c8c24ae4aad8b76d562d54b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

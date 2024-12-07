@@ -20,7 +20,7 @@ TXT 下载: [[变性]_残身(第四至六节).doc]([变性]_残身(第四至六�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 226e145c0d5295b8ef2381d5f3dbf175                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

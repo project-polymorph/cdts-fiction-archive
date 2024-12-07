@@ -20,7 +20,7 @@ TXT 下载: [[附身]_轉身體驗快門(三).docx]([附身]_轉身體驗快門(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20710 bytes                           |
 | MD5             | adc30653d903cd41e4d472e659b715bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 真主之剑                               |
 | Region          | 未知                               |

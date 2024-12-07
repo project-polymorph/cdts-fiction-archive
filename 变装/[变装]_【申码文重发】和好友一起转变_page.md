@@ -22,7 +22,7 @@ TXT 下载: [[变装]_【申码文重发】和好友一起转变.doc]([变装]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | d6a270511e6b5fb1b858651093e2df89                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | solenanthus                               |
 | Region          | 未知                               |

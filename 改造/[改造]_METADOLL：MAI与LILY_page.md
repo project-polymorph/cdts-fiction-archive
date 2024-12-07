@@ -20,7 +20,7 @@ TXT 下载: [[改造]_METADOLL：MAI与LILY.doc]([改造]_METADOLL：MAI与LILY.
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 3b9ec6b016f9664b3963eca2e9119a8c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

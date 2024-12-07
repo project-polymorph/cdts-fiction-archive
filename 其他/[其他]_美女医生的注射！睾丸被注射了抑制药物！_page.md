@@ -20,7 +20,7 @@ TXT 下载: [[其他]_美女医生的注射！睾丸被注射了抑制药物！.
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | eaf901baa60dee5549e13e6a5ddeb04e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | issei様                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《这不是魔法少女！.doc]([其他]_《这不是魔�
 | Format          | Microsoft Word Document                               |
 | Size            | 266240 bytes                           |
 | MD5             | 3f81b2e6e7e6a1f825a758652f6e3d95                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

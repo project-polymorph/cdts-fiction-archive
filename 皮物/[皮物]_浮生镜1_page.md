@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_浮生镜1.doc]([皮物]_浮生镜1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | f108109d23a08537422d323af1599eb4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申码文搬运】天罚.doc]([变身]_【申码文搬�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | cf7e08b6748e4dd859907fb51a9236a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

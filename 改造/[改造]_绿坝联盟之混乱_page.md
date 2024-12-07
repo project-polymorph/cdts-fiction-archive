@@ -20,7 +20,7 @@ TXT 下载: [[改造]_绿坝联盟之混乱.docx]([改造]_绿坝联盟之混乱
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 109627 bytes                           |
 | MD5             | ffbbe967e19f45dd97727022fa9d022d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

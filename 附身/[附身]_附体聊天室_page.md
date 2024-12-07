@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附体聊天室.doc]([附身]_附体聊天室.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 5bc09475869a24431d2f46343d1839c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

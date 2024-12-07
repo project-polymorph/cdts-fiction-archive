@@ -20,7 +20,7 @@ TXT 下载: [[变装]_奴隶“女”社员（1-10）.doc]([变装]_奴隶“女
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 6372713333347eeda1b32c3990a56f3d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_夏娃之泪（第一章&第二章）.docx]([附身]_夏�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23536 bytes                           |
 | MD5             | ff85ca634cfa096fb9623397bb4443d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

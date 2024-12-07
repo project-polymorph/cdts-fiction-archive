@@ -20,7 +20,7 @@ TXT 下载: [[交换]_SCARLET-第八章[LoL].docx]([交换]_SCARLET-第八章[Lo
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55934 bytes                           |
 | MD5             | 6de245a3a6bb09ea0670c594af55e2c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jessica Drew                               |
 | Region          | 未知                               |

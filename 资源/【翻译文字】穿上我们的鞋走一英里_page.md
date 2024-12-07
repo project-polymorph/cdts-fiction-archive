@@ -20,7 +20,7 @@ TXT 下载: [【翻译文字】穿上我们的鞋走一英里.doc](【翻译文�
 | Format          | Microsoft Word Document                               |
 | Size            | 120832 bytes                           |
 | MD5             | d6a6387aed3599de0386039c2727cfbc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | SfcSam                               |
 | Region          | 未知                               |

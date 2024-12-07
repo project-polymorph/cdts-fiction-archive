@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_室友.docx]([皮物]_室友.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21739 bytes                           |
 | MD5             | 10af9b3fba90f3c4c1e1eb4f563c0c82                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

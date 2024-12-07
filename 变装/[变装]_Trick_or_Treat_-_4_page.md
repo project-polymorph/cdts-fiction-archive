@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Trick_or_Treat_-_4.doc]([变装]_Trick_or_Treat_-_4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 105472 bytes                           |
 | MD5             | eb6cd97dc5b9db140d6d3a957c12c339                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

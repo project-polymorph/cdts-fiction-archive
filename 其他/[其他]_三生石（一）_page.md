@@ -20,7 +20,7 @@ TXT 下载: [[其他]_三生石（一）.docx]([其他]_三生石（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22917 bytes                           |
 | MD5             | 725c43566566affbc5031d7ed7003012                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_这是个超能力时代.docx]([交换]_这是个超能力
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19214 bytes                           |
 | MD5             | 18e7481337c5a90fa0efd1e5916392e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

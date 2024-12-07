@@ -20,7 +20,7 @@ TXT 下载: [[改造]_the_volunteer.docx]([改造]_the_volunteer.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 67587 bytes                           |
 | MD5             | 04fb66aee2e24b1fa1641152eedb6946                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | O2BeLISA                               |
 | Region          | 未知                               |

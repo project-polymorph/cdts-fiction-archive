@@ -22,7 +22,7 @@ TXT 下载: [[改造]_从花花公子到花瓶妻子（下）.doc]([改造]_从�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | a404a6e11df187ae5836faaae49bb04a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

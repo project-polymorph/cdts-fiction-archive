@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《隐退的独裁者》.doc]([改造]_《隐退的独裁�
 | Format          | Microsoft Word Document                               |
 | Size            | 3512320 bytes                           |
 | MD5             | 547e4a871464d2c2a01c544f0656d263                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 韩国                               |

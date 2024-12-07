@@ -20,7 +20,7 @@ TXT 下载: [[附身]_变态桑要裂开.doc]([附身]_变态桑要裂开.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 633a530752b3d8704ed1428ed0293420                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

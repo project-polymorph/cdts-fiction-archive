@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第三章.doc]([皮物]_画皮
 | Format          | Microsoft Word Document                               |
 | Size            | 73216 bytes                           |
 | MD5             | f4254a6a7b3d8036e1acbc86a89869ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

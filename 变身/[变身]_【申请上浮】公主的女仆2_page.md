@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申请上浮】公主的女仆2.docx]([变身]_【申�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22656 bytes                           |
 | MD5             | 31939072d5369f84c9e90c23c704a345                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

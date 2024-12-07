@@ -22,7 +22,7 @@ TXT 下载: [[变装]_战争失利.docx]([变装]_战争失利.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27499 bytes                           |
 | MD5             | 23d55f69d325e765fe0a08e935689790                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

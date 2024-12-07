@@ -20,7 +20,7 @@ TXT 下载: [[改造]_清洁女工（Clean_girl）.docx]([改造]_清洁女工�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25276 bytes                           |
 | MD5             | 24dff8c497be75a25982e7036e732ebc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

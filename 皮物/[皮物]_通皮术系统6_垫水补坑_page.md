@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_通皮术系统6_垫水补坑.docx]([皮物]_通皮术系�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29184 bytes                           |
 | MD5             | 1fff95af372d3ca2a48428621c035f61                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

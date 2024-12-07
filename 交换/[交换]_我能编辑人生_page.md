@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我能编辑人生.doc]([交换]_我能编辑人生.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 71680 bytes                           |
 | MD5             | 809568b91238e01c8a634b38c23f9739                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | we叶小枫                               |
 | Region          | 中国大陆                               |

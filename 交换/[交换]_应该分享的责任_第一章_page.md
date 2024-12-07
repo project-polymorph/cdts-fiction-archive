@@ -20,7 +20,7 @@ TXT 下载: [[交换]_应该分享的责任_第一章.docx]([交换]_应该分�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26770 bytes                           |
 | MD5             | c47cfb35729d4e20b4c6d825440bedbf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | reprobate                               |
 | Region          | 未知                               |

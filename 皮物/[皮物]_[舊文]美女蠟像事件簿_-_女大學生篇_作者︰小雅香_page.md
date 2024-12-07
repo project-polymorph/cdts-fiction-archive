@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[舊文]美女蠟像事件簿_-_女大學生篇_作者︰�
 | Format          | Microsoft Word Document                               |
 | Size            | 81408 bytes                           |
 | MD5             | c78140fb7a299185ba1fec56720b30a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小雅香                               |
 | Region          | 未知                               |

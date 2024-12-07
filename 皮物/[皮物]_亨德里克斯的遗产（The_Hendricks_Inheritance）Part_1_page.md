@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_亨德里克斯的遗产（The_Hendricks_Inheritance）Par
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | 9654cf8efc3007ad28e25ae74829f22b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 卡特琳娜·赫拉姆（Katerina Hellam）                               |
 | Region          | 未知                               |

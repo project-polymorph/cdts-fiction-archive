@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_永远一瞬的梦想乡.doc]([皮物]_永远一瞬的梦�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 932f85b90e27cf30e29cfcb350f82bcf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

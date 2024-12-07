@@ -20,7 +20,7 @@ TXT 下载: [[交换]_如烟合集（全二十章）.docx]([交换]_如烟合集
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 146021 bytes                           |
 | MD5             | 3a015528e4fe2b6479af87eedb485c8b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

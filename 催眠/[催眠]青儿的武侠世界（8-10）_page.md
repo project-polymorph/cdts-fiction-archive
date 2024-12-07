@@ -20,7 +20,7 @@ TXT 下载: [[催眠]青儿的武侠世界（8-10）.doc]([催眠]青儿的武�
 | Format          | Microsoft Word Document                               |
 | Size            | 90624 bytes                           |
 | MD5             | 25105cc91fa72e53a5a7ca5a69512bdb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 季青                               |
 | Region          | 未知                               |

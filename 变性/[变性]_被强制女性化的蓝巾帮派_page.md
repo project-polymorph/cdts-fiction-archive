@@ -20,7 +20,7 @@ TXT 下载: [[变性]_被强制女性化的蓝巾帮派.doc]([变性]_被强制�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | b01326dfc40375ecac3c2a1dba5a0201                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | EllaGurl，翻译：露娜·埃葵斯                               |
 | Region          | 未知                               |

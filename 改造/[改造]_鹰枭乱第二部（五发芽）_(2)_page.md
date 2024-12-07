@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱第二部（五发芽）_(2).docx]([改造]_鹰�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17648 bytes                           |
 | MD5             | bd34bebc6549b5d669b53c895cc421ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

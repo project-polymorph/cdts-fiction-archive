@@ -20,7 +20,7 @@ TXT 下载: [[变性]_曲终人不散.doc]([变性]_曲终人不散.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 10c04bd9b644f572ff1b7b2d7a7034df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔界植物——愿望树（下）.docx]([皮物]_魔界
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22224 bytes                           |
 | MD5             | 0421f7e8338ae1b878a457aeae9ed9fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

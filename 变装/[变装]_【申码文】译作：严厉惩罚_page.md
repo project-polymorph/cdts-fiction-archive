@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【申码文】译作：严厉惩罚.doc]([变装]_【申�
 | Format          | Microsoft Word Document                               |
 | Size            | 101888 bytes                           |
 | MD5             | a6f83c80c48f24d289015641ae2c6487                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | VivianBird                               |
 | Region          | 未知                               |

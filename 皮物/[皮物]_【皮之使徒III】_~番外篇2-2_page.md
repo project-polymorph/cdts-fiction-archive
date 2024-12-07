@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮之使徒III】_~番外篇2-2.doc]([皮物]_【皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 8024fb83f52fdd5bafe1821ec91f5249                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

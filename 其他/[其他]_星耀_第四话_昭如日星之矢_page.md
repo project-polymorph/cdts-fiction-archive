@@ -22,7 +22,7 @@ TXT 下载: [[其他]_星耀_第四话_昭如日星之矢.docx]([其他]_星耀_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23852 bytes                           |
 | MD5             | 07734dbfa23fcdf3a57bfdb30c3c01fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

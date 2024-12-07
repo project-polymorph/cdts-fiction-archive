@@ -20,7 +20,7 @@ TXT 下载: [[交换]_急性換身慾望.doc]([交换]_急性換身慾望.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | ae494b57b26bbf181c326aef11262ea4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

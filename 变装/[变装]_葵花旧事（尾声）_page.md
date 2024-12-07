@@ -20,7 +20,7 @@ TXT 下载: [[变装]_葵花旧事（尾声）.doc]([变装]_葵花旧事（尾�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 1aa20a50971a09e40c59b1b36bd42332                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

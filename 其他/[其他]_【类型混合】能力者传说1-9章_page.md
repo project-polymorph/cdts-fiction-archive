@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【类型混合】能力者传说1-9章.doc]([其他]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 71168 bytes                           |
 | MD5             | dad4876c2a8cab60fd6f3122cd02a194                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[交换]_邻家女_（上）.docx]([交换]_邻家女_（上）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44709 bytes                           |
 | MD5             | 7af361c9b9ec72b6b41bd8ed07b1effe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Morpheus                               |
 | Region          | 未知                               |

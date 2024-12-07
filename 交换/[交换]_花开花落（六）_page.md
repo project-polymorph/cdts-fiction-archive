@@ -20,7 +20,7 @@ TXT 下载: [[交换]_花开花落（六）.doc]([交换]_花开花落（六）.
 | Format          | Microsoft Word Document                               |
 | Size            | 76288 bytes                           |
 | MD5             | a1e0feb3b2198a756901af6b357b5bf6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_诅咒之物【三】.docx]([皮物]_诅咒之物【三】
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23044 bytes                           |
 | MD5             | 6d722476303d66334f38003658c6aab9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

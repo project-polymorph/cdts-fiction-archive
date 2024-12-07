@@ -20,7 +20,7 @@ TXT 下载: [[变性]_她想要个女儿（第二季）.doc]([变性]_她想要�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | cfea4fe7359d4dfe9caba291024ae4e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

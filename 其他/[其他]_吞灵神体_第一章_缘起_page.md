@@ -20,7 +20,7 @@ TXT 下载: [[其他]_吞灵神体_第一章_缘起.docx]([其他]_吞灵神体_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20685 bytes                           |
 | MD5             | 396ef0f340abdc94b9f321447f8e4ee0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

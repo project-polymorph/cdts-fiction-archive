@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【轮回空间】第4~6章.docx]([变身]_【轮回空间
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 71587 bytes                           |
 | MD5             | 708443536d51bc81df244cae9154b989                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

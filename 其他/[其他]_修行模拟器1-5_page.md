@@ -20,7 +20,7 @@ TXT 下载: [[其他]_修行模拟器1-5.docx]([其他]_修行模拟器1-5.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45571 bytes                           |
 | MD5             | 654ae9f674343dc413caffbf30a06514                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 鬼哭                               |
 | Region          | 未知                               |

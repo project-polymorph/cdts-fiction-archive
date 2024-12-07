@@ -20,7 +20,7 @@ TXT 下载: [[改造]_广寒宫.doc]([改造]_广寒宫.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 0c2507fa1d85aba2954aae72c2fc38e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

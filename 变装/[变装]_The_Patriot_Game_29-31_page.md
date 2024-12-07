@@ -20,7 +20,7 @@ TXT 下载: [[变装]_The_Patriot_Game_29-31.doc]([变装]_The_Patriot_Game_29-3
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | b0e3a1e5eeb6a8d71ef8b90848d0b184                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

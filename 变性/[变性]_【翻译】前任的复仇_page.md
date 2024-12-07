@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】前任的复仇.docx]([变性]_【翻译】前
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24984 bytes                           |
 | MD5             | 9ac452847fc609755b377834d2c3137f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Phem                               |
 | Region          | 未知                               |

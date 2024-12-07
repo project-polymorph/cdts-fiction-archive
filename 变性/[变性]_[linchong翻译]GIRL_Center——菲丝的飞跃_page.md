@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]GIRL_Center——菲丝的飞跃.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 296094 bytes                           |
 | MD5             | a921cef12bcbc66d9245bee9d1580316                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Karen Elizabeth L.，翻译：linchong                               |
 | Region          | 未知                               |

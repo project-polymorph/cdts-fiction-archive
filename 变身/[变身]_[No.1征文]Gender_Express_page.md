@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[No.1征文]Gender_Express.docx]([变身]_[No.1征文]Gend
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26660 bytes                           |
 | MD5             | 0d117bf9a6f7132240c34f40f96c424a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Heather Rose Brown                               |
 | Region          | 未知                               |

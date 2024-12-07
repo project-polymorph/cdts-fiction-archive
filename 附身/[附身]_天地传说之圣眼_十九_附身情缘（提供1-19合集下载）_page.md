@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天地传说之圣眼_十九_附身情缘（提供1-19合�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20965 bytes                           |
 | MD5             | 1158a9de8817b28cb3b39bc80037cd19                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

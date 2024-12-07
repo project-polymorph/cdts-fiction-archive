@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱五（雄鹰化娇莺）.docx]([改造]_鹰枭乱
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27113 bytes                           |
 | MD5             | ecb038f51fac7735909153f87cd68680                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

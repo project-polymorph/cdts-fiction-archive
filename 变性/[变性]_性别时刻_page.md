@@ -20,7 +20,7 @@ TXT 下载: [[变性]_性别时刻.doc]([变性]_性别时刻.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | eee45da740e1dae423a2af7bcd0ee299                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | drippingink42                               |
 | Region          | 未知                               |

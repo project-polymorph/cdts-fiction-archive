@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_商学院的那些事.docx]([皮物]_商学院的那些事
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19767 bytes                           |
 | MD5             | 00cc58c14257dae7020e334804f381b6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

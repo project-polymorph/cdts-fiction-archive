@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码文】窃国者物语(初次修正版).docx]([附
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26627 bytes                           |
 | MD5             | baf88813de14537516c37f4456cec421                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ファンタのコーラ味                               |
 | Region          | 未知                               |

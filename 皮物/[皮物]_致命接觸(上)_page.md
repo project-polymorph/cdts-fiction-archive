@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_致命接觸(上).doc]([皮物]_致命接觸(上).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 722944 bytes                           |
 | MD5             | edb43397ee0be5455d034068b3b65a89                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

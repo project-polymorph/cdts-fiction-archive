@@ -20,7 +20,7 @@ TXT 下载: [[附身]_凭依能力者们与我.docx]([附身]_凭依能力者们
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18802 bytes                           |
 | MD5             | 5c079970c33b686d1849fb94d04f9c25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

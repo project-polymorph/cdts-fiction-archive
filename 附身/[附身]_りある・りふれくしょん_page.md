@@ -20,7 +20,7 @@ TXT 下载: [[附身]_りある・りふれくしょん.docx]([附身]_りある
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45788 bytes                           |
 | MD5             | 4e1a1c827cd52b76a50e5da40a140bf7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

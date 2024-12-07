@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《雌堕》9-18.doc]([变装]_《雌堕》9-18.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 99840 bytes                           |
 | MD5             | a24a9ddace681ce02d3d2766d732ba67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

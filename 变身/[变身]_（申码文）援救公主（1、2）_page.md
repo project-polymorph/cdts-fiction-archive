@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（申码文）援救公主（1、2）.docx]([变身]_（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54253 bytes                           |
 | MD5             | 8ee19eb93e3724664a3bc8db0ea308c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】完美的扭曲.doc]([变性]_【翻译】完�
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | 2e035f96fbb4adcc7b658a4d520b39cd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | phem                               |
 | Region          | 未知                               |

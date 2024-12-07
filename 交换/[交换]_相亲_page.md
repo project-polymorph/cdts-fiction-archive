@@ -20,7 +20,7 @@ TXT 下载: [[交换]_相亲.doc]([交换]_相亲.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 1a4734727f283c5ff673f8cb1a6e822c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

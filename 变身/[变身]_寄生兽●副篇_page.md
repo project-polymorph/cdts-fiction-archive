@@ -20,7 +20,7 @@ TXT 下载: [[变身]_寄生兽●副篇.docx]([变身]_寄生兽●副篇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34037 bytes                           |
 | MD5             | d1edc2308799c78742001410457053ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奇方_第七章.docx]([附身]_奇方_第七章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25558 bytes                           |
 | MD5             | 21b0f7f7f9d32cd5e578b55a1518e3e5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

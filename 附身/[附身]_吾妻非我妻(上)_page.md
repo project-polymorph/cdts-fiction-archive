@@ -20,7 +20,7 @@ TXT 下载: [[附身]_吾妻非我妻(上).docx]([附身]_吾妻非我妻(上).d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18147 bytes                           |
 | MD5             | b9f5380f809d611b69cf97f91bceb01b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | l8311032                               |
 | Region          | 未知                               |

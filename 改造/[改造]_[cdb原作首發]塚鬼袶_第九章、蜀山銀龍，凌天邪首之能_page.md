@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[cdb原作首發]塚鬼袶_第九章、蜀山銀龍，凌�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | a2525f4e78ff8af37fa23bad1316bb96                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 白纸                               |
 | Region          | 未知                               |

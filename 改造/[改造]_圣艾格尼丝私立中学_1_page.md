@@ -20,7 +20,7 @@ TXT 下载: [[改造]_圣艾格尼丝私立中学_1.doc]([改造]_圣艾格尼�
 | Format          | Microsoft Word Document                               |
 | Size            | 71680 bytes                           |
 | MD5             | fd3b6273a19d0e9b1dc2cfc0cb5a394e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

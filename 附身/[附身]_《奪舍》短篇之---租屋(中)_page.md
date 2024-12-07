@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《奪舍》短篇之---租屋(中).doc]([附身]_《奪�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 756cdb9ae9f4e7ede05b32d318bae6a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

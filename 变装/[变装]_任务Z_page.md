@@ -20,7 +20,7 @@ TXT 下载: [[变装]_任务Z.docx]([变装]_任务Z.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21586 bytes                           |
 | MD5             | 786829c65fe68baccd5c7cca8261c514                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_血噬（1，2）_[.docx]([交换]_血噬（1，2）_[.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36849 bytes                           |
 | MD5             | ff377a1ab58e7214a64a9ed16457b42b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

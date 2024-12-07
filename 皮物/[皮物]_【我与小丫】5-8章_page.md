@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【我与小丫】5-8章.doc]([皮物]_【我与小丫】5
 | Format          | Microsoft Word Document                               |
 | Size            | 73216 bytes                           |
 | MD5             | 2a3b63193b9d61c916ca7f4913fa61d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 悲剧的小咯里ll                               |
 | Region          | 中国大陆                               |

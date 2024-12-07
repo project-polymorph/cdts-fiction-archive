@@ -20,7 +20,7 @@ TXT 下载: [[交换]_兄弟姐妹_(上).doc]([交换]_兄弟姐妹_(上).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 58d7be43c1e0ae2778aec52c2c4a7590                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

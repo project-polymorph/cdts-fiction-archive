@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_「火车小作文」_衡淼中学郗校长的小故事.do
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 69a055a80cbe4f8b521ec452a940489d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

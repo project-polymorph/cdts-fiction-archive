@@ -20,7 +20,7 @@ TXT 下载: [[其他]_星耀_第一话_众星闪耀之间.docx]([其他]_星耀_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25339 bytes                           |
 | MD5             | b19118f8dc3e9885277a7083ac46c8ab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 中国大陆                               |

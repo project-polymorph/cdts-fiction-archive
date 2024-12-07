@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_桃花源.doc]([皮物]_桃花源.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | e1f7a4d6af7d05b9fad19259dc9b5b3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

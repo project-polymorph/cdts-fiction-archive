@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_17_真相.docx]([交换]_龙舌兰_17_真相.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25396 bytes                           |
 | MD5             | acad100945975d316a3d50093c0a0178                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yudi（ft3020997）                               |
 | Region          | 中国大陆                               |

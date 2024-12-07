@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奇书咒语_1-2.docx]([附身]_奇书咒语_1-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33871 bytes                           |
 | MD5             | 1c6d766dd2899e12a7b380afc979cd57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

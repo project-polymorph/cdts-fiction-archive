@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身肉便姬(练笔文).docx]([变身]_变身肉便姬(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25036 bytes                           |
 | MD5             | 068f71784dbadcaf17b17b837e6d7b11                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]从丈夫到娘娘腔女仆.doc]([改造]从丈夫到娘娘
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 14e0b53b94309dbc8ac4725e6bd992d5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | DavinaMcG                               |
 | Region          | 未知                               |

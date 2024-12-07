@@ -20,7 +20,7 @@ TXT 下载: [[改造]_李沐权的母狗游戏后记.doc]([改造]_李沐权的�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 78afbfac4fdb858eede83036dac5c9b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译变身】不一般的家庭聚会.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | d44e6a27db1ab2d25020c77ec7748b02                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

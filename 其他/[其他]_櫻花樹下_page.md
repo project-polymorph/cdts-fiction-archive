@@ -20,7 +20,7 @@ TXT 下载: [[其他]_櫻花樹下.docx]([其他]_櫻花樹下.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17683 bytes                           |
 | MD5             | 9f2cd50b00a55788520bd409de7d5626                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蜀山炼器师_第十三章-第十六章_完结.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42277 bytes                           |
 | MD5             | f561c039d08d329a206563ce0a057af7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

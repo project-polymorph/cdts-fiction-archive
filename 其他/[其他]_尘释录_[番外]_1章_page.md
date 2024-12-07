@@ -20,7 +20,7 @@ TXT 下载: [[其他]_尘释录_[番外]_1章.docx]([其他]_尘释录_[番外]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41000 bytes                           |
 | MD5             | 9d53e5fdf55627f161896fc4f19ff251                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

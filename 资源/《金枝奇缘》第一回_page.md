@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第一回.doc](《金枝奇缘》第一回.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 379341a4c4d4bc84cdfb6827154dc25c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

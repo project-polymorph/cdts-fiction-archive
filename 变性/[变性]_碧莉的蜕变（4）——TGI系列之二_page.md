@@ -20,7 +20,7 @@ TXT 下载: [[变性]_碧莉的蜕变（4）——TGI系列之二.docx]([变性]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55045 bytes                           |
 | MD5             | 089a2ba6e524971d5a9a6cb7cc5975d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

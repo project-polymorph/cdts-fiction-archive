@@ -20,7 +20,7 @@ TXT 下载: [[其他]_英雄代行者（一）.docx]([其他]_英雄代行者（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24482 bytes                           |
 | MD5             | 8f4e4d9be651f0a654aeea3f66cba324                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

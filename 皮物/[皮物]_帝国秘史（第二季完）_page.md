@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_帝国秘史（第二季完）.doc]([皮物]_帝国秘史�
 | Format          | Microsoft Word Document                               |
 | Size            | 107008 bytes                           |
 | MD5             | 16e0a31ff81a507da2798d92ce1ae27b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

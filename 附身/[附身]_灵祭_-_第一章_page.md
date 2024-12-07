@@ -22,7 +22,7 @@ TXT 下载: [[附身]_灵祭_-_第一章.docx]([附身]_灵祭_-_第一章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19402 bytes                           |
 | MD5             | f8b084192590773787eaf368caeb5622                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | daivem                               |
 | Region          | 未知                               |

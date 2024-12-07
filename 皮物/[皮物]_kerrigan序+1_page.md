@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kerrigan序+1.doc]([皮物]_kerrigan序+1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | e39fdb01ed90d1efa0c4dc9dab340b5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

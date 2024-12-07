@@ -20,7 +20,7 @@ TXT 下载: [葵花旧事.doc](葵花旧事.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 465920 bytes                           |
 | MD5             | 47cb39ad6213e7e2929b1501e8f1c8fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

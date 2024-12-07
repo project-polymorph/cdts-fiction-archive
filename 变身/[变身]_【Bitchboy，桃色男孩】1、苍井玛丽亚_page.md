@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【Bitchboy，桃色男孩】1、苍井玛丽亚.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24186 bytes                           |
 | MD5             | e8f982b893589dc83f709393f9671285                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

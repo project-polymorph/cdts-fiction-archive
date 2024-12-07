@@ -22,7 +22,7 @@ TXT 下载: [[变身]_寻宝异闻录_第一卷_血腥玛丽（下.docx]([变身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52015 bytes                           |
 | MD5             | 1f0e0439b37dfb7ae716af6509dcf4fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

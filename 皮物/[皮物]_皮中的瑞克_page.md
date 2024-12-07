@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_皮中的瑞克.doc]([皮物]_皮中的瑞克.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 321e329e1c5544bcf7a0ecf5f849e365                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

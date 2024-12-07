@@ -20,7 +20,7 @@ TXT 下载: [[附身]_某日的下午.docx]([附身]_某日的下午.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22673 bytes                           |
 | MD5             | 44dc3f3473e373c86964a4c5c10be43c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

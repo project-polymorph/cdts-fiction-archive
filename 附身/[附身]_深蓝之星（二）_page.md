@@ -20,7 +20,7 @@ TXT 下载: [[附身]_深蓝之星（二）.doc]([附身]_深蓝之星（二）.
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 2cae83bb1152814a2bba5ace5a496566                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

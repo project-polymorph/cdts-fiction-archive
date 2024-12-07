@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_万圣夜·画皮（短篇）.docx]([皮物]_万圣夜·�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34010 bytes                           |
 | MD5             | c5d016f836901ca0d9dee5253e4b2010                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

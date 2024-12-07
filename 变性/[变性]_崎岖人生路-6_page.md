@@ -20,7 +20,7 @@ TXT 下载: [[变性]_崎岖人生路-6.docx]([变性]_崎岖人生路-6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31845 bytes                           |
 | MD5             | f12ea54abf19e5a70009e941ec6a237b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

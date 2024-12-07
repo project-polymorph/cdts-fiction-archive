@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《勇者成为魔王1_讨伐的起始》.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72379 bytes                           |
 | MD5             | b0a80d561a50f90f9d69bf37ba4cc8fa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

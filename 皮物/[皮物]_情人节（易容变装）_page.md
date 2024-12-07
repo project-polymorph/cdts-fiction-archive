@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_情人节（易容变装）.docx]([皮物]_情人节（易
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24463 bytes                           |
 | MD5             | 3fbf055c0802946f59be1513471a7e9b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【乐园计划】第二十四章：大人的衣服.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22275 bytes                           |
 | MD5             | a753467524eab8c2164d2ccd14846609                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_易位陷阱_一~二.doc]([交换]_易位陷阱_一~二.do
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | 01388368a0d1fe04cbafb05cfe66c21e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

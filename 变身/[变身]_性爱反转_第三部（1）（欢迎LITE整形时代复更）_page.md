@@ -20,7 +20,7 @@ TXT 下载: [[变身]_性爱反转_第三部（1）（欢迎LITE整形时代复�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40284 bytes                           |
 | MD5             | 83e2c8af51f567cdfde85319c3f51188                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

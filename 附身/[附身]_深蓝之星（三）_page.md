@@ -20,7 +20,7 @@ TXT 下载: [[附身]_深蓝之星（三）.docx]([附身]_深蓝之星（三）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23281 bytes                           |
 | MD5             | 4d78ec3ef7c761445292968dc46eaa0c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

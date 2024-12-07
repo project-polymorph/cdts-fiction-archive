@@ -20,7 +20,7 @@ TXT 下载: [[变身]_智械危机.doc]([变身]_智械危机.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 0f9293b31df326bb6969944a91946d32                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

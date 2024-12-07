@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_上流者的采访.doc]([催眠]_上流者的采访.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 69120 bytes                           |
 | MD5             | 99c8adbaef3bdbdab07900a9c5889e93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | イラ                               |
 | Region          | 未知                               |

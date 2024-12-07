@@ -20,7 +20,7 @@ TXT 下载: [[改造]_父爱如娃_第一章.doc]([改造]_父爱如娃_第一�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 0476ff91155eb9f1aa902d7a92754940                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

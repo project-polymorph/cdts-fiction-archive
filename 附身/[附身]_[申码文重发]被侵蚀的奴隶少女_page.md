@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[申码文重发]被侵蚀的奴隶少女.docx]([附身]_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24508 bytes                           |
 | MD5             | 367da54d691b4c532b7e9286de7bb131                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

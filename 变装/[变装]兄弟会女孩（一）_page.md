@@ -20,7 +20,7 @@ TXT 下载: [[变装]兄弟会女孩（一）.doc]([变装]兄弟会女孩（一
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 7208b062bae09f84a394f4a374661d7a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Diana Kimberly Heche                               |
 | Region          | 未知                               |

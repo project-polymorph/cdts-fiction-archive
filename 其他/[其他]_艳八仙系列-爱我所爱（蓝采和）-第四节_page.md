@@ -20,7 +20,7 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第四节.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18996 bytes                           |
 | MD5             | 70a3a9c8346dab6ce64dee4c2cecca5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | znznzn1984                               |
 | Region          | 中国大陆                               |

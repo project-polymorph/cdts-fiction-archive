@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变身美丽寡妇的奇妙生活•序（改）.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | e029290506cc974cee0cb22580161306                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lgy                               |
 | Region          | 未知                               |

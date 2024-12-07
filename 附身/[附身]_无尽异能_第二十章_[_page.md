@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能_第二十章_[.docx]([附身]_无尽异能_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19664 bytes                           |
 | MD5             | bc03ee6e407ab995f179335e9c608f2e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

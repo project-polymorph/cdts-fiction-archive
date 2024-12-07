@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【BitchBoy_桃色男孩】2、合租地位-1.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20238 bytes                           |
 | MD5             | 43ddeb77a8d7f5731661a4363f15a054                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

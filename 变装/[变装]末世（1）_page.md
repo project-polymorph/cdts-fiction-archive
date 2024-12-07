@@ -20,7 +20,7 @@ TXT 下载: [[变装]末世（1）.doc]([变装]末世（1）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | e3251ba6a223a56d0e4afd139b91bccc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

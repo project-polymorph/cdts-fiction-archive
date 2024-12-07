@@ -20,7 +20,7 @@ TXT 下载: [[附身]_闹钟（四）.docx]([附身]_闹钟（四）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20934 bytes                           |
 | MD5             | 9114154bb40cd05ac2f3bf62d3ad4f62                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -24,7 +24,7 @@ TXT 下载: [暗月杀机之降临.doc](暗月杀机之降临.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | 48cf44f4518e6c233ea47a0cea525bea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

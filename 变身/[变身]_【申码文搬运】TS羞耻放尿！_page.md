@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申码文搬运】TS羞耻放尿！.doc]([变身]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 26112 bytes                           |
 | MD5             | abd48113f8775d1b3fab2f36d0419d84                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

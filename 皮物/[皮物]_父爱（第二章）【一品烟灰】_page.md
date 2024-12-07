@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_父爱（第二章）【一品烟灰】.docx]([皮物]_父
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20632 bytes                           |
 | MD5             | febb978f85334c83f911e651a0b55e77                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 一品烟灰                               |
 | Region          | 未知                               |

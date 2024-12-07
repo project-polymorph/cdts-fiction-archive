@@ -20,7 +20,7 @@ TXT 下载: [[其他]_脫力_(四)_暫完.docx]([其他]_脫力_(四)_暫完.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18583 bytes                           |
 | MD5             | 5f57a64610739be7fc6767ed4ef12c35                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

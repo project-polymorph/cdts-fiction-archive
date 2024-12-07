@@ -20,7 +20,7 @@ TXT 下载: [[变身]_太太改變我(2).docx]([变身]_太太改變我(2).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24760 bytes                           |
 | MD5             | e724564a317ff168c82c84f16ba202be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

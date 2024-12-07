@@ -20,7 +20,7 @@ TXT 下载: [[附身]_封界碑05.doc]([附身]_封界碑05.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 5b28694624f1c6518e875f2e1d07c884                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

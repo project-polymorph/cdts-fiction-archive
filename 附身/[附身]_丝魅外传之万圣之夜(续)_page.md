@@ -20,7 +20,7 @@ TXT 下载: [[附身]_丝魅外传之万圣之夜(续).docx]([附身]_丝魅外�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20411 bytes                           |
 | MD5             | 670b00c956256d7cd032f6e37e622001                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_你寧願Part1_Would_You_Rather_Part1_[_(2).docx]([改造]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34073 bytes                           |
 | MD5             | 474960faed90a8f8d59dd5c7d04066fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lothvandyr                               |
 | Region          | 未知                               |

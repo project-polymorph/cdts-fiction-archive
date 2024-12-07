@@ -22,7 +22,7 @@ TXT 下载: [[改造]_《四美图》二十五.doc]([改造]_《四美图》二�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 400c96408d6ae52eb34ba9b088d3adbe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

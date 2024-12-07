@@ -20,7 +20,7 @@ TXT 下载: [[附身]_被占据的冰之女王.doc]([附身]_被占据的冰之�
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 4c0f0458feb957537db5ce2dc68e9b72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

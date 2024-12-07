@@ -20,7 +20,7 @@ TXT 下载: [[变身]_TS转生恶役大小姐，而且还是在我自己制作�
 | Format          | Microsoft Word Document                               |
 | Size            | 95232 bytes                           |
 | MD5             | 8ee13fa601a7bf2daa1acb294ec0487f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

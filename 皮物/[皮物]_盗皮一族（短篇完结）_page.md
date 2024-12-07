@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_盗皮一族（短篇完结）.doc]([皮物]_盗皮一族�
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 6ae1fa2281ce6c24df6d4b0d8a0dd51b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_进化指环之李代桃僵篇【完本】.doc]([改造]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 211456 bytes                           |
 | MD5             | b4279220b331beaf2abbefa0c233bead                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_星空下的奇迹_第一章_起源.docx]([变身]_星空�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25670 bytes                           |
 | MD5             | 1f381b8b9b30d7e546b6f4664fa2408d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

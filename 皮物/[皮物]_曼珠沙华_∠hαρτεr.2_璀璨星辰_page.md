@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.2_璀璨星辰.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26538 bytes                           |
 | MD5             | 18ee905dd71b2d4c9f12d6a2a7001c7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 阿虚                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_本能与亲情.doc]([改造]_本能与亲情.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | 9a70209d77f25613bf36f03c2a471820                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

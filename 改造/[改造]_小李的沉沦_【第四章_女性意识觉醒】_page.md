@@ -20,7 +20,7 @@ TXT 下载: [[改造]_小李的沉沦_【第四章_女性意识觉醒】.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | b209b86cf600682569535d58b37e413c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

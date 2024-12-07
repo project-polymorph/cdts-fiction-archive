@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Calico_Cafe_+_A_Rubber_Vixen_and_Reynard.docx]([变装]_Ca
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34674 bytes                           |
 | MD5             | 10aeecf7cc2d0bbba2a45bacf738b351                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

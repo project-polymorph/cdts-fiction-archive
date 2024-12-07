@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】王子的逃亡.doc]([变性]_【翻译】王�
 | Format          | Microsoft Word Document                               |
 | Size            | 127488 bytes                           |
 | MD5             | 50b5d171ac452ea4018aba481807f4d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

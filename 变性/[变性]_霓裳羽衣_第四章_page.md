@@ -20,7 +20,7 @@ TXT 下载: [[变性]_霓裳羽衣_第四章.doc]([变性]_霓裳羽衣_第四�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | ca8c805e4ec3cd4784a1bb6805f396fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_体液_贺岁释疑篇1(尚未补完篇，正在更新中1
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24958 bytes                           |
 | MD5             | 3baeb13956988caf8e8da40ab9b9ab17                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

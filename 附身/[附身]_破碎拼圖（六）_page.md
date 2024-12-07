@@ -20,7 +20,7 @@ TXT 下载: [[附身]_破碎拼圖（六）.doc]([附身]_破碎拼圖（六）.
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 1046552e7efdafeb953cffb2a7ffe680                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 水晶                               |
 | Region          | 未知                               |

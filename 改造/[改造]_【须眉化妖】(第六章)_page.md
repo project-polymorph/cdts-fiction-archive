@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【须眉化妖】(第六章).doc]([改造]_【须眉化�
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | a7093f642ccf3df60eb33e9de10091eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

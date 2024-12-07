@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮灭_第二夜.docx]([皮物]_皮灭_第二夜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31524 bytes                           |
 | MD5             | 48ce1729a996e2512506fc9e27e0bf0a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

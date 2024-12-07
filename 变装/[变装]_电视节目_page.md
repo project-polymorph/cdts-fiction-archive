@@ -20,7 +20,7 @@ TXT 下载: [[变装]_电视节目.doc]([变装]_电视节目.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 86f77abb951404a9d1a3353ee9b1b1d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Portia Jartelle                               |
 | Region          | 未知                               |

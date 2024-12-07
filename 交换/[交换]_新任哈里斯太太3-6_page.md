@@ -20,7 +20,7 @@ TXT 下载: [[交换]_新任哈里斯太太3-6.docx]([交换]_新任哈里斯太
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31339 bytes                           |
 | MD5             | 224e0af9b4575093b59ebe4eda4bd1ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

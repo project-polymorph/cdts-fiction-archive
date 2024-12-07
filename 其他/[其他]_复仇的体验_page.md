@@ -20,7 +20,7 @@ TXT 下载: [[其他]_复仇的体验.docx]([其他]_复仇的体验.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20350 bytes                           |
 | MD5             | 215fb142777eedb44d331bdebd1c0afd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

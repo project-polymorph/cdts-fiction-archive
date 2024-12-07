@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[翻译]选择.docx]([变性]_[翻译]选择.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38734 bytes                           |
 | MD5             | 2ce0a13ee15f33888fec2816618251be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rachel Ann Cooper                               |
 | Region          | 未知                               |

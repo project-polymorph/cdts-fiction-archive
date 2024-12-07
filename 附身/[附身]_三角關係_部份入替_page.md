@@ -20,7 +20,7 @@ TXT 下载: [[附身]_三角關係_部份入替.docx]([附身]_三角關係_部�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24193 bytes                           |
 | MD5             | c4ad8ae1841f09886136e458b751d75a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

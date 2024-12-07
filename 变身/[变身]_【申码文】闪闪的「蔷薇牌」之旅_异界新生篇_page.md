@@ -22,7 +22,7 @@ TXT 下载: [[变身]_【申码文】闪闪的「蔷薇牌」之旅_异界新生
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | ce6eb630015262853cb5ad86a6ac4d46                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

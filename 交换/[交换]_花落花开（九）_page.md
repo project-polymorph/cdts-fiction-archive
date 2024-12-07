@@ -24,7 +24,7 @@ TXT 下载: [[交换]_花落花开（九）.doc]([交换]_花落花开（九）.
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | 360fe85886fed335d50b5155f25fddc4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

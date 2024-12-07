@@ -20,7 +20,7 @@ TXT 下载: [[变身]_魔泉－The_Magic_Fountain(完结).docx]([变身]_魔泉�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 152233 bytes                           |
 | MD5             | d9a5a1e6682baba8342083a270b33e0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

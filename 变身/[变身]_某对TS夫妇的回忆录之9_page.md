@@ -20,7 +20,7 @@ TXT 下载: [[变身]_某对TS夫妇的回忆录之9.docx]([变身]_某对TS夫�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23029 bytes                           |
 | MD5             | af6837246f0db79a2777c637e45c93b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

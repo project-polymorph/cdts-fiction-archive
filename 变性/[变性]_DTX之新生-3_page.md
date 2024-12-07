@@ -20,7 +20,7 @@ TXT 下载: [[变性]_DTX之新生-3.doc]([变性]_DTX之新生-3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 5e0860356eae20c2cf09dd0a6a04e16e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

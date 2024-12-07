@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【大叔？少女？也有爱情】之上篇目.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | ee52eac0459d302f9bab7a83ae267b63                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

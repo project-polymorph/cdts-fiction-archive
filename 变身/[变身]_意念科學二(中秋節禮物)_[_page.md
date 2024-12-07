@@ -20,7 +20,7 @@ TXT 下载: [[变身]_意念科學二(中秋節禮物)_[.docx]([变身]_意念�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34540 bytes                           |
 | MD5             | 7b7c237d31bc05ccb0c511ec9b049615                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

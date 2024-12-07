@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【变态社会】_之_找回自己.doc]([变性]_【变�
 | Format          | Microsoft Word Document                               |
 | Size            | 186368 bytes                           |
 | MD5             | 17c3992e444b0a301878d5b4b03000a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

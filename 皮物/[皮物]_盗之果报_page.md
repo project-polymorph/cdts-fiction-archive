@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_盗之果报.docx]([皮物]_盗之果报.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36349 bytes                           |
 | MD5             | 6dbb821016be9548059707066b490ca7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 灯台守                               |
 | Region          | 未知                               |

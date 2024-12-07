@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·莫辨楮叶（第三篇）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | 3ab18355bb9b62d10ebc26647b385530                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

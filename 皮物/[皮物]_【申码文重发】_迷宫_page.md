@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文重发】_迷宫.docx]([皮物]_【申码文�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53583 bytes                           |
 | MD5             | 0d5f4fac31bf60719a29dd50c628b92d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

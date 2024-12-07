@@ -20,7 +20,7 @@ TXT 下载: [[变身]_她的梦成真了？.docx]([变身]_她的梦成真了？
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18381 bytes                           |
 | MD5             | bb1c055e6c00d058a11344b18132db70                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | GBkitten                               |
 | Region          | 未知                               |

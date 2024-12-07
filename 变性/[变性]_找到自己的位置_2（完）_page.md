@@ -20,7 +20,7 @@ TXT 下载: [[变性]_找到自己的位置_2（完）.docx]([变性]_找到自�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34594 bytes                           |
 | MD5             | 2d87c762cd0fe89ca93258d03d0c0e50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Belladonna                               |
 | Region          | 未知                               |

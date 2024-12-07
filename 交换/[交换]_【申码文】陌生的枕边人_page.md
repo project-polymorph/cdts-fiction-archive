@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【申码文】陌生的枕边人.doc]([交换]_【申码�
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 5afbf41e8dfd5a07f7d174f067fdf451                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

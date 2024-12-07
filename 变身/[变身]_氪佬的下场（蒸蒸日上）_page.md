@@ -20,7 +20,7 @@ TXT 下载: [[变身]_氪佬的下场（蒸蒸日上）.doc]([变身]_氪佬的�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 7dd140f0e69bea8b0716cda2423720ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

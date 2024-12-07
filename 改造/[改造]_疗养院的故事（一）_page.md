@@ -20,7 +20,7 @@ TXT 下载: [[改造]_疗养院的故事（一）.doc]([改造]_疗养院的故�
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 6cb235a10dff8dea6efb9efa0316cf1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

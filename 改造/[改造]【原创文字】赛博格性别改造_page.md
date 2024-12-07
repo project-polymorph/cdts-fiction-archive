@@ -20,7 +20,7 @@ TXT 下载: [[改造]【原创文字】赛博格性别改造.doc]([改造]【原
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | e626e55b7b43be97e7eb845b47752609                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 绯红荆棘                               |
 | Region          | 中国大陆                               |

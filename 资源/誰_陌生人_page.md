@@ -20,7 +20,7 @@ TXT 下载: [誰_陌生人.doc](誰_陌生人.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | cba0df517039c8e898152fe536c4bc97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

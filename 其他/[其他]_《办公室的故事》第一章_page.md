@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《办公室的故事》第一章.doc]([其他]_《办公�
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 11f3a7fc89a614cdfdd5fbf408163e78                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

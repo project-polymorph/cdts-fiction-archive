@@ -20,7 +20,7 @@ TXT 下载: [[变装]【xly翻译】遗失的一年0.doc]([变装]【xly翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 150528 bytes                           |
 | MD5             | ee2a4cb38c1f7f2603360a2a6d3b11c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

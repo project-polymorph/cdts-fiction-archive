@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译变身】办公室女郎.doc]([变身]_【翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | dbe55a9446c0690a1ff3e05526311d6d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ashleighmae                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第三节.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17526 bytes                           |
 | MD5             | 37d7f572c2555b18d2307b1fb048991b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

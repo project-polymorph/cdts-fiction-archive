@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我奇怪的人生篇章_1，2.docx]([变身]_我奇怪的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29898 bytes                           |
 | MD5             | 94fc27c073974474ab73fa735ceca099                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 迈克·托德                               |
 | Region          | 美国                               |

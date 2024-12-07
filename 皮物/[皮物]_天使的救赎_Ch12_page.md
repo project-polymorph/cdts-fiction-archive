@@ -21,7 +21,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch12.doc]([皮物]_天使的救赎_Ch12.do
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | f296c541be89ebff011b87ee9d4d942b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

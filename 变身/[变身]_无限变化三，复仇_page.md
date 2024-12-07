@@ -20,7 +20,7 @@ TXT 下载: [[变身]_无限变化三，复仇.docx]([变身]_无限变化三，
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17589 bytes                           |
 | MD5             | 6ed417de394f6987a805d764d92533bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

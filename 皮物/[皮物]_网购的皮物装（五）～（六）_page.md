@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_网购的皮物装（五）～（六）.docx]([皮物]_网
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40999 bytes                           |
 | MD5             | 38672b74d74b8dfe8113888d1ac8bfd1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_通皮术系统5_皮与正主的联系.docx]([皮物]_通�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24701 bytes                           |
 | MD5             | be9690358fbd07847c49b0072e7de611                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

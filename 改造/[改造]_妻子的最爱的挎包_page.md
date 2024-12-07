@@ -20,7 +20,7 @@ TXT 下载: [[改造]_妻子的最爱的挎包.docx]([改造]_妻子的最爱的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28295 bytes                           |
 | MD5             | d5f01446131442a0a1dd4f52ca816292                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Squidonhead                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_残身(第十至十二节).doc]([变性]_残身(第十至�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | e840a5e572ae304a6f06fcb3e864cba5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

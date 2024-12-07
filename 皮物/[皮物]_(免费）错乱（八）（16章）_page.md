@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_(免费）错乱（八）（16章）.doc]([皮物]_(免费
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | e11efa74a167632f7a00e3d45d9f57c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

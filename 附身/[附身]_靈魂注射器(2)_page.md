@@ -20,7 +20,7 @@ TXT 下载: [[附身]_靈魂注射器(2).docx]([附身]_靈魂注射器(2).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25978 bytes                           |
 | MD5             | af4e51a490d027d99546ee02275b3e93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

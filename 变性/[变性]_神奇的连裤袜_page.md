@@ -20,7 +20,7 @@ TXT 下载: [[变性]_神奇的连裤袜.doc]([变性]_神奇的连裤袜.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 105984 bytes                           |
 | MD5             | ed93751ca1c4228285077464dff678f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

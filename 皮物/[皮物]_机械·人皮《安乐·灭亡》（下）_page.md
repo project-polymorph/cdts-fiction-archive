@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机械·人皮《安乐·灭亡》（下）.docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25703 bytes                           |
 | MD5             | 38c7780266cf1c829df6bbcbd7f027e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

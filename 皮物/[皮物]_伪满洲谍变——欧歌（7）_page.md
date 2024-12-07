@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_伪满洲谍变——欧歌（7）.doc]([皮物]_伪满洲
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | 499ca8214826df05dc9689a1d5327864                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 伪满洲国                               |

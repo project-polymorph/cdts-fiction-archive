@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_愿石之狩猎者（原文名为求文发码的异体）_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30812 bytes                           |
 | MD5             | c3880c0871abcfaa2b865c55db1be9ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

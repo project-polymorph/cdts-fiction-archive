@@ -20,7 +20,7 @@ TXT 下载: [[交换]_拣到校花姐姐的身体.docx]([交换]_拣到校花姐
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 56689 bytes                           |
 | MD5             | 7f35ef8bb4519731c29249e21102561c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

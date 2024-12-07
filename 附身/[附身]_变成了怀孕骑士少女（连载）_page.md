@@ -20,7 +20,7 @@ TXT 下载: [[附身]_变成了怀孕骑士少女（连载）.docx]([附身]_变
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23217 bytes                           |
 | MD5             | d04c48fcc41a716ff51fbf781ae27c67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

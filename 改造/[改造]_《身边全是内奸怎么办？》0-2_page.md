@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《身边全是内奸怎么办？》0-2.doc]([改造]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 15038f6ed9c8ba983ce7c64593e09eff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

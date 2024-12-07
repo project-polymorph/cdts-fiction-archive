@@ -20,7 +20,7 @@ TXT 下载: [[变身]_一个男人重获新生的故事(第三四章).docx]([变
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 85019 bytes                           |
 | MD5             | e6e65806ac0f5ee76ea05ec8861b78da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_疯狂的玛姬.doc]([变身]_疯狂的玛姬.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | f7d68f4ebce72154385958b2e166a183                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Portia Jartelle                               |
 | Region          | 未知                               |

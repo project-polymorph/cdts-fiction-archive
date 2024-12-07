@@ -20,7 +20,7 @@ TXT 下载: [[其他]_神炼空间物语人物属性卡以及客串说明（9_12
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16828 bytes                           |
 | MD5             | 3ca89f9488555b77a119717d484c5260                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

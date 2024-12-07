@@ -24,7 +24,7 @@ TXT 下载: [[附身]_第二灵魂（8）.docx]([附身]_第二灵魂（8）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24429 bytes                           |
 | MD5             | 213c4d369303477a4affc82c27238abb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

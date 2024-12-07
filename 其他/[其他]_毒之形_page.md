@@ -20,7 +20,7 @@ TXT 下载: [[其他]_毒之形.doc]([其他]_毒之形.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 91c99cc910f25c74bae37b776c900341                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

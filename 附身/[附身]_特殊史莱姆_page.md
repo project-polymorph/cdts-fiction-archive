@@ -22,7 +22,7 @@ TXT 下载: [[附身]_特殊史莱姆.docx]([附身]_特殊史莱姆.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22039 bytes                           |
 | MD5             | 0abe8a8d3050978f1bacdd1acffe60ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

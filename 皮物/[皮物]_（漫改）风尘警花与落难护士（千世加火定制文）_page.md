@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（漫改）风尘警花与落难护士（千世加火定�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 016e28b0e429da1e6209761a024ee888                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 千世加火                               |
 | Region          | 中国大陆                               |

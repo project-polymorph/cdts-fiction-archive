@@ -20,7 +20,7 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（4）.doc]([变身]
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | e6308260092cba3fa6d269011e3516dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

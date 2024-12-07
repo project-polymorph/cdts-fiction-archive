@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的同居女友后传5.doc]([皮物]_我的同居女友
 | Format          | Microsoft Word Document                               |
 | Size            | 27136 bytes                           |
 | MD5             | a0b0ded3bf1980a5e87a99995fe7aebf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

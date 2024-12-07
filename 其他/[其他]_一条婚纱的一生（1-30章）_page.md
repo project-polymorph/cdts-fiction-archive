@@ -20,7 +20,7 @@ TXT 下载: [[其他]_一条婚纱的一生（1-30章）.doc]([其他]_一条婚
 | Format          | Microsoft Word Document                               |
 | Size            | 172032 bytes                           |
 | MD5             | 07cbd5b68ee232fc3a5530bfa9f7890d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

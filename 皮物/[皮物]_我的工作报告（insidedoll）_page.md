@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的工作报告（insidedoll）.docx]([皮物]_我的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45291 bytes                           |
 | MD5             | 36dcdc40337ce08bfb5f7e5df0c2f472                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

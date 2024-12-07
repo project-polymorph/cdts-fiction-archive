@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[旧文重贴]四个好朋友快乐的温泉之旅.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 57d9e6e31bfa09f9c603949044cee0d1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

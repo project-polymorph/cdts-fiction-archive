@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_网络与现实_2正如计划一样.docx]([皮物]_网络�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19226 bytes                           |
 | MD5             | 253a2c85e49e6c4f1d8c1e46094d65ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

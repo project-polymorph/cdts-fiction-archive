@@ -20,7 +20,7 @@ TXT 下载: [[改造]_诸妖之野_第一章_无妄之灾_(2).docx]([改造]_诸
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24750 bytes                           |
 | MD5             | 0f54e8b5fb0527959432fd3b4014c2a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 山雨                               |
 | Region          | 中国大陆                               |

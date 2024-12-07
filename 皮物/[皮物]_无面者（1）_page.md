@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_无面者（1）.doc]([皮物]_无面者（1）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 31dc695e530c5a130b3cb745ff71539c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

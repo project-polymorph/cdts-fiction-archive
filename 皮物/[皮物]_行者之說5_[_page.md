@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_行者之說5_[.docx]([皮物]_行者之說5_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19599 bytes                           |
 | MD5             | 8123881591d124d6d2c6343e56c4e775                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

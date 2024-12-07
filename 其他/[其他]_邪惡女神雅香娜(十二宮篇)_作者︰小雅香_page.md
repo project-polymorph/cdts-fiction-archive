@@ -20,7 +20,7 @@ TXT 下载: [[其他]_邪惡女神雅香娜(十二宮篇)_作者︰小雅香.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41566 bytes                           |
 | MD5             | f63c124c74bad8eb777fb2799f071ecc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小雅香                               |
 | Region          | 未知                               |

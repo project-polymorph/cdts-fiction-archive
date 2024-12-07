@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[練習文]_Side-Effects_May_Vary.docx]([变性]_[練習�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17330 bytes                           |
 | MD5             | 63aece79ae2549bde941919d968045e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

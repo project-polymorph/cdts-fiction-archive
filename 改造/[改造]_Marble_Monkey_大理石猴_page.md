@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Marble_Monkey_大理石猴.docx]([改造]_Marble_Monkey_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40628 bytes                           |
 | MD5             | cb1e6d78ab7b55bb8fbfe8abf9529e11                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

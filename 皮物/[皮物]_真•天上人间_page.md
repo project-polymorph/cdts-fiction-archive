@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_真•天上人间.docx]([皮物]_真•天上人间.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33640 bytes                           |
 | MD5             | f620d255e358981916aa665c458d8dc6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_印度魔咒.docx]([交换]_印度魔咒.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23318 bytes                           |
 | MD5             | 716b6dd37e9190fe88d7f028ae7b7d00                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

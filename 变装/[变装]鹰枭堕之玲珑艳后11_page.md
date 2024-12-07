@@ -20,7 +20,7 @@ TXT 下载: [[变装]鹰枭堕之玲珑艳后11.doc]([变装]鹰枭堕之玲珑�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 49e0f6ead44ebbeacd10b0b10b789d9a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | James                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔术陷阱.docx]([其他]_魔术陷阱.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28607 bytes                           |
 | MD5             | 9762fcd7d63d39f8035b9c2dc4780325                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

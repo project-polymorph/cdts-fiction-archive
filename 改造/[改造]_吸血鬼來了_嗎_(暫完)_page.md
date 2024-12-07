@@ -20,7 +20,7 @@ TXT 下载: [[改造]_吸血鬼來了_嗎_(暫完).docx]([改造]_吸血鬼來�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25126 bytes                           |
 | MD5             | 3d128b62bedac77ccf98ab48f1fc6770                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_目击者part1.2.docx]([变装]_目击者part1.2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18506 bytes                           |
 | MD5             | 64d6df99eddc6fc4e813d22b069192ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_玫瑰公主(完）.docx]([交换]_玫瑰公主(完）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26329 bytes                           |
 | MD5             | 90ca13e2dfbd89dd3d3c24679065c34e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

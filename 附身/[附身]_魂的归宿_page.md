@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂的归宿.docx]([附身]_魂的归宿.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27292 bytes                           |
 | MD5             | 69f9afd05275c3d5b15f9a048df9c8eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

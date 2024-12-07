@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【旧文新翻变性】玛丽的女友.doc]([变性]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 0dfba6d8aec147acec35c21119ce554f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tired Old Man                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_女巫神之——成神之路-04_[.docx]([变身]_女巫�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22587 bytes                           |
 | MD5             | bdda42bfe72584f94bdc496697b93903                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

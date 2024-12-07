@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_乱舞之光_皮物版.docx]([皮物]_乱舞之光_皮物�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39786 bytes                           |
 | MD5             | e6473ebb55168010eb8cbb725a53b2fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

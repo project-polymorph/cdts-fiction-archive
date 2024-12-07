@@ -22,7 +22,7 @@ TXT 下载: [[附身]_神奇手机（第一章）.doc]([附身]_神奇手机（�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | cfcfb3275dac1f1ff161b7465cec87a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

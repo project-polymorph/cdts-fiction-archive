@@ -24,7 +24,7 @@ TXT 下载: [[变身]_公司待遇.docx]([变身]_公司待遇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18233 bytes                           |
 | MD5             | 547ad75309b9121337e27207e1232c6c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

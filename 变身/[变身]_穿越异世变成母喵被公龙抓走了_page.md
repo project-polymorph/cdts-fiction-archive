@@ -20,7 +20,7 @@ TXT 下载: [[变身]_穿越异世变成母喵被公龙抓走了.docx]([变身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18978 bytes                           |
 | MD5             | 0ee8d9d645da84786f18d9fde109c98b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

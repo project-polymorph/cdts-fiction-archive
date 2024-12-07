@@ -20,7 +20,7 @@ TXT 下载: [[变装]_错位的夫妻（扶她X伪娘）第二章.doc]([变装]_
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 340b35e02b971da0951ebcc9f70dbf33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_急性换身欲望（校园篇）.doc]([交换]_急性换�
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | 4c21a2f2f227a2a17b5c22a5fa4a9b38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 1W1W52                               |
 | Region          | 中国大陆                               |

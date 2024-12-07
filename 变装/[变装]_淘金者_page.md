@@ -20,7 +20,7 @@ TXT 下载: [[变装]_淘金者.doc]([变装]_淘金者.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 7227a5babeaeb7d3311742cdda2f0476                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 黛比·赛比尔（Debbie Cybill）                               |
 | Region          | 未知                               |

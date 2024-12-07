@@ -20,7 +20,7 @@ TXT 下载: [[交换]_父与子（二）.docx]([交换]_父与子（二）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38948 bytes                           |
 | MD5             | 51795cedb3a40d838b2656c1e0aaaa76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《没有想好名字的无限流》_第七章_逝去的�
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 07df0c37b588582f645babbf6618d26a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[精品分类]_养成记.doc]([皮物]_[精品分类]_养�
 | Format          | Microsoft Word Document                               |
 | Size            | 188928 bytes                           |
 | MD5             | c915666ed754e2a01389d2e122bd6d38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 如梦幻泡影                               |
 | Region          | 中国大陆                               |

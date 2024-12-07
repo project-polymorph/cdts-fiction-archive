@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《小兵传奇之那年夏天》第四章：两个活宝�
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | 87c3fe8e31d217f9cb29262e0debcef4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

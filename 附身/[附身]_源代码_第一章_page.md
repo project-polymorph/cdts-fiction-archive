@@ -20,7 +20,7 @@ TXT 下载: [[附身]_源代码_第一章.docx]([附身]_源代码_第一章.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20811 bytes                           |
 | MD5             | 26fe5c176c896b9abb69c033df521b6a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

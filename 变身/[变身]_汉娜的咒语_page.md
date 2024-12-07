@@ -20,7 +20,7 @@ TXT 下载: [[变身]_汉娜的咒语.doc]([变身]_汉娜的咒语.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 8b67bbb3a8d2b4b848f053df4f0e1383                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Skylord avius                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换神符-被夺取的人妻（中）.doc]([交换]_交
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | b199a56857449c52555d1c244c8909b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

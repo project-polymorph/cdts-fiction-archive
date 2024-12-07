@@ -20,7 +20,7 @@ TXT 下载: [[附身]_人在旅途_（一）.docx]([附身]_人在旅途_（一�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31821 bytes                           |
 | MD5             | f19f292575abb8c1d8397440d50ba7ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

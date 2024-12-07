@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【Bo-Dog系列】三篇超短篇小说.doc]([变装]_【B
 | Format          | Microsoft Word Document                               |
 | Size            | 27136 bytes                           |
 | MD5             | 4ff117155ee336ffa23e5c110933c919                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Bo-Dog                               |
 | Region          | 未知                               |

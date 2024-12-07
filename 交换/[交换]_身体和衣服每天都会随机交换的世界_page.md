@@ -20,7 +20,7 @@ TXT 下载: [[交换]_身体和衣服每天都会随机交换的世界.doc]([交
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | c483eb0bd62567e37eee44d0a3bdbedb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

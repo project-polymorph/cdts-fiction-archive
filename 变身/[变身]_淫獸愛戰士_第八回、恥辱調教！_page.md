@@ -20,7 +20,7 @@ TXT 下载: [[变身]_淫獸愛戰士_第八回、恥辱調教！.docx]([变身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36940 bytes                           |
 | MD5             | 5a051718bdb32d61b27e26147f90263e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

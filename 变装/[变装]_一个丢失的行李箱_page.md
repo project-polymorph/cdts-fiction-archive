@@ -20,7 +20,7 @@ TXT 下载: [[变装]_一个丢失的行李箱.doc]([变装]_一个丢失的行�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | bddb021a1ec3861589d2579d4f42bdb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | didiwillis                               |
 | Region          | 未知                               |

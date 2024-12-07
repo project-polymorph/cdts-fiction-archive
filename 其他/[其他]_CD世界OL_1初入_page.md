@@ -20,7 +20,7 @@ TXT 下载: [[其他]_CD世界OL_1初入.doc]([其他]_CD世界OL_1初入.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 030dc63f5265890ed29333d9fd439f3d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

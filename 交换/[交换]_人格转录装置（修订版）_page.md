@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人格转录装置（修订版）.docx]([交换]_人格转
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51210 bytes                           |
 | MD5             | 9713be10f16b1436d7dfe34d11594383                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

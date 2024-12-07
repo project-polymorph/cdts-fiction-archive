@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_杀手信仰：亿.doc]([皮物]_杀手信仰：亿.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 6c624f7f5568290949c162ed020a480e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

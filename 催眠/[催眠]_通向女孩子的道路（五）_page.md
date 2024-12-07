@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_通向女孩子的道路（五）.doc]([催眠]_通向女�
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | 6daed0330f1787b47c75f153ac8242ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

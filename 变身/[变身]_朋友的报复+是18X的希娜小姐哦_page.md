@@ -20,7 +20,7 @@ TXT 下载: [[变身]_朋友的报复+是18X的希娜小姐哦.doc]([变身]_朋
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | ed752d3cabe930e3390a9ccb006162d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]The_Making_of_a_Maid(上).doc]([变装]The_Making_of_a_Maid
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 0c91615e7075170041d1782c27ad997b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Belladonna                               |
 | Region          | 未知                               |

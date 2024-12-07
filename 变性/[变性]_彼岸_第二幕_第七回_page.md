@@ -20,7 +20,7 @@ TXT 下载: [[变性]_彼岸_第二幕_第七回.docx]([变性]_彼岸_第二幕
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35819 bytes                           |
 | MD5             | 33974e3c460f2c2e852ebbf2aea6e42c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

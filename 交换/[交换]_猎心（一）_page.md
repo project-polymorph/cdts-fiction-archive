@@ -20,7 +20,7 @@ TXT 下载: [[交换]_猎心（一）.doc]([交换]_猎心（一）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 5bded8739aadfb27295230da5fadbc66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 泰国                               |

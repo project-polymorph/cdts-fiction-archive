@@ -20,7 +20,7 @@ TXT 下载: [[改造]_神勇绿坝娘之魔道中卒.docx]([改造]_神勇绿坝
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 181232 bytes                           |
 | MD5             | 6f652ae0050349ac0407f06dfd87401a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变成人皮衣服的少女.docx]([皮物]_变成人皮衣
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28889 bytes                           |
 | MD5             | 98929a5e8a931a9916c8ed1b3fa3dbe0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

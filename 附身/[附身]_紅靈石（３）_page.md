@@ -20,7 +20,7 @@ TXT 下载: [[附身]_紅靈石（３）.docx]([附身]_紅靈石（３）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19268 bytes                           |
 | MD5             | 64e9611d4a066e922b3f96df48b0319f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

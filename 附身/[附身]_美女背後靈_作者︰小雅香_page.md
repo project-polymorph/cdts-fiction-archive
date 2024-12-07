@@ -20,7 +20,7 @@ TXT 下载: [[附身]_美女背後靈_作者︰小雅香.docx]([附身]_美女�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41693 bytes                           |
 | MD5             | a27d23261043c0ede807b5b48b2450c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小雅香                               |
 | Region          | 未知                               |

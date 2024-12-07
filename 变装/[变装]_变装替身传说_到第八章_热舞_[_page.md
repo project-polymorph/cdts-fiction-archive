@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装替身传说_到第八章_热舞_[.docx]([变装]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 117612 bytes                           |
 | MD5             | dc28e69bcb71b4104f87e41eb60fdfaa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

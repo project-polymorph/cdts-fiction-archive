@@ -22,7 +22,7 @@ TXT 下载: [[附身]_哎呦!!衣服穿反了!!.doc]([附身]_哎呦!!衣服穿�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | e8bae1c18a02619c2f95493aec080be3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

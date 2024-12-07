@@ -20,7 +20,7 @@ TXT 下载: [人格排泄症候群.docx](人格排泄症候群.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29866 bytes                           |
 | MD5             | b40574a0638b6bc819a1bd4ad9b23426                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

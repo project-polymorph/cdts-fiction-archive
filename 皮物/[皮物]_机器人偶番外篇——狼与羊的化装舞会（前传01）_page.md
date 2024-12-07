@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机器人偶番外篇——狼与羊的化装舞会（前�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23914 bytes                           |
 | MD5             | 2eda4173940ac52d08e62156aa20666b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

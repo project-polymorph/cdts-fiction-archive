@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.4_变形魔怪.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24269 bytes                           |
 | MD5             | cf9e9d8f22164d2853756e6538593fd9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

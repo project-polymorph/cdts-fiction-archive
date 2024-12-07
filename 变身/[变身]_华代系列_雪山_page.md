@@ -20,7 +20,7 @@ TXT 下载: [[变身]_华代系列_雪山.docx]([变身]_华代系列_雪山.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23626 bytes                           |
 | MD5             | 78dc42f9817273a40a6fbed7e547d5d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

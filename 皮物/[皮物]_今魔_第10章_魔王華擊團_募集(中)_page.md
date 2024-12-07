@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_今魔_第10章_魔王華擊團_募集(中).docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28035 bytes                           |
 | MD5             | e8732bfe95b6e99519af29c6dcbbbe74                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

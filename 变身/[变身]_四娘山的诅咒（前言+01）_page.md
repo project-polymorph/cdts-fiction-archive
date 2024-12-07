@@ -20,7 +20,7 @@ TXT 下载: [[变身]_四娘山的诅咒（前言+01）.doc]([变身]_四娘山�
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 7fa0408e77714ad0bb711d188644327c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

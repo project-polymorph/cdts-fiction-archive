@@ -20,7 +20,7 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第三章_说许盗草.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 092ec7ace6cd65c516dd8139c27d8b8b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

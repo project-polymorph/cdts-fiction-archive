@@ -20,7 +20,7 @@ TXT 下载: [[其他]_西游情厄传（第十九回）.docx]([其他]_西游情
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25623 bytes                           |
 | MD5             | 95f6c5d01808cd9b91588e8d7a4ce285                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

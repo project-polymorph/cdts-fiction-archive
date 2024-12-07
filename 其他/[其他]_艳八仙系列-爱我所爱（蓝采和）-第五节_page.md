@@ -20,7 +20,7 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第五节.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18248 bytes                           |
 | MD5             | 27021b5a50235899a1f17b01c671ac6e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

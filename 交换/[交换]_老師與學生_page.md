@@ -20,7 +20,7 @@ TXT 下载: [[交换]_老師與學生.docx]([交换]_老師與學生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24199 bytes                           |
 | MD5             | 79b8d67d74c3dcedbe6feb5d0cf0d2b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

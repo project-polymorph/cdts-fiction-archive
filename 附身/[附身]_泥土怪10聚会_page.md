@@ -20,7 +20,7 @@ TXT 下载: [[附身]_泥土怪10聚会.docx]([附身]_泥土怪10聚会.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18481 bytes                           |
 | MD5             | 91e3e6f66dee15295e3624b9a829851c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

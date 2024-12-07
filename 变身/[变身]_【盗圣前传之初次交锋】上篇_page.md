@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【盗圣前传之初次交锋】上篇.docx]([变身]_【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34804 bytes                           |
 | MD5             | ec2885fea1d7b14b725b602b774cc0f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

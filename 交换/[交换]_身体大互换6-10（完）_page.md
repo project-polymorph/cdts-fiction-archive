@@ -20,7 +20,7 @@ TXT 下载: [[交换]_身体大互换6-10（完）.doc]([交换]_身体大互换
 | Format          | Microsoft Word Document                               |
 | Size            | 99328 bytes                           |
 | MD5             | 03d9a37f950ce585c369aa2fb06d2268                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 悲剧的小萝莉                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】新生殖器的康复.doc]([变性]_【翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | e8386325c3e3f64a512e04596b1abc9e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | よーこ様                               |
 | Region          | 未知                               |

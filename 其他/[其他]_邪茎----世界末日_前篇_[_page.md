@@ -20,7 +20,7 @@ TXT 下载: [[其他]_邪茎----世界末日_前篇_[.docx]([其他]_邪茎----�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22769 bytes                           |
 | MD5             | ea52ad97b3fae7b2fa8669bb0e1fe91f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lixuboy                               |
 | Region          | 未知                               |

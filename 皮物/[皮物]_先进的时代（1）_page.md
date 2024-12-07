@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_先进的时代（1）.doc]([皮物]_先进的时代（1�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | fcedc29e41d2be5d8e2832cd87985715                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

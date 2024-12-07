@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】她想要一个女儿.doc]([变性]_【翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 7783e9e74cc12a0d5276a196158a907d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

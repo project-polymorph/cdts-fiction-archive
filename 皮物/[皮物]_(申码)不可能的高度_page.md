@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_(申码)不可能的高度.doc]([皮物]_(申码)不可能
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 0b2ef62a24d1b05cf503553bddab9e40                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 苏联                               |

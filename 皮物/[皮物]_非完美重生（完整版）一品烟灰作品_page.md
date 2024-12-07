@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_非完美重生（完整版）一品烟灰作品.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25534 bytes                           |
 | MD5             | d53535935ef33e95f3ca295ee0533f00                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 一品烟灰                               |
 | Region          | 未知                               |

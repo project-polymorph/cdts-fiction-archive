@@ -20,7 +20,7 @@ TXT 下载: [[附身]_勇者罗曼与恶龙.doc]([附身]_勇者罗曼与恶龙.
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 61e78783bbd24188d4b6fc017b1ddb1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

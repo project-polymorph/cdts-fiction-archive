@@ -20,7 +20,7 @@ TXT 下载: [[其他]_立場交換短篇集.docx]([其他]_立場交換短篇集
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24832 bytes                           |
 | MD5             | 6da3dc25edbc991e48dd0dc0533f3913                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

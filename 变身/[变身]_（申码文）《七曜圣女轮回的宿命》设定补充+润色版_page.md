@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（申码文）《七曜圣女轮回的宿命》设定补�
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | 59da5d808db2b7a8b3efc77861195110                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 沉默的金雕                               |
 | Region          | 未知                               |

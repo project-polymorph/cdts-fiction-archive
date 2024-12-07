@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Back_In_Skirt（2_3）.doc]([变装]_Back_In_Skirt（2_3�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 8b69e7f1d0107bd6fc944be1985ab4f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

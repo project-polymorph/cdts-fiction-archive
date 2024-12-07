@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十五章.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22291 bytes                           |
 | MD5             | 8d779a2e87f7a4115f14ff76f7d1df72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 紫依                               |
 | Region          | 未知                               |

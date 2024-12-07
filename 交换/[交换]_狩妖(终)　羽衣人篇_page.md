@@ -20,7 +20,7 @@ TXT 下载: [[交换]_狩妖(终)　羽衣人篇.doc]([交换]_狩妖(终)　羽
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | 56854c351770d2b825e52aa306fb69fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

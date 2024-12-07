@@ -20,7 +20,7 @@ TXT 下载: [[附身]_夺势（一）.doc]([附身]_夺势（一）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | c13af1e59a497b56d412326acd6b0e02                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

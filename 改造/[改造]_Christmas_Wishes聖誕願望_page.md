@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Christmas_Wishes聖誕願望.docx]([改造]_Christmas_Wish
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30191 bytes                           |
 | MD5             | 8b2b7f147b3f6c54f354d027aca01f9a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Morpheus3                               |
 | Region          | 未知                               |

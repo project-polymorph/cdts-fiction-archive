@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【生日礼物】.docx]([皮物]_【生日礼物】.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 88798 bytes                           |
 | MD5             | 27178f02b7c74af015de24c5356da5ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

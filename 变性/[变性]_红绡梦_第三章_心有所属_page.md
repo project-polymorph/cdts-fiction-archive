@@ -20,7 +20,7 @@ TXT 下载: [[变性]_红绡梦_第三章_心有所属.docx]([变性]_红绡梦_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40747 bytes                           |
 | MD5             | 68e17d8cbdacf30e95e142b7884ef351                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

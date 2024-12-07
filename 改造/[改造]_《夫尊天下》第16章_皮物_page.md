@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第16章_皮物.doc]([改造]_《夫尊�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 4b054c337bd8b2a80a0a9402107787f1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

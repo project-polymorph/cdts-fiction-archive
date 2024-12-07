@@ -20,7 +20,7 @@ TXT 下载: [[改造]_十色鸾（二）孽缘.docx]([改造]_十色鸾（二）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25684 bytes                           |
 | MD5             | 7601960a7938188cbe8b428614687d92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_易骨者1_[.docx]([改造]_易骨者1_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26603 bytes                           |
 | MD5             | 18655fb7963cad84f09f603326bd031a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

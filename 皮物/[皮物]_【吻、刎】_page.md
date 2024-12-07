@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【吻、刎】.doc]([皮物]_【吻、刎】.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 89088 bytes                           |
 | MD5             | b7c142982e343040ddc0c0ed80cedb63                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

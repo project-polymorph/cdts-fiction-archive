@@ -20,7 +20,7 @@ TXT 下载: [[附身]_缠魂米三（1）.doc]([附身]_缠魂米三（1）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 83968 bytes                           |
 | MD5             | ac51c651a2520be14b6a9421c3a2286a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

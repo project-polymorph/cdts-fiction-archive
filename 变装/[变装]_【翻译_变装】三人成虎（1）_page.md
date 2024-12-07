@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译_变装】三人成虎（1）.doc]([变装]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 5f24cdf60d1056493e65a16a6abedbad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

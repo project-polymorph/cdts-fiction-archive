@@ -20,7 +20,7 @@ TXT 下载: [[变装]_My_One_Man_Office【完成】.doc]([变装]_My_One_Man_Off
 | Format          | Microsoft Word Document                               |
 | Size            | 89088 bytes                           |
 | MD5             | adba26364439ba807859ee752ffc758d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | superbuilt                               |
 | Region          | 未知                               |

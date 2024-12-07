@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我，魔法少女（已补完）.docx]([皮物]_我，魔
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27189 bytes                           |
 | MD5             | ea50ec588da4c8a89d735fa575c12afe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

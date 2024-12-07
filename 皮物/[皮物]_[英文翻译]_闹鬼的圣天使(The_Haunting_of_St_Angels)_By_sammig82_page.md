@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[英文翻译]_闹鬼的圣天使(The_Haunting_of_St_Angel
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | e6271597d2b101e02b320cdc50e6f267                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

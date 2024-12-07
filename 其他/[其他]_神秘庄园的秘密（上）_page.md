@@ -20,7 +20,7 @@ TXT 下载: [[其他]_神秘庄园的秘密（上）.docx]([其他]_神秘庄园
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31028 bytes                           |
 | MD5             | b99e6983daf4fe521270571b3419ad43                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 瓦拉几亚                               |

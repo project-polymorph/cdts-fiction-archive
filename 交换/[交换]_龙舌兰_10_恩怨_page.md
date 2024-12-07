@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_10_恩怨.docx]([交换]_龙舌兰_10_恩怨.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31996 bytes                           |
 | MD5             | 5f584422e4869610c04c6b3c14992bba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yudi                               |
 | Region          | 中国大陆                               |

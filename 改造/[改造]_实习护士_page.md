@@ -20,7 +20,7 @@ TXT 下载: [[改造]_实习护士.doc]([改造]_实习护士.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | a4d80646f0cea14b19a11a21c7c62a5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

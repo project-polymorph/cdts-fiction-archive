@@ -22,7 +22,7 @@ TXT 下载: [[附身]_我和克里斯的故事（六）未完.doc]([附身]_我�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | b09564b1899bb3244beca436d5abcf8d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

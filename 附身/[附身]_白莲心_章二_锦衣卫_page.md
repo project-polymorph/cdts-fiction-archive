@@ -20,7 +20,7 @@ TXT 下载: [[附身]_白莲心_章二_锦衣卫.doc]([附身]_白莲心_章二_
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | a383554ceeec1f798a2a1f5c5c5ba1f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

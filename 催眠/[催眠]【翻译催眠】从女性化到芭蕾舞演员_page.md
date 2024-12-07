@@ -20,7 +20,7 @@ TXT 下载: [[催眠]【翻译催眠】从女性化到芭蕾舞演员.doc]([催�
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | 30192d9570ea385ff2e978250ed7ef8a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Bo-Dog                               |
 | Region          | 未知                               |

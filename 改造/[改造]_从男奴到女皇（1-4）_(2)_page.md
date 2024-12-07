@@ -20,7 +20,7 @@ TXT 下载: [[改造]_从男奴到女皇（1-4）_(2).docx]([改造]_从男奴�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40259 bytes                           |
 | MD5             | 87d484f0c12831c8d2538e0d96180855                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

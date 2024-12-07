@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】糟糕的时机.doc]([变性]_【翻译】糟�
 | Format          | Microsoft Word Document                               |
 | Size            | 93184 bytes                           |
 | MD5             | 94585dbd657d707a2bcf5bf873f9b823                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | jennifer Miller                               |
 | Region          | 未知                               |

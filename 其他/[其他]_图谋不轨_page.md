@@ -20,7 +20,7 @@ TXT 下载: [[其他]_图谋不轨.docx]([其他]_图谋不轨.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23282 bytes                           |
 | MD5             | a17f78be0ba805e90aebd9f2cc26e2a4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

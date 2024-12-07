@@ -20,7 +20,7 @@ TXT 下载: [[改造]_聖魔邪靈_第二部精魔天下_第一回、紅瞳_(2).
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51941 bytes                           |
 | MD5             | 59d7101b6a9e84cb7b25408ad40f9ea7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 白纸                               |
 | Region          | 台湾                               |

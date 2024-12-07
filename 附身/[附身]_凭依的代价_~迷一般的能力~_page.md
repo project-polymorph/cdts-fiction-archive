@@ -20,7 +20,7 @@ TXT 下载: [[附身]_凭依的代价_~迷一般的能力~.doc]([附身]_凭依�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 865a8d9cb0f2820d1d34ee41985e1248                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

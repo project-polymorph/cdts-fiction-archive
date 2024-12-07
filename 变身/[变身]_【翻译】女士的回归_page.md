@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】女士的回归.docx]([变身]_【翻译】女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26739 bytes                           |
 | MD5             | a75ddf8a329aaed32c7ee8d8d201a52f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maredsous                               |
 | Region          | 未知                               |

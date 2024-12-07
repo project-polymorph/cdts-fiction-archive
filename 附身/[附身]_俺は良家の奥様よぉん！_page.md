@@ -20,7 +20,7 @@ TXT 下载: [[附身]_俺は良家の奥様よぉん！.docx]([附身]_俺は良
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21326 bytes                           |
 | MD5             | cabb303e5aad1e1dfc2b35bce94ad870                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

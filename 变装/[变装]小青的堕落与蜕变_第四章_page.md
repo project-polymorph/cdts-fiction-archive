@@ -20,7 +20,7 @@ TXT 下载: [[变装]小青的堕落与蜕变_第四章.doc]([变装]小青的�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 6c549f1c29aca34356b97a0ed0e97686                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

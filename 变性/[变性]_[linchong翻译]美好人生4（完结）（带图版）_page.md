@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]美好人生4（完结）（带图版）.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38941 bytes                           |
 | MD5             | 5e11c01aa3f35362a2026579b4bd4c95                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong                               |
 | Region          | 未知                               |

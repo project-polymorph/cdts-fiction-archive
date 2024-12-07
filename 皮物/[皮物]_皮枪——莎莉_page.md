@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮枪——莎莉.docx]([皮物]_皮枪——莎莉.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24100 bytes                           |
 | MD5             | 21b8a539e6a1f5778a32752b0f209bfc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Azrael                               |
 | Region          | 未知                               |

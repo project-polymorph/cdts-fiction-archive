@@ -20,7 +20,7 @@ TXT 下载: [[改造]_大蛇的女儿们，故事二，微重口_(2).docx]([改�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26745 bytes                           |
 | MD5             | d39400fbc12cabc5230d712d2612290d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

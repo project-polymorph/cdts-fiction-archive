@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【小说】代替吧1【作业向，有不好的地方请
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26862 bytes                           |
 | MD5             | 813cad740868d32ca28f74b56c3d93ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

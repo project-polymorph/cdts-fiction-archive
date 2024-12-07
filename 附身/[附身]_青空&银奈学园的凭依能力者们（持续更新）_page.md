@@ -20,7 +20,7 @@ TXT 下载: [[附身]_青空&银奈学园的凭依能力者们（持续更新）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46627 bytes                           |
 | MD5             | 1178b3c6fedaaed7cb2e8715436ea6bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

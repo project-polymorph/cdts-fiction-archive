@@ -20,7 +20,7 @@ TXT 下载: [师生变.docx](师生变.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43868 bytes                           |
 | MD5             | dc67b9caed92ed13c9f670d6bf023026                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_勇者弱体化封印_16_C结局.doc]([变身]_勇者弱�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 2f4682bcf7d9ef5a41b5b1caf49d9b06                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

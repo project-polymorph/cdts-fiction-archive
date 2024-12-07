@@ -20,7 +20,7 @@ TXT 下载: [[变性]_彼岸_第三幕_第五回.docx]([变性]_彼岸_第三幕
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33062 bytes                           |
 | MD5             | 58ff8c1b5a9dfd8c739edc5d63b79068                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

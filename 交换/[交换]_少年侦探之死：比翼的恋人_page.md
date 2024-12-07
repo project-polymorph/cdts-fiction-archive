@@ -20,7 +20,7 @@ TXT 下载: [[交换]_少年侦探之死：比翼的恋人.doc]([交换]_少年�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 2346ef354839b8bc35e71ed9d54ac4a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_憑依術講座,其一「入門編」.docx]([附身]_憑�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31305 bytes                           |
 | MD5             | aee948325e725c210ea6941827fd8bcb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー                               |
 | Region          | 未知                               |

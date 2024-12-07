@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文】魔神之眼.doc]([皮物]_【申码文】�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | c03c9c1d5a03608932ab1f13396375ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

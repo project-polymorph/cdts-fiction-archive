@@ -20,7 +20,7 @@ TXT 下载: [[附身]_重生破道第十二章无事献殷勤，约法三章！.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33705 bytes                           |
 | MD5             | ce17fbaa88054e2f287eb85e490e18c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

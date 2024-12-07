@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文】投资.doc]([皮物]_【申码文】投资.
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 4bac9c9279e50fa165809c9a072eed54                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]蓝荆花档案_第二章.doc]([变装]蓝荆花档案_第�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 7d2068de2f8ea6e93f5279731ec5ebaf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

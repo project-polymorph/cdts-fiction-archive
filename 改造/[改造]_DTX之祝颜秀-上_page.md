@@ -20,7 +20,7 @@ TXT 下载: [[改造]_DTX之祝颜秀-上.doc]([改造]_DTX之祝颜秀-上.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 8cc50c1a40e73abcaad626ae1520eb91                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

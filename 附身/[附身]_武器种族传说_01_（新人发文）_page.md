@@ -20,7 +20,7 @@ TXT 下载: [[附身]_武器种族传说_01_（新人发文）.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44964 bytes                           |
 | MD5             | b100ba61c33a2d64b42a273deaf7852f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

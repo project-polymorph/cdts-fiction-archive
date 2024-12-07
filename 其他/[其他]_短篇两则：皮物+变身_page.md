@@ -20,7 +20,7 @@ TXT 下载: [[其他]_短篇两则：皮物+变身.docx]([其他]_短篇两则�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28721 bytes                           |
 | MD5             | 843058fa9969fd3776caaf1b8df045d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人2                               |
 | Region          | 未知                               |

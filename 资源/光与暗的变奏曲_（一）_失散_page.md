@@ -20,7 +20,7 @@ TXT 下载: [光与暗的变奏曲_（一）_失散.doc](光与暗的变奏曲_�
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | 1ec9fbcf4d4005bc7c150b36156f5dac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

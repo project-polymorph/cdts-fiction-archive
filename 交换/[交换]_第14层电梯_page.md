@@ -20,7 +20,7 @@ TXT 下载: [[交换]_第14层电梯.doc]([交换]_第14层电梯.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | 8055b4fa70f77c2c70169fedaa7a7fd7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

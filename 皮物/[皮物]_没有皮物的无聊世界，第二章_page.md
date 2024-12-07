@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_没有皮物的无聊世界，第二章.docx]([皮物]_没
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40586 bytes                           |
 | MD5             | 36afbd35179328a02fbad6b44b8475b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

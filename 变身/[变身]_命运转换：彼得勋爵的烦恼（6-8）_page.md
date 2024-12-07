@@ -20,7 +20,7 @@ TXT 下载: [[变身]_命运转换：彼得勋爵的烦恼（6-8）.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 67dc225250d9dc3ec9404953ec6f706c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

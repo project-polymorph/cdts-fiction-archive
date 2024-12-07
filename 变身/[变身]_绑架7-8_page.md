@@ -20,7 +20,7 @@ TXT 下载: [[变身]_绑架7-8.doc]([变身]_绑架7-8.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 42b4e8bddac763810c4e2c83e5b4df9c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

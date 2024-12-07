@@ -20,7 +20,7 @@ TXT 下载: [[变身]_M200的傀儡指挥官_第三章_帕斯卡的实验事故.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36986 bytes                           |
 | MD5             | 3c51e86b49f4f933898801af38b58d30                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

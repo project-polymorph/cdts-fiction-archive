@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_整容风波（贰）.docx]([皮物]_整容风波（贰）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31881 bytes                           |
 | MD5             | 8eccdf8a7c0b01fe8c76ae062ce1615b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

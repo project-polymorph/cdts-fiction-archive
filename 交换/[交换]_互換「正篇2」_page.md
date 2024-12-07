@@ -20,7 +20,7 @@ TXT 下载: [[交换]_互換「正篇2」.docx]([交换]_互換「正篇2」.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62295 bytes                           |
 | MD5             | 40644819463a4a5824b30f425f0ef3c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

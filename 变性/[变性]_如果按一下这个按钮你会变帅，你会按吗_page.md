@@ -20,7 +20,7 @@ TXT 下载: [[变性]_如果按一下这个按钮你会变帅，你会按吗.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20910 bytes                           |
 | MD5             | 77402ceb30143eaadcdde714e05faf04                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

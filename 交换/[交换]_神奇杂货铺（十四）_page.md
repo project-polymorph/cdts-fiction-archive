@@ -20,7 +20,7 @@ TXT 下载: [[交换]_神奇杂货铺（十四）.docx]([交换]_神奇杂货铺
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37676 bytes                           |
 | MD5             | ed8fbd9d03e0177fa01478e2d4f9f182                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

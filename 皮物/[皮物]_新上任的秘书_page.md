@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新上任的秘书.doc]([皮物]_新上任的秘书.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 18b7b74fc9dfdea5d98827a0f41ad528                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

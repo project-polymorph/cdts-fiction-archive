@@ -20,7 +20,7 @@ TXT 下载: [[附身]_真‧淫魔修女傳_第七回、噬魂魔女.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35669 bytes                           |
 | MD5             | 0c19eae81a0e4cd8ed4e31bc3a5310f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_夏季研修（insidedoll）下.docx]([皮物]_夏季研�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36609 bytes                           |
 | MD5             | b0260e16d1c50864d14ea27ea116574f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

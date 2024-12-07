@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女孩子的试衣间(女の子の『皮』着る試着室
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25345 bytes                           |
 | MD5             | f166a158921d3b9322a2877c01bdb50f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_梦之队的破灭.docx]([变身]_梦之队的破灭.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26162 bytes                           |
 | MD5             | 06f6414cfe630d9ddc9fc8be17b3c569                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人8                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_【翻译催眠】被催眠成一位芭蕾舞演员.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | 66389b1aef9f44df41cb59b0b1743588                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Bo-Dog                               |
 | Region          | 未知                               |

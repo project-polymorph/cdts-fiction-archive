@@ -22,7 +22,7 @@ TXT 下载: [[变性]_亡妻的雕像.docx]([变性]_亡妻的雕像.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39373 bytes                           |
 | MD5             | 13b45d95d716b149052df621a8f51359                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

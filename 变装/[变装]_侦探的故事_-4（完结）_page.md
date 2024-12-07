@@ -20,7 +20,7 @@ TXT 下载: [[变装]_侦探的故事_-4（完结）.docx]([变装]_侦探的故
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43362 bytes                           |
 | MD5             | 91e306bf228aa076966e001c0b44d2a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

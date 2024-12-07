@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[申码文重发]黑色洗衣液（一）~（四）.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34343 bytes                           |
 | MD5             | 5ee203a442c25441e368a65d62495b71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 和谐号列车长                               |
 | Region          | 中国大陆                               |

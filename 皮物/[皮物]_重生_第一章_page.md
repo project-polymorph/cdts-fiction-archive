@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_重生_第一章.docx]([皮物]_重生_第一章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37443 bytes                           |
 | MD5             | b82fddf1db96497f8f0937e09e4329fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

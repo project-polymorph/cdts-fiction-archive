@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_催眠物恋(申码文搬运).doc]([催眠]_催眠物恋(�
 | Format          | Microsoft Word Document                               |
 | Size            | 91136 bytes                           |
 | MD5             | 1140b3b4f2bc4f9ba91983a517222bab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

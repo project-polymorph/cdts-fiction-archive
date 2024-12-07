@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_TG物语——影子（十三至十五）.doc]([皮物]_TG
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 0e7d8f55ff3e290c173e406b11834291                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

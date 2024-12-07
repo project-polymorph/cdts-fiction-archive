@@ -20,7 +20,7 @@ TXT 下载: [[变身]_捕猎·搜寻-Hunt_and_Seek.docx]([变身]_捕猎·搜寻
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35979 bytes                           |
 | MD5             | ccf1ac30adb5b838751d04a57d6f3bfd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cyberbeatle                               |
 | Region          | 未知                               |

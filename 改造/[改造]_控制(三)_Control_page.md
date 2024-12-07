@@ -24,7 +24,7 @@ TXT 下载: [[改造]_控制(三)_Control.doc]([改造]_控制(三)_Control.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 924a4895ee7f3e3b36003534b0c00cd8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

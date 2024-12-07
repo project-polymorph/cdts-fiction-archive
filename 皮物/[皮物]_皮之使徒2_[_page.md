@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之使徒2_[.docx]([皮物]_皮之使徒2_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24132 bytes                           |
 | MD5             | b6b917471021cd6f8b6c7ba00230c79c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

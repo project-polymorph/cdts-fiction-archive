@@ -20,7 +20,7 @@ TXT 下载: [[变性]_再生蝶_–_姬儿的故事_[.docx]([变性]_再生蝶_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 136232 bytes                           |
 | MD5             | 0fcf258fa112de33328d92328f06bb29                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Flora                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔法少女大樓淪陷記2.docx]([其他]_魔法少女�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19602 bytes                           |
 | MD5             | b71af2a8525485933c017d1da56da8ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

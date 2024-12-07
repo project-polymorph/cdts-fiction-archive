@@ -20,7 +20,7 @@ TXT 下载: [[变身]_诺儿的救赎－Noel.docx]([变身]_诺儿的救赎－No
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 165564 bytes                           |
 | MD5             | aa58bc1a2febc735e73ea991ed38ef00                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cyberbeatle                               |
 | Region          | 未知                               |

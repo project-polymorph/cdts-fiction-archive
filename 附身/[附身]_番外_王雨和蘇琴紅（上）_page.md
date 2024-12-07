@@ -20,7 +20,7 @@ TXT 下载: [[附身]_番外_王雨和蘇琴紅（上）.docx]([附身]_番外_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35092 bytes                           |
 | MD5             | fb8fbd6a5f6d8af2955f7ef4be91dd24                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

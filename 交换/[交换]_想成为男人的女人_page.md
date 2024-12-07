@@ -20,7 +20,7 @@ TXT 下载: [[交换]_想成为男人的女人.docx]([交换]_想成为男人的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26961 bytes                           |
 | MD5             | f459d99525bf7279f1dd240a5a59d48d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【改造换身】奇异的治疗方案.docx]([改造]_【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51933 bytes                           |
 | MD5             | 305b4e459f9d2201f4c6688b035bcedb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我是誰_Chapter.01.docx]([皮物]_我是誰_Chapter.01.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34712 bytes                           |
 | MD5             | 3a477a501a66b3b1be710895e22d3499                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yoyocorgi                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_发个小品文_一次变装,无H,原创,别处发过..doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17458 bytes                           |
 | MD5             | a289a8f474fd63a2d92a65c9d2be15f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

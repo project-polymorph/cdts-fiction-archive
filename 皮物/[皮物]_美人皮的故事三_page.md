@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_美人皮的故事三.docx]([皮物]_美人皮的故事三
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18462 bytes                           |
 | MD5             | da68cad8f856c01a0ea24a0c1cea6956                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

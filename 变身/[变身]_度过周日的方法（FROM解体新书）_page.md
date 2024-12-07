@@ -20,7 +20,7 @@ TXT 下载: [[变身]_度过周日的方法（FROM解体新书）.docx]([变身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27706 bytes                           |
 | MD5             | cfcee093ba9eb723815adce769beb793                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

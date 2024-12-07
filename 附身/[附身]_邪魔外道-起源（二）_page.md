@@ -20,7 +20,7 @@ TXT 下载: [[附身]_邪魔外道-起源（二）.docx]([附身]_邪魔外道-�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 184109 bytes                           |
 | MD5             | a36de446e41bb4aab53eb2ef7ad66be6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

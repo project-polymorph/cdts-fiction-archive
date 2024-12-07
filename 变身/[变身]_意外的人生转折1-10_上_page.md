@@ -20,7 +20,7 @@ TXT 下载: [[变身]_意外的人生转折1-10_上.doc]([变身]_意外的人�
 | Format          | Microsoft Word Document                               |
 | Size            | 75776 bytes                           |
 | MD5             | ab7179f1269157fe464b33033e843b2f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

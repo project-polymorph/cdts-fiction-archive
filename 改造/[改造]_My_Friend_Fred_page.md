@@ -20,7 +20,7 @@ TXT 下载: [[改造]_My_Friend_Fred.doc]([改造]_My_Friend_Fred.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 62976 bytes                           |
 | MD5             | dc95607eeb7fe40f94af2f849b7a0513                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | KimberlyKat                               |
 | Region          | 未知                               |

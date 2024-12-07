@@ -20,7 +20,7 @@ TXT 下载: [[变装]_清泉家的“大小姐”们（番外：栞的婚礼）.
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 7b6228864b0572ef036c7c5118e992c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

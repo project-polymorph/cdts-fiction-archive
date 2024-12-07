@@ -20,7 +20,7 @@ TXT 下载: [[交换]_等价交换8-10.docx]([交换]_等价交换8-10.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33392 bytes                           |
 | MD5             | 8078c159f485fd79af5ed2abcd0dbb85                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

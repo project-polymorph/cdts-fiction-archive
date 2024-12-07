@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_心中的恶魔，一、萌芽+二、绽放_两集联播_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42020 bytes                           |
 | MD5             | 05173ebac5fed5565550bf53c69aaa57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

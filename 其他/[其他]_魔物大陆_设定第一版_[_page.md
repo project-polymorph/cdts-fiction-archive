@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔物大陆_设定第一版_[.docx]([其他]_魔物大陆
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25862 bytes                           |
 | MD5             | 171c9cd808125fc873cfe7a983294698                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_罪恶契约（八）、（九）替代，然后扮演.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 449a7eb11858574e83f5f12cdecfb958                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

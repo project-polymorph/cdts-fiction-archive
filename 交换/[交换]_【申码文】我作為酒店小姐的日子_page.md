@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【申码文】我作為酒店小姐的日子.doc]([交换
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | 35f8bd0f878feca0f072172c2a07f609                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

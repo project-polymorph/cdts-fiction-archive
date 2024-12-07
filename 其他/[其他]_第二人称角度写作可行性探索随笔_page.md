@@ -20,7 +20,7 @@ TXT 下载: [[其他]_第二人称角度写作可行性探索随笔.docx]([其�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20945 bytes                           |
 | MD5             | 437bd267fc21ea37a07d4b30ccf5f9ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

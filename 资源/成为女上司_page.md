@@ -20,7 +20,7 @@ TXT 下载: [成为女上司.docx](成为女上司.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25593 bytes                           |
 | MD5             | 88732a5c74356c6411a94751ec9d3842                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

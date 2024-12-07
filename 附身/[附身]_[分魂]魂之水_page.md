@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[分魂]魂之水.docx]([附身]_[分魂]魂之水.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31093 bytes                           |
 | MD5             | bc1b59ef240326c230a8451b62cb5def                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 和泉た道                               |
 | Region          | 未知                               |

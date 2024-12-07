@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二十一章.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19963 bytes                           |
 | MD5             | aa6a85ae3017ebecdf2becd60ecc23aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_父親的遺產_第十二回、肛交性奴_(2).docx]([改
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26202 bytes                           |
 | MD5             | 0ebbf7044a4296dd0416781abffe1239                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

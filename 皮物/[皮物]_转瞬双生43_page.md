@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_转瞬双生43.pdf]([皮物]_转瞬双生43.pdf)
 | Format          | PDF Document                               |
 | Size            | 636204 bytes                           |
 | MD5             | d5e860a1dd84496d06a35bd6b16449ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

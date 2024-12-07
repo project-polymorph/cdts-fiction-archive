@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_12.docx]([皮物]_帝凰
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24586 bytes                           |
 | MD5             | c377ce134a2016d818fc7396804a6d6f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

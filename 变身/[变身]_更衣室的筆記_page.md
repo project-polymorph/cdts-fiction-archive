@@ -20,7 +20,7 @@ TXT 下载: [[变身]_更衣室的筆記.docx]([变身]_更衣室的筆記.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22652 bytes                           |
 | MD5             | fc26693674549b645b1057623146bdfe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

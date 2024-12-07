@@ -20,7 +20,7 @@ TXT 下载: [[改造]_深网——惩罚游戏(更新3)_(2).docx]([改造]_深�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28886 bytes                           |
 | MD5             | 67f0d5bbe1cc97ff6882eb3aaa7c25b7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

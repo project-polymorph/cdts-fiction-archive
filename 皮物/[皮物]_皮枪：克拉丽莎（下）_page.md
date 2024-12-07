@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮枪：克拉丽莎（下）.docx]([皮物]_皮枪：克
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24032 bytes                           |
 | MD5             | 9a1c4d55e80e879f5751a4318e738020                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

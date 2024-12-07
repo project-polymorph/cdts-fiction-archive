@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花非花_带刺玫瑰（本帖更新，第一章第一稿
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 3f7169b8ac16f27160ae82f401ac4f8a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

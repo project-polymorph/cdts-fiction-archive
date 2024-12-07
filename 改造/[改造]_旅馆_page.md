@@ -20,7 +20,7 @@ TXT 下载: [[改造]_旅馆.doc]([改造]_旅馆.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 123904 bytes                           |
 | MD5             | 59a4b50e811cfe4db19762945cb2b052                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

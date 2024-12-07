@@ -20,7 +20,7 @@ TXT 下载: [[变身]_分手大师.docx]([变身]_分手大师.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26074 bytes                           |
 | MD5             | 2415f3612c516b8459c2b1fdad56ee6e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 中国大陆                               |

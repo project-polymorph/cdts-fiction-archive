@@ -20,7 +20,7 @@ TXT 下载: [[变装]CDTG系统（三）.doc]([变装]CDTG系统（三）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 0887f5cc6bae64a3ab53c6a1aaa99227                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_二人协奏曲.docx]([皮物]_二人协奏曲.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23198 bytes                           |
 | MD5             | 0003b0a116c9a8ff53167ac4593879d1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

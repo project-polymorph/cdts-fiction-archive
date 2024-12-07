@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_中秋夜_算是中秋贺礼吧.docx]([皮物]_中秋夜_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18761 bytes                           |
 | MD5             | 249f3d78050c4757fda40a101f840f85                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

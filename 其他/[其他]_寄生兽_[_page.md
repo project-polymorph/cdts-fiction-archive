@@ -20,7 +20,7 @@ TXT 下载: [[其他]_寄生兽_[.docx]([其他]_寄生兽_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27983 bytes                           |
 | MD5             | 55eda67ed16d5aafa36f8f1f96d1133b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 中国大陆                               |

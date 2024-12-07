@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我家女友不定形【第四章】.doc]([皮物]_我家�
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | 46df805ddaca400c88fe9b71a4f854ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

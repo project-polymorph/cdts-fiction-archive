@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮物贩卖（六）.doc]([皮物]_皮物贩卖（六）.
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 29a4e1949be7dc476cba2bcc37a9c7ab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

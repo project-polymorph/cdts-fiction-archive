@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】八、阴阳调和.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | dbf1ff439f081fe0c8d37f9eeae257d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

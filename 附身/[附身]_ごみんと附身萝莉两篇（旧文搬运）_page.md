@@ -20,7 +20,7 @@ TXT 下载: [[附身]_ごみんと附身萝莉两篇（旧文搬运）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 65933 bytes                           |
 | MD5             | cf1350ae70478aec55b902d6752fbfb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

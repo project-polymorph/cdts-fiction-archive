@@ -20,7 +20,7 @@ TXT 下载: [[改造]_化妖淫梦（第三章）.doc]([改造]_化妖淫梦（�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | f872f5e6d760f244408bc8f371e2e9de                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_瘫子.docx]([变性]_瘫子.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22259 bytes                           |
 | MD5             | 6e942ff83718c3b9ae4813309d189cea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

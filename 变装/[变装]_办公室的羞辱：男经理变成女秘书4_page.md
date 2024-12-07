@@ -20,7 +20,7 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书4.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20109 bytes                           |
 | MD5             | 31748ae2f6487e278b4599812c627817                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

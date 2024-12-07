@@ -20,7 +20,7 @@ TXT 下载: [[变装]_千年女裝.doc]([变装]_千年女裝.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | fc94f78fd1de833040e83dfa1e16fb2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

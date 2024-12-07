@@ -20,7 +20,7 @@ TXT 下载: [[变装]_处罚.doc]([变装]_处罚.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 9fe9cc4cd008c550a64e1d7995e7b568                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Hiding_in_Hose.doc]([变装]_Hiding_in_Hose.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 140800 bytes                           |
 | MD5             | 0d3a4db96af61f3ab69eed815dc280b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

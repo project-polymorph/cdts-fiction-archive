@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（fgo同人文）失败的召唤.docx]([变身]_（fgo同
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25448 bytes                           |
 | MD5             | 4db4dfdd11fcf5033c548b455f6de136                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人0                               |
 | Region          | 未知                               |

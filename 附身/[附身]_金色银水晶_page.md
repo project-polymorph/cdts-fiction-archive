@@ -20,7 +20,7 @@ TXT 下载: [[附身]_金色银水晶.docx]([附身]_金色银水晶.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 287727 bytes                           |
 | MD5             | 7b9df140fdfdfb7e5864a10c03e754a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Daivem                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星云_第二十一章.docx]([皮物]_星云_第二十一�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18192 bytes                           |
 | MD5             | d4d78a85e55c0ae31a88d7609ffed3aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

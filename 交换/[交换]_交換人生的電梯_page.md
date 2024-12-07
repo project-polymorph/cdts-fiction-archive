@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交換人生的電梯.doc]([交换]_交換人生的電梯.
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 38af05c7f9473fdff312031eaa0e357f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

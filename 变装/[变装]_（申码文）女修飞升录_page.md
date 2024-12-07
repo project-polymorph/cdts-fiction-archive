@@ -20,7 +20,7 @@ TXT 下载: [[变装]_（申码文）女修飞升录.doc]([变装]_（申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 100864 bytes                           |
 | MD5             | fdbdb37ab2e5e88a153eb57c62fcb6b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

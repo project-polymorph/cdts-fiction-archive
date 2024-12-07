@@ -20,7 +20,7 @@ TXT 下载: [[变身]_一个男人重获新生的故事(第一二章).docx]([变
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72795 bytes                           |
 | MD5             | dfd14382fee6ac5823432f19c90da2c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

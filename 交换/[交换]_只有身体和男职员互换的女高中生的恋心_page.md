@@ -20,7 +20,7 @@ TXT 下载: [[交换]_只有身体和男职员互换的女高中生的恋心.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | 5cf38af695329772b9dfecb5ac2005be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

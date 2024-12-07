@@ -20,7 +20,7 @@ TXT 下载: [[附身]_失落之復仇Ch.3.docx]([附身]_失落之復仇Ch.3.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21236 bytes                           |
 | MD5             | 279f3dbfab61e7e23a9a1565e0cff16f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

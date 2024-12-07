@@ -20,7 +20,7 @@ TXT 下载: [[变装]_老婆要嫁人我成了陪嫁1-10(合集).docx]([变装]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47555 bytes                           |
 | MD5             | 0f37a4168ad86e37107bcb0da958499a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

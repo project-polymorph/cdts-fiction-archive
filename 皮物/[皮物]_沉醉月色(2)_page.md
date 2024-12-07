@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_沉醉月色(2).docx]([皮物]_沉醉月色(2).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34860 bytes                           |
 | MD5             | d30d0fda74938555cfa5312e9150b3cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

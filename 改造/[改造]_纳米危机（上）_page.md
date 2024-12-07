@@ -22,7 +22,7 @@ TXT 下载: [[改造]_纳米危机（上）.doc]([改造]_纳米危机（上）.
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 94957bc87bd81bf3a2aaf00541f8ab67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

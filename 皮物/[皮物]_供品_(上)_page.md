@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_供品_(上).docx]([皮物]_供品_(上).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48350 bytes                           |
 | MD5             | a1d02a88b1a359844a8f56112e8ac981                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

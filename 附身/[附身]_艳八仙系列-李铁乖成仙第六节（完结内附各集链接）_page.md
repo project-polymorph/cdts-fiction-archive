@@ -20,7 +20,7 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第六节（完结内附各
 | Format          | Microsoft Word Document                               |
 | Size            | 29184 bytes                           |
 | MD5             | de64628ad2ee1f1a4867fab2de0990f1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_M200的傀儡指挥官_第1章_指挥官的新生.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | a29a2aaacb1f455c5920d5db0bde3e66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

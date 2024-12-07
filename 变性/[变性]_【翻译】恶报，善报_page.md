@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】恶报，善报.docx]([变性]_【翻译】恶
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44396 bytes                           |
 | MD5             | 1b8a13dbe105ea8f1ea82add049646e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | bojok71                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文）回应愿景.doc]([皮物]_（申码文）�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 2bf49c5e2a0d95ee698d1af639ee8e2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_body_game_(6).doc]([附身]_body_game_(6).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | c0c783dd5127c0ad97676d211cf25fb6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

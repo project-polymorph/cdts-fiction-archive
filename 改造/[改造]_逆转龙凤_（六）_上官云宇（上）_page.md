@@ -20,7 +20,7 @@ TXT 下载: [[改造]_逆转龙凤_（六）_上官云宇（上）.doc]([改造]
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 28e2ab01b004ca2ad0260b794c6ec431                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_食尸鬼（完结）汇总篇.doc]([皮物]_食尸鬼（�
 | Format          | Microsoft Word Document                               |
 | Size            | 98816 bytes                           |
 | MD5             | 821bc66f9496171eb44dc97f9a196548                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

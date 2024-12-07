@@ -20,7 +20,7 @@ TXT 下载: [[改造]_坏人就应该雌堕（1）.docx]([改造]_坏人就应�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25698 bytes                           |
 | MD5             | 88bf2ad48bc636291c7e9d0bc11dfb27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

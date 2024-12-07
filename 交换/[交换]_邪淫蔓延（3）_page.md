@@ -20,7 +20,7 @@ TXT 下载: [[交换]_邪淫蔓延（3）.doc]([交换]_邪淫蔓延（3）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 108032 bytes                           |
 | MD5             | 35e81930a62069404587b7fce84e1070                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

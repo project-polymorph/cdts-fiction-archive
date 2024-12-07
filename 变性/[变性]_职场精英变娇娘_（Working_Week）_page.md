@@ -20,7 +20,7 @@ TXT 下载: [[变性]_职场精英变娇娘_（Working_Week）.docx]([变性]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 102405 bytes                           |
 | MD5             | 7c345c95b1b5260ddeab0fdb68995f8c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Subs                               |
 | Region          | 未知                               |

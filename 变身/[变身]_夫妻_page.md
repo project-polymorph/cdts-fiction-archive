@@ -20,7 +20,7 @@ TXT 下载: [[变身]_夫妻.docx]([变身]_夫妻.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60987 bytes                           |
 | MD5             | d3cfc715e51f26c57d819d906307d4be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

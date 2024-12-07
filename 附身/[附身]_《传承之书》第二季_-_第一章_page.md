@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第一章.doc]([附身]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | e5fcbba29b0d134717e1a27f24d9f06f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 紫依                               |
 | Region          | 中国大陆                               |

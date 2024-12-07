@@ -20,7 +20,7 @@ TXT 下载: [[变装]_蕾蕾旧作《毕业——第一季》下半部.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54092 bytes                           |
 | MD5             | f81e0805e016067223e9c54c37a5de66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

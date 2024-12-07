@@ -20,7 +20,7 @@ TXT 下载: [[交换]_过年惊变.doc]([交换]_过年惊变.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 2ccfb52154cf34f17aadc78e91325a3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

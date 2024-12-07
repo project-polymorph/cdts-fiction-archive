@@ -20,7 +20,7 @@ TXT 下载: [[改造]_The_Stewardess[完工].doc]([改造]_The_Stewardess[完工
 | Format          | Microsoft Word Document                               |
 | Size            | 85504 bytes                           |
 | MD5             | fad25e4e59b6a79d5fb1cac4055f31cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

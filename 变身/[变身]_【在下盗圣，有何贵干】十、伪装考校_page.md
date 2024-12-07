@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十、伪装考校.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 44fd266467c325ef7848e67681baed2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[华代系列]误送.docx]([变身]_[华代系列]误送.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21861 bytes                           |
 | MD5             | 7f90043e0311862d30fd2fd2c249bdf3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

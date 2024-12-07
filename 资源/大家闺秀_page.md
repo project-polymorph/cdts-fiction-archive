@@ -20,7 +20,7 @@ TXT 下载: [大家闺秀.docx](大家闺秀.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44668 bytes                           |
 | MD5             | c40346bdc99af972bfcc2c8f9699a1ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

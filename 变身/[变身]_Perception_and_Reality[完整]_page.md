@@ -20,7 +20,7 @@ TXT 下载: [[变身]_Perception_and_Reality[完整].docx]([变身]_Perception_a
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 70637 bytes                           |
 | MD5             | 8be07f39c3e4a68ccceec5ed75a4441e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_压寨夫人16_(2).docx]([改造]_压寨夫人16_(2).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16472 bytes                           |
 | MD5             | fb444b5e3847da2079f823f614d7b8ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

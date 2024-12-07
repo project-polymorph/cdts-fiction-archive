@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【申码文】交换聊天APP.doc]([交换]_【申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 61952 bytes                           |
 | MD5             | 3a11e26ad2e2cb51c6b1a238be0013b4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | メモット                               |
 | Region          | 未知                               |

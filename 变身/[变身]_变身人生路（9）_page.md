@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身人生路（9）.doc]([变身]_变身人生路（9�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 2131cc3a3d706ad8c8e6e65f2093bb4f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

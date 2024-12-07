@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Descending_the_Ladder(四~六).docx]([变装]_Descending_t
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26144 bytes                           |
 | MD5             | f8f6dc0fbb0b405728341b4aea7206f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

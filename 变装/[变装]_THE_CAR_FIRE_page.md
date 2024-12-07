@@ -20,7 +20,7 @@ TXT 下载: [[变装]_THE_CAR_FIRE.docx]([变装]_THE_CAR_FIRE.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37177 bytes                           |
 | MD5             | a6800b40f6370498b634aa6933636f35                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Alyssa Davis / Flying Grape                               |
 | Region          | 美国                               |

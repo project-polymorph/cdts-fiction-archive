@@ -20,7 +20,7 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第三回、狂牛人的性愛催�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34282 bytes                           |
 | MD5             | 8d1e2cfe893faa2ff5a12f6d9e0a27df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

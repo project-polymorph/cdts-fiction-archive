@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我和李玲（二）.doc]([皮物]_我和李玲（二）.
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 436465f1bc657120312f892442014ea3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

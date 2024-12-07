@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我变成了我嫂子.docx]([变身]_我变成了我嫂子
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39395 bytes                           |
 | MD5             | 6c2166615554b22323e4ebe45a3ce84f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

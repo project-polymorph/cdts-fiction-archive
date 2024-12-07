@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱十六（最后的挣扎）（完结）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24681 bytes                           |
 | MD5             | a2b7e0376271800b3588c3fefa5b6d8d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

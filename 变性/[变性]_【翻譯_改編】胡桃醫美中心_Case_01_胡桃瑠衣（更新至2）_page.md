@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻譯_改編】胡桃醫美中心_Case_01_胡桃瑠衣
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 8426150bfdbd56dd76d593da5dcaac48                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | kéi-àpple                               |
 | Region          | 未知                               |

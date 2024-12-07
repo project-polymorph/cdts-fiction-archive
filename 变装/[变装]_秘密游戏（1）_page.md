@@ -22,7 +22,7 @@ TXT 下载: [[变装]_秘密游戏（1）.docx]([变装]_秘密游戏（1）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19946 bytes                           |
 | MD5             | cf2db33e9d7ced308da60fb01e49f6a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 新淫                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_修仙的故事14.doc]([附身]_修仙的故事14.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 27cfc0d0977ab2eb39b714e79a3715ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

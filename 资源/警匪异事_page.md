@@ -20,7 +20,7 @@ TXT 下载: [警匪异事.doc](警匪异事.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | f9e6239a427b9d388aaf5134816c7678                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

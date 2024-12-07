@@ -20,7 +20,7 @@ TXT 下载: [[变性]_纯白的梦.doc]([变性]_纯白的梦.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | c25371ac3ce8b5c1afc6d530931809c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

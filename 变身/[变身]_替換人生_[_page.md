@@ -20,7 +20,7 @@ TXT 下载: [[变身]_替換人生_[.docx]([变身]_替換人生_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21160 bytes                           |
 | MD5             | 1baac264af9203d7a0f8f976be350372                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

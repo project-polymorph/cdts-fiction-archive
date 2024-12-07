@@ -20,7 +20,7 @@ TXT 下载: [[改造]_蜕变_(下).docx]([改造]_蜕变_(下).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26433 bytes                           |
 | MD5             | 90d2f3b8e40105e3696f10ad45ce1a7e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

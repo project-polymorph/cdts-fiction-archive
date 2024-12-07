@@ -20,7 +20,7 @@ TXT 下载: [[附身]_執着液.doc]([附身]_執着液.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | d8b83cd618e87b901ac755b455dab75c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 井澄ミスト                               |
 | Region          | 未知                               |

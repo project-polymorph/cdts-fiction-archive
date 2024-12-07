@@ -22,7 +22,7 @@ TXT 下载: [[改造]_麦克和维克多（上）.doc]([改造]_麦克和维克�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | d5ad1e38ad56835c1f61cbaf13a15813                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sparrow / QWERASDW                               |
 | Region          | 未知                               |

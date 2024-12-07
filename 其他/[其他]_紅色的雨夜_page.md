@@ -20,7 +20,7 @@ TXT 下载: [[其他]_紅色的雨夜.docx]([其他]_紅色的雨夜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19155 bytes                           |
 | MD5             | 033e94c0548cf6d81727c7f17ec77ef2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_死去的少年重生为女孩子，和过去的恋人再�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 148185 bytes                           |
 | MD5             | af6caddafd267eb955821253551a88d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ごみんと                               |
 | Region          | 未知                               |

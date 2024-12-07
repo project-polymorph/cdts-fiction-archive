@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《跳身者亚历克斯》_-_第一章.doc]([附身]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | ab6c4798d06cce7c5ad95e77c2e817fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tobyredone                               |
 | Region          | 未知                               |

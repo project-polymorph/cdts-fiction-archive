@@ -20,7 +20,7 @@ TXT 下载: [[变装]跑路前的那些事.doc]([变装]跑路前的那些事.do
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 9d8c50453dd8106c6b4c7613bf221363                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | maya_cat                               |
 | Region          | 未知                               |

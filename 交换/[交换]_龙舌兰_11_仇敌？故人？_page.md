@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_11_仇敌？故人？.docx]([交换]_龙舌兰_1
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33095 bytes                           |
 | MD5             | 312c6db4df0cb0be1a1e21cf2d471ec6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ft3020997(yudi)                               |
 | Region          | 未知                               |

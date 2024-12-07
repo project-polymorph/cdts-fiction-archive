@@ -20,7 +20,7 @@ TXT 下载: [[变装]_申码文重发《我和表姐》（1-6）.doc]([变装]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 103424 bytes                           |
 | MD5             | 5b998b0f183d892ead2912b5b6ae8759                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

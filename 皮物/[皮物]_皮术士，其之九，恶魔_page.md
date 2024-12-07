@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士，其之九，恶魔.docx]([皮物]_皮术士，
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23765 bytes                           |
 | MD5             | 4f831395266d07451ca8999861de9179                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

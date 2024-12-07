@@ -20,7 +20,7 @@ TXT 下载: [[附身]_接触_序言.docx]([附身]_接触_序言.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19649 bytes                           |
 | MD5             | 6767e127252859ab790b01c31f345341                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

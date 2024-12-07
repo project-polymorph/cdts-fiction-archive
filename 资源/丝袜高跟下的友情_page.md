@@ -20,7 +20,7 @@ TXT 下载: [丝袜高跟下的友情.doc](丝袜高跟下的友情.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | 40175cc0b2db05f80db41eb76cbc6ffc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

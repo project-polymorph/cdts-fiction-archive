@@ -20,7 +20,7 @@ TXT 下载: [[变身]_男女雇佣人数均等法.docx]([变身]_男女雇佣人
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 182794 bytes                           |
 | MD5             | ab419191a9c99e75d30a2c51c6fa4d7f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | K C A                               |
 | Region          | 日本                               |

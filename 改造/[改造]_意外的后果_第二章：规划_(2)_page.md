@@ -20,7 +20,7 @@ TXT 下载: [[改造]_意外的后果_第二章：规划_(2).docx]([改造]_意�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19036 bytes                           |
 | MD5             | 488c25f524503e8422ad28cd679670b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

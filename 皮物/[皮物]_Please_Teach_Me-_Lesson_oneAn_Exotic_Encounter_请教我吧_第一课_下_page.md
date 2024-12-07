@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Please_Teach_Me-_Lesson_oneAn_Exotic_Encounter_请教我�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 7d93f1aad5ee605f56a7ee680c5e99a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lheriss                               |
 | Region          | 未知                               |

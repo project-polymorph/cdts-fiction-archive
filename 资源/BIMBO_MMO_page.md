@@ -20,7 +20,7 @@ TXT 下载: [BIMBO_MMO.doc](BIMBO_MMO.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 59904 bytes                           |
 | MD5             | 2b45efbc933e74b3af533387b6463e65                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Oisedot                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_偵探~_[.docx]([皮物]_偵探~_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27631 bytes                           |
 | MD5             | 91b2e1a78480aaffb20532c476ac1b47                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

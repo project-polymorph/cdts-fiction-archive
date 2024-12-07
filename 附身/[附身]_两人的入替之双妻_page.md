@@ -20,7 +20,7 @@ TXT 下载: [[附身]_两人的入替之双妻.doc]([附身]_两人的入替之�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 98d741ec7ca736a06ba6d29b7acc0de4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

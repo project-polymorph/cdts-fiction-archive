@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第二十七～二十八章.doc]([其他
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | c637cf5645d80d92c92b5888b8a4b276                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_骗走秀逗老师的身体【上】.docx]([交换]_骗走
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26914 bytes                           |
 | MD5             | 52e651d8b8f7d655e4395733b3c55e42                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

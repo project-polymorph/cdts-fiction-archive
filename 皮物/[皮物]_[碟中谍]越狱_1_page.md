@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[碟中谍]越狱_1.doc]([皮物]_[碟中谍]越狱_1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 236129c96fd0b73afe41b2bcd434344a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

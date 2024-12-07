@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_お人形達の学園_之_１年２組越船光男校园�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24603 bytes                           |
 | MD5             | fd5c3e2f189065639f5bed8cd0a6e8ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

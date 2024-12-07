@@ -20,7 +20,7 @@ TXT 下载: [[变身]_定期券.docx]([变身]_定期券.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21508 bytes                           |
 | MD5             | 2b14751bcc8578ef5e51aec45e827c76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

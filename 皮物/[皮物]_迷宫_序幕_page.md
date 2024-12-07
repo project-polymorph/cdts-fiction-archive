@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_迷宫_序幕.docx]([皮物]_迷宫_序幕.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30765 bytes                           |
 | MD5             | b8aea1380bc2fcefdd388083fcdb3750                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lombardjunvi                               |
 | Region          | 未知                               |

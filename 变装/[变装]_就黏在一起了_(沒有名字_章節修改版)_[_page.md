@@ -20,7 +20,7 @@ TXT 下载: [[变装]_就黏在一起了_(沒有名字_章節修改版)_[.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21269 bytes                           |
 | MD5             | 62b0905f34d853a1ddbb82e154dbbda4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

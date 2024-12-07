@@ -20,7 +20,7 @@ TXT 下载: [[变身]_渗透.doc]([变身]_渗透.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 2e79275bfea1d38bc6da7e3060b0df02                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 未知                               |

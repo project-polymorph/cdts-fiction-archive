@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之种_第五章-第六章.doc]([皮物]_皮之种_第�
 | Format          | Microsoft Word Document                               |
 | Size            | 72704 bytes                           |
 | MD5             | 09d68c3e83d01cc9a459c1dc2aeaa790                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 岚山ＧＯ                               |
 | Region          | 未知                               |

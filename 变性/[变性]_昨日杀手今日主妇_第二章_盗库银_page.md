@@ -20,7 +20,7 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第二章_盗库银.doc]([变性]
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | d94f9f4e13af12b5e76e2997749caf09                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_看不见的可爱老婆（第一章，第二章）.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 6d9af9e719baa3432c4e13f1ac83fa9f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

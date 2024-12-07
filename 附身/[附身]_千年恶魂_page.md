@@ -20,7 +20,7 @@ TXT 下载: [[附身]_千年恶魂.docx]([附身]_千年恶魂.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38401 bytes                           |
 | MD5             | cec90325b2b1db073827d91b2d12f9c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 黑色星露                               |
 | Region          | 中国大陆                               |

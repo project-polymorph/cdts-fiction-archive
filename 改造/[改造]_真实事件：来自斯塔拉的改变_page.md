@@ -20,7 +20,7 @@ TXT 下载: [[改造]_真实事件：来自斯塔拉的改变.doc]([改造]_真�
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | 200d85ba56583660d41a142f8ccbc8ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | KT                               |
 | Region          | 印度                               |

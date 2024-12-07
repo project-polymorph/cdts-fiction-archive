@@ -20,7 +20,7 @@ TXT 下载: [[变装]_间谍传说.docx]([变装]_间谍传说.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21416 bytes                           |
 | MD5             | 6f82706c4940b4962e0b4dbbe2acfb71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Holly Fairfa                               |
 | Region          | 未知                               |

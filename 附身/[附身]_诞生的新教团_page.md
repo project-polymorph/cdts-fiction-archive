@@ -20,7 +20,7 @@ TXT 下载: [[附身]_诞生的新教团.doc]([附身]_诞生的新教团.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 42986c49d8d19c36843b8a784685a1d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

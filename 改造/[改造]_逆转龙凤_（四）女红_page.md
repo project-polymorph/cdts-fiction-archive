@@ -20,7 +20,7 @@ TXT 下载: [[改造]_逆转龙凤_（四）女红.doc]([改造]_逆转龙凤_�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 9a0383e43081475b5f51257e6ef1e64d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

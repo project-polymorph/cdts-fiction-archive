@@ -20,7 +20,7 @@ TXT 下载: [[变性]_（申码文）超人女孩.docx]([变性]_（申码文）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30781 bytes                           |
 | MD5             | 83359fe4ee54bae514955ed476053b4c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_夏威夷假日(终).doc]([变装]_夏威夷假日(终).do
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 6ab74db7c3b714c602cff168fd149fc5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Clara                               |
 | Region          | 未知                               |

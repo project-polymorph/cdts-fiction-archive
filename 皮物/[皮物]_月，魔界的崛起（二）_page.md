@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月，魔界的崛起（二）.docx]([皮物]_月，魔界
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18689 bytes                           |
 | MD5             | 6c79be3a187f7297d89c9c1eed64342f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

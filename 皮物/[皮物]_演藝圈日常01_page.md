@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_演藝圈日常01.docx]([皮物]_演藝圈日常01.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16963 bytes                           |
 | MD5             | 07210d18a1f87a8d6770bfe31c15741a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

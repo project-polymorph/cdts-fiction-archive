@@ -20,7 +20,7 @@ TXT 下载: [[附身]_融魂1-2.docx]([附身]_融魂1-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20856 bytes                           |
 | MD5             | d14b82ab74a6b35b4bed50f5adbe2285                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

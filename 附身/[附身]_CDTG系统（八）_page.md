@@ -20,7 +20,7 @@ TXT 下载: [[附身]_CDTG系统（八）.docx]([附身]_CDTG系统（八）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 63669 bytes                           |
 | MD5             | b62c2712cf3bd2fa31b608819686aedc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_塚鬼袶_第十四回、蝶戀催狂，慾海情傷之虐
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30751 bytes                           |
 | MD5             | e06a927ad37eb126418850c1af5fdecc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | canykuo                               |
 | Region          | 未知                               |

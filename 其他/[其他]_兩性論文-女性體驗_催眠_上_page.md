@@ -20,7 +20,7 @@ TXT 下载: [[其他]_兩性論文-女性體驗_催眠_上.docx]([其他]_兩性
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50004 bytes                           |
 | MD5             | 77f2271e5120b37066753f50581affbb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

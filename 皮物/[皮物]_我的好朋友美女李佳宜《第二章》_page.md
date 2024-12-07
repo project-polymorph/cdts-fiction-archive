@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第二章》.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32067 bytes                           |
 | MD5             | 908839603a2911817cdccd064d2a8381                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

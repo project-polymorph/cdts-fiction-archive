@@ -20,7 +20,7 @@ TXT 下载: [[变身]_十三个名字.doc]([变身]_十三个名字.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 123904 bytes                           |
 | MD5             | 98878bd79fd95b3bb096e43a109e6535                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

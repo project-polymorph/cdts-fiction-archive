@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_情景系列_-_愛上了老師的情況.docx]([皮物]_情
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32985 bytes                           |
 | MD5             | 8faec6102eaa5201d76bd69c23a66621                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | a9s9d9f                               |
 | Region          | 未知                               |

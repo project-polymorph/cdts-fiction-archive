@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【电脑对面的女孩~下篇目】.doc]([皮物]_【电
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 59a3b88700b588789db7718b6575b80d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

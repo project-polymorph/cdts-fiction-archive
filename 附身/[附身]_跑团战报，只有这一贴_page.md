@@ -20,7 +20,7 @@ TXT 下载: [[附身]_跑团战报，只有这一贴.doc]([附身]_跑团战报�
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | 9eb37f8f9cf4a10d7cfb0ebc965c0fe1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

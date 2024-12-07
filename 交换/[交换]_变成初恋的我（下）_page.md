@@ -20,7 +20,7 @@ TXT 下载: [[交换]_变成初恋的我（下）.docx]([交换]_变成初恋的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 70652 bytes                           |
 | MD5             | d66f52fc8c6ed3d753def5ebaf36d208                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

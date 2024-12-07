@@ -22,7 +22,7 @@ TXT 下载: [[交换]_可爱的妈妈，风骚的少妇_继母最懂你.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50013 bytes                           |
 | MD5             | 4930f7bd801093f85152db462148c500                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

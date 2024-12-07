@@ -20,7 +20,7 @@ TXT 下载: [[变身]_Opening_Doors_打开心扉.docx]([变身]_Opening_Doors_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 101389 bytes                           |
 | MD5             | f14e3479083456cbdd49a67a40f64f82                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Dawna Tompson                               |
 | Region          | 未知                               |

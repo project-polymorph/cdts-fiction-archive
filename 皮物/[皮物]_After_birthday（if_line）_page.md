@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_After_birthday（if_line）.doc]([皮物]_After_birthday�
 | Format          | Microsoft Word Document                               |
 | Size            | 86016 bytes                           |
 | MD5             | c98a315fc26876daa6e551840d4fafe2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lorde、ambiva                               |
 | Region          | 未知                               |

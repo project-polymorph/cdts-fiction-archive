@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔王之女（新人新文）.docx]([附身]_魔王之女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《魔王之女（新人新文）》，是一篇以魔法与冒险为背景的性转、伪娘和跨性别题材的小说片段。故事围绕一支骑士团的冒险经历展开，他们经过艰难险阻，终于进入了魔王之女欧里斯蒂娜的魔境，然而景象与他们想象大相径庭。在勇士们抵达魔境后，面临危险的魔物与潜在的背叛，情节逐渐发展到主角与年轻牧师达莉娅之间产生了暧昧的关系，进而展开了一场迷离的性行为。在这过程中，故事不时揭示角色们的内心冲突与复杂的性别认同问题。最终，故事揭露了达莉娅竟是被魔王的诅咒所替代，伴随着错综复杂的情感与性别变化。此段落不仅涉及到冒险和魔法元素，也包含了对性别与欲望的深入探讨，适合对二次元性转和跨性别文化感兴趣的读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔王之女（新人新文）.docx]([附身]_魔王之女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20868 bytes                           |
 | MD5             | 052bd4ddfad53f970d39ae9a6d4e9737                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 冒险, 魔法, 强奸, 调教, 勇者, 魔王, 迷情, 魔境, 爱情, 性别认同, 自我探索, 异世界, 角色替换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

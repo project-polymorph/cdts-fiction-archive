@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_伪身真情II~True_Love_Beneath_Fake_Skins_II.doc]([皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 105984 bytes                           |
 | MD5             | 5e53dfe4b54851eded3e5ef9de0a70cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

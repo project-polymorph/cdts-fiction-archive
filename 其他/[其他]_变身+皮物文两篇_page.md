@@ -20,7 +20,7 @@ TXT 下载: [[其他]_变身+皮物文两篇.docx]([其他]_变身+皮物文两�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23876 bytes                           |
 | MD5             | 6370de86f479707735a35a759c2a742d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 未知                               |

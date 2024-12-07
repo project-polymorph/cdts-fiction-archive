@@ -20,7 +20,7 @@ TXT 下载: [[附身]_与偶像声优的一日约会（番外）.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25481 bytes                           |
 | MD5             | c6d8101d9e7739894559cd1bc6520fb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

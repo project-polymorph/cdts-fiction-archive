@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱十一（决裂）.docx]([改造]_鹰枭乱十一
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29654 bytes                           |
 | MD5             | 805d8f335f87d8b8f1a526f8c1de005d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

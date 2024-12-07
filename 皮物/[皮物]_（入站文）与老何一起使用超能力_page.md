@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（入站文）与老何一起使用超能力.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35993 bytes                           |
 | MD5             | d748f89cafee5c33fd22a3b1b85249ad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

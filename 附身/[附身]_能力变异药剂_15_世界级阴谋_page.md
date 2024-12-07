@@ -20,7 +20,7 @@ TXT 下载: [[附身]_能力变异药剂_15_世界级阴谋.docx]([附身]_能�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19879 bytes                           |
 | MD5             | 0b2a499fd06727a28a6f718a54227d5d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

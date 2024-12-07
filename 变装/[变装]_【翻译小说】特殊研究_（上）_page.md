@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】特殊研究_（上）.docx]([变装]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 66763 bytes                           |
 | MD5             | 147b701962ed3c8053f8a409e0b1e9c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Susannah Donim                               |
 | Region          | 未知                               |

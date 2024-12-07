@@ -22,7 +22,7 @@ TXT 下载: [[附身]_☆Body_Hopper系列★_亞力士與莎曼莎的愉快週�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40880 bytes                           |
 | MD5             | ea286b62b920f0fb054fc204ea5e059d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_14_偏执.docx]([交换]_龙舌兰_14_偏执.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29257 bytes                           |
 | MD5             | a30117fb80749fcc2084361c4a8be728                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yudi（ft3020997）                               |
 | Region          | 中国大陆                               |

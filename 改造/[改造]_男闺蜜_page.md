@@ -20,7 +20,7 @@ TXT 下载: [[改造]_男闺蜜.docx]([改造]_男闺蜜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27854 bytes                           |
 | MD5             | 1d0f69f0ba9d63dc6323462f17ef8641                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

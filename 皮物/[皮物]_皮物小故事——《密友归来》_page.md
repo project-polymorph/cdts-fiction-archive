@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮物小故事——《密友归来》.doc]([皮物]_皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | d60b9d7b7df25d9c066498c61732f49f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_无题(2).doc]([其他]_无题(2).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | da951e5b88a32d5e228e415bd859f95f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

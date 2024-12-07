@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人偶活剧_贰·迷失.docx]([皮物]_人偶活剧_贰·
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20117 bytes                           |
 | MD5             | 64131689f9e76c56ff3d5f719f89aa94                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

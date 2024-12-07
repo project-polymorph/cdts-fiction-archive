@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第二回.doc](《金枝奇缘》第二回.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 222b8686a6244dc6cb775bef135cfc32                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

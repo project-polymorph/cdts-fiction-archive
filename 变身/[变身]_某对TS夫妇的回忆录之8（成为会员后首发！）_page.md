@@ -20,7 +20,7 @@ TXT 下载: [[变身]_某对TS夫妇的回忆录之8（成为会员后首发！�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20660 bytes                           |
 | MD5             | 147dd953203a42b53ef3c86e6058a3ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

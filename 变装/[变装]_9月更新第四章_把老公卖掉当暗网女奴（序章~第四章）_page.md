@@ -20,7 +20,7 @@ TXT 下载: [[变装]_9月更新第四章_把老公卖掉当暗网女奴（序�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | e172737ee643ef030e44ca884081a973                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 李煌先森                               |
 | Region          | 中国大陆                               |

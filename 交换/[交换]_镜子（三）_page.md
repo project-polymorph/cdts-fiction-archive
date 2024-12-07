@@ -20,7 +20,7 @@ TXT 下载: [[交换]_镜子（三）.docx]([交换]_镜子（三）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20363 bytes                           |
 | MD5             | c5fb822a8334276c93974972bb465be8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

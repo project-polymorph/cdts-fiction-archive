@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[短篇]審問.doc]([改造]_[短篇]審問.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 94748bb6a6050433e3f21beccf43c657                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | chiahao5079 (Hork 紫語)                               |
 | Region          | 未知                               |

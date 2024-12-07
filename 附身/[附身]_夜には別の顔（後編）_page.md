@@ -20,7 +20,7 @@ TXT 下载: [[附身]_夜には別の顔（後編）.docx]([附身]_夜には別
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35142 bytes                           |
 | MD5             | 0c59ecbeecb659911817efeaac053c2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

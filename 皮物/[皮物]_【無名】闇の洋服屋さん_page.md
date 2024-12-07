@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【無名】闇の洋服屋さん.doc]([皮物]_【無名�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | c36373ece7a6b3998336520c5163d7e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

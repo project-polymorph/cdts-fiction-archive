@@ -20,7 +20,7 @@ TXT 下载: [[附身]_万花筒（2）.doc]([附身]_万花筒（2）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 267264 bytes                           |
 | MD5             | a0867ae79ebb2557d71837d8345994df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

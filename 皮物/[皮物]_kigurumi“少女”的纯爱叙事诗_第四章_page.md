@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kigurumi“少女”的纯爱叙事诗_第四章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42649 bytes                           |
 | MD5             | 4d5cf4a1b9ff6feec7567784fa3bfaef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

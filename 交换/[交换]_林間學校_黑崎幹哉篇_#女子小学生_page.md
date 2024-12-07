@@ -20,7 +20,7 @@ TXT 下载: [[交换]_林間學校_黑崎幹哉篇_#女子小学生.doc]([交换
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | 1a02363853384ce218110bff0d0bc573                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 黑崎幹哉                               |
 | Region          | 未知                               |

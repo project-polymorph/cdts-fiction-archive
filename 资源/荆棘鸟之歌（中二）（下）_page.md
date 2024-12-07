@@ -20,7 +20,7 @@ TXT 下载: [荆棘鸟之歌（中二）（下）.doc](荆棘鸟之歌（中二�
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | c4fec25f369f8a049a57db417d37e584                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

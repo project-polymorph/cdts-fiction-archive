@@ -20,7 +20,7 @@ TXT 下载: [[改造]_我？人妖母亲？（6）_[复.docx]([改造]_我？人
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34235 bytes                           |
 | MD5             | eecd2bef3ff7696531d99612a86e4816                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

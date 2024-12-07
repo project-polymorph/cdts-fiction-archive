@@ -20,7 +20,7 @@ TXT 下载: [[变性]_幸运还是不幸的我-8.docx]([变性]_幸运还是不�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26943 bytes                           |
 | MD5             | 6fd52376c71bc7860384f45f746f53ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

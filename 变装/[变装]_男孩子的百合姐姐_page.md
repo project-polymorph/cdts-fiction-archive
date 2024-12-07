@@ -20,7 +20,7 @@ TXT 下载: [[变装]_男孩子的百合姐姐.doc]([变装]_男孩子的百合�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 0ce705539ec79ac66d1f541442d23950                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

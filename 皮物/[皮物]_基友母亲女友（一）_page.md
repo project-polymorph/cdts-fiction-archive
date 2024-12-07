@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_基友母亲女友（一）.docx]([皮物]_基友母亲女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51037 bytes                           |
 | MD5             | 702a77bf68866a1c1235cc7b2f373ff2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

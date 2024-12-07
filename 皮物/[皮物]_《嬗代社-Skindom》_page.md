@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《嬗代社-Skindom》.doc]([皮物]_《嬗代社-Skindom
 | Format          | Microsoft Word Document                               |
 | Size            | 668160 bytes                           |
 | MD5             | 636f3732e5b5b7e3f2544f1dc7341144                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yhl8888                               |
 | Region          | 中国大陆                               |

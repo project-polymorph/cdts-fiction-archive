@@ -20,7 +20,7 @@ TXT 下载: [[附身]_炼器师--序章_[.docx]([附身]_炼器师--序章_[.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18855 bytes                           |
 | MD5             | f1ac369b93fc7dcb9b2564f1e9c439b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

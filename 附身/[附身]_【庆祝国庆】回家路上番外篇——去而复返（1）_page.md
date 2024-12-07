@@ -24,7 +24,7 @@ TXT 下载: [[附身]_【庆祝国庆】回家路上番外篇——去而复返�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | b288bacb0d27193182e07b5b7b6dec9a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

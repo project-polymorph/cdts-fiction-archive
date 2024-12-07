@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[分魂]咒符-上.docx]([附身]_[分魂]咒符-上.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51992 bytes                           |
 | MD5             | d5b6e6079edf1db8003f319fe06164e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 骨張                               |
 | Region          | 未知                               |

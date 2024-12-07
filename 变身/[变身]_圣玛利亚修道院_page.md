@@ -22,7 +22,7 @@ TXT 下载: [[变身]_圣玛利亚修道院.docx]([变身]_圣玛利亚修道院
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30869 bytes                           |
 | MD5             | ece44d04d900a0a135f287244eb44c2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

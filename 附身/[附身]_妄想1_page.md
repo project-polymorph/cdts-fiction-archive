@@ -20,7 +20,7 @@ TXT 下载: [[附身]_妄想1.docx]([附身]_妄想1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16837 bytes                           |
 | MD5             | 13004fb353820a660a2283327903546e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

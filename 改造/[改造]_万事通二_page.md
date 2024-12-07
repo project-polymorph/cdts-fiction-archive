@@ -20,7 +20,7 @@ TXT 下载: [[改造]_万事通二.doc]([改造]_万事通二.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 61952 bytes                           |
 | MD5             | c11a5af5297c0fc80a351ac661a85bfa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

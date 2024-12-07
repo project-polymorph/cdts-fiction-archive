@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机翼半成品.doc]([皮物]_机翼半成品.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 171520 bytes                           |
 | MD5             | d7b223f4db330431be05ef757e120f4f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -24,7 +24,7 @@ TXT 下载: [[变身]_狂人日记.doc]([变身]_狂人日记.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | d8a266af5f6d04bacfaf3dbb7880a425                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

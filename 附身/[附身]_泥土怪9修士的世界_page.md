@@ -20,7 +20,7 @@ TXT 下载: [[附身]_泥土怪9修士的世界.docx]([附身]_泥土怪9修士�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21443 bytes                           |
 | MD5             | fc5a0da7a0d1c3a96ffc7089ca7d0a23                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

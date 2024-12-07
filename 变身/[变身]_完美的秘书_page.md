@@ -20,7 +20,7 @@ TXT 下载: [[变身]_完美的秘书.doc]([变身]_完美的秘书.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 1141760 bytes                           |
 | MD5             | 4e987bdafa509d0a6965f9c532f7e3ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Alyssa Angel                               |
 | Region          | 未知                               |

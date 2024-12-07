@@ -20,7 +20,7 @@ TXT 下载: [[交换]_制服交换.doc]([交换]_制服交换.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 00381d7241124b671534f97cc2a92af2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | メモット                               |
 | Region          | 未知                               |

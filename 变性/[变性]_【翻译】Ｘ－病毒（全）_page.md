@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】Ｘ－病毒（全）.docx]([变性]_【翻译
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 57653 bytes                           |
 | MD5             | 733b7bba00622d62f4eaaeb727c8be9a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lisa James                               |
 | Region          | 未知                               |

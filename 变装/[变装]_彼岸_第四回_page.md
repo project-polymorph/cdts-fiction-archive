@@ -20,7 +20,7 @@ TXT 下载: [[变装]_彼岸_第四回.docx]([变装]_彼岸_第四回.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28670 bytes                           |
 | MD5             | 17b82af2d3e622d08a004e9c3688311d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

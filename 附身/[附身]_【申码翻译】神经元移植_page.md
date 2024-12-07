@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码翻译】神经元移植.docx]([附身]_【申码
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 82670 bytes                           |
 | MD5             | ea016b92bd0fde14916697e8ce3afefa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

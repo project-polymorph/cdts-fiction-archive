@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮刃：新開始：〈一〉～〈六〉完結.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55731 bytes                           |
 | MD5             | a3199251b63cad331e05af9b4d3a3994                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

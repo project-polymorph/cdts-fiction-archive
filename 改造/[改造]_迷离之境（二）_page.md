@@ -20,7 +20,7 @@ TXT 下载: [[改造]_迷离之境（二）.doc]([改造]_迷离之境（二）.
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | b071eae0913aae7b5e7d7a77b3ee2b15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

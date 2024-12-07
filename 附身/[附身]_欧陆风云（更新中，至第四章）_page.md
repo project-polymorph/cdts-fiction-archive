@@ -20,7 +20,7 @@ TXT 下载: [[附身]_欧陆风云（更新中，至第四章）.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 86100 bytes                           |
 | MD5             | baf2b50b56da83343e1f8b86c2e06816                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

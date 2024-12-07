@@ -20,7 +20,7 @@ TXT 下载: [[变装]_高中_仁_1-3_(算完吧).doc]([变装]_高中_仁_1-3_(�
 | Format          | Microsoft Word Document                               |
 | Size            | 103936 bytes                           |
 | MD5             | d2a60cfdb4d15e3325445087ddd06c96                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

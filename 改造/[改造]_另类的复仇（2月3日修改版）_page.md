@@ -20,7 +20,7 @@ TXT 下载: [[改造]_另类的复仇（2月3日修改版）.docx]([改造]_另�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 63032 bytes                           |
 | MD5             | a0a7dd4228337c5eed630c0541d73256                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

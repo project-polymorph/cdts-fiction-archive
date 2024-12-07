@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑手套.docx]([皮物]_黑手套.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36124 bytes                           |
 | MD5             | 7e7cc15f21624bbd0ab10b09ff406a1c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~(十三).docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20946 bytes                           |
 | MD5             | 8b4b407fa7e8c6554cd9be5fab727b2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

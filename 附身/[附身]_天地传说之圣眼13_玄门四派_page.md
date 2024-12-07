@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天地传说之圣眼13_玄门四派.docx]([附身]_天地
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19023 bytes                           |
 | MD5             | 3a9b1063be2412b2085bd835c55592ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_萬聖劫後_.doc]([变装]_萬聖劫後_.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 35698a455ae78d37a7719b0478c914a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cherry（原著） / 0894mitsuna（翻译）                               |
 | Region          | 未知                               |

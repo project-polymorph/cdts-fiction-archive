@@ -20,7 +20,7 @@ TXT 下载: [[改造]_但願妳美好_(附原文txt).docx]([改造]_但願妳美
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28617 bytes                           |
 | MD5             | b6c6f56c2b4cd55a65cee7d97c5e42fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | MrGrey                               |
 | Region          | 未知                               |

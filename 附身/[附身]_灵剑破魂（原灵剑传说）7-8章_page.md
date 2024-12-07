@@ -20,7 +20,7 @@ TXT 下载: [[附身]_灵剑破魂（原灵剑传说）7-8章.doc]([附身]_灵�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | b4ef747791730af24fa960350db1061f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

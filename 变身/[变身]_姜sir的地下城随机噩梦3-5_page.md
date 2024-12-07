@@ -20,7 +20,7 @@ TXT 下载: [[变身]_姜sir的地下城随机噩梦3-5.doc]([变身]_姜sir的�
 | Format          | Microsoft Word Document                               |
 | Size            | 87040 bytes                           |
 | MD5             | e44d5f2cbbeac5b5a4526d4337750706                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

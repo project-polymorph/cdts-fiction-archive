@@ -20,7 +20,7 @@ TXT 下载: [[变装]蓝荆花档案_第五章.doc]([变装]蓝荆花档案_第�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 5a4fe7d327b01380ab97cad846060d92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | hcnhcn                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_幸福的生活从新邻居开始.doc]([交换]_幸福的�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 09c013cd91eca8fdc65294cd5ebc8000                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

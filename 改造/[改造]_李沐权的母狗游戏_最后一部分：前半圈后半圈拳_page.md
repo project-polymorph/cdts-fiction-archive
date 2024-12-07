@@ -20,7 +20,7 @@ TXT 下载: [[改造]_李沐权的母狗游戏_最后一部分：前半圈后半
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 96353840cc014010ec9a02a91ada172a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

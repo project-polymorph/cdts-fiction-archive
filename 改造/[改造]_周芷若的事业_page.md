@@ -20,7 +20,7 @@ TXT 下载: [[改造]_周芷若的事业.doc]([改造]_周芷若的事业.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 76800 bytes                           |
 | MD5             | 1164a208428131d0e153ce01410ad7dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

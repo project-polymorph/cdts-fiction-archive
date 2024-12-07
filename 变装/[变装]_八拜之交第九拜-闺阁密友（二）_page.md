@@ -20,7 +20,7 @@ TXT 下载: [[变装]_八拜之交第九拜-闺阁密友（二）.docx]([变装]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19060 bytes                           |
 | MD5             | 94b44ae1dd1c4097132f706f1a558a7e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

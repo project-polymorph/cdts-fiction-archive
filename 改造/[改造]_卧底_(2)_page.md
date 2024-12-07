@@ -20,7 +20,7 @@ TXT 下载: [[改造]_卧底_(2).docx]([改造]_卧底_(2).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 56060 bytes                           |
 | MD5             | 35f0e40caf93bb65b5ad7d15e52bcf3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Alyssa Davis 与 Caitlin Rose                               |
 | Region          | 未知                               |

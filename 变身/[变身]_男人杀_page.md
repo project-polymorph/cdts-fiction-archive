@@ -20,7 +20,7 @@ TXT 下载: [[变身]_男人杀.doc]([变身]_男人杀.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 161792 bytes                           |
 | MD5             | 7454c7ffc0410fc7bc5fc3617f75e051                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

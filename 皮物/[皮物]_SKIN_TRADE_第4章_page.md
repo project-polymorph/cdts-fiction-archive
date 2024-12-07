@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_SKIN_TRADE_第4章.docx]([皮物]_SKIN_TRADE_第4章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46078 bytes                           |
 | MD5             | 0cfe6ca39c076845cbe73aed0e4be330                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 岚山GO                               |
 | Region          | 未知                               |

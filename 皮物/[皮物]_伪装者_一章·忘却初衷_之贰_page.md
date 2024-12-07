@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_伪装者_一章·忘却初衷_之贰.docx]([皮物]_伪�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22665 bytes                           |
 | MD5             | db640c62c0ef61bafd860c794261f1bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

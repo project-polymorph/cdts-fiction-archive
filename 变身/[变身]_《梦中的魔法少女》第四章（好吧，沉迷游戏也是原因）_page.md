@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第四章（好吧，沉迷游�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | cc1ba49e3bc96e21ce83a7c425742fd8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

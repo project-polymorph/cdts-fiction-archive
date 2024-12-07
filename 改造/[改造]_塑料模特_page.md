@@ -20,7 +20,7 @@ TXT 下载: [[改造]_塑料模特.doc]([改造]_塑料模特.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 7f8f1953acb1bb3f2d17480384b04b56                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

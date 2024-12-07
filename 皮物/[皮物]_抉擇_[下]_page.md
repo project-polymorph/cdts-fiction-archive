@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_抉擇_[下].docx]([皮物]_抉擇_[下].docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18042 bytes                           |
 | MD5             | b1bacfd21971020ebb222435570a53f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

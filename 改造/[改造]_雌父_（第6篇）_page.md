@@ -20,7 +20,7 @@ TXT 下载: [[改造]_雌父_（第6篇）.docx]([改造]_雌父_（第6篇）.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43083 bytes                           |
 | MD5             | 36748c6ba9527131c446e0aec274e7cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

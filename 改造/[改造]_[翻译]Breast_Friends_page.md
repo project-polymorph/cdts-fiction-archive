@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[翻译]Breast_Friends.docx]([改造]_[翻译]Breast_Frien
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28010 bytes                           |
 | MD5             | bc0748b53a54f4d90ca3a27ab8a3400f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | cookie-c                               |
 | Region          | 未知                               |

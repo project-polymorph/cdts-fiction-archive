@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】法术反斗城：追求干净.docx]([变身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49866 bytes                           |
 | MD5             | e8054075bfdf754331a25fb648f73474                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ElrodW                               |
 | Region          | 未知                               |

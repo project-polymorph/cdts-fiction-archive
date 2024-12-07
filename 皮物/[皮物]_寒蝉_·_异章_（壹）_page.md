@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寒蝉_·_异章_（壹）.docx]([皮物]_寒蝉_·_异章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50762 bytes                           |
 | MD5             | 4b4b2d8ec54219ff9bbe405f90c08925                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | pitypet                               |
 | Region          | 中国大陆                               |

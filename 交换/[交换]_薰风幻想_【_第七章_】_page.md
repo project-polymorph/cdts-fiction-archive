@@ -20,7 +20,7 @@ TXT 下载: [[交换]_薰风幻想_【_第七章_】.docx]([交换]_薰风幻想
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24986 bytes                           |
 | MD5             | 794f0ba262108841ae19be9b75fdfecc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

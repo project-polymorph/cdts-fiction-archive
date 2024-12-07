@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kerrigan2.doc]([皮物]_kerrigan2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 3a4e880615bfe5a9e40a9de29cdfc2ab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

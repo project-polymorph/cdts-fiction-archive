@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_汉娜·莱温霍姆的计划.doc]([催眠]_汉娜·莱温
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 82f576bbd77fc852a08fc8f71be5f073                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sam Moose                               |
 | Region          | 未知                               |

@@ -24,7 +24,7 @@ TXT 下载: [[变性]_病毒R【申码文重发】.doc]([变性]_病毒R【申�
 | Format          | Microsoft Word Document                               |
 | Size            | 93184 bytes                           |
 | MD5             | 61c61bdb42fdbcb7e8d0a49813da3dfe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Joseta                               |
 | Region          | 未知                               |

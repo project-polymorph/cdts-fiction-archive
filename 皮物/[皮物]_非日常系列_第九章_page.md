@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_非日常系列_第九章.docx]([皮物]_非日常系列_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21398 bytes                           |
 | MD5             | b3f741ad8fa3b87876d1e84e75903aa4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

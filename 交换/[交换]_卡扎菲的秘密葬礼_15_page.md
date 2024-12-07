@@ -20,7 +20,7 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_15.docx]([交换]_卡扎菲的秘
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20104 bytes                           |
 | MD5             | 2b201f802158a797c04fe03ffcb624cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

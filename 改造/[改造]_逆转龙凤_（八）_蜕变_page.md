@@ -20,7 +20,7 @@ TXT 下载: [[改造]_逆转龙凤_（八）_蜕变.doc]([改造]_逆转龙凤_�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | f879697d380408d7db6c3ca5a80f9d2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

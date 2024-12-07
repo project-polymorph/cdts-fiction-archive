@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装替身传说_第十三章_总统套房.docx]([变装
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22590 bytes                           |
 | MD5             | 631cac192e3b4d1e4b6779423ad71f70                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

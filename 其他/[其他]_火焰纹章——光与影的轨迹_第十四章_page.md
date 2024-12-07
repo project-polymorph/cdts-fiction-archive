@@ -22,7 +22,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十四章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20895 bytes                           |
 | MD5             | 540b1314bb1661f22492e1ac9af48472                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

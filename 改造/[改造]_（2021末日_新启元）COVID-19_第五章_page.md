@@ -20,7 +20,7 @@ TXT 下载: [[改造]_（2021末日_新启元）COVID-19_第五章.doc]([改造]
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | d90040e395796874e183858ebfb7b07b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_用生物人皮替代美女的简单教程_[.docx]([皮物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18619 bytes                           |
 | MD5             | c2593db85d6e5c52d15c40ad8bc3da69                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

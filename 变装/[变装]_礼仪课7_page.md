@@ -20,7 +20,7 @@ TXT 下载: [[变装]_礼仪课7.doc]([变装]_礼仪课7.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 3a95ab11ed3975b818cfc166fac7f94e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

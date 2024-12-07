@@ -20,7 +20,7 @@ TXT 下载: [[变性]_残身(1-3).doc]([变性]_残身(1-3).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 1c2ee54967acd2db73c094d57e2d0fb6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

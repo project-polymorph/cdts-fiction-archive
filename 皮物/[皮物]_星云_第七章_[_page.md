@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星云_第七章_[.docx]([皮物]_星云_第七章_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19102 bytes                           |
 | MD5             | 95003d1b32d68053378c5c0b74d7904a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

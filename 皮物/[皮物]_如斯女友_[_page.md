@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_如斯女友_[.docx]([皮物]_如斯女友_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54424 bytes                           |
 | MD5             | 31aee5d04a3de94bd1d5648da115c808                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

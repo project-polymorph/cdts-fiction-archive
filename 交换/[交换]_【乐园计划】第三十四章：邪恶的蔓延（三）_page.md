@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【乐园计划】第三十四章：邪恶的蔓延（三�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17742 bytes                           |
 | MD5             | 5c4a35f3811da94acf0b212d8d72abf7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

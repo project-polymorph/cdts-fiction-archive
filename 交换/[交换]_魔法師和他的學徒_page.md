@@ -22,7 +22,7 @@ TXT 下载: [[交换]_魔法師和他的學徒.docx]([交换]_魔法師和他的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26128 bytes                           |
 | MD5             | af963f6eefe40999c433c73a901abea5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】性别选择周.docx]([变性]_【翻译】性
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50549 bytes                           |
 | MD5             | 44fba31e04ccdb89b8ab0d32ff65c647                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

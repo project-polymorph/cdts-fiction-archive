@@ -20,7 +20,7 @@ TXT 下载: [[变性]_雌花记5章_结局.docx]([变性]_雌花记5章_结局.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26952 bytes                           |
 | MD5             | 4cea3e884111c3896e7cb4bee06edaa6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_我们的女孩儿.docx]([变性]_我们的女孩儿.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15268 bytes                           |
 | MD5             | ff1918271130fbb42f6e0f87f6d3eae3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lily Florette & 露娜·埃葵斯                               |
 | Region          | 未知                               |

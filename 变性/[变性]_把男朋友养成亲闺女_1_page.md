@@ -20,7 +20,7 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_1.doc]([变性]_把男朋友�
 | Format          | Microsoft Word Document                               |
 | Size            | 1134592 bytes                           |
 | MD5             | 1c1b20a9d26d9de4ebf238a5d7be733f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Nicegent42，译者：Lisa                               |
 | Region          | 未知                               |

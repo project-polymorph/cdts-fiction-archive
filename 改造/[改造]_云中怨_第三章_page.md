@@ -20,7 +20,7 @@ TXT 下载: [[改造]_云中怨_第三章.doc]([改造]_云中怨_第三章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | e0701be3021ebb85a23b661b9dca4d97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

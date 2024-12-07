@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_除妖师_狐之章（其一）.doc]([皮物]_除妖师_�
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 295ba83373eeec44d807a1bc40de4598                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

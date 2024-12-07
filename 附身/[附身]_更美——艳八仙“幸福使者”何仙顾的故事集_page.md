@@ -20,7 +20,7 @@ TXT 下载: [[附身]_更美——艳八仙“幸福使者”何仙顾的故事�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22928 bytes                           |
 | MD5             | 32be1b13a49d6c6304a25fba58d592db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

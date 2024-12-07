@@ -20,7 +20,7 @@ TXT 下载: [[其他]_宁风庄的奇遇.docx]([其他]_宁风庄的奇遇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28297 bytes                           |
 | MD5             | d80848711d5ee5ff3c636bff2f9f7a98                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_通皮术系统（3）.docx]([皮物]_通皮术系统（3�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 151448 bytes                           |
 | MD5             | 77a8ff969f73f0e8e9bd9716b3d02c80                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

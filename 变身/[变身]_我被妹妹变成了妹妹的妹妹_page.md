@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我被妹妹变成了妹妹的妹妹.doc]([变身]_我被�
 | Format          | Microsoft Word Document                               |
 | Size            | 169984 bytes                           |
 | MD5             | 23bf717e8f4e809907f5710733c7bea7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | WAWAWAW                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [《入替修真路》.docx](《入替修真路》.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30084 bytes                           |
 | MD5             | 7cb7080a0b73aa9319d6f1934d17c8a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

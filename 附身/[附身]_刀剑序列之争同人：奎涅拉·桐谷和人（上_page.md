@@ -20,7 +20,7 @@ TXT 下载: [[附身]_刀剑序列之争同人：奎涅拉·桐谷和人（上.d
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | d5a8430f82f17dd7a369c68a2fff679a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

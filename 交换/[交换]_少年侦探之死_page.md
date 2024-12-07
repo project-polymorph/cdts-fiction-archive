@@ -20,7 +20,7 @@ TXT 下载: [[交换]_少年侦探之死.doc]([交换]_少年侦探之死.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 4acd99ef306e986090ce4da2ae2f178e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

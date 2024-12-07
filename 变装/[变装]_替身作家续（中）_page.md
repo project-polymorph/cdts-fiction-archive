@@ -20,7 +20,7 @@ TXT 下载: [[变装]_替身作家续（中）.docx]([变装]_替身作家续（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33154 bytes                           |
 | MD5             | f5e99087a54873689fcd2a071bc1d32e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

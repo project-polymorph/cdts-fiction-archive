@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_帝都风云_（番外篇一）莉迪亚忙碌的一天.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27135 bytes                           |
 | MD5             | 677ea209e7ffa0cef5c37dfd2d1f21cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_道殇（1）.doc]([其他]_道殇（1）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 5649558a46031d114979452b4e6d4675                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 丧病之人                               |
 | Region          | 未知                               |

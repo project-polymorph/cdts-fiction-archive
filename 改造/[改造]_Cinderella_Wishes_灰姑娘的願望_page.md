@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Cinderella_Wishes_灰姑娘的願望.docx]([改造]_Cinder
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22990 bytes                           |
 | MD5             | a1e383b224cf2b335679e78e4c9aa298                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Anyya                               |
 | Region          | 未知                               |

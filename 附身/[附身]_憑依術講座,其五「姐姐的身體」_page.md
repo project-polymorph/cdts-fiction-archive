@@ -20,7 +20,7 @@ TXT 下载: [[附身]_憑依術講座,其五「姐姐的身體」.doc]([附身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 81920 bytes                           |
 | MD5             | f3ae5300c5f446643e0af8042ed943dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

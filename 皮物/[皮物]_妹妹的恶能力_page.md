@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妹妹的恶能力.doc]([皮物]_妹妹的恶能力.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 20224d15995365bbb7533998e06be37c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

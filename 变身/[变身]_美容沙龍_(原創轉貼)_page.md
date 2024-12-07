@@ -24,7 +24,7 @@ TXT 下载: [[变身]_美容沙龍_(原創轉貼).docx]([变身]_美容沙龍_(�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27131 bytes                           |
 | MD5             | d52964ab728f2371ac8429162287ff56                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

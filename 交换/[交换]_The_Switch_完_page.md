@@ -20,7 +20,7 @@ TXT 下载: [[交换]_The_Switch_完.docx]([交换]_The_Switch_完.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25795 bytes                           |
 | MD5             | 2592083f0253f0f17e94bd40d107b135                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

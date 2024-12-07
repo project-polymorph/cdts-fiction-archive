@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我的家（第一章）.doc]([附身]_我的家（第一�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | ecf88e47c0827e7e30e33e25593aaf2e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

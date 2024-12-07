@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【原创文字】厨师变娇娘.doc]([变装]_【原创�
 | Format          | Microsoft Word Document                               |
 | Size            | 211456 bytes                           |
 | MD5             | 4dbee7d4df20c8df0c76d8d953282c42                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

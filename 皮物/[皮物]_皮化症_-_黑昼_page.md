@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮化症_-_黑昼.docx]([皮物]_皮化症_-_黑昼.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44745 bytes                           |
 | MD5             | 1e10c981f386fdf3e477e449f1edd424                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

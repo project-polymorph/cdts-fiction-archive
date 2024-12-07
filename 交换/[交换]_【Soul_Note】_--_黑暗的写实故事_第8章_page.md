@@ -22,7 +22,7 @@ TXT 下载: [[交换]_【Soul_Note】_--_黑暗的写实故事_第8章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46114 bytes                           |
 | MD5             | 84e3ee565698cf539b7ab6f3cbc23562                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

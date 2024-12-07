@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Onboard_the_Raven（5月15日全文完结）.doc]([皮物]
 | Format          | Microsoft Word Document                               |
 | Size            | 195584 bytes                           |
 | MD5             | ea2c2f82e02065ed12bf75a5fb302b31                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

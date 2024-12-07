@@ -20,7 +20,7 @@ TXT 下载: [[交换]_邪淫的魔法阵(五章).docx]([交换]_邪淫的魔法�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23007 bytes                           |
 | MD5             | ec78658ca5bfec54c8ee17c9b9d66318                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RERE                               |
 | Region          | 未知                               |

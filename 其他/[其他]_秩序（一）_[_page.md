@@ -20,7 +20,7 @@ TXT 下载: [[其他]_秩序（一）_[.docx]([其他]_秩序（一）_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41442 bytes                           |
 | MD5             | ae2d73f8594c8088aa9b743620235318                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

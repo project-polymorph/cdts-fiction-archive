@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译变性】蛇蝎尾上针.doc]([变性]_【翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 3427ade2582cdc56fbabd1c8656d6bfd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Samantha White                               |
 | Region          | 未知                               |

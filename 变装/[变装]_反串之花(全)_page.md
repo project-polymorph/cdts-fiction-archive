@@ -20,7 +20,7 @@ TXT 下载: [[变装]_反串之花(全).docx]([变装]_反串之花(全).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20571 bytes                           |
 | MD5             | 3bbdb72843bb9b4bccd565acda3a3d32                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

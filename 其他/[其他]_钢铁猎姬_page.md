@@ -20,7 +20,7 @@ TXT 下载: [[其他]_钢铁猎姬.doc]([其他]_钢铁猎姬.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 83968 bytes                           |
 | MD5             | 0b6b4dcf7686eabf4d599120214bbed9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_王子的新衣　６.docx]([皮物]_王子的新衣　６
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22052 bytes                           |
 | MD5             | 950e945e40b56acb2ab6db011e4420bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_拟态！皮少女(皮少女#2)[擬態!　皮少女(皮少
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 1ad454aa42eacf73a788de766a0d7d92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 田中まさみ                               |
 | Region          | 未知                               |

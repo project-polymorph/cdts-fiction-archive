@@ -20,7 +20,7 @@ TXT 下载: [[变性]_室友.docx]([变性]_室友.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26199 bytes                           |
 | MD5             | 9b06ddc8360ab81bba090d7a4b2d10c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Neo                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_10.docx]([变身]_【渣
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39501 bytes                           |
 | MD5             | b6b46443a407a4317144f6e12ce6b790                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

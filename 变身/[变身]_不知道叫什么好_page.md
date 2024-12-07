@@ -20,7 +20,7 @@ TXT 下载: [[变身]_不知道叫什么好.doc]([变身]_不知道叫什么好.
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | d8f4616f2fcd5a095413c89211127855                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

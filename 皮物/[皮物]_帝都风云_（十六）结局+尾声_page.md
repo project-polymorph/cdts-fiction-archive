@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_帝都风云_（十六）结局+尾声.doc]([皮物]_帝�
 | Format          | Microsoft Word Document                               |
 | Size            | 61952 bytes                           |
 | MD5             | 261ca7f2720ef4be3895359388a9cb01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

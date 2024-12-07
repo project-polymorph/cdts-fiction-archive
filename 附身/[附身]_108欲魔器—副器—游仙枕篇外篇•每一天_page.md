@@ -20,7 +20,7 @@ TXT 下载: [[附身]_108欲魔器—副器—游仙枕篇外篇•每一天.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | 346c58190f441ae1805ad21b3c760b81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 苍茫                               |
 | Region          | 中国大陆                               |

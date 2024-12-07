@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣前传1_－_沙漠篇_沙漠之旅.doc]([附身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 63ceaa2b600a9f4bb65a20a3c0c82203                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

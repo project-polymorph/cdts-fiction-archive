@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【伸码文重发】沃日——银宝天下第一！（1
 | Format          | Microsoft Word Document                               |
 | Size            | 103424 bytes                           |
 | MD5             | 83508ec3a110ff50c5d7ac9f1ed0958d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

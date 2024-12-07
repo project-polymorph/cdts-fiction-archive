@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮枪——模特.docx]([皮物]_皮枪——模特.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38305 bytes                           |
 | MD5             | d265f064c00e7965676e96bba5fc6c66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

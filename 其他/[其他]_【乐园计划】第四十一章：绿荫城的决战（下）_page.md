@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第四十一章：绿荫城的决战（�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 0bf779319da379daba4460b4cefc59d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

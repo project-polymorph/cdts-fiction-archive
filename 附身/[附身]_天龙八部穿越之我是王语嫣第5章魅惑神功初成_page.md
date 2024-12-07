@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天龙八部穿越之我是王语嫣第5章魅惑神功初
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23156 bytes                           |
 | MD5             | cc368676832b717f2e38bd9dca86614c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_志雄的奇妙生活_二周目.doc]([皮物]_志雄的奇
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 4e3fb64df0a69f05cbb67ef8368a0ef0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_迷宫_第一章.doc]([皮物]_迷宫_第一章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | c4262307bdf90062847a5d0659178f71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

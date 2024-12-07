@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_網路購物_0~6(原創轉貼).docx]([皮物]_網路購物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 69757 bytes                           |
 | MD5             | 4a0be4b21fdd0ab26a110b99fea9c257                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lolikooh                               |
 | Region          | 台湾                               |

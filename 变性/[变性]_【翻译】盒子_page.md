@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】盒子.docx]([变性]_【翻译】盒子.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26639 bytes                           |
 | MD5             | ab6eb367dbc8774fab5b8cb898dc0a55                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Wendi Lynne                               |
 | Region          | 未知                               |

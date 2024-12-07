@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_与世隔绝_在女性主导的残酷世界主导世界.do
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | bf29385907bfc2b02a2f686e441634cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

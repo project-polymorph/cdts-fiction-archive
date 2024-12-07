@@ -20,7 +20,7 @@ TXT 下载: [[交换]_此后，你做我的老婆.docx]([交换]_此后，你做
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72093 bytes                           |
 | MD5             | d7fc6d578e1f0b878fd0bf57aa942670                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

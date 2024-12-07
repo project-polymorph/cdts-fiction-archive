@@ -22,7 +22,7 @@ TXT 下载: [[变性]_诡雷（1-6）.docx]([变性]_诡雷（1-6）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49286 bytes                           |
 | MD5             | 012198a66a64900ffac07d01abec1d3c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 杰里佛                               |
 | Region          | 未知                               |

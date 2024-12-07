@@ -22,7 +22,7 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_下.doc]([附身]_華歌爾
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 4eb1e4c04085952d071bf3ed937ff128                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

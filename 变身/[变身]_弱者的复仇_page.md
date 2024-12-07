@@ -20,7 +20,7 @@ TXT 下载: [[变身]_弱者的复仇.docx]([变身]_弱者的复仇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21853 bytes                           |
 | MD5             | 5090d8199298a32c88e1d835b265215a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Septimius Severus                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_憧憬的白色運動衫_2.docx]([附身]_憧憬的白色�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17958 bytes                           |
 | MD5             | ed2d685b7ad55bb51f9ec98e953fa65e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tira                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_月蚀之时.doc]([附身]_月蚀之时.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 7afc9e6414b229badba1accfeed0b47c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ＣH君                               |
 | Region          | 未知                               |

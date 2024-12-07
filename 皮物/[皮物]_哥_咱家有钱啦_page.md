@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_哥_咱家有钱啦.doc]([皮物]_哥_咱家有钱啦.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | b785e35dbd537f9b7e77c250f5ac1e85                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

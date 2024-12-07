@@ -20,7 +20,7 @@ TXT 下载: [[变装]_雌堕的父亲.doc]([变装]_雌堕的父亲.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | e8d26ba6a8426ee967faf95e4dead0b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

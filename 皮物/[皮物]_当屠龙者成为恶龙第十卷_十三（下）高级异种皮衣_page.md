@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_当屠龙者成为恶龙第十卷_十三（下）高级异
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35237 bytes                           |
 | MD5             | 59239e16d89934713f07a77c6490e010                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

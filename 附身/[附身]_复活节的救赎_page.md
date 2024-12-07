@@ -20,7 +20,7 @@ TXT 下载: [[附身]_复活节的救赎.docx]([附身]_复活节的救赎.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33773 bytes                           |
 | MD5             | cd4474adea200ac56a8ff20d23c33008                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

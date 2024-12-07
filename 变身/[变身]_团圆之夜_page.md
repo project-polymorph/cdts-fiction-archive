@@ -20,7 +20,7 @@ TXT 下载: [[变身]_团圆之夜.doc]([变身]_团圆之夜.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 68d61a586067b2a9ac3d615dd2f732c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

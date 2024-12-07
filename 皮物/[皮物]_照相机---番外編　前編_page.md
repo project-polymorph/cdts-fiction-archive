@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_照相机---番外編　前編.docx]([皮物]_照相机---
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23687 bytes                           |
 | MD5             | 55c0625687fda45348ef002420c56505                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

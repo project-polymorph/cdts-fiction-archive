@@ -20,7 +20,7 @@ TXT 下载: [情感捕获.doc](情感捕获.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 2b713d53a40f80b662076accc5c2ea7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 倒拔杨柳                               |
 | Region          | 未知                               |

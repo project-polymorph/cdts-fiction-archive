@@ -20,7 +20,7 @@ TXT 下载: [[改造]_屌人一郎.docx]([改造]_屌人一郎.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21437 bytes                           |
 | MD5             | b185bc092c5b3173280ff43aa3b8f66d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

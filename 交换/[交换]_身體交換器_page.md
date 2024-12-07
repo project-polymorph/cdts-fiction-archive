@@ -20,7 +20,7 @@ TXT 下载: [[交换]_身體交換器.docx]([交换]_身體交換器.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39280 bytes                           |
 | MD5             | dafa39b8b10c70e6ac6c377be5a0ff37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Razmagurk                               |
 | Region          | 未知                               |

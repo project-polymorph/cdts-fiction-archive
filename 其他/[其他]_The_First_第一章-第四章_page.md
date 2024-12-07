@@ -20,7 +20,7 @@ TXT 下载: [[其他]_The_First_第一章-第四章.doc]([其他]_The_First_第�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | eb5ecbd5c89c0ada53a1c0f9fe1dff95                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

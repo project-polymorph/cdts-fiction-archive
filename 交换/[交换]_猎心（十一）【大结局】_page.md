@@ -20,7 +20,7 @@ TXT 下载: [[交换]_猎心（十一）【大结局】.docx]([交换]_猎心（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 69950 bytes                           |
 | MD5             | 60c058d2e6a9f68cd5e9a08ee52eec33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

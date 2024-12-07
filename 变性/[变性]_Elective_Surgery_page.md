@@ -20,7 +20,7 @@ TXT 下载: [[变性]_Elective_Surgery.docx]([变性]_Elective_Surgery.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40484 bytes                           |
 | MD5             | de9e73e95a2934f6c6e871435146f34f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 维多利亚 K.                               |
 | Region          | 未知                               |

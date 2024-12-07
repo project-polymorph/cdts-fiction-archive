@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮灭·解_之二_启杀篇.docx]([皮物]_皮灭·解_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24055 bytes                           |
 | MD5             | d150cd65cfa6bf70478b6a20ff731550                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

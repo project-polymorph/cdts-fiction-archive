@@ -22,7 +22,7 @@ TXT 下载: [[变身]_能幹的朋友.docx]([变身]_能幹的朋友.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28487 bytes                           |
 | MD5             | 7e91e22009c5a39eb8bc3bc6aec87fa8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

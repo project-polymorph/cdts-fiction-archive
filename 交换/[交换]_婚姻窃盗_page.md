@@ -20,7 +20,7 @@ TXT 下载: [[交换]_婚姻窃盗.docx]([交换]_婚姻窃盗.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60484 bytes                           |
 | MD5             | dffc42bc628e3f331befcc72b75537c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | toshi9                               |
 | Region          | 未知                               |

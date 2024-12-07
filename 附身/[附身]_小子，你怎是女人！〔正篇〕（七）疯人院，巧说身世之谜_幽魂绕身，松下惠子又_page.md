@@ -20,7 +20,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（七）疯人院�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22408 bytes                           |
 | MD5             | c0683af60b05b3d41ab015ffb7bac3ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

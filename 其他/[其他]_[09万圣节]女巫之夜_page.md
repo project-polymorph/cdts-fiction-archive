@@ -20,7 +20,7 @@ TXT 下载: [[其他]_[09万圣节]女巫之夜.docx]([其他]_[09万圣节]女�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21299 bytes                           |
 | MD5             | efec8d7a4385c30c8455b90cf27a6706                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

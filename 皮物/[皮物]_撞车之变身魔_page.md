@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_撞车之变身魔.docx]([皮物]_撞车之变身魔.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49350 bytes                           |
 | MD5             | 2d75694cf1933b81b3b98a7a3c2f6beb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

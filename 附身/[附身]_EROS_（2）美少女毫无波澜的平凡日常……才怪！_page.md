@@ -22,7 +22,7 @@ TXT 下载: [[附身]_EROS_（2）美少女毫无波澜的平凡日常……才�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 4446fee8e734dcf6da516b42a3fcea90                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 军刀望树                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》第一章.doc]([附身]_《到�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | d95159d929f53445067f91de32345164                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

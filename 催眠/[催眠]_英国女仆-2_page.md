@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_英国女仆-2.doc]([催眠]_英国女仆-2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | c7854fad35c32882b17c0e2efad21f73                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

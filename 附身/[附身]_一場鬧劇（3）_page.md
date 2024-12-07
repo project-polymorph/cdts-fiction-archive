@@ -20,7 +20,7 @@ TXT 下载: [[附身]_一場鬧劇（3）.docx]([附身]_一場鬧劇（3）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23598 bytes                           |
 | MD5             | 55894c43178219b49414909b78cabbcd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

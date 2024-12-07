@@ -20,7 +20,7 @@ TXT 下载: [[变身]_性转换雨.doc]([变身]_性转换雨.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | c6d9446742a9ad4ce7d047e434637709                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_16_云雨巫山_亦真亦幻.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19572 bytes                           |
 | MD5             | 5eb884ef84ea9a79c50cd4e7ae7d3990                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

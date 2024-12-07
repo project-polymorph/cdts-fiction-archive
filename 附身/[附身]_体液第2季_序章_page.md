@@ -20,7 +20,7 @@ TXT 下载: [[附身]_体液第2季_序章.docx]([附身]_体液第2季_序章.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24595 bytes                           |
 | MD5             | 654a7626aaea8548948e703ee814e06c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

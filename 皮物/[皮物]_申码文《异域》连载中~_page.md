@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_申码文《异域》连载中~.doc]([皮物]_申码文《
 | Format          | Microsoft Word Document                               |
 | Size            | 73216 bytes                           |
 | MD5             | 12844a332ffdab295b3c3be0b267d4a6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

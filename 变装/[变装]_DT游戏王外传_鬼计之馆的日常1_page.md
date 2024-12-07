@@ -22,7 +22,7 @@ TXT 下载: [[变装]_DT游戏王外传_鬼计之馆的日常1.doc]([变装]_DT�
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | 8bc0b0333f3131c704fad21d1e330c99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

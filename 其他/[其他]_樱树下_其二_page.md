@@ -20,7 +20,7 @@ TXT 下载: [[其他]_樱树下_其二.docx]([其他]_樱树下_其二.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19350 bytes                           |
 | MD5             | c0b52b7cd8993e749693968e4760376b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

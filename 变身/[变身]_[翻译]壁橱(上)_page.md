@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]壁橱(上).docx]([变身]_[翻译]壁橱(上).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24147 bytes                           |
 | MD5             | ae182b90749da26eb2f12e9e986f5d2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

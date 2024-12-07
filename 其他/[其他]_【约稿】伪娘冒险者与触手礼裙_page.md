@@ -24,7 +24,7 @@ TXT 下载: [[其他]_【约稿】伪娘冒险者与触手礼裙.docx]([其他]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44399 bytes                           |
 | MD5             | 4c934a380ad81e78418964cc6566f576                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

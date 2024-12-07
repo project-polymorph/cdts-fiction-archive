@@ -20,7 +20,7 @@ TXT 下载: [[交换]_奇妙军训之旅.doc]([交换]_奇妙军训之旅.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 322048 bytes                           |
 | MD5             | b77ea08220b64fa0ef8007d6f0c1880f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_小心你说的话（1-3）.docx]([变装]_小心你说的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32304 bytes                           |
 | MD5             | a914267b8908e3f7abb72d475db46d33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Serena Lawhead                               |
 | Region          | 未知                               |

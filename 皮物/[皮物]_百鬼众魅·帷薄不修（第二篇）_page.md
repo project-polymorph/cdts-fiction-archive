@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·帷薄不修（第二篇）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 77824 bytes                           |
 | MD5             | 9cdaab98f0ee4804393b7c42f5e0190a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

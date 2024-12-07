@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【申码文重发】室友的诱惑（小琦和小玉）.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41558 bytes                           |
 | MD5             | 6068bb6b688323b551d36b04fbee3d27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

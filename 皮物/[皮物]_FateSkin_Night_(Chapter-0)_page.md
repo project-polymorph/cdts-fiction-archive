@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_FateSkin_Night_(Chapter-0).doc]([皮物]_FateSkin_Night_(C
 | Format          | Microsoft Word Document                               |
 | Size            | 102912 bytes                           |
 | MD5             | dfbc70c831cb48950e02653e85d02e3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

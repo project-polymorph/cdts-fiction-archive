@@ -20,7 +20,7 @@ TXT 下载: [[变装]_彼岸_第八回_新增简单人物关系图.docx]([变装
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38106 bytes                           |
 | MD5             | 66be6b538030a1a01d3b3d7e6b61765f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -21,7 +21,7 @@ TXT 下载: [[变身]_万万没想到5_酒吧的艳遇.docx]([变身]_万万没�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31194 bytes                           |
 | MD5             | bb9846e6b0261b152d283c41bc9004fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

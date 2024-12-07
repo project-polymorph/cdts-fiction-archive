@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十八章.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18974 bytes                           |
 | MD5             | f18451d3a095904a70de2d0cf73a77c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 紫依                               |
 | Region          | 未知                               |

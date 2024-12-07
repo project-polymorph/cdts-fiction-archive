@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【短篇小品】午休×屋頂×靈魂.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22225 bytes                           |
 | MD5             | 14ff5cabf4f4d8f6939e1aec2ff6a20a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | マロエ                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_仲夏夜之夢.docx]([变装]_仲夏夜之夢.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27556 bytes                           |
 | MD5             | bde5e8c04d3a068beb98c2303dce72e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

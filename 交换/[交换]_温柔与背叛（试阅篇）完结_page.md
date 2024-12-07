@@ -20,7 +20,7 @@ TXT 下载: [[交换]_温柔与背叛（试阅篇）完结.docx]([交换]_温柔
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34605 bytes                           |
 | MD5             | 588f211a42135243c2b42016bbcf696c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

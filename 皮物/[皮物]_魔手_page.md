@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_魔手.docx]([皮物]_魔手.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17015 bytes                           |
 | MD5             | 600d8966e5fd37d7d6691d7bc1b5427e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

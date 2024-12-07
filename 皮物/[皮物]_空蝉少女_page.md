@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_空蝉少女.docx]([皮物]_空蝉少女.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25913 bytes                           |
 | MD5             | 69988ec1c8c6d4fe28930c05f9dcb9d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | silverpine                               |
 | Region          | 未知                               |

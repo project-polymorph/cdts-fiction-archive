@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_化裝舞會.docx]([皮物]_化裝舞會.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22744 bytes                           |
 | MD5             | 5cd83f9f115b001d72d0ace36fa5f3fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_永恒的夸克1~10_[.docx]([附身]_永恒的夸克1~10_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54341 bytes                           |
 | MD5             | 337dc6cadc21976e981268a728407a0a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

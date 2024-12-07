@@ -20,7 +20,7 @@ TXT 下载: [[交换]_在新人女仆的身体.doc]([交换]_在新人女仆的�
 | Format          | Microsoft Word Document                               |
 | Size            | 102400 bytes                           |
 | MD5             | 0fac108c0bbee89dd3832604a1e98d04                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

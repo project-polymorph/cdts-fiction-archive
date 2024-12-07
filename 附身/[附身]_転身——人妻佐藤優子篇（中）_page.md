@@ -20,7 +20,7 @@ TXT 下载: [[附身]_転身——人妻佐藤優子篇（中）.docx]([附身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22484 bytes                           |
 | MD5             | f9186dbf30ddfb5f55301e2f9faf13e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | g19901228                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_来自未知的馈赠-第1-4章.docx]([附身]_来自未�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30901 bytes                           |
 | MD5             | 383fa0bc4677d8e3735dac988e26e1e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

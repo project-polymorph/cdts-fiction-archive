@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪人_第八章_怪人的日常(下)_第一部完.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40739 bytes                           |
 | MD5             | db7636170fdd71fe3a1bf6205527b98f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

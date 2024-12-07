@@ -20,7 +20,7 @@ TXT 下载: [[其他]_变欲石.doc]([其他]_变欲石.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 45855f1a13dbb53785aeb35d25875839                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

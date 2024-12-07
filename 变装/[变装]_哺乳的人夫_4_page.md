@@ -20,7 +20,7 @@ TXT 下载: [[变装]_哺乳的人夫_4.doc]([变装]_哺乳的人夫_4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | b844e021fcbb1e29751faafe431581ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

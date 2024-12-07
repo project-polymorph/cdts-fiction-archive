@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_双子之恋（一）.docx]([皮物]_双子之恋（一）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28057 bytes                           |
 | MD5             | 077f2b782b5774281e73b8a42995d962                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

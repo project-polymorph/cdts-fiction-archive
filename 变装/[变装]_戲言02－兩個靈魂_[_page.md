@@ -20,7 +20,7 @@ TXT 下载: [[变装]_戲言02－兩個靈魂_[.docx]([变装]_戲言02－兩個
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44538 bytes                           |
 | MD5             | 53199107bdfac729b831579e2826963d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | timemaster                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_七刃之长生剑（上）.docx]([皮物]_七刃之长生
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27336 bytes                           |
 | MD5             | bf0dd58360a6536429f9c9f3d033bdcd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

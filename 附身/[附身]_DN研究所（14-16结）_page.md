@@ -20,7 +20,7 @@ TXT 下载: [[附身]_DN研究所（14-16结）.docx]([附身]_DN研究所（14-
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27520 bytes                           |
 | MD5             | 63e4174741b5ca69e6a31fb5a99f05b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

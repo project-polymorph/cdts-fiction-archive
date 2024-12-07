@@ -20,7 +20,7 @@ TXT 下载: [[改造]_里奈的男優級小雞雞.docx]([改造]_里奈的男優
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33193 bytes                           |
 | MD5             | 45d09d478398ad7f78eedcabb0b628cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 不可考                               |
 | Region          | 未知                               |

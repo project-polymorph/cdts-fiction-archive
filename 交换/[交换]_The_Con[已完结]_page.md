@@ -20,7 +20,7 @@ TXT 下载: [[交换]_The_Con[已完结].doc]([交换]_The_Con[已完结].doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 9be7dd5d609ee33c019028a743aac9d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Bimbo Alison                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Redenhart.docx]([改造]_Redenhart.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21535 bytes                           |
 | MD5             | 581618540fb6aa0ae78f6980a67bfa81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | royflamen                               |
 | Region          | 未知                               |

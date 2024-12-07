@@ -20,7 +20,7 @@ TXT 下载: [[交换]_新春福利篇：诱惑与阴谋〔1)_[.docx]([交换]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26835 bytes                           |
 | MD5             | 3d9b6e309efe001386975e2004f256c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

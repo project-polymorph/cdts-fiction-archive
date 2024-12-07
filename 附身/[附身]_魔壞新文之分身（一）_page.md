@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魔壞新文之分身（一）.docx]([附身]_魔壞新文
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40773 bytes                           |
 | MD5             | e3dee683e89018ef1ff5f6da3cb40480                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

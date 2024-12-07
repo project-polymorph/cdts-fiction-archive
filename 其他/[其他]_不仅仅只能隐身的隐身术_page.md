@@ -20,7 +20,7 @@ TXT 下载: [[其他]_不仅仅只能隐身的隐身术.doc]([其他]_不仅仅�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 53e8df5945e60f8c8e9d189029bb32be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

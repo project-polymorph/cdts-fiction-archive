@@ -20,7 +20,7 @@ TXT 下载: [[变身]_门外的神明（KARIN篇）.doc]([变身]_门外的神�
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | d3ceb10f4ef98369d677d4c5a02fe951                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

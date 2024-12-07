@@ -20,7 +20,7 @@ TXT 下载: [换位思考.docx](换位思考.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53223 bytes                           |
 | MD5             | 0a177edcec143978f16d0c3952fa5c41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

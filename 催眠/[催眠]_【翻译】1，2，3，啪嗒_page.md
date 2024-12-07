@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_【翻译】1，2，3，啪嗒.doc]([催眠]_【翻译】1
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | 8a182b5b0eb0f48b5c04efb201edbbd1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

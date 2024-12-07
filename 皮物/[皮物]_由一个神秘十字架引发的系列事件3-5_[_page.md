@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_由一个神秘十字架引发的系列事件3-5_[.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21696 bytes                           |
 | MD5             | 5a52f47d05bf91d610063d2edb541153                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

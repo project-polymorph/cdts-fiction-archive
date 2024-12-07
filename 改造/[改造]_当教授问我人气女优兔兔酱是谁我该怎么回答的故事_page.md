@@ -20,7 +20,7 @@ TXT 下载: [[改造]_当教授问我人气女优兔兔酱是谁我该怎么回�
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 1864b006ffd9cebefa4b2479ef8c4d70                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

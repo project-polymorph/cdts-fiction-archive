@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔眼系列-風雲人物.docx]([皮物]_魔眼系列-風�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33924 bytes                           |
 | MD5             | df0878e2647ed8093d442dc1dc4700de                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

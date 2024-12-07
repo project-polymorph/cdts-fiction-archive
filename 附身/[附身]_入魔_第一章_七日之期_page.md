@@ -20,7 +20,7 @@ TXT 下载: [[附身]_入魔_第一章_七日之期.docx]([附身]_入魔_第一
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50482 bytes                           |
 | MD5             | 10c55305755435fe01640ebe75a042d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

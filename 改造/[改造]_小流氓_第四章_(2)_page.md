@@ -20,7 +20,7 @@ TXT 下载: [[改造]_小流氓_第四章_(2).docx]([改造]_小流氓_第四章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20313 bytes                           |
 | MD5             | 12ff55a208d86b20d88344295894eec6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

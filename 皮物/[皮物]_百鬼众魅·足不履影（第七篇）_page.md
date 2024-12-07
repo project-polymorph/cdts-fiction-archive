@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_百鬼众魅·足不履影（第七篇）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 86016 bytes                           |
 | MD5             | 72e1db29c5297f1a7407e284f9c3b757                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_替身总裁之另类“高考”（上）.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33815 bytes                           |
 | MD5             | bd5408f2fdf9f9c90607127b3d724020                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

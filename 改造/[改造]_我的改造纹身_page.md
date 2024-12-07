@@ -20,7 +20,7 @@ TXT 下载: [[改造]_我的改造纹身.docx]([改造]_我的改造纹身.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34337 bytes                           |
 | MD5             | 3249909df6f5c0c02093683e0a68b1a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔法のアプリでギャルJKを皮にして成りす�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23083 bytes                           |
 | MD5             | 849e31a98bf2df13dc43f28f7fa04429                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

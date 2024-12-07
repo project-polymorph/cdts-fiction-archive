@@ -20,7 +20,7 @@ TXT 下载: [[交换]_圣骑士的失败3.docx]([交换]_圣骑士的失败3.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49808 bytes                           |
 | MD5             | 4b36c64ae97ed4e5715b6758c21522df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

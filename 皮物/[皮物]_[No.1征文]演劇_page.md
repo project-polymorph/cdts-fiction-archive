@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[No.1征文]演劇.docx]([皮物]_[No.1征文]演劇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48311 bytes                           |
 | MD5             | f0f4422811c917f5a1f49b45f932ddb4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | kawaeru                               |
 | Region          | 未知                               |

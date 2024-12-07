@@ -20,7 +20,7 @@ TXT 下载: [[改造]_成为美熟妇_4.doc]([改造]_成为美熟妇_4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 011f3b4ac7197ab961a790de3b0a0fe9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

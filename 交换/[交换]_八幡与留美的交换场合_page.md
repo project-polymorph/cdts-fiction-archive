@@ -20,7 +20,7 @@ TXT 下载: [[交换]_八幡与留美的交换场合.doc]([交换]_八幡与留�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 6ba28a439db7a98d2a469b81ed831738                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | cheapmountedguy                               |
 | Region          | 未知                               |

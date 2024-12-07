@@ -20,7 +20,7 @@ TXT 下载: [[变性]_头脑特工队.doc]([变性]_头脑特工队.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 69120 bytes                           |
 | MD5             | 2fbfc72a6829cc3d26c8d0491b5d76d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TG FictionStv                               |
 | Region          | 未知                               |

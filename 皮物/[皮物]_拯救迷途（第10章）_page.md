@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_拯救迷途（第10章）.doc]([皮物]_拯救迷途（�
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 2433f04758524c71d94635575d40bdb5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

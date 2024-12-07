@@ -22,7 +22,7 @@ TXT 下载: [[变身]_合影相机_第八章.doc]([变身]_合影相机_第八�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | fe6c9ca65a0eef565923beef83e7966a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

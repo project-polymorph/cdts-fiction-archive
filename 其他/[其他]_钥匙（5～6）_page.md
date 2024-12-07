@@ -20,7 +20,7 @@ TXT 下载: [[其他]_钥匙（5～6）.docx]([其他]_钥匙（5～6）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27845 bytes                           |
 | MD5             | d359a4c7a9977a967c6a16cafdac7799                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

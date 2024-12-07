@@ -20,7 +20,7 @@ TXT 下载: [[变性]_女仆交易_9.doc]([变性]_女仆交易_9.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 7380b4ab800884a55b23912ad4eb597b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

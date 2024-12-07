@@ -20,7 +20,7 @@ TXT 下载: [[变身]_化けの皮(幽体之蔽)_第一章-第二章.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 72fec98be2b944a05f87ea0660d343fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 岚山GO                               |
 | Region          | 未知                               |

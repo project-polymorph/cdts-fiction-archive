@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮剝丸異譚.docx]([皮物]_皮剝丸異譚.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 193723 bytes                           |
 | MD5             | 7f3c266926eda0d040b633bd976a2586                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | teru                               |
 | Region          | 未知                               |

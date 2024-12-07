@@ -20,7 +20,7 @@ TXT 下载: [[附身]_月，魔界的崛起（五）.docx]([附身]_月，魔界
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19715 bytes                           |
 | MD5             | a25457a91451f79734d6857ff402247f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

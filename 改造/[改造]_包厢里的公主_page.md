@@ -20,7 +20,7 @@ TXT 下载: [[改造]_包厢里的公主.doc]([改造]_包厢里的公主.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37217792 bytes                           |
 | MD5             | 9dd5e2116575a3ed439fe1119bc8ca13                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 韦惠芸                               |
 | Region          | 中国大陆                               |

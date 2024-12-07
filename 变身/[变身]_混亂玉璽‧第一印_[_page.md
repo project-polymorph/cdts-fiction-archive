@@ -20,7 +20,7 @@ TXT 下载: [[变身]_混亂玉璽‧第一印_[.docx]([变身]_混亂玉璽‧�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20304 bytes                           |
 | MD5             | dc85131bb1be6991f244c784ec93b3f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_欲望横行【_第一章_】.docx]([交换]_欲望横行�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21592 bytes                           |
 | MD5             | 5afb4cb4297ae7acc762dade101a9195                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE7                               |
 | Region          | 中国大陆                               |

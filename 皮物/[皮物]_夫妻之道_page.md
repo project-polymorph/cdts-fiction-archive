@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_夫妻之道.doc]([皮物]_夫妻之道.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | b2767dcc51b69657239e89e95656ebc7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

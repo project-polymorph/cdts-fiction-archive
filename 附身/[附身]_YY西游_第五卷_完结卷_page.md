@@ -20,7 +20,7 @@ TXT 下载: [[附身]_YY西游_第五卷_完结卷.doc]([附身]_YY西游_第五
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | f922f106547a98eb49267996bc9564e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

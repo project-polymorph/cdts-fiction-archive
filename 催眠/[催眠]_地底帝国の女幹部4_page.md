@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_地底帝国の女幹部4.docx]([催眠]_地底帝国の�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50436 bytes                           |
 | MD5             | 5dd2d775e6f8afde440d0a540f1d2c76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

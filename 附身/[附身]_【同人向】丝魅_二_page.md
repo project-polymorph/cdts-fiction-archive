@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【同人向】丝魅_二.doc]([附身]_【同人向】丝
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 4a9885bdcc282fd230d15287c6f98b71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

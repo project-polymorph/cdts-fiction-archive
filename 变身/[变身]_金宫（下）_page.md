@@ -20,7 +20,7 @@ TXT 下载: [[变身]_金宫（下）.doc]([变身]_金宫（下）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | f542866e1ddbeead73e0a035be7c4432                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

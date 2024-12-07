@@ -20,7 +20,7 @@ TXT 下载: [[附身]_深夜独行[深夜の一人歩き].doc]([附身]_深夜�
 | Format          | Microsoft Word Document                               |
 | Size            | 73216 bytes                           |
 | MD5             | a46903bad93ecc559b7db9e66faab5e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 無名                               |
 | Region          | 未知                               |

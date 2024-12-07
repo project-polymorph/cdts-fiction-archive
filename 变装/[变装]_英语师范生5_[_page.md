@@ -20,7 +20,7 @@ TXT 下载: [[变装]_英语师范生5_[.docx]([变装]_英语师范生5_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17498 bytes                           |
 | MD5             | 5a8706d88874406ad4022fe72df10366                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

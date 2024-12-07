@@ -20,7 +20,7 @@ TXT 下载: [[交换]_卧底黑帮之梦想成真_篇章三.docx]([交换]_卧�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37279 bytes                           |
 | MD5             | f2d5fa7c5f80b470fbf9c2ddcc9268df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

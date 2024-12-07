@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔法少女星露①.docx]([附身]_魔法少女星露①
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《魔法少女星露》是一部暗黑奇幻风格的小说，描绘了一个地下组织与魔法少女之间的对抗故事。主角在一次行动中发现，魔法少女不仅仅是他们的敌人，更是一种超乎想象的存在；他们能掌控他人的身体，利用这种能力进行渗透和控制。故事开头，主角经历了他的组织受到魔法少女袭击后，所有战友接连遭遇惨败的情境，这种绝望与不甘展现出角色内心的冲突。在不同的对话中，展现了魔法少女的特异能力和主角的挣扎以及对自身命运的反思。小说通过紧张的对话和具体的情景描写，营造出一种悬疑而紧张的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔法少女星露①.docx]([附身]_魔法少女星露①
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58136 bytes                           |
 | MD5             | 0343495a4686230b25502c64238ae2fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 变身, 地下组织, 超能力, 抵抗, 性别认同, 自我探索, 暗黑奇幻, 角色冲突, 信任与背叛, 控制与自由, 困难与绝望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

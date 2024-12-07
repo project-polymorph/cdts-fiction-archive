@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】TG机器：陷阱中的维修工人.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 54fc86d160060089724ad3643c9325bb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | JasmineTGWriting                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_模特公司_（1-4）.doc]([皮物]_模特公司_（1-4�
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | 91ef0fed4fda9458823f124b1191c26d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 孔夫子onlyone                               |
 | Region          | 未知                               |

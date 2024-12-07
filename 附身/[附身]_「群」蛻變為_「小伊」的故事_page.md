@@ -22,7 +22,7 @@ TXT 下载: [[附身]_「群」蛻變為_「小伊」的故事.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41973 bytes                           |
 | MD5             | 21db2a08a86be3f67831ee1ca0ca44ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

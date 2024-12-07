@@ -20,7 +20,7 @@ TXT 下载: [[其他]_肢体派对.docx]([其他]_肢体派对.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 71256 bytes                           |
 | MD5             | e7a25f21ab7dd5c8ccf01a77bbb14b24                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

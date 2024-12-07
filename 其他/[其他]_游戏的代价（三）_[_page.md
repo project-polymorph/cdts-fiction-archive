@@ -20,7 +20,7 @@ TXT 下载: [[其他]_游戏的代价（三）_[.docx]([其他]_游戏的代价�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36733 bytes                           |
 | MD5             | 02335ae1b9e1f66b70c65a883130cc36                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

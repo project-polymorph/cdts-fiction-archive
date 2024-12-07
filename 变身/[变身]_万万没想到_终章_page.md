@@ -22,7 +22,7 @@ TXT 下载: [[变身]_万万没想到_终章.docx]([变身]_万万没想到_终�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30997 bytes                           |
 | MD5             | 0cda01f853af5be1911ad1d9b7e417ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

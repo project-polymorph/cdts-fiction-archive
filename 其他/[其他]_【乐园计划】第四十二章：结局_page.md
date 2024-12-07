@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第四十二章：结局.doc]([其他]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 1dc7f74768fb540092924cdc92814729                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 香草                               |
 | Region          | 未知                               |

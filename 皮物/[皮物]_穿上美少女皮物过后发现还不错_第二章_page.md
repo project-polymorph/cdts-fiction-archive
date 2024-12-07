@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_穿上美少女皮物过后发现还不错_第二章.doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 72ce584b80ae8178c14b5d83eac6c344                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

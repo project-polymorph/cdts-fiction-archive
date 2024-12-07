@@ -20,7 +20,7 @@ TXT 下载: [[变身]_性别.doc]([变身]_性别.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 174592 bytes                           |
 | MD5             | 4aad766ff14ad49ed526789615012947                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

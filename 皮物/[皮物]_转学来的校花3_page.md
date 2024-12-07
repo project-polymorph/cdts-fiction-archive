@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_转学来的校花3.docx]([皮物]_转学来的校花3.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52049 bytes                           |
 | MD5             | ae22767c03acd4a292bc576fd3a09281                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

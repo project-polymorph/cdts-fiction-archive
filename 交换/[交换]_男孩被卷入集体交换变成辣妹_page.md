@@ -20,7 +20,7 @@ TXT 下载: [[交换]_男孩被卷入集体交换变成辣妹.docx]([交换]_男
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37278 bytes                           |
 | MD5             | b1aa060af831d6b7d1e7134b968e4ad3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

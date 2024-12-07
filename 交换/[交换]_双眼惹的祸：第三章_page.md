@@ -20,7 +20,7 @@ TXT 下载: [[交换]_双眼惹的祸：第三章.doc]([交换]_双眼惹的祸�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 680207c0b63e5832dd267dbb75f44e08                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

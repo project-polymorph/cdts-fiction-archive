@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译变性】Jennifer系列作品——秘密特工.d
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | ca76c6744d6d3a219ed8e488c1917b93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer Whiter                               |
 | Region          | 未知                               |

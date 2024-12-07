@@ -20,7 +20,7 @@ TXT 下载: [[交换]_偷走性感妈妈的身体【上】.docx]([交换]_偷走
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26175 bytes                           |
 | MD5             | 58f55f33a26bba9c6bcdcac9d99e135a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

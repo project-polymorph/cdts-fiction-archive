@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_A_Cask_of_Amanda.doc]([皮物]_A_Cask_of_Amanda.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | bf0a1e2e0ca86f630ce86d6059185d89                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Holly Fairfa                               |
 | Region          | 未知                               |

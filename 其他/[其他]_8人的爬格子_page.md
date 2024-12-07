@@ -20,7 +20,7 @@ TXT 下载: [[其他]_8人的爬格子.docx]([其他]_8人的爬格子.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21997 bytes                           |
 | MD5             | 3ea26e1c8dad90cdda1ca629c55c91b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | greenback                               |
 | Region          | 未知                               |

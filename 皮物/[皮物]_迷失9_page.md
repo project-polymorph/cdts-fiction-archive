@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_迷失9.docx]([皮物]_迷失9.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21890 bytes                           |
 | MD5             | 1a08e97ca34ff38da9cb31a1e5e4f8c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

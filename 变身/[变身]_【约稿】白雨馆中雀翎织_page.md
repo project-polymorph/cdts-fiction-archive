@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【约稿】白雨馆中雀翎织.docx]([变身]_【约稿
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 66309 bytes                           |
 | MD5             | fbed7808e037694b5b5758d5560529d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

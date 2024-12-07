@@ -22,7 +22,7 @@ TXT 下载: [[变身]_（申码文）角色扮演商店TS篇【校正版】.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43861 bytes                           |
 | MD5             | 3bf3c7343a4504f84b625069eb4f8edb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sandever                               |
 | Region          | 未知                               |

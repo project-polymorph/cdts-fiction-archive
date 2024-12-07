@@ -20,7 +20,7 @@ TXT 下载: [[变装]_申码文重发《危险任务1-5》.docx]([变装]_申码
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49591 bytes                           |
 | MD5             | bcbe05d18f2843b3ba1d02a7d6a9457d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

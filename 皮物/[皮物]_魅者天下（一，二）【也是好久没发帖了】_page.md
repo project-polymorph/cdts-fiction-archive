@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_魅者天下（一，二）【也是好久没发帖了】.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35506 bytes                           |
 | MD5             | 188b2c34d03d9809ad5ce0a430b389b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

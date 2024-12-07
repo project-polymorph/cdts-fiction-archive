@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【碟中谍】龙蛇变（第四章）.doc]([皮物]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | 85d64e733bd7ef4faaa3847219097a9a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

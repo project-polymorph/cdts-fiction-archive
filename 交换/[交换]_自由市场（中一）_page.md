@@ -20,7 +20,7 @@ TXT 下载: [[交换]_自由市场（中一）.doc]([交换]_自由市场（中�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | ab57f0fa0d6f8cf4b870b1d55397121f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

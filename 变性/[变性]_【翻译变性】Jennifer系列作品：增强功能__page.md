@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译变性】Jennifer系列作品：增强功能_.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 40e1f9655092ffa29e40b97ba899e3a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White / 露娜·埃葵斯                               |
 | Region          | 未知                               |

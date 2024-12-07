@@ -20,7 +20,7 @@ TXT 下载: [[改造]_地下室的礼物MA10机械性奴-蛤蟆王子翻译，�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25016 bytes                           |
 | MD5             | e46603f1994976afdf5a6efd1c4dbf54                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

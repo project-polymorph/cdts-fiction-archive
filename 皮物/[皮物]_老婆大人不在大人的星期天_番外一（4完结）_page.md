@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_老婆大人不在大人的星期天_番外一（4完结�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | e6aea695feb5a854e7a6a7e8738a996f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

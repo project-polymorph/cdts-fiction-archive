@@ -20,7 +20,7 @@ TXT 下载: [[变装]_短篇变装小说——第一次看到爸爸.doc]([变装
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | bfcbadb62f0b38ef6d7d0a8fb3489d38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Meganprincess                               |
 | Region          | 未知                               |

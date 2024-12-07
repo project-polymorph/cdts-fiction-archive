@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游戏人间（九）.docx]([附身]_游戏人间（九）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49536 bytes                           |
 | MD5             | e9a5e5afd8f35ad10a953b3345d564bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

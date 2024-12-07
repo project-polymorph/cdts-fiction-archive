@@ -20,7 +20,7 @@ TXT 下载: [[变装]_MAID_ON_MY_OWN_WILL（2）.docx]([变装]_MAID_ON_MY_OWN_W
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32703 bytes                           |
 | MD5             | 380246ca01c25da88b8b203eae9adf44                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蜀山炼器师_第六章_离开.docx]([附身]_蜀山炼�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16945 bytes                           |
 | MD5             | 65af3fcfd86fe1ffafd9237293e086c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

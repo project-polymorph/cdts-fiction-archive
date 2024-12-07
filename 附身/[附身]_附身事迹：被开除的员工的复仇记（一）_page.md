@@ -22,7 +22,7 @@ TXT 下载: [[附身]_附身事迹：被开除的员工的复仇记（一）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24808 bytes                           |
 | MD5             | 122044ed8aa7a0fd7f7dc91d1949cf55                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

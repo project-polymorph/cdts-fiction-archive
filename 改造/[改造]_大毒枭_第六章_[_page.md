@@ -20,7 +20,7 @@ TXT 下载: [[改造]_大毒枭_第六章_[.docx]([改造]_大毒枭_第六章_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21300 bytes                           |
 | MD5             | b3afd14c5cf496097a71b06954c7f64f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

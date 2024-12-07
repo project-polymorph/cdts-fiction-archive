@@ -20,7 +20,7 @@ TXT 下载: [[变身]_M200的傀儡指挥官_第四章_M200的羞耻play.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31799 bytes                           |
 | MD5             | c72ca027d5f2d3e169b18551ae5b91d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

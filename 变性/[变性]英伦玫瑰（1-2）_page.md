@@ -20,7 +20,7 @@ TXT 下载: [[变性]英伦玫瑰（1-2）.doc]([变性]英伦玫瑰（1-2）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | eb672c1f0120a675ca883c47bd82717f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

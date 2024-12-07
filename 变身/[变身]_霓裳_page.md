@@ -20,7 +20,7 @@ TXT 下载: [[变身]_霓裳.docx]([变身]_霓裳.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 83288 bytes                           |
 | MD5             | 1bf3d8af5d3e8cbd9eb23e8c8dbf498d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

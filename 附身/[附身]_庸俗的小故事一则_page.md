@@ -20,7 +20,7 @@ TXT 下载: [[附身]_庸俗的小故事一则.docx]([附身]_庸俗的小故事
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18511 bytes                           |
 | MD5             | 211766a8c5be4fa96007837320615741                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

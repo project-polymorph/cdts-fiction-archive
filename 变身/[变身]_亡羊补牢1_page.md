@@ -20,7 +20,7 @@ TXT 下载: [[变身]_亡羊补牢1.doc]([变身]_亡羊补牢1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | ff49e7b7980733464bc1806438a7c04f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

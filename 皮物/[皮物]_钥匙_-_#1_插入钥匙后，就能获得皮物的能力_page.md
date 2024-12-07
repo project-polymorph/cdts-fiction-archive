@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_钥匙_-_#1_插入钥匙后，就能获得皮物的能力.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17935 bytes                           |
 | MD5             | 9e3cd68507e240e806bafc3f1eab705d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

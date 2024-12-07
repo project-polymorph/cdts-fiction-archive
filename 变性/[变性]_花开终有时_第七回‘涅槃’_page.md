@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花开终有时_第七回‘涅槃’.docx]([变性]_花�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34822 bytes                           |
 | MD5             | 61b56d79b95c2585be138f928cbc118b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

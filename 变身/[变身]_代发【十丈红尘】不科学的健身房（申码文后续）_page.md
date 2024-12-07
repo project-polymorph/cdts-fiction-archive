@@ -20,7 +20,7 @@ TXT 下载: [[变身]_代发【十丈红尘】不科学的健身房（申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 106496 bytes                           |
 | MD5             | 692584ba4558cdbade50e94c273b7d87                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

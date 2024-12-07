@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_亨德里克斯的遗产（The_Hendricks_Inheritance）Par
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 1ee32d1442c1c8bdbb6d6c5733b2aca9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

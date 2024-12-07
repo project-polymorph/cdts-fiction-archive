@@ -20,7 +20,7 @@ TXT 下载: [[变装]_一年时间从人夫到人妻（中）.docx]([变装]_一
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41846 bytes                           |
 | MD5             | 6e988341619780769aa769aa8a087275                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

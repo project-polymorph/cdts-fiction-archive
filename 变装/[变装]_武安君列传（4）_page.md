@@ -20,7 +20,7 @@ TXT 下载: [[变装]_武安君列传（4）.docx]([变装]_武安君列传（4�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17942 bytes                           |
 | MD5             | 44f8895c86a68262b8faf383e8667aed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

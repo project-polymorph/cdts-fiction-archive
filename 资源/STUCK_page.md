@@ -20,7 +20,7 @@ TXT 下载: [STUCK.doc](STUCK.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 75776 bytes                           |
 | MD5             | 0d62c7b000cc48e5838f827cb26130eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [恐怖微信群.docx](恐怖微信群.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 236128 bytes                           |
 | MD5             | f1708fa1cb6daa9b7177c3efaf9c23a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

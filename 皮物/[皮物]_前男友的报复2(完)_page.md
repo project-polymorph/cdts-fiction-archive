@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_前男友的报复2(完).docx]([皮物]_前男友的报复
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20288 bytes                           |
 | MD5             | 3c2c4cfad0a44a637963b02fdd6272ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

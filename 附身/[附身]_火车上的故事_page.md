@@ -20,7 +20,7 @@ TXT 下载: [[附身]_火车上的故事.docx]([附身]_火车上的故事.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47751 bytes                           |
 | MD5             | b2dbb68a9c6db3ee7b494266806d97f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

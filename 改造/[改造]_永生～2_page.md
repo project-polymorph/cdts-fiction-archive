@@ -20,7 +20,7 @@ TXT 下载: [[改造]_永生～2.docx]([改造]_永生～2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41120 bytes                           |
 | MD5             | a6554c7efb0ee3c05b9df080e909c1f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

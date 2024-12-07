@@ -20,7 +20,7 @@ TXT 下载: [[变身]_泥巴人3.docx]([变身]_泥巴人3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22973 bytes                           |
 | MD5             | 092cb250bba3a5ecb389f853d1d50177                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

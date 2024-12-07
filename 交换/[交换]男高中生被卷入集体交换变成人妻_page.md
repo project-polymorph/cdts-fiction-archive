@@ -20,7 +20,7 @@ TXT 下载: [[交换]男高中生被卷入集体交换变成人妻.doc]([交换]
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | 49a7cd89ff773a1381ae8a0f8a2ea57c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

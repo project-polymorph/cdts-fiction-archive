@@ -24,7 +24,7 @@ TXT 下载: [[附身]_蓝晶3.docx]([附身]_蓝晶3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21247 bytes                           |
 | MD5             | ae0421fe78c503d0c9de2142b3967195                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

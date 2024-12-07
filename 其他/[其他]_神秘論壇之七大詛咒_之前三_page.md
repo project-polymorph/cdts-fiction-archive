@@ -20,7 +20,7 @@ TXT 下载: [[其他]_神秘論壇之七大詛咒_之前三.docx]([其他]_神�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48353 bytes                           |
 | MD5             | be101ac951b74ad7bafa39fbf1b3c46a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

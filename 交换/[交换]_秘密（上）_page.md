@@ -20,7 +20,7 @@ TXT 下载: [[交换]_秘密（上）.doc]([交换]_秘密（上）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | aee700b0ade0aaddf541f005c04e4541                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

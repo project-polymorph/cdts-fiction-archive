@@ -20,7 +20,7 @@ TXT 下载: [[交换]_抽签.docx]([交换]_抽签.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21668 bytes                           |
 | MD5             | 262fb6fa71992a76b8ce31e7a8ccc800                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

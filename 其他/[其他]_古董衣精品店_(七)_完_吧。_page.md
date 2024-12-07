@@ -20,7 +20,7 @@ TXT 下载: [[其他]_古董衣精品店_(七)_完_吧。.docx]([其他]_古董�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18839 bytes                           |
 | MD5             | e79af612fe85c3c08391d336bab4cdce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

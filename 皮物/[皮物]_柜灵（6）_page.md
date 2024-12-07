@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_柜灵（6）.docx]([皮物]_柜灵（6）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23691 bytes                           |
 | MD5             | 4d0ca1a3aa31ea84cef8be54e174090b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_抖M的表里.doc]([交换]_抖M的表里.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | ad0a6c553aa9b7bd51545bc2ae37d905                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | メス牡蠣                               |
 | Region          | 未知                               |

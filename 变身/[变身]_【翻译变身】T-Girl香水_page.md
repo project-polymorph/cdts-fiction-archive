@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译变身】T-Girl香水.doc]([变身]_【翻译变�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 6448786dd47fe3aaa9094a77f4502f15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Ellie Dauber                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_四娘山的诅咒02（张子睿篇）.doc]([变身]_四�
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | b5a2c1f7eb98732cac4b6982846f4a0c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

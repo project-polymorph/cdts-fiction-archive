@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_局中局（我的申码文）.docx]([皮物]_局中局（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41682 bytes                           |
 | MD5             | 6186a3db9eaa31aea571f1a7b553397b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

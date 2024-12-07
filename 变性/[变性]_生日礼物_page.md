@@ -20,7 +20,7 @@ TXT 下载: [[变性]_生日礼物.docx]([变性]_生日礼物.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41088 bytes                           |
 | MD5             | 7a3ded9ad2060efdfa70e662d61a3cc9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kriz                               |
 | Region          | 未知                               |

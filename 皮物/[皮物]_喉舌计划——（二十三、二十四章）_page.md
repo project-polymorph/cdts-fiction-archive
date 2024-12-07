@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_喉舌计划——（二十三、二十四章）.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | f2d9abf55df924c8dee4efc1ac3dc100                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 白木芽                               |
 | Region          | 中国大陆                               |

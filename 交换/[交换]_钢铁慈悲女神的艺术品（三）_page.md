@@ -20,7 +20,7 @@ TXT 下载: [[交换]_钢铁慈悲女神的艺术品（三）.docx]([交换]_钢
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31548 bytes                           |
 | MD5             | 89f63d7f4a6fb3485037a5c76fb89b5e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

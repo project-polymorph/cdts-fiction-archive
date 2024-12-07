@@ -22,7 +22,7 @@ TXT 下载: [[附身]_尘释录_[破镜篇]_3-4章.docx]([附身]_尘释录_[破
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31850 bytes                           |
 | MD5             | b026cf6b6e0e0e3fbe998beca2b05bd4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[超超超级虐文]梦醒之刻_男女之间（完结）.
 | Format          | Microsoft Word Document                               |
 | Size            | 136704 bytes                           |
 | MD5             | 4ca56b068a6843cef7cf9f14d99dd251                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

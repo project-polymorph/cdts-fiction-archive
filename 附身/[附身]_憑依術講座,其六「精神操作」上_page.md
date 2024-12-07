@@ -20,7 +20,7 @@ TXT 下载: [[附身]_憑依術講座,其六「精神操作」上.docx]([附身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36361 bytes                           |
 | MD5             | 48f7931d46f3567c33b93301fe109490                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー，译者：ff7063252597                               |
 | Region          | 未知                               |

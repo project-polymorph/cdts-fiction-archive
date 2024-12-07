@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【TSFのF】伪装未婚妻（偽りの婚約者）（下
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 0d88f7a700b1d95b9f5d9fd1a0486f9e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TSFのF                               |
 | Region          | 未知                               |

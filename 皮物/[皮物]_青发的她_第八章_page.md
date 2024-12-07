@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_青发的她_第八章.docx]([皮物]_青发的她_第八�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26718 bytes                           |
 | MD5             | 4832e90d9c4473e1b442f9bbfdf9d64c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

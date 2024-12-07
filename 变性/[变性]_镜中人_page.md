@@ -22,7 +22,7 @@ TXT 下载: [[变性]_镜中人.doc]([变性]_镜中人.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | f9480e01bff2f8c99090f8e4d7fd1f66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

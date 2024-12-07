@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——游戏开始（总序篇）.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23744 bytes                           |
 | MD5             | 015b607629f80c30faa360baea92b701                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 齐腾一                               |
 | Region          | 未知                               |

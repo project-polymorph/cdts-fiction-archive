@@ -20,7 +20,7 @@ TXT 下载: [[变身]_陈明的奇妙生活.doc]([变身]_陈明的奇妙生活.
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | a6d354d8704e507e33271f908f41c9bb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

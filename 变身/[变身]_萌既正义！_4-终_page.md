@@ -20,7 +20,7 @@ TXT 下载: [[变身]_萌既正义！_4-终.docx]([变身]_萌既正义！_4-终
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36064 bytes                           |
 | MD5             | 0d344dbe0451b5e6b0cc08c7b43d760f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

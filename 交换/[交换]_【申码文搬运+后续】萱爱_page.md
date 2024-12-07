@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【申码文搬运+后续】萱爱.doc]([交换]_【申码
 | Format          | Microsoft Word Document                               |
 | Size            | 282624 bytes                           |
 | MD5             | defffab2a34a04a8131c953b15110d2e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

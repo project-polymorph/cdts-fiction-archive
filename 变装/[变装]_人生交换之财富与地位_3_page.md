@@ -20,7 +20,7 @@ TXT 下载: [[变装]_人生交换之财富与地位_3.docx]([变装]_人生交�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27057 bytes                           |
 | MD5             | f941f4d7f928f619578b6802fec7fd07                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Belladonna D' z                               |
 | Region          | 未知                               |

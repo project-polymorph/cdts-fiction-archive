@@ -20,7 +20,7 @@ TXT 下载: [[变性]_直到煙火綻放時_CH1-2.docx]([变性]_直到煙火綻
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29315 bytes                           |
 | MD5             | ebadf9e8ffb3f37a5726b7c383414b28                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | frits                               |
 | Region          | 未知                               |

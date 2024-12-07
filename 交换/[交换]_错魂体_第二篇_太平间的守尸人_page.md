@@ -20,7 +20,7 @@ TXT 下载: [[交换]_错魂体_第二篇_太平间的守尸人.docx]([交换]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26588 bytes                           |
 | MD5             | 2ede11a1b486b3c1ddac3f3dee6cac38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

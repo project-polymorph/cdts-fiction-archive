@@ -20,7 +20,7 @@ TXT 下载: [[变身]_神秘家族之一自力更生4.docx]([变身]_神秘家�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20627 bytes                           |
 | MD5             | 807154a1289a9eaa1041c6d51a3abdc8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

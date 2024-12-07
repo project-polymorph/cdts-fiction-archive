@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】像一只鸭子.docx]([变身]_【翻译】像
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48963 bytes                           |
 | MD5             | 10ed402b8920d13f8e5df8f101c0613e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Katherine Gorge                               |
 | Region          | 未知                               |

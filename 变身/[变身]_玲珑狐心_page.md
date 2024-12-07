@@ -20,7 +20,7 @@ TXT 下载: [[变身]_玲珑狐心.docx]([变身]_玲珑狐心.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45123 bytes                           |
 | MD5             | 369a0d1e860ffbb66229718cdd38e45a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_商海谍战人物篇之Y初出茅庐（01）.doc]([皮物
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 42f27a53e21de24def9aa2ea1a6d166d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 高丽国                               |

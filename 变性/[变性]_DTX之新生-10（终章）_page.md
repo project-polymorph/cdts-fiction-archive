@@ -20,7 +20,7 @@ TXT 下载: [[变性]_DTX之新生-10（终章）.doc]([变性]_DTX之新生-10�
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 1bffb8b9f5eafecf0a63076601ce0e12                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

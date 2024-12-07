@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔皮（1-5章）.doc]([皮物]_魔皮（1-5章）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 98816 bytes                           |
 | MD5             | 51af496d1ba63976e454c709ef979cc6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

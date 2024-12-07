@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_嫁衣_之三.docx]([皮物]_嫁衣_之三.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30265 bytes                           |
 | MD5             | 51251aaaab8f0c65518d76a95afbfa0f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

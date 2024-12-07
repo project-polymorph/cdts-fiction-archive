@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch15_&_End.doc]([皮物]_天使的救赎_C
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 8205038b686bde1de4588217f87d3bd4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

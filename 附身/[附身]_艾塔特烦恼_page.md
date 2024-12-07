@@ -20,7 +20,7 @@ TXT 下载: [[附身]_艾塔特烦恼.doc]([附身]_艾塔特烦恼.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 276992 bytes                           |
 | MD5             | 2a444bee55b48ed29b2b70c31fab88b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 永恒的狞笑                               |
 | Region          | 未知                               |

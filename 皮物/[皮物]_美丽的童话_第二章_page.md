@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_美丽的童话_第二章.docx]([皮物]_美丽的童话_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21976 bytes                           |
 | MD5             | 640abbca7c75c3ffef8a14c758a7645c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch06.docx]([皮物]_天使的救赎_Ch06.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30046 bytes                           |
 | MD5             | 6d1c0128f137526aa17375e280d35a71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 恋恋云烟                               |
 | Region          | 未知                               |

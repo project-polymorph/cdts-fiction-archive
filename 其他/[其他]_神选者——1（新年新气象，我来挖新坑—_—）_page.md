@@ -20,7 +20,7 @@ TXT 下载: [[其他]_神选者——1（新年新气象，我来挖新坑—_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18246 bytes                           |
 | MD5             | e77651a1d6ea904e36b3f0ce48c98b18                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

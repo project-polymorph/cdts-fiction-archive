@@ -20,7 +20,7 @@ TXT 下载: [[附身]_私密攝影之入魂_(健雄的第一次).doc]([附身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 868fa1e8d68c6295256cdb60eda427b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

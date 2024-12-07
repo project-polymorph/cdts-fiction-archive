@@ -20,7 +20,7 @@ TXT 下载: [[交换]_如果因为爱情而交换人生二.docx]([交换]_如果
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18208 bytes                           |
 | MD5             | 23f2dca71e4434d4d5bdaf11f0d0b604                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

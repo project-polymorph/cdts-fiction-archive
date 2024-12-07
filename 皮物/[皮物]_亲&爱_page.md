@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_亲&爱.docx]([皮物]_亲&爱.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30554 bytes                           |
 | MD5             | 75f436a7f0458818b2a4101e3d17e991                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

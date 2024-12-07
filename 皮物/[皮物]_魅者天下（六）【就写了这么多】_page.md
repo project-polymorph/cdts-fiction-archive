@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魅者天下（六）【就写了这么多】.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27612 bytes                           |
 | MD5             | 6e7ded361fcff421e819ee0f78ea886b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

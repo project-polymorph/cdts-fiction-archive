@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_蔷薇的困惑，忍者的困惑.doc]([皮物]_蔷薇的�
 | Format          | Microsoft Word Document                               |
 | Size            | 92672 bytes                           |
 | MD5             | fcc0cc8b0001811824c138d3f31a0b77                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 月咲华灯                               |
 | Region          | 未知                               |

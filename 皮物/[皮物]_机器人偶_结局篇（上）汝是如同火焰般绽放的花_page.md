@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机器人偶_结局篇（上）汝是如同火焰般绽放
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21402 bytes                           |
 | MD5             | 1eb1f6863ca04ea684cbf4153b039244                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

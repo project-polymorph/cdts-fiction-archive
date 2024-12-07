@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_异途【第一章——第三章】.doc]([皮物]_异途�
 | Format          | Microsoft Word Document                               |
 | Size            | 95232 bytes                           |
 | MD5             | eddd9cfbe9f138ed13c971314a2c16d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_芭比娃娃_第6天~最後一天.doc]([变装]_芭比娃�
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 30cfaec6e89fffd79b9d4949263627d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

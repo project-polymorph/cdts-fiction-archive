@@ -20,7 +20,7 @@ TXT 下载: [[其他]_TS_app大赛.doc]([其他]_TS_app大赛.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 7835577dc076156337c5ebcd56c64475                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

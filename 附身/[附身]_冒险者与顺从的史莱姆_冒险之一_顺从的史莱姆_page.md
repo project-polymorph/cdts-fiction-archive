@@ -20,7 +20,7 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之一_顺从的史�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29597 bytes                           |
 | MD5             | f766dbbe3a59ed5a351e59aa5ce25acb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

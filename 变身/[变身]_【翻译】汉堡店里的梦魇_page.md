@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】汉堡店里的梦魇.docx]([变身]_【翻译
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30119 bytes                           |
 | MD5             | bea0a0cf809d7806984272a03df7a113                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Carleton Vincent                               |
 | Region          | 未知                               |

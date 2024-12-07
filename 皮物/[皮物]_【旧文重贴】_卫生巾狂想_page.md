@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【旧文重贴】_卫生巾狂想.doc]([皮物]_【旧文
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | bbee6d11e7aec61e4ae443afd22ea2bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

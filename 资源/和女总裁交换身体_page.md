@@ -20,7 +20,7 @@ TXT 下载: [和女总裁交换身体.doc](和女总裁交换身体.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | d4b443d71e995bd671228977876b274c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

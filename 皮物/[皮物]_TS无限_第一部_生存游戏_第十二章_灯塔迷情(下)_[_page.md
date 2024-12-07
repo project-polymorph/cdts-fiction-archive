@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_TS无限_第一部_生存游戏_第十二章_灯塔迷情(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16989 bytes                           |
 | MD5             | 1239963f43c91a722e714b669e25d1f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

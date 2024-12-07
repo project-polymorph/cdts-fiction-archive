@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【旧文重贴】一盒录像带.doc]([皮物]_【旧文�
 | Format          | Microsoft Word Document                               |
 | Size            | 59904 bytes                           |
 | MD5             | a8b50a2f18dc3a358dd864d5da9e7bf6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

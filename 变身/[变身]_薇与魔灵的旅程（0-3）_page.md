@@ -20,7 +20,7 @@ TXT 下载: [[变身]_薇与魔灵的旅程（0-3）.docx]([变身]_薇与魔灵
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40112 bytes                           |
 | MD5             | a7965abb1515359c4d59f67ca4ebd221                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 一尘流影                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_卧底丈夫4~5.docx]([改造]_卧底丈夫4~5.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20005 bytes                           |
 | MD5             | 74dff86b7ee07836def19da05662ff01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

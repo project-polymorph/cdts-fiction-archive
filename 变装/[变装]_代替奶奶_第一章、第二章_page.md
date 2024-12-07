@@ -20,7 +20,7 @@ TXT 下载: [[变装]_代替奶奶_第一章、第二章.doc]([变装]_代替奶
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | f5e918075595fd136abe5d2ade63eb99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

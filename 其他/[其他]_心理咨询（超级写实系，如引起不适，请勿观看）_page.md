@@ -20,7 +20,7 @@ TXT 下载: [[其他]_心理咨询（超级写实系，如引起不适，请勿�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 1d22106e109163fc85d325985e8ebaae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

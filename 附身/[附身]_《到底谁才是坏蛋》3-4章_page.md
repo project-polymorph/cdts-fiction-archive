@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》3-4章.doc]([附身]_《到底�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 8dd6eac1ba1815d4e0303730d97a7b32                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

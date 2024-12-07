@@ -20,7 +20,7 @@ TXT 下载: [[改造]_神奇的自慰棒（二）_(2).docx]([改造]_神奇的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20306 bytes                           |
 | MD5             | aab391cd08ef6597d38931dfe26e9ef8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

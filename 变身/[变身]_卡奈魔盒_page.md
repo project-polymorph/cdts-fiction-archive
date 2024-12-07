@@ -22,7 +22,7 @@ TXT 下载: [[变身]_卡奈魔盒.doc]([变身]_卡奈魔盒.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | c3fdeeb3a3eea81523195b7cf89e9f98                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

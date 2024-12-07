@@ -20,7 +20,7 @@ TXT 下载: [[交换]_「『Nursing_Samba　看護婦しちゃうぞ♪』0.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16572 bytes                           |
 | MD5             | 983bf2f411fb771dd812d79704aff769                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

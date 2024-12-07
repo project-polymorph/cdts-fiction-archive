@@ -20,7 +20,7 @@ TXT 下载: [[交换]_アイドルと芸人の入れ替わり.docx]([交换]_ア
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22169 bytes                           |
 | MD5             | 791164f9a76d6d8ea1349803ef5d2a21                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

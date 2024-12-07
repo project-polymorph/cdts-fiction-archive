@@ -20,7 +20,7 @@ TXT 下载: [《变身上司》《老师不容易》.doc](《变身上司》《�
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | f20855ebb6d2a1284e20fde0b81e5a6d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

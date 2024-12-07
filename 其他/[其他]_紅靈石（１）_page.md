@@ -20,7 +20,7 @@ TXT 下载: [[其他]_紅靈石（１）.docx]([其他]_紅靈石（１）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16430 bytes                           |
 | MD5             | 185c788c1f2de36deeb170c6289c9916                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

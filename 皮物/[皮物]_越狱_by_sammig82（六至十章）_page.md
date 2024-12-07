@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_越狱_by_sammig82（六至十章）.docx]([皮物]_越狱
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61977 bytes                           |
 | MD5             | c5ea821854fe47390c3722dde91d932e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

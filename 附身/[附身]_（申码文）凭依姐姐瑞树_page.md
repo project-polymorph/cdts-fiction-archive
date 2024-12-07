@@ -7,7 +7,7 @@ TXT 下载: [[附身]_（申码文）凭依姐姐瑞树.docx]([附身]_（申码
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《凭依姐姐瑞树》是一部以性转和灵魂出窍为主题的小说，讲述了主角片桐英佑在一次意外中获得了灵魂出窍的能力，并试图进入与其同住的姐姐瑞树的身体。故事描述了英佑对于自身状况的反应，以及他对姐姐身材的嫉妒和转化的冲动。在他穿越到姐姐的身体后，面对新的感知和身体体验，情节逐渐展开出对性别身份和亲情之间界限的模糊。小说中包含大量色情暗示和对身体的探索，设定涉及灵魂与肉体的关系，以及对于性别与自我认同的思考。文本呈现了一种超现实的情感交织，融合了一些禁忌和复杂的情感，让人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_（申码文）凭依姐姐瑞树.docx]([附身]_（申码
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25856 bytes                           |
 | MD5             | 2919b4a8d4321892ddf13bb81d035ce2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 憑依好きの人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂出窍, 性转, 姐姐与弟弟, 身体交换, 自我认同, 情色小说, 心理描写, 性别认同, 灵魂依附, 禁忌关系, 虚幻体验, 二次元, TSF, 变身小说, 心理探索, 青春困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

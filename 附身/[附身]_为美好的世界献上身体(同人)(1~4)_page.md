@@ -20,7 +20,7 @@ TXT 下载: [[附身]_为美好的世界献上身体(同人)(1~4).docx]([附身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 64107 bytes                           |
 | MD5             | ec033b5a765dc86a6414b87ebb07f0b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

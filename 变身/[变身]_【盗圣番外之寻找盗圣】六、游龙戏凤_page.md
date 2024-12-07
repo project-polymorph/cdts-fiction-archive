@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】六、游龙戏凤.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 37c5b35f75c2c205d2e024d39fc00139                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

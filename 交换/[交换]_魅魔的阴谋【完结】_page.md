@@ -20,7 +20,7 @@ TXT 下载: [[交换]_魅魔的阴谋【完结】.docx]([交换]_魅魔的阴谋
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36405 bytes                           |
 | MD5             | 175902a946e1cc5b911b3af5e836a910                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

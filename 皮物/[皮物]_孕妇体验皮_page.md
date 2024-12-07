@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_孕妇体验皮.doc]([皮物]_孕妇体验皮.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | 02a8ff5917c4a8e21487c5ce223d571c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

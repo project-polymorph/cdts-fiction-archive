@@ -20,7 +20,7 @@ TXT 下载: [[变身]_大变活人的同居生活_5.docx]([变身]_大变活人�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16298 bytes                           |
 | MD5             | eb3d53c875609a1b4994daf9efc5f312                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

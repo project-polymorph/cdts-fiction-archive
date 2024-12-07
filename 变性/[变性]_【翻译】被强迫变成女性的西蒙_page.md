@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】被强迫变成女性的西蒙.doc]([变性]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 86016 bytes                           |
 | MD5             | 67b5480994f979e028661a65035a0d04                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 魔之天涯                               |
 | Region          | 未知                               |

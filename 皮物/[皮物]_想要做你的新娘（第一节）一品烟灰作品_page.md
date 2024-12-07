@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_想要做你的新娘（第一节）一品烟灰作品.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17092 bytes                           |
 | MD5             | 7619b94ee4ce2f22c5230e884844a46a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 一品烟灰                               |
 | Region          | 未知                               |

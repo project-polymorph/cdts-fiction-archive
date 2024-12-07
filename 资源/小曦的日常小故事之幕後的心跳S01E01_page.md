@@ -20,7 +20,7 @@ TXT 下载: [小曦的日常小故事之幕後的心跳S01E01.doc](小曦的日�
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 3c039884370d4828c78c836f750f39f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

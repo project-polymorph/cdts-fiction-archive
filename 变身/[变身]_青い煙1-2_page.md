@@ -20,7 +20,7 @@ TXT 下载: [[变身]_青い煙1-2.doc]([变身]_青い煙1-2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 289266d7b07d007c6dbfb131b5cb97f1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

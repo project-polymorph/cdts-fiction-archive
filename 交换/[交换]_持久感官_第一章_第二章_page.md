@@ -20,7 +20,7 @@ TXT 下载: [[交换]_持久感官_第一章_第二章.docx]([交换]_持久感�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47904 bytes                           |
 | MD5             | 65d169563bad0f3324640159bf0bf848                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天地传说之圣眼_十六_入替空姐.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20831 bytes                           |
 | MD5             | 60530d21fa5fb8afa2c67aeed6c1d555                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

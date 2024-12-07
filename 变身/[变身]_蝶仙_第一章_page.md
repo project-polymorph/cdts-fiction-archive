@@ -20,7 +20,7 @@ TXT 下载: [[变身]_蝶仙_第一章.docx]([变身]_蝶仙_第一章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39037 bytes                           |
 | MD5             | c20d811fc36dfc158509cad7f7188098                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

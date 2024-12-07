@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第三十一回.doc](《金枝奇缘》第三十�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | a35ca750d529800bf4d129be19849f3a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

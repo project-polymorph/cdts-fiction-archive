@@ -20,7 +20,7 @@ TXT 下载: [[变身]_合影相机_第七章.doc]([变身]_合影相机_第七�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 7d4fa7003079ba2911cea312d4904d1c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

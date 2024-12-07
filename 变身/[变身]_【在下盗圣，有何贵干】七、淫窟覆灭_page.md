@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】七、淫窟覆灭.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 2e839a4315202f4e23b80e5d2341bc9f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

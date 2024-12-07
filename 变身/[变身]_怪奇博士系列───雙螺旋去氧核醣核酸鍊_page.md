@@ -20,7 +20,7 @@ TXT 下载: [[变身]_怪奇博士系列───雙螺旋去氧核醣核酸鍊.
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | f20120a3c6a45a8e01850d20221a7097                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

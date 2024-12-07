@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第22章，朝廷反应。.doc]([改造]
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 871675bd51b9a9a5e9d803073309bbad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

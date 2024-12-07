@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Game_On_No_Game_遊戲開始_遊戲結束.docx]([改造]_G
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25902 bytes                           |
 | MD5             | ce21804b88fa854c30147b626e5f13d1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Casey CD                               |
 | Region          | 未知                               |

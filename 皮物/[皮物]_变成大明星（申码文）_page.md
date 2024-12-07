@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变成大明星（申码文）.doc]([皮物]_变成大明�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | e6c644ac5733f1954a53dfa2f9c204c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

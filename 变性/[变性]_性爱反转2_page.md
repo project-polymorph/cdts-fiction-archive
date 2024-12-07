@@ -20,7 +20,7 @@ TXT 下载: [[变性]_性爱反转2.docx]([变性]_性爱反转2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28704 bytes                           |
 | MD5             | 3207101c3a7eddb1168a176b329d4d1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_可爱的小小史莱姆娘3_dark篇_中.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37506 bytes                           |
 | MD5             | 66ed19817551b4f22dd0fb33338f24ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 十月豆三                               |
 | Region          | 未知                               |

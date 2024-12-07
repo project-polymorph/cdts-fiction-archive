@@ -20,7 +20,7 @@ TXT 下载: [[其他]_男媳（上）.docx]([其他]_男媳（上）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18639 bytes                           |
 | MD5             | 670c7491fa6d90847c0129665f29aa81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RAKKI                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_让我沉沦的意外之吻.doc]([变装]_让我沉沦的�
 | Format          | Microsoft Word Document                               |
 | Size            | 304640 bytes                           |
 | MD5             | 644479844f1cd1b5dbf634045a1def3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_融魂3-5.docx]([附身]_融魂3-5.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20447 bytes                           |
 | MD5             | 77669280cda8a4f433e071166f7e4aea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

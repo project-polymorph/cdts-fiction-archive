@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[旧文重贴]不死之书.doc]([附身]_[旧文重贴]不
 | Format          | Microsoft Word Document                               |
 | Size            | 59904 bytes                           |
 | MD5             | 7d2ab59674cccd59c4bc14a2799ad7a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

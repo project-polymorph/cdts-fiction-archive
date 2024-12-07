@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蝴蝶與蜘蛛.docx]([附身]_蝴蝶與蜘蛛.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25360 bytes                           |
 | MD5             | 874aed2e5e74cbd2af57a07d8ea29a28                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

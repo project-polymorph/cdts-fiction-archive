@@ -20,7 +20,7 @@ TXT 下载: [[交换]_正义的抉择.docx]([交换]_正义的抉择.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40833 bytes                           |
 | MD5             | fa0e4fb9546a4b4acfa9ccc3a17368bb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

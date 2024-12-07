@@ -20,7 +20,7 @@ TXT 下载: [[附身]_双面特工.docx]([附身]_双面特工.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 204444 bytes                           |
 | MD5             | b63318329fe2c18c05cee98fbc1ea79a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Chrissy 和 Bashful                               |
 | Region          | 未知                               |

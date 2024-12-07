@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_爱恨交织――（篡改历史+人皮的起源）.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60253 bytes                           |
 | MD5             | a3c22f8f26c5d81cf63f6895db224d3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

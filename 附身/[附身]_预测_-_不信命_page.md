@@ -20,7 +20,7 @@ TXT 下载: [[附身]_预测_-_不信命.doc]([附身]_预测_-_不信命.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 6e923c3ec63fb827b7bc36888e7764ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

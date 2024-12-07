@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（申码文）入替皮杖（当小弟变成自己的老�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 3ea530b202133fe3b4502d1eb60fc9d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

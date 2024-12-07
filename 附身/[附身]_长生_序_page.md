@@ -20,7 +20,7 @@ TXT 下载: [[附身]_长生_序.docx]([附身]_长生_序.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16911 bytes                           |
 | MD5             | a2fc8a1b2fbbe5ab7cdf91ccda822a39                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

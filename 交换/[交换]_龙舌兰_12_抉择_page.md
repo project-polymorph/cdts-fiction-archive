@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_12_抉择.docx]([交换]_龙舌兰_12_抉择.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32808 bytes                           |
 | MD5             | 6dcaf17e391c420bd2bf2cf9d83be1d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Yudi(ft3020997)                               |
 | Region          | 未知                               |

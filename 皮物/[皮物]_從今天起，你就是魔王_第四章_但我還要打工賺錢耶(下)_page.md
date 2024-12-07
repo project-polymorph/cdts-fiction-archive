@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第四章_但我還要打�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29104 bytes                           |
 | MD5             | 1b48a6d6379a74a897e2026a38bf9e9f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

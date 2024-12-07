@@ -22,7 +22,7 @@ TXT 下载: [[附身]_来自未来的系统.doc]([附身]_来自未来的系统.
 | Format          | Microsoft Word Document                               |
 | Size            | 68608 bytes                           |
 | MD5             | 4466ed8cc6c27f5522fb3ab3d1058d88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

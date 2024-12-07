@@ -20,7 +20,7 @@ TXT 下载: [[交换]_SCARLET-第一章.docx]([交换]_SCARLET-第一章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72102 bytes                           |
 | MD5             | f9a2380deb0ad6c7053b105fe3c11137                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jessica Drew                               |
 | Region          | 未知                               |

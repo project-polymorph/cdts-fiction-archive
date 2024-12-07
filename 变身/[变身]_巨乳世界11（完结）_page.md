@@ -20,7 +20,7 @@ TXT 下载: [[变身]_巨乳世界11（完结）.docx]([变身]_巨乳世界11�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31014 bytes                           |
 | MD5             | 7a491df09ebd97d32c644440834f4653                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | znznzn1984                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_重生成社恐美少女的淫行记.docx]([变身]_重生
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18372 bytes                           |
 | MD5             | d823ab94aa9632bc55049168497f9853                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

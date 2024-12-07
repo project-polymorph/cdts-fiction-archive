@@ -20,7 +20,7 @@ TXT 下载: [[交换]_申码文《与妹妹的交换》.docx]([交换]_申码文
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43367 bytes                           |
 | MD5             | f80a820e20b7b2464b83bea3f54589c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Paula Girl                               |
 | Region          | 未知                               |

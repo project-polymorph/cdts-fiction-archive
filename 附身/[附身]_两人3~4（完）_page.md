@@ -20,7 +20,7 @@ TXT 下载: [[附身]_两人3~4（完）.docx]([附身]_两人3~4（完）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20325 bytes                           |
 | MD5             | 7206996efb777ee88dc8dd81b9ee093c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

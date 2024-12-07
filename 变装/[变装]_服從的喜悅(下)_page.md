@@ -20,7 +20,7 @@ TXT 下载: [[变装]_服從的喜悅(下).doc]([变装]_服從的喜悅(下).do
 | Format          | Microsoft Word Document                               |
 | Size            | 104448 bytes                           |
 | MD5             | bd86b682c305c565389143697d36abcc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

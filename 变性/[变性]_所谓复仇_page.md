@@ -20,7 +20,7 @@ TXT 下载: [[变性]_所谓复仇.docx]([变性]_所谓复仇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31901 bytes                           |
 | MD5             | 7e8d7170413c11c7bec190942eca42a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Writerofdreams                               |
 | Region          | 未知                               |

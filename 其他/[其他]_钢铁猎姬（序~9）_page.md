@@ -20,7 +20,7 @@ TXT 下载: [[其他]_钢铁猎姬（序~9）.docx]([其他]_钢铁猎姬（序~
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61943 bytes                           |
 | MD5             | 20dc2ff151bfde01191014127b86c240                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_双重错乱.doc]([皮物]_双重错乱.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 948affc8b06d1d7969568e2756da99b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

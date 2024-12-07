@@ -22,7 +22,7 @@ TXT 下载: [[改造]_艳尸（1-3）.docx]([改造]_艳尸（1-3）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47191 bytes                           |
 | MD5             | 105edc4132c9ea66ffd1b35b5e91e6d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】女巫的方式.docx]([变性]_【翻译】女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35848 bytes                           |
 | MD5             | d24b698df1cdd23bfdfebe5e2e3ac8bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_群芳斗艳缘（4）花旗结婚.docx]([变装]_群芳�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19844 bytes                           |
 | MD5             | 473afcb242224f023ccb899012d1c7ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

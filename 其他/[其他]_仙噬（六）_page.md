@@ -20,7 +20,7 @@ TXT 下载: [[其他]_仙噬（六）.docx]([其他]_仙噬（六）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19758 bytes                           |
 | MD5             | 8d02a2327456f90bed4e4aa33852ca94                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

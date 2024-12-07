@@ -20,7 +20,7 @@ TXT 下载: [[变装]_BFF.docx]([变装]_BFF.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 84492 bytes                           |
 | MD5             | 76f6ca7b4ad5592f9ad9062e27eb4794                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TG-Chrissie                               |
 | Region          | 未知                               |

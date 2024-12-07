@@ -20,7 +20,7 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇_小王國慶加�
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 0e84f8cb77948293db87f952c14eb003                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[申码文重发]_The_Hottie_下篇.docx]([改造]_[申码
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41186 bytes                           |
 | MD5             | 2c5e7da504fe5f7d0fba9bcf20bf27cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

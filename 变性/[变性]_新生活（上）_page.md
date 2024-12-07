@@ -20,7 +20,7 @@ TXT 下载: [[变性]_新生活（上）.doc]([变性]_新生活（上）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 864a795c16513a4785c0911ad84143c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_超级手机之变变拼图.doc]([变身]_超级手机之�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | bbe5ed1c36d4601b6c2e60f1249b8459                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

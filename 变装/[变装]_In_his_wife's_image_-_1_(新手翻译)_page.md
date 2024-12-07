@@ -20,7 +20,7 @@ TXT 下载: [[变装]_In_his_wife's_image_-_1_(新手翻译).docx]([变装]_In_h
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22356 bytes                           |
 | MD5             | f8a0856c3d3e5fda215c8a61382e2068                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Caroline Jane Bradley / 翻译 by yingyic9                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_洗澡的姐姐[お姉ちゃんのシャワー].doc]([皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 09ed982feedb9e71bdcf883671018829                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 無名                               |
 | Region          | 未知                               |

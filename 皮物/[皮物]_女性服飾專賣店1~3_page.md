@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女性服飾專賣店1~3.docx]([皮物]_女性服飾專賣
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25794 bytes                           |
 | MD5             | ccd07d0aa2f8d7a8a204efa0bfe73822                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

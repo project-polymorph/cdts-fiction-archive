@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_商人.doc]([皮物]_商人.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 4f46ecf28a9038b3bd67c456c6db6d59                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

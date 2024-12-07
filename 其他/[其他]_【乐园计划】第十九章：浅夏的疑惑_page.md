@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第十九章：浅夏的疑惑.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21484 bytes                           |
 | MD5             | 96e56dc0a8b0e964f5a38300a515e6e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

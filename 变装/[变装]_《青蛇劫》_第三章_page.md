@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《青蛇劫》_第三章.doc]([变装]_《青蛇劫》_�
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | 145c2386538f234d641841c80d830560                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

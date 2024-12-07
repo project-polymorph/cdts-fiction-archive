@@ -20,7 +20,7 @@ TXT 下载: [[附身]_渣一般的附身技能.docx]([附身]_渣一般的附身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46628 bytes                           |
 | MD5             | b91cf86bb3bcc4f07d17c02cdf2809ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

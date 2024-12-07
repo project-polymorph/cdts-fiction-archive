@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[申码文]奇妙的旋律让我变成了她们（已完�
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | 9c9b6da5e6c065069c48e5e56dd9a3df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_booby_trap(陷阱).docx]([变性]_booby_trap(陷阱).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43442 bytes                           |
 | MD5             | 26ea36577246c2926cbba4b64f0a2bf1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

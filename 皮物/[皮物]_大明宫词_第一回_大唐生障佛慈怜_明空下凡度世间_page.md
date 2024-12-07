@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_大明宫词_第一回_大唐生障佛慈怜_明空下凡�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 0f296f5ed28de0b2ccc8ce7961d19ae0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

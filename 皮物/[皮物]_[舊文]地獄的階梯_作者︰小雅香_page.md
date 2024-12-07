@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[舊文]地獄的階梯_作者︰小雅香.doc]([皮物]_[
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 5f9f1783a55f953055197f4620fc293b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小雅香                               |
 | Region          | 未知                               |

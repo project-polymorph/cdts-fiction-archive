@@ -20,7 +20,7 @@ TXT 下载: [[变性]_尾后针.docx]([变性]_尾后针.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28237 bytes                           |
 | MD5             | 89661362179faae51d2e8a2bf188979d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Katherine Gorge (翻译: linchong)                               |
 | Region          | 未知                               |

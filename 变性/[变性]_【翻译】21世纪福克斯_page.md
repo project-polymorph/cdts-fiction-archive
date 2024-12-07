@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】21世纪福克斯.docx]([变性]_【翻译】2
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37884 bytes                           |
 | MD5             | f0a5fa3008de053984b77440f6e97c7a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | suki                               |
 | Region          | 未知                               |

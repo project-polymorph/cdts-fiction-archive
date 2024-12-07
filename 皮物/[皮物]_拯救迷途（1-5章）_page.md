@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_拯救迷途（1-5章）.doc]([皮物]_拯救迷途（1-5�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 2b008f5e904a4390a01c4acc46069511                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

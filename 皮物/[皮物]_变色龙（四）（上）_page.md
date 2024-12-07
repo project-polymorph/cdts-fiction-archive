@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变色龙（四）（上）.docx]([皮物]_变色龙（四
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30527 bytes                           |
 | MD5             | 4791fb175ade4fae1c8299aee0859a4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | hvk6589                               |
 | Region          | 未知                               |

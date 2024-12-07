@@ -20,7 +20,7 @@ TXT 下载: [[变性]_绝密身份_（七）_心结.docx]([变性]_绝密身份_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26553 bytes                           |
 | MD5             | 1e072e68756db5dc4f6c244c2f4e838f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

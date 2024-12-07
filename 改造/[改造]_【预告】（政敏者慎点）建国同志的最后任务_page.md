@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【预告】（政敏者慎点）建国同志的最后任�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | fd67b77cd3665ac7305d5cce820a051d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

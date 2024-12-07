@@ -20,7 +20,7 @@ TXT 下载: [[其他]_無罪_九餐混發.docx]([其他]_無罪_九餐混發.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41893 bytes                           |
 | MD5             | 204f8347b38c08575b8afd72f3cbb8e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

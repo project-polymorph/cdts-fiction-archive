@@ -20,7 +20,7 @@ TXT 下载: [[变装]偷竊失敗.doc]([变装]偷竊失敗.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 1cf5fc87346c0e1f1c4cd54e24c8dd1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Melissa N / 0894mitsuna                               |
 | Region          | 未知                               |

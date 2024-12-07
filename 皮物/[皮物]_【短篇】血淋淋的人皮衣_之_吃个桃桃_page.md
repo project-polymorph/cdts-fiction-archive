@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【短篇】血淋淋的人皮衣_之_吃个桃桃.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | ab4acb55a61d9e7a73cce23ef0e3132f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

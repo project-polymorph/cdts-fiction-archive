@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(拾伍)_新生始业辅导.docx]([皮物]_妖淫
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28706 bytes                           |
 | MD5             | 1db12724158227fd5dee09b62aba7924                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

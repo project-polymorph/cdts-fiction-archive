@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_刘男同与姚拉拉不得不说的故事.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27958 bytes                           |
 | MD5             | 7fee08ee755faa75238bf0a2e8952f10                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

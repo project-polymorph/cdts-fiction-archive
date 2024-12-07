@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔鬼面具.doc]([其他]_魔鬼面具.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | a1ecff273e4b4f515e9f246bef113661                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

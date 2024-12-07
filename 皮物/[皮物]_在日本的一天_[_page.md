@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_在日本的一天_[.docx]([皮物]_在日本的一天_[.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25495 bytes                           |
 | MD5             | 3d8d96d9e63c19c3df609e9033f5ac67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译小说】I_OWN_YOU.docx]([变性]_【翻译小说
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20389 bytes                           |
 | MD5             | 2607916b6eb3084d54307ca25e7bd3ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Futavision                               |
 | Region          | 未知                               |

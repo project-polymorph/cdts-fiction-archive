@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_被入替的女警-宇忆兰篇.docx]([皮物]_被入替�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34040 bytes                           |
 | MD5             | 148a3b6892b9e3ba8b7712ce10614b90                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

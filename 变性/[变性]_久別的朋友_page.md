@@ -20,7 +20,7 @@ TXT 下载: [[变性]_久別的朋友.docx]([变性]_久別的朋友.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20496 bytes                           |
 | MD5             | f79a32444c5ac4777a3ed2132d52ffd6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

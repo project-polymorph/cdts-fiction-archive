@@ -20,7 +20,7 @@ TXT 下载: [[交换]_姐弟人生互换.docx]([交换]_姐弟人生互换.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 69605 bytes                           |
 | MD5             | 87eaeb6179f669d31be23cecf344c429                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

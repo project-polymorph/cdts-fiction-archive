@@ -20,7 +20,7 @@ TXT 下载: [[变身]_封口.doc]([变身]_封口.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 75f99fe2856c83153e559de918621016                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 風祭玲                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_罪恶契约（六）、（七）_沦陷.doc]([皮物]_罪
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 0c521a535bdd9bd199f6cb9deac1faf3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -24,7 +24,7 @@ TXT 下载: [[其他]_《双生魅影》【完结】.doc]([其他]_《双生魅�
 | Format          | Microsoft Word Document                               |
 | Size            | 231424 bytes                           |
 | MD5             | 49c7866a110dce777e11f64683bba7d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

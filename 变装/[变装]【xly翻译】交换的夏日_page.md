@@ -20,7 +20,7 @@ TXT 下载: [[变装]【xly翻译】交换的夏日.doc]([变装]【xly翻译】
 | Format          | Microsoft Word Document                               |
 | Size            | 59904 bytes                           |
 | MD5             | 82fee687245b52d2924825b45fcf4beb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]小青的堕落与蜕变第一、二章.doc]([变装]小青
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 882249835c1bc8c882e84e5e0ffd548a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

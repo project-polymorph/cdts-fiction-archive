@@ -22,7 +22,7 @@ TXT 下载: [[变性]_【翻译】骗局（下）.docx]([变性]_【翻译】骗
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48621 bytes                           |
 | MD5             | 48fba7609e5ac59c159eb5542ceeb133                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

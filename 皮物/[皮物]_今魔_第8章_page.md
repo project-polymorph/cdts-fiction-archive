@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_今魔_第8章.docx]([皮物]_今魔_第8章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31973 bytes                           |
 | MD5             | e0cd6a9d29674ad57427e959f5e1d805                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

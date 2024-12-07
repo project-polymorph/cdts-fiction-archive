@@ -20,7 +20,7 @@ TXT 下载: [[附身]_TG物语——意识（四至七）.doc]([附身]_TG物语
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | a36a29fac6a669f17d5a98ccc5e87670                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

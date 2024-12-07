@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_科幻医学类：方杰的萝莉警察老婆〔正篇〕�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23401 bytes                           |
 | MD5             | 1babc310e8fbb3bbf2af909f56a0afc4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

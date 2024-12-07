@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_鼹鼠党的千面客.docx]([皮物]_鼹鼠党的千面客
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19004 bytes                           |
 | MD5             | bfaf9f6335289e8f4269eb123b3bdad7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | せろり                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_(申码文）黑暗游戏之姬甲之争(第一卷).doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | f460dc96b3bd6d0c42ae05453ad92b60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_只是在天堂的又一天_–12.docx]([变装]_只是在
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22223 bytes                           |
 | MD5             | 8acd8b4bd8025dd750d31eb705b62dab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kasumi                               |
 | Region          | 未知                               |

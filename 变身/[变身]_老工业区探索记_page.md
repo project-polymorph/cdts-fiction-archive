@@ -22,7 +22,7 @@ TXT 下载: [[变身]_老工业区探索记.docx]([变身]_老工业区探索记
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25787 bytes                           |
 | MD5             | 97ea6b1404f8f7e08242edcbc2d603e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

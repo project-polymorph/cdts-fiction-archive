@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_望山.docx]([皮物]_望山.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27455 bytes                           |
 | MD5             | 7dceed82bef2d53b470189ccc4c80cd4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

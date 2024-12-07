@@ -20,7 +20,7 @@ TXT 下载: [[其他]_新世界_一_[.docx]([其他]_新世界_一_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24514 bytes                           |
 | MD5             | 59250f9316bb4442392d1b9fe3dbcce3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

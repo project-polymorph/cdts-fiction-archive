@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】女仆的诞生.docx]([变装]_【翻译
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39899 bytes                           |
 | MD5             | 85151c5999223b96c37b6f93ba3851b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_《神明的空间》（申码文重发+后续）.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 244224 bytes                           |
 | MD5             | 8a92ddcc2731cef940942199e94b4053                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

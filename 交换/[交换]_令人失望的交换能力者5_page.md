@@ -20,7 +20,7 @@ TXT 下载: [[交换]_令人失望的交换能力者5.docx]([交换]_令人失�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24020 bytes                           |
 | MD5             | 6fbb27b68ae87d9ce8f3119637bc2031                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

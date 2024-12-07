@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮游戏2——身份危机.docx]([皮物]_人皮游�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24634 bytes                           |
 | MD5             | b3c8a0a5a534373df36a50f528e4b40b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

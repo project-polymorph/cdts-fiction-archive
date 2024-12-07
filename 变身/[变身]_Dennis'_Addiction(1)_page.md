@@ -20,7 +20,7 @@ TXT 下载: [[变身]_Dennis'_Addiction(1).docx]([变身]_Dennis'_Addiction(1).d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32235 bytes                           |
 | MD5             | ef70d1fab4e84aad085ea98f3b3f28b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Deane Christopher                               |
 | Region          | 未知                               |

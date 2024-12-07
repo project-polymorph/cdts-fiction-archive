@@ -20,7 +20,7 @@ TXT 下载: [[其他]_[图文]_Secret_Sissy_Stylist.docx]([其他]_[图文]_Secr
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17777 bytes                           |
 | MD5             | c07b708c05861e04bd34939f98e02a95                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lauren Little（译者：gatling）                               |
 | Region          | 未知                               |

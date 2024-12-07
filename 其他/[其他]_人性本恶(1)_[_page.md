@@ -20,7 +20,7 @@ TXT 下载: [[其他]_人性本恶(1)_[.docx]([其他]_人性本恶(1)_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18670 bytes                           |
 | MD5             | 30b94315e302c6ce6f0e64c5e4afef2f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 黑牡丹，如梦幻泡影                               |
 | Region          | 中国大陆                               |

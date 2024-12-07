@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第3章_发�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | e8833d59f40c985723a41bfba72f0649                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

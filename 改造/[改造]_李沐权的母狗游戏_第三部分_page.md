@@ -20,7 +20,7 @@ TXT 下载: [[改造]_李沐权的母狗游戏_第三部分.doc]([改造]_李沐
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | a26923b20dc5ee7391548754e7edd50a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

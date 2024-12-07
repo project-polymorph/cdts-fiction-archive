@@ -20,7 +20,7 @@ TXT 下载: [[变性]_彼岸_第三幕_第十回_终章.docx]([变性]_彼岸_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45327 bytes                           |
 | MD5             | 1fab95dd4e935c44a367eb30d7f81ea4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_换个身份去爱你.doc]([皮物]_换个身份去爱你.
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 2a97206de44306a2db0dd17b3d3c2734                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

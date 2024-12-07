@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮术士，其之七，邪神.docx]([皮物]_皮术士，
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24321 bytes                           |
 | MD5             | 80e06795fcdb4c4275a1eb2ff2e40fdc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

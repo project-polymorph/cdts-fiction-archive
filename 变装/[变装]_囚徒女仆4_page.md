@@ -20,7 +20,7 @@ TXT 下载: [[变装]_囚徒女仆4.doc]([变装]_囚徒女仆4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 9d896edbefa6429e35a300d5a9cc403e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [回家路上——她的抉择（9-10）.doc](回家路上——她
 | Format          | Microsoft Word Document                               |
 | Size            | 92672 bytes                           |
 | MD5             | 5b338a8ff3bb4c819ace224fe45960a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

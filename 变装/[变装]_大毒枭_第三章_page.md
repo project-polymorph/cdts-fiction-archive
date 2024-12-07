@@ -20,7 +20,7 @@ TXT 下载: [[变装]_大毒枭_第三章.docx]([变装]_大毒枭_第三章.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20783 bytes                           |
 | MD5             | aa77b6506f126998791db59af8d41a15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

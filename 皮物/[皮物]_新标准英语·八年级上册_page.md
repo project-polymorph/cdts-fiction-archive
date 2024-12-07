@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新标准英语·八年级上册.docx]([皮物]_新标准�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24737 bytes                           |
 | MD5             | 6b67f3b6b7fcb4a9d89659877b1cdd64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

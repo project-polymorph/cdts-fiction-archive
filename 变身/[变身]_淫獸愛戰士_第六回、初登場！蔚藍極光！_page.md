@@ -20,7 +20,7 @@ TXT 下载: [[变身]_淫獸愛戰士_第六回、初登場！蔚藍極光！.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32508 bytes                           |
 | MD5             | ff24378b79d302ac884a73fab116a91b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

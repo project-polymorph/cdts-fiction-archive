@@ -20,7 +20,7 @@ TXT 下载: [[附身]_藏身所-2(隠れ家-その2).docx]([附身]_藏身所-2(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22266 bytes                           |
 | MD5             | fda75ddd054531d3f213d9a44f505acc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | serori-ts                               |
 | Region          | 未知                               |

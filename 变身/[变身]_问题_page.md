@@ -20,7 +20,7 @@ TXT 下载: [[变身]_问题.docx]([变身]_问题.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26039 bytes                           |
 | MD5             | 59255083b5c4c16776688667a9e0d050                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

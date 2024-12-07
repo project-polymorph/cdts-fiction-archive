@@ -20,7 +20,7 @@ TXT 下载: [[改造]_最高境界的调教（二）一品烟灰作品.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19049 bytes                           |
 | MD5             | b866c0bbd63c1ed903c9a78c0a58ebb8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 一品烟灰                               |
 | Region          | 未知                               |

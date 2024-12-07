@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我，吸血鬼少女2.docx]([皮物]_我，吸血鬼少�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18933 bytes                           |
 | MD5             | ab69bf8460ee58b153ccd4b33b9afb05                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 阿露菲米                               |
 | Region          | 未知                               |

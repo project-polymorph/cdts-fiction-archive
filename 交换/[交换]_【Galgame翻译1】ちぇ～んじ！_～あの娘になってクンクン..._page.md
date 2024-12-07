@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【Galgame翻译1】ちぇ～んじ！_～あの娘にな�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 208405 bytes                           |
 | MD5             | e4bfb4ec9307417ae497df9fc8342704                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

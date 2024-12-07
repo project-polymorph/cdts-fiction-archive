@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第十四章：事件的结束？.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20001 bytes                           |
 | MD5             | eee7d0d4f982622329e243df0d7a9d2f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

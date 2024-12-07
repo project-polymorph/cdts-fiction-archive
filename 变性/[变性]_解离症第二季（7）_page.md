@@ -20,7 +20,7 @@ TXT 下载: [[变性]_解离症第二季（7）.docx]([变性]_解离症第二�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27564 bytes                           |
 | MD5             | 74ba2e10134164b3e80b5b09c89bc988                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

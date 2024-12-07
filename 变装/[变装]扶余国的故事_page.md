@@ -20,7 +20,7 @@ TXT 下载: [[变装]扶余国的故事.doc]([变装]扶余国的故事.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 89ff75ce6f5650a31111e9ade15f0fd4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

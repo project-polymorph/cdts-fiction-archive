@@ -20,7 +20,7 @@ TXT 下载: [[变装]_仙妾.doc]([变装]_仙妾.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 77824 bytes                           |
 | MD5             | a10ce1d80ad3d555e70901969c5780ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小蛇                               |
 | Region          | 中国大陆                               |

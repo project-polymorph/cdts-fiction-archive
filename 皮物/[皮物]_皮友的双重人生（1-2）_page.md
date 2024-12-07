@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮友的双重人生（1-2）.doc]([皮物]_皮友的双�
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 6454fd3dd50c43a29f381e5e51265ab5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

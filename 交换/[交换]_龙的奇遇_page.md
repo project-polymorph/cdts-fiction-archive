@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙的奇遇.doc]([交换]_龙的奇遇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | e0f334fa9556fc106e6d44623bb805db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | IngloriousBarsterd                               |
 | Region          | 未知                               |

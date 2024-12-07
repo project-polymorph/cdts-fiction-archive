@@ -20,7 +20,7 @@ TXT 下载: [[其他]_TG联盟【IV】.doc]([其他]_TG联盟【IV】.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 32116b0b692110a7052b260d02eb7c3f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

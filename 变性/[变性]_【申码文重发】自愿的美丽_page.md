@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【申码文重发】自愿的美丽.doc]([变性]_【申�
 | Format          | Microsoft Word Document                               |
 | Size            | 87040 bytes                           |
 | MD5             | 802093d23122d9e0a5bd25294412444c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

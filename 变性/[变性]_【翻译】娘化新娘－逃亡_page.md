@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】娘化新娘－逃亡.docx]([变性]_【翻译
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42454 bytes                           |
 | MD5             | ebc2204c2cb2029e0cd94f2c0a6cd120                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

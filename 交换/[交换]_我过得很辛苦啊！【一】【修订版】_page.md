@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我过得很辛苦啊！【一】【修订版】.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24830 bytes                           |
 | MD5             | 3b394834a3bf46f748695fbcd1ca198b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

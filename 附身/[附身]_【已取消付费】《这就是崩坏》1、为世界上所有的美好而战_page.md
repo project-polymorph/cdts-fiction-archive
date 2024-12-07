@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【已取消付费】《这就是崩坏》1、为世界上
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34790 bytes                           |
 | MD5             | a4620d16f700e62229c5e284dda2a87e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

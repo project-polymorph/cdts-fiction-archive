@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码文重发】森女的承传.doc]([附身]_【申�
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | 0a58fda094215b51bbb8dae8bdb50160                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | seli                               |
 | Region          | 未知                               |

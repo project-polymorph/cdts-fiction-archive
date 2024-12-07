@@ -20,7 +20,7 @@ TXT 下载: [[改造]_另一個形式的精靈故事_ANOTHER_GENIE_STORY_OF_SOME
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | 5489cb287ccb39e441b8f989d3c11035                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

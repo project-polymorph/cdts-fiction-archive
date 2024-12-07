@@ -20,7 +20,7 @@ TXT 下载: [[其他]_聚会_（四、五）_[.docx]([其他]_聚会_（四、�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23729 bytes                           |
 | MD5             | 1da4493cb5b7d94e8863b4d4831b0e62                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

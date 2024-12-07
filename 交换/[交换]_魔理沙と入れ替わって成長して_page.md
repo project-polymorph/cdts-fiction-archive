@@ -20,7 +20,7 @@ TXT 下载: [[交换]_魔理沙と入れ替わって成長して.doc]([交换]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 03830d20d374a9be8657835d2bef16f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

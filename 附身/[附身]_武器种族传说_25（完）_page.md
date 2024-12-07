@@ -20,7 +20,7 @@ TXT 下载: [[附身]_武器种族传说_25（完）.doc]([附身]_武器种族�
 | Format          | Microsoft Word Document                               |
 | Size            | 98304 bytes                           |
 | MD5             | 8d71a5c56057ce49221c0af28705ea3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 被遗忘地Ezio                               |
 | Region          | 未知                               |

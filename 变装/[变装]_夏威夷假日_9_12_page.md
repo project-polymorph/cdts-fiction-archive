@@ -20,7 +20,7 @@ TXT 下载: [[变装]_夏威夷假日_9_12.doc]([变装]_夏威夷假日_9_12.do
 | Format          | Microsoft Word Document                               |
 | Size            | 62464 bytes                           |
 | MD5             | 50c7bb4196644e23150092a7d8d1a0d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Clara                               |
 | Region          | 未知                               |

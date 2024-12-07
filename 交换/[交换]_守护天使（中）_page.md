@@ -20,7 +20,7 @@ TXT 下载: [[交换]_守护天使（中）.doc]([交换]_守护天使（中）.
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 2781091f8468e3c9bce829cac5c98c52                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

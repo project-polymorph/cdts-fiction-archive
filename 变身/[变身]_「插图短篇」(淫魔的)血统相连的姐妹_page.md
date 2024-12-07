@@ -20,7 +20,7 @@ TXT 下载: [[变身]_「插图短篇」(淫魔的)血统相连的姐妹.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18310 bytes                           |
 | MD5             | 90d4be785f678f723cc4b4b9e5dd3d21                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 鎖連鎖                               |
 | Region          | 未知                               |

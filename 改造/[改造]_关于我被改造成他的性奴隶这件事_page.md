@@ -20,7 +20,7 @@ TXT 下载: [[改造]_关于我被改造成他的性奴隶这件事.doc]([改造
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | e995b3254882a43dea11fd90dbf09878                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

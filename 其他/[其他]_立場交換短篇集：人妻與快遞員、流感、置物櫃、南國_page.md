@@ -20,7 +20,7 @@ TXT 下载: [[其他]_立場交換短篇集：人妻與快遞員、流感、置�
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | eed22c7d64c44886978d5ae7656dff97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

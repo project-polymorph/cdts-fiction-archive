@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_徽章-秦燢外传.docx]([皮物]_徽章-秦燢外传.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18065 bytes                           |
 | MD5             | 5b9fb2b20bac65f1badd02e54452b006                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

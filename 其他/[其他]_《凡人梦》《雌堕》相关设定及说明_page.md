@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《凡人梦》《雌堕》相关设定及说明.doc]([其
 | Format          | Microsoft Word Document                               |
 | Size            | 27136 bytes                           |
 | MD5             | d9c8a8c94182b40c26d690646d5853dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

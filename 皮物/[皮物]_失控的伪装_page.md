@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_失控的伪装.doc]([皮物]_失控的伪装.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 48fa992fff0f9675a5e66523d8c0e55e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [為了想成為Sissy的我，妻子成了人妖女王.doc](為了�
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | ba1d550c63ff4282c8c0c3da5bac2bc8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

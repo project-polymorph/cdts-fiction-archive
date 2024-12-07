@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附体短篇集——灰色の支配者.doc]([附身]_附�
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | 289b4f75274dd714cb4d1ab93b674b77                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | トゥルー（真）                               |
 | Region          | 未知                               |

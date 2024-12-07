@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我的女友会超能力（上）.docx]([变身]_我的女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40897 bytes                           |
 | MD5             | e7b1388c40f68b741ec2f11c4abb397b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

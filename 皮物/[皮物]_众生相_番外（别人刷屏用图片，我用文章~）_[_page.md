@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_众生相_番外（别人刷屏用图片，我用文章~�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25871 bytes                           |
 | MD5             | d02280aa35a46374582cdcb7c6af0fe9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

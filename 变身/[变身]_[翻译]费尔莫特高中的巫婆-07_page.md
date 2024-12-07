@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-07.docx]([变身]_[翻
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27186 bytes                           |
 | MD5             | 9ae6139924f44bd00ee2fb4aa6fb3d94                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

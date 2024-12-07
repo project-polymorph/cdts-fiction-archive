@@ -20,7 +20,7 @@ TXT 下载: [[改造]_双胞胎.doc]([改造]_双胞胎.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 493a26a2d5651cef29fbbb802d73c45b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Angela Collins                               |
 | Region          | 波兰                               |

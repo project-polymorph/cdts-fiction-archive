@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_玉鼠1~5章.doc]([皮物]_玉鼠1~5章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 756d195b2ecd6953649612767b7056e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

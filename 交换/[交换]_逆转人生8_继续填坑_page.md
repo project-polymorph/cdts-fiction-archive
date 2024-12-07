@@ -20,7 +20,7 @@ TXT 下载: [[交换]_逆转人生8_继续填坑.docx]([交换]_逆转人生8_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19060 bytes                           |
 | MD5             | 2dcacf082ed99c7ac2fa0f305bb61338                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

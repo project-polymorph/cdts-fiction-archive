@@ -20,7 +20,7 @@ TXT 下载: [[附身]_靈魂的使用方法之二（補充柏木文）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40090 bytes                           |
 | MD5             | 8a765298237737111ee1c6dfee723d5c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

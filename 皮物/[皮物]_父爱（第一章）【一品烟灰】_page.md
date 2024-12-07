@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_父爱（第一章）【一品烟灰】.docx]([皮物]_父
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19454 bytes                           |
 | MD5             | 728d72af3bbd892226de8d38308118c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 一品烟灰                               |
 | Region          | 中国大陆                               |

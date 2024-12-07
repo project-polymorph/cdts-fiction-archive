@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变色龙（三）.docx]([皮物]_变色龙（三）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47636 bytes                           |
 | MD5             | 7ffa9f12931a9c21305376dc3ef59db8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | hvk6589                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人仙之皮1.docx]([皮物]_人仙之皮1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17800 bytes                           |
 | MD5             | d689e16561c615d45976b8688904d01c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

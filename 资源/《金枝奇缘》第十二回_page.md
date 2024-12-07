@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第十二回.doc](《金枝奇缘》第十二回.
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 5bd408a5f5d49bf498fec1f28528bebc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

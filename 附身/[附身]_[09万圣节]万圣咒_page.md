@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[09万圣节]万圣咒.doc]([附身]_[09万圣节]万圣�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | ebe073f28150873d8b0c7c6c5434c346                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

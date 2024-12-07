@@ -20,7 +20,7 @@ TXT 下载: [[改造]_老王的幸福后半生（4）.doc]([改造]_老王的幸
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 0c552aaa77b5e5afde5abb77d405807c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

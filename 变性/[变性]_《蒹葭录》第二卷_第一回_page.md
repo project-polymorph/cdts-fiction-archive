@@ -22,7 +22,7 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第一回.doc]([变性]_《蒹葭
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 2d5d82c63dce92e5df350650e4ef2649                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_非日常系列，小小番外.docx]([皮物]_非日常系
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25904 bytes                           |
 | MD5             | cc5ccb190331ec64e288c1269b4cfff6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

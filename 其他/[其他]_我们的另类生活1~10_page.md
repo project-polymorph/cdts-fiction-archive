@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我们的另类生活1~10.docx]([其他]_我们的另类�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47804 bytes                           |
 | MD5             | 168e13505cc92ef6495a81f09ea821df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

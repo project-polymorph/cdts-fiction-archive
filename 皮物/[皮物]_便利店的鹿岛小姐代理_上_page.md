@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_便利店的鹿岛小姐代理_上.docx]([皮物]_便利�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26333 bytes                           |
 | MD5             | bc8c3a1f1a1706ba1bf3abca45a70a7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_让我再爱你一次_第二章.doc]([皮物]_让我再爱
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 1183e11403947a4f446247861e8c1194                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_東方融合傳(4).docx]([附身]_東方融合傳(4).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25699 bytes                           |
 | MD5             | a9bcd905d32bbf86d419835915d19258                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

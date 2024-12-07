@@ -20,7 +20,7 @@ TXT 下载: [[改造]_阵九郎的雌堕(二).doc]([改造]_阵九郎的雌堕(�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 2008de1e0aa9b80d6c4b636b1ec4b762                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

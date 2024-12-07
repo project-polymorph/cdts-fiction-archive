@@ -20,7 +20,7 @@ TXT 下载: [[附身]_女神住在我隔壁9_（终章）.doc]([附身]_女神�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 812cb1b391ddb638ab6e77c0b8f2357e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

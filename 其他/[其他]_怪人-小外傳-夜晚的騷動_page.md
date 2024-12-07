@@ -20,7 +20,7 @@ TXT 下载: [[其他]_怪人-小外傳-夜晚的騷動.docx]([其他]_怪人-小
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20392 bytes                           |
 | MD5             | fb297fe16c448afd3db72e61a1aadc30                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

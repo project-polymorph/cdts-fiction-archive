@@ -20,7 +20,7 @@ TXT 下载: [[变性]_ＳＲＵ：愿望的瓶子.docx]([变性]_ＳＲＵ：愿
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17319 bytes                           |
 | MD5             | de8cfc9ebb5242f52b81ae8e82a9fab9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Morpheus                               |
 | Region          | 未知                               |

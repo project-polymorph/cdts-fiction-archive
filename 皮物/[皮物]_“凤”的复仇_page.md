@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_“凤”的复仇.doc]([皮物]_“凤”的复仇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | 4176fda0b8883e535f3e4677e235fd38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

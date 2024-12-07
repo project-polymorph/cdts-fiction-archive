@@ -20,7 +20,7 @@ TXT 下载: [[变装]_未知名的变化.docx]([变装]_未知名的变化.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20387 bytes                           |
 | MD5             | 5cc72a368e25a958c2811c702e085ac8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

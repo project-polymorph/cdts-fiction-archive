@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_牛皮吹破的严重后果.docx]([皮物]_牛皮吹破的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29442 bytes                           |
 | MD5             | afb932d5e799ca42494e7f1ea241bf92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

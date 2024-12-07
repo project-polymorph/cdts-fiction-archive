@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我和老师的换头游戏————第一天.doc]([交
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 9dd0c865db601ed79f1c0c5827eafc6d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]天使系统（1）.doc]([变装]天使系统（1）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 8208a6f8c252be42f9bd40221848c7e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

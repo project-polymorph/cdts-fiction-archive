@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[小晰家庭]_（一）我長出一根大肉棒了.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 88576 bytes                           |
 | MD5             | 5c7ef822ce74d404614ddd43c5cb462b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

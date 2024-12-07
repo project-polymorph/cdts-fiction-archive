@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人生体验——白莲婊（一）.doc]([皮物]_人生�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 9251d73199f1fe6f861c99fd63354027                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

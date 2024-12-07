@@ -20,7 +20,7 @@ TXT 下载: [西京迷雾.docx](西京迷雾.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 77850 bytes                           |
 | MD5             | 148f27e1731a67d74b9471fdf9eea24a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_豪门千金1-3【《舞会》作者Red_Janissary的大作
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37530 bytes                           |
 | MD5             | e6ada2fd450016c8e572f39897f46035                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Red Janissary                               |
 | Region          | 美国                               |

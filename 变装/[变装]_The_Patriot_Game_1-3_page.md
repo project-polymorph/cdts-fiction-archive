@@ -20,7 +20,7 @@ TXT 下载: [[变装]_The_Patriot_Game_1-3.doc]([变装]_The_Patriot_Game_1-3.do
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | c3917fb7d6e5626a085f9f9c586bf11c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Marina Kelly                               |
 | Region          | 未知                               |

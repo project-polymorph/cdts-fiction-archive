@@ -20,7 +20,7 @@ TXT 下载: [[变身]_除妖师_无骨虫之章_完.docx]([变身]_除妖师_无
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22827 bytes                           |
 | MD5             | 073517e56ba1e9d4285674568219f499                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

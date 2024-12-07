@@ -20,7 +20,7 @@ TXT 下载: [[附身]_心魂协议：熔毁.doc]([附身]_心魂协议：熔毁.
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | fe5ba6b4f6e5739d456273f0869b3c3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

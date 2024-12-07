@@ -20,7 +20,7 @@ TXT 下载: [[交换]_玉观音（一）.docx]([交换]_玉观音（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30981 bytes                           |
 | MD5             | ad99359d1ab25b7fa8955d7bd80e68f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Mansion_On_The_Hill_(M.O.T.H.)__1I_Dare_Ya_山丘上的別
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29705 bytes                           |
 | MD5             | 84e5a66dd2832d7dc2cb842d92586eb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 安德烈亚·沃克                               |
 | Region          | 未知                               |

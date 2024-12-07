@@ -20,7 +20,7 @@ TXT 下载: [[变身]_黑暗面_第三回、感染.docx]([变身]_黑暗面_第�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33305 bytes                           |
 | MD5             | 4d59b25fe60dad38be6d66814f149f97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_巨乳世界9.docx]([变身]_巨乳世界9.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26636 bytes                           |
 | MD5             | 1f3c3dc681e5cc2259456f44a35556ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《牧神记同人》第四章_作者：天天吃稀饭.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39174 bytes                           |
 | MD5             | dd2f2e0cccbd6dd321b717e28d2b999d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 天天吃稀饭                               |
 | Region          | 未知                               |

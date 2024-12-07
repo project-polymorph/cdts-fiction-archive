@@ -20,7 +20,7 @@ TXT 下载: [[附身]_失落的爱（下）.doc]([附身]_失落的爱（下）.
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 238310ee452d9f5f11c21c90655234df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

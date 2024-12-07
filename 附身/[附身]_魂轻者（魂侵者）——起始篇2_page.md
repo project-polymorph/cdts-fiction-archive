@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——起始篇2.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18142 bytes                           |
 | MD5             | 64e199fbc2943f03b8d4b7031b06b51a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

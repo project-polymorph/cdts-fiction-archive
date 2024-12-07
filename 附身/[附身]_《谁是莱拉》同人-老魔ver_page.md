@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《谁是莱拉》同人-老魔ver.doc]([附身]_《谁是
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | dfc7cbbd0c579393fd2fa5e800c76eaa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

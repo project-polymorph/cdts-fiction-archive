@@ -20,7 +20,7 @@ TXT 下载: [[变装]_MAID_ON_MY_OWN_WILL（1）.docx]([变装]_MAID_ON_MY_OWN_W
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16584 bytes                           |
 | MD5             | 69787fc7d8f6d4a897e23f836292cb69                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Monica Graz                               |
 | Region          | 未知                               |

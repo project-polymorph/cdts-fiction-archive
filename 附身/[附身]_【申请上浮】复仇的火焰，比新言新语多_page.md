@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申请上浮】复仇的火焰，比新言新语多.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | f8dd4afe6f4d197c7f5151a0869fce53                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

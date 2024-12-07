@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】斯提弗得的处子秀.doc]([变性]_【翻�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 3a576ce04af39e735eac6bcc8d17947f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sissy Slut Ally                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】女孩的感受.doc]([变性]_【翻译】女�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | b01ef11ece108cb4697e32897fada59e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | よーこ                               |
 | Region          | 未知                               |

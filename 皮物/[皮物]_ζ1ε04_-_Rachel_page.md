@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_ζ1ε04_-_Rachel.docx]([皮物]_ζ1ε04_-_Rachel.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19105 bytes                           |
 | MD5             | 80913469a6037fe9d1e8e36549944197                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Hazel M                               |
 | Region          | 未知                               |

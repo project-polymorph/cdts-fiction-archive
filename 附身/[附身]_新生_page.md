@@ -20,7 +20,7 @@ TXT 下载: [[附身]_新生.docx]([附身]_新生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24873 bytes                           |
 | MD5             | 9e32e2641db4918ccfdfb30593d13350                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

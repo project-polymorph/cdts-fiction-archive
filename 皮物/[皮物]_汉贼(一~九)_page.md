@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_汉贼(一~九).docx]([皮物]_汉贼(一~九).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 101345 bytes                           |
 | MD5             | 9c1366f68ad0266601c0ae14b2b9d444                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

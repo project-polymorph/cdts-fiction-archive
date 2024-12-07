@@ -20,7 +20,7 @@ TXT 下载: [[变身]_黯暗系抽奖（公开期间限定版）.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 230cb95af72927002c1a65c002146076                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

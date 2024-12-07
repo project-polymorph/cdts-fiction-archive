@@ -20,7 +20,7 @@ TXT 下载: [[交换]_血脉终结-第一人称变身母子交换.doc]([交换]_
 | Format          | Microsoft Word Document                               |
 | Size            | 106496 bytes                           |
 | MD5             | 35ea5146f69a2884819eeadc1e03248d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 手风琴                               |
 | Region          | 未知                               |

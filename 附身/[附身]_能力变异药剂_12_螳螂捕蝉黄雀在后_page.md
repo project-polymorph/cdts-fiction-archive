@@ -20,7 +20,7 @@ TXT 下载: [[附身]_能力变异药剂_12_螳螂捕蝉黄雀在后.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20032 bytes                           |
 | MD5             | 555285a8a3d80f04c28a1989b8ac1926                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人类夺走魔族女性身体.doc]([交换]_人类夺走�
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 8abccc283ec7af89ea95ebc80a3a9c61                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

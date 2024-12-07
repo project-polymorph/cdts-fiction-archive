@@ -20,7 +20,7 @@ TXT 下载: [[改造]_黏裔_The_Slimeborn.doc]([改造]_黏裔_The_Slimeborn.do
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 45317742176c344c53b1f97f22a1442d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Irisaz                               |
 | Region          | 未知                               |

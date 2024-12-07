@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_SKIN_TRADE_第2章·前篇.docx]([皮物]_SKIN_TRADE_第2�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37522 bytes                           |
 | MD5             | 4025fa03e53d66052eb207dfe1fc5823                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 岚山GO                               |
 | Region          | 未知                               |

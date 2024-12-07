@@ -20,7 +20,7 @@ TXT 下载: [[交换]_灵·欲·换身都市【二】.docx]([交换]_灵·欲·�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24379 bytes                           |
 | MD5             | 0fc585f79e385ede484c0e013b00be07                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

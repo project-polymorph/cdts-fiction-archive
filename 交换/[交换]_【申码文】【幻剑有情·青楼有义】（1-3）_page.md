@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【申码文】【幻剑有情·青楼有义】（1-3）.d
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 3f1114dca9a2789ecfc1ea985c0015aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

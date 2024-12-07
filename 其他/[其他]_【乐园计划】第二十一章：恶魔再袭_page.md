@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第二十一章：恶魔再袭.doc]([其
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 186fb4ae190a068d1b0e0a9855082fd2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

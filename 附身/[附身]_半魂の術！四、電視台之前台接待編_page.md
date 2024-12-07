@@ -20,7 +20,7 @@ TXT 下载: [[附身]_半魂の術！四、電視台之前台接待編.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30220 bytes                           |
 | MD5             | 48bbfff9458c629e126d39b18ccab86a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | True                               |
 | Region          | 未知                               |

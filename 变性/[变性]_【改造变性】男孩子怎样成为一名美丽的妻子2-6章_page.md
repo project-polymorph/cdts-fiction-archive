@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【改造变性】男孩子怎样成为一名美丽的妻�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 22e56ad0e928fe7205c1629596aadb99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

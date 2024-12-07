@@ -20,7 +20,7 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第5章上
 | Format          | Microsoft Word Document                               |
 | Size            | 939008 bytes                           |
 | MD5             | b9e909a9f299b27b858fe736f2252303                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

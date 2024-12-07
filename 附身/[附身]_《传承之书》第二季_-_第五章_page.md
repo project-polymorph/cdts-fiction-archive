@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第五章.doc]([附身]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 2f8d0c3707f7da7917eb6e9e7d558c5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 紫依                               |
 | Region          | 未知                               |

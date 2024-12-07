@@ -20,7 +20,7 @@ TXT 下载: [[改造]_小流氓_第三章_[.docx]([改造]_小流氓_第三章_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22168 bytes                           |
 | MD5             | 066e4ebd848e4feee76d782fd33b4e6e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

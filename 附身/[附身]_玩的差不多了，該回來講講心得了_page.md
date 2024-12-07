@@ -20,7 +20,7 @@ TXT 下载: [[附身]_玩的差不多了，該回來講講心得了.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37756 bytes                           |
 | MD5             | 941e119c7afce11c53c0a16ac7afa1a4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

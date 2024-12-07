@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_随风.docx]([皮物]_随风.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22863 bytes                           |
 | MD5             | 13cd7a6602341448bd3216a3a94ad56b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

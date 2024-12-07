@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_让‘子弹’飞~（起）.docx]([皮物]_让‘子弹�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20955 bytes                           |
 | MD5             | 22ce8b2331083106aa831031d7bedaa8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

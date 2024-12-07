@@ -20,7 +20,7 @@ TXT 下载: [[变身]_普通的一家（9-11）（完）.doc]([变身]_普通的
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 16db3144ed869d56bca3add8f58c68fa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

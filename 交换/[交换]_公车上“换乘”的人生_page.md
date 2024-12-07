@@ -20,7 +20,7 @@ TXT 下载: [[交换]_公车上“换乘”的人生.doc]([交换]_公车上“�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 8b9a90dcff0792a969d7de7d279d58ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

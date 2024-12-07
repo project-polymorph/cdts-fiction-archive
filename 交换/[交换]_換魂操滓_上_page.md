@@ -20,7 +20,7 @@ TXT 下载: [[交换]_換魂操滓_上.doc]([交换]_換魂操滓_上.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 8f4173068ebc6505f811df196b943d27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

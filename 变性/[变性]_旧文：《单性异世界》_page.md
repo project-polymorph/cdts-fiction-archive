@@ -20,7 +20,7 @@ TXT 下载: [[变性]_旧文：《单性异世界》.docx]([变性]_旧文：《
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 330176 bytes                           |
 | MD5             | 741be6adc236a0f4cb071da8aa3a047e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

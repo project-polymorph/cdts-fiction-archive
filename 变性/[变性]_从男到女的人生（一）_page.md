@@ -20,7 +20,7 @@ TXT 下载: [[变性]_从男到女的人生（一）.doc]([变性]_从男到女�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 615854aa9eb9bd4f50cf53cd47c474f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

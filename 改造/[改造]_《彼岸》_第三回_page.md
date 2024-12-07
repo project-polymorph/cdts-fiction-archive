@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《彼岸》_第三回.doc]([改造]_《彼岸》_第三�
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | d98bdbffe3ca35e895660042efc9de3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

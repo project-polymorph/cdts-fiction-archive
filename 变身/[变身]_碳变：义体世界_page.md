@@ -20,7 +20,7 @@ TXT 下载: [[变身]_碳变：义体世界.doc]([变身]_碳变：义体世界.
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | cf78cbe95f5ff4cd6427380dadb1f17d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

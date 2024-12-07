@@ -20,7 +20,7 @@ TXT 下载: [[改造]_改造乳胶猫咪，一话完.doc]([改造]_改造乳胶�
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 0c985762bdb5e25af2043c47f5be04da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

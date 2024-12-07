@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女体化套装_第2章_我变成了可爱的女仆？.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50184 bytes                           |
 | MD5             | ca9867d993b2a90bf57369c3a7a24d0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

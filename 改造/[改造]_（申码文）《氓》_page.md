@@ -20,7 +20,7 @@ TXT 下载: [[改造]_（申码文）《氓》.docx]([改造]_（申码文）《
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24206 bytes                           |
 | MD5             | d1191b5803411f8d2dcf7acb504370c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

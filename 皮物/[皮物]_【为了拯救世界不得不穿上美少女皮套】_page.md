@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【为了拯救世界不得不穿上美少女皮套】.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 8f767dbac2c5639f25d73fe29d6335d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

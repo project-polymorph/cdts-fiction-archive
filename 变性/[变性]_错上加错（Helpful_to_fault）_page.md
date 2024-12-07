@@ -20,7 +20,7 @@ TXT 下载: [[变性]_错上加错（Helpful_to_fault）.docx]([变性]_错上�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26203 bytes                           |
 | MD5             | a62746f6f497669933a1521c8ddee94d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Pinecone                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]娜塔丽的复仇.docx]([变性]_[linchon
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 76994 bytes                           |
 | MD5             | af0f14e48006ad6907e5ab1e43a9b5fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Serena Lawhead                               |
 | Region          | 未知                               |

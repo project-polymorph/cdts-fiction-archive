@@ -20,7 +20,7 @@ TXT 下载: [[交换]_假期回家的我，变成了女友的妈妈.doc]([交换
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 282de9bbca768247e34faaef033468dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

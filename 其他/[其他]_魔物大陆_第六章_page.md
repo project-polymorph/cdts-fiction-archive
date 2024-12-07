@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔物大陆_第六章.docx]([其他]_魔物大陆_第六�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18533 bytes                           |
 | MD5             | af38814f2f4a5c02a5c98730f7a17d27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

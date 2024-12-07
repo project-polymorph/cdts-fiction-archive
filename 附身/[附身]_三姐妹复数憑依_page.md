@@ -20,7 +20,7 @@ TXT 下载: [[附身]_三姐妹复数憑依.doc]([附身]_三姐妹复数憑依.
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 8b29502cc7ad2e60e14d015725afb917                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ヴァレー                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_TS杂货店·内服药.docx]([皮物]_TS杂货店·内服�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32539 bytes                           |
 | MD5             | ca80464a15e6db649292979bb08ebcd0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

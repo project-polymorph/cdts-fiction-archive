@@ -20,7 +20,7 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒.doc]([变身]_哈利�
 | Format          | Microsoft Word Document                               |
 | Size            | 154112 bytes                           |
 | MD5             | 6723f45ecfcb42f53bf156107b5b4a7d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 蕾梦娜·花（Ramona Flowers）                               |
 | Region          | 未知                               |

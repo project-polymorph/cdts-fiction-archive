@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_海城往事01.docx]([皮物]_海城往事01.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19587 bytes                           |
 | MD5             | 37f7b77615b478669b41a2695a98e2eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

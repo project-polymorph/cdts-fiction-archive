@@ -20,7 +20,7 @@ TXT 下载: [[变装]【旧文新翻变装】尘埃落定.doc]([变装]【旧文
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 1713261b618ff7dd3d7726169483ac1f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Paul G Jutras                               |
 | Region          | 未知                               |

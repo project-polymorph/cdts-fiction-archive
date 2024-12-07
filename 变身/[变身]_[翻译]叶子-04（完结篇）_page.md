@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]叶子-04（完结篇）.docx]([变身]_[翻译]�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25129 bytes                           |
 | MD5             | a65a8edc5961383c038a1cc32b8de797                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Liz M                               |
 | Region          | 未知                               |

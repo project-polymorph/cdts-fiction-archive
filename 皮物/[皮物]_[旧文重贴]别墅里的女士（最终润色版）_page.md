@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[旧文重贴]别墅里的女士（最终润色版）.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28929 bytes                           |
 | MD5             | 63d422a6d3a05a79fc4bc8a663c43f37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 如梦幻泡影                               |
 | Region          | 未知                               |

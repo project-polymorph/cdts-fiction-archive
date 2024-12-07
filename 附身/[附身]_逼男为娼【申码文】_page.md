@@ -20,7 +20,7 @@ TXT 下载: [[附身]_逼男为娼【申码文】.doc]([附身]_逼男为娼【�
 | Format          | Microsoft Word Document                               |
 | Size            | 88576 bytes                           |
 | MD5             | b9192084273c5e14871e6bcaddd8c759                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

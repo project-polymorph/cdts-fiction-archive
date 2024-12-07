@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_10（非同�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 6e050466bdcabbaa8049483b2630559f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

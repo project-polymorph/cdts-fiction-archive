@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【申码文搬运】《变身——大二男学生篇》.
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | 11879beb99f3a9d4b41fcf0f767fcb05                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

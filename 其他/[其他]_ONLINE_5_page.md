@@ -20,7 +20,7 @@ TXT 下载: [[其他]_ONLINE_5.doc]([其他]_ONLINE_5.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | cd3ed95eee58f7092227f897f9d803f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

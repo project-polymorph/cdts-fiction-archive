@@ -20,7 +20,7 @@ TXT 下载: [[变装]_（翻译）_为了万圣节而健身_1-40_（申码文）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 202375 bytes                           |
 | MD5             | ef5f339f9ebe9685a54444acedc4962e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

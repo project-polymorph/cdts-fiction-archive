@@ -20,7 +20,7 @@ TXT 下载: [[附身]_哈利波特的新生伏地魔9.doc]([附身]_哈利波特
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 40f7a901052e0beb06df287396922eb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

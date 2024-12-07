@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《人皮衣》（陆·“少女”心底事）.doc]([皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 0f2cee21480b13cd08f87ddd06b2f0ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

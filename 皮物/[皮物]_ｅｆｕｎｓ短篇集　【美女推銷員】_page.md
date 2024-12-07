@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_ｅｆｕｎｓ短篇集　【美女推銷員】.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 78848 bytes                           |
 | MD5             | 7063b8e12b73928de8f651448cf9e49e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

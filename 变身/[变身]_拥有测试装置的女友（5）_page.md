@@ -20,7 +20,7 @@ TXT 下载: [[变身]_拥有测试装置的女友（5）.doc]([变身]_拥有测
 | Format          | Microsoft Word Document                               |
 | Size            | 82432 bytes                           |
 | MD5             | 19819486066da7ffac89232725b7635c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

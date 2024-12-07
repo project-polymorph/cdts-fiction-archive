@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《血的替身》1-2章.doc]([附身]_《血的替身》1
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 3b350de64b494a15176428f4f4701dd1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

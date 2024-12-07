@@ -20,7 +20,7 @@ TXT 下载: [[附身]_身体淘宝（7）.doc]([附身]_身体淘宝（7）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 594a9e9638f17dabc679a24c34a50e69                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

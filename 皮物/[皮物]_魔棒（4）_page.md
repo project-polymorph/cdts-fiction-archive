@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔棒（4）.docx]([皮物]_魔棒（4）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30339 bytes                           |
 | MD5             | adbf204e0c1e4550e5bb6f4b46f6913f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

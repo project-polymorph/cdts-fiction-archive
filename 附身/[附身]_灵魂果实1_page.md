@@ -20,7 +20,7 @@ TXT 下载: [[附身]_灵魂果实1.docx]([附身]_灵魂果实1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16250 bytes                           |
 | MD5             | d40981ebb3beef8c349a124ac9b53045                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

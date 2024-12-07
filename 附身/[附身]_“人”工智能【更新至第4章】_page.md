@@ -20,7 +20,7 @@ TXT 下载: [[附身]_“人”工智能【更新至第4章】.doc]([附身]_“
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | 3976563e7eaf3c22db9be40d10d5dfba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

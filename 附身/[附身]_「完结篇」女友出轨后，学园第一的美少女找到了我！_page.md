@@ -20,7 +20,7 @@ TXT 下载: [[附身]_「完结篇」女友出轨后，学园第一的美少女�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | ca0018b734a2b5ce52d1e4c9e0c125eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

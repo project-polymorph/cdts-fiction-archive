@@ -20,7 +20,7 @@ TXT 下载: [[变身]_What_comes_around_Goes_around.docx]([变身]_What_comes_ar
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60967 bytes                           |
 | MD5             | 2dacbd9878ce80b3368f0f3dc57ed1fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

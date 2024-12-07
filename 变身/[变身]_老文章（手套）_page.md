@@ -20,7 +20,7 @@ TXT 下载: [[变身]_老文章（手套）.docx]([变身]_老文章（手套）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21217 bytes                           |
 | MD5             | 92a80f628cf9a3f74c324d012815f259                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Ecup                               |
 | Region          | 未知                               |

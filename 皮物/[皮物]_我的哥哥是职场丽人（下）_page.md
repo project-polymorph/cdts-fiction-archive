@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的哥哥是职场丽人（下）.docx]([皮物]_我的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 67083 bytes                           |
 | MD5             | 981807c5f1df8ba751c8eb9e71efc7a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

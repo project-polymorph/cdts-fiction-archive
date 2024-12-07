@@ -20,7 +20,7 @@ TXT 下载: [[变装]_群芳斗艳缘（5）花旗的主动.docx]([变装]_群�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 128472 bytes                           |
 | MD5             | 68ab38cba7e17834b00c4dbd66106270                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

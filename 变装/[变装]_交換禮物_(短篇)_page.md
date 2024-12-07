@@ -20,7 +20,7 @@ TXT 下载: [[变装]_交換禮物_(短篇).docx]([变装]_交換禮物_(短篇)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26409 bytes                           |
 | MD5             | cb7dfef242ec98f651890afb63a5737b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

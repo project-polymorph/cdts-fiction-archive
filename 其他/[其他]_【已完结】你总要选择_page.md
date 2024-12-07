@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【已完结】你总要选择.doc]([其他]_【已完结�
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | 2b145b44788bde6de131b363bd5cb2ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

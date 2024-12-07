@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kig翻译文_成人电影.doc]([皮物]_kig翻译文_成�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | decb8a0e8b359c2aaa9e5d73c690f48e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

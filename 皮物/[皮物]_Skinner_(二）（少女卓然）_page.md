@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Skinner_(二）（少女卓然）.doc]([皮物]_Skinner_(�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | ed44fbf6047702d59b36e496ce955f1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我老婆的最佳女友_第四章_这不是在做梦！.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25078 bytes                           |
 | MD5             | 98fd502b7899dfc3a93ffc55910b1a5c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

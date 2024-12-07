@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《箱娘》.doc]([改造]_《箱娘》.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 346cdc8c2f5cf32ed27071478f2eca69                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | CA_KOIKE4                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【乐园计划】第二十九~三十章.doc]([附身]_【
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 269aff00448e7bd8c0da3879affd4a92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

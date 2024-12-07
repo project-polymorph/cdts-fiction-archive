@@ -20,7 +20,7 @@ TXT 下载: [老婆要嫁人我成了陪嫁.docx](老婆要嫁人我成了陪嫁
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29340 bytes                           |
 | MD5             | 07c643c660015cec1266aa041f673df5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

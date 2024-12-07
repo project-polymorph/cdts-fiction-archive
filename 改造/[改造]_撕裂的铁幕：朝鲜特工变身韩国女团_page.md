@@ -20,7 +20,7 @@ TXT 下载: [[改造]_撕裂的铁幕：朝鲜特工变身韩国女团.doc]([改
 | Format          | Microsoft Word Document                               |
 | Size            | 752128 bytes                           |
 | MD5             | dd8d56eeb661ec8074ad8157df90865e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 韩国                               |

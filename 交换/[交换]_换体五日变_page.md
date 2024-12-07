@@ -20,7 +20,7 @@ TXT 下载: [[交换]_换体五日变.docx]([交换]_换体五日变.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41104 bytes                           |
 | MD5             | eb093c6653d0ffd9042ccce36ae2c0be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

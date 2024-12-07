@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新的心跳［中］——双人舞.docx]([皮物]_新的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38254 bytes                           |
 | MD5             | 8789512af6b940bbcc51b4a3cdd6b99d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_憧憬的女仆装.docx]([附身]_憧憬的女仆装.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18287 bytes                           |
 | MD5             | 75aa79ceaac61cd1ce31465e34232f55                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 无名＠純白の憑依人                               |
 | Region          | 未知                               |

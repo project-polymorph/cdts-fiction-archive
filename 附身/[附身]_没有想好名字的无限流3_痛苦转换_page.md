@@ -22,7 +22,7 @@ TXT 下载: [[附身]_没有想好名字的无限流3_痛苦转换.doc]([附身]
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | b2ec2c37cb17111ed1213f4c1f3f8742                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

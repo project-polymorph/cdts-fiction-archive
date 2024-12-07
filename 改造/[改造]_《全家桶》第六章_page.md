@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《全家桶》第六章.doc]([改造]_《全家桶》第�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | ac5b326dd81683171ed7820259f8d47f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

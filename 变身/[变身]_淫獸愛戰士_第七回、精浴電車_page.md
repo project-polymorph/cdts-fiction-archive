@@ -20,7 +20,7 @@ TXT 下载: [[变身]_淫獸愛戰士_第七回、精浴電車.docx]([变身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32115 bytes                           |
 | MD5             | e30d565ea166c3d7eb2393c788c2e6bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

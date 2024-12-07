@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮师前传——无限欲望之蛇寄生篇.doc]([皮物
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 5aa8149fe248d9c4f85196d062ef1495                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_永生（全）.docx]([附身]_永生（全）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39811 bytes                           |
 | MD5             | 8810fbb0794f26ba12878293d328fe36                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 不再飞翔                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第二章_混混该做的事1.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26519 bytes                           |
 | MD5             | 59b83076c5760b731e5ce7aad303f6d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

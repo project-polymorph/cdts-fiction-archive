@@ -20,7 +20,7 @@ TXT 下载: [[改造]_人体配件店~乡下的男高中生变身时尚的女大
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | dc4d0fb5cab2353dcdd4bc370726047e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

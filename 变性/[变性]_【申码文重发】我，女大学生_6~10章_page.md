@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【申码文重发】我，女大学生_6~10章.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | cc29f88b537878b7c625e426c989f695                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

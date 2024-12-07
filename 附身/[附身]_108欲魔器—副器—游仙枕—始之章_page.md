@@ -20,7 +20,7 @@ TXT 下载: [[附身]_108欲魔器—副器—游仙枕—始之章.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 78caf4a42f30599d6daffd65ca4cf28a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 苍茫                               |
 | Region          | 中国大陆                               |

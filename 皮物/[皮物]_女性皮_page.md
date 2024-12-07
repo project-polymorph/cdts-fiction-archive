@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女性皮.docx]([皮物]_女性皮.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29598 bytes                           |
 | MD5             | fc10d1c8c4903cf88f354498303471b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 兎鬼                               |
 | Region          | 未知                               |

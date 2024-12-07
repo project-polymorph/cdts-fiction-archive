@@ -20,7 +20,7 @@ TXT 下载: [[其他]_古董衣精品店_(六).docx]([其他]_古董衣精品店
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19166 bytes                           |
 | MD5             | b9ad75f5eb4ab6bc7fa1d7b98bd800b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

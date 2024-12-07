@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔法少女星露④.docx]([附身]_魔法少女星露④
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇讲述魔法少女的小说片段，故事围绕主角夏诗和她的朋友蓝星露展开。夏诗的能力是冻结时间，能够让目标在时间静止的状态中活动，但这需要消耗大量魔力。同时，林雨是一名具有催眠能力的魔法少女，她的能力使得与她合作的其他魔法少女都成为了忠实的仆人，而蓝星露因能力原因对此免疫。文本描述了夏诗与蓝星露的互动，并引入了另一位魔法少女谢永慧，她的能力为固定身体状态，这意味着即使遭受伤害也不会死亡。文本深入探讨了角色的能力及其在执行任务中的影响，同时涉及到对角色内心的探讨，尤其是催眠与控制的主题，以及在这种环境下角色之间的情感联系。文件中还包含了一些具体的剧情设定和人物背景，展现出角色们在面对困境时的勇气与智慧。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔法少女星露④.docx]([附身]_魔法少女星露④
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35246 bytes                           |
 | MD5             | 512b1021ec924a728960e9c6eaba7ddb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 时间静止, 催眠, 跨性别, 不死能力, 男性视角, 灵魂交换, 友情, 青春幻想, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

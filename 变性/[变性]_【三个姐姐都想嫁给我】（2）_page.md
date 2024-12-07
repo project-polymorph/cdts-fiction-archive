@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【三个姐姐都想嫁给我】（2）.doc]([变性]_【
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 7f79aa0d6e90550dc7b0924bea4a997b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

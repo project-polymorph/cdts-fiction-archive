@@ -20,7 +20,7 @@ TXT 下载: [[附身]_短篇--能干的秘书.docx]([附身]_短篇--能干的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21981 bytes                           |
 | MD5             | d728bb9ff54c613a6e43e0c10316c9ad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

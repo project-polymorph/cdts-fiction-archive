@@ -22,7 +22,7 @@ TXT 下载: [[其他]_新世界_二.docx]([其他]_新世界_二.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24547 bytes                           |
 | MD5             | 9c2265ad8551fb06006288ac6e91b8cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

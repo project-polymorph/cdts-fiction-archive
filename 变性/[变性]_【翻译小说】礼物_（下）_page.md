@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译小说】礼物_（下）.docx]([变性]_【翻�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61865 bytes                           |
 | MD5             | 4d58c08623c06843bd7c820f10cc9a3f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

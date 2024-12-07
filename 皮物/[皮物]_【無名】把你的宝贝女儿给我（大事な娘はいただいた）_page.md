@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【無名】把你的宝贝女儿给我（大事な娘は�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 3c846cb5cda7b15ca7a1867d7ce5d6b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 无名                               |
 | Region          | 未知                               |

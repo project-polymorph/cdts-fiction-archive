@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_正义与爱.docx]([皮物]_正义与爱.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31138 bytes                           |
 | MD5             | f4a1250c1b07a38a6ec98e9107b49bde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

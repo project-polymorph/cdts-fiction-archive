@@ -20,7 +20,7 @@ TXT 下载: [[其他]_错位的夫妻（走向没确定，想看大家意见）.
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | aa7c5d770c3e34e5732d20b31efc1005                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 鬼畜奏                               |
 | Region          | 未知                               |

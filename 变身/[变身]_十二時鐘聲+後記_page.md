@@ -20,7 +20,7 @@ TXT 下载: [[变身]_十二時鐘聲+後記.docx]([变身]_十二時鐘聲+後�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32540 bytes                           |
 | MD5             | f15e2f9f9fef9df46f4fe1b98ea2e469                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

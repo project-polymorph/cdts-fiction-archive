@@ -20,7 +20,7 @@ TXT 下载: [[变装]_小曦的日常小故事之生日的特别节目S02E01（�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | f0be1a94d5a0ffae10ad234fb85d919b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

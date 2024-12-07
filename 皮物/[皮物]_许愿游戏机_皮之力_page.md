@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_许愿游戏机_皮之力.doc]([皮物]_许愿游戏机_�
 | Format          | Microsoft Word Document                               |
 | Size            | 124928 bytes                           |
 | MD5             | 8767a8748ada4b664bacbf1b59675934                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

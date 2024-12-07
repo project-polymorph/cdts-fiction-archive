@@ -20,7 +20,7 @@ TXT 下载: [[其他]_家族秘史_Un_secret_de_famille.docx]([其他]_家族秘
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32059 bytes                           |
 | MD5             | 4de5f3c815db187978b9eb163c137c1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Petit Pierre                               |
 | Region          | 未知                               |

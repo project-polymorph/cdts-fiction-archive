@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_青春期的“琐事”修订版_[复制链接].docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49796 bytes                           |
 | MD5             | fadc39e87082ea2921fcd0caec5d959a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Vaughan                               |
 | Region          | 未知                               |

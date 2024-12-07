@@ -20,7 +20,7 @@ TXT 下载: [[变装]鬼眼.doc]([变装]鬼眼.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 316416 bytes                           |
 | MD5             | b5ee809169a6d055ccd59ea7cca0ce30                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 纳兰珍                               |
 | Region          | 中国大陆                               |

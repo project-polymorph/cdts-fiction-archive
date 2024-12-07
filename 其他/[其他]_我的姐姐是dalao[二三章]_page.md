@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的姐姐是dalao[二三章].docx]([其他]_我的姐�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23862 bytes                           |
 | MD5             | 9a97d29dff48b302f27ef53ffa1192c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

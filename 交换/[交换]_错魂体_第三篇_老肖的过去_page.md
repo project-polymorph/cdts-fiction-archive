@@ -20,7 +20,7 @@ TXT 下载: [[交换]_错魂体_第三篇_老肖的过去.docx]([交换]_错魂�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25061 bytes                           |
 | MD5             | 7561152021e2cf73eb3372d6c3650cb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

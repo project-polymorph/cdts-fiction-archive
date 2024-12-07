@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《小兵传奇之那年夏天》第二章：离魂和噬�
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | 98a0e35eea4a8a2299d80a3e7aabdd4d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

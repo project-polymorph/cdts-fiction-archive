@@ -20,7 +20,7 @@ TXT 下载: [[其他]_潛徒(1).docx]([其他]_潛徒(1).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25684 bytes                           |
 | MD5             | 345e125bfc9c4160fb2a4ceea6513700                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | kk9700                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_结束职业生涯的决定（3）.docx]([变装]_结束�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 66007 bytes                           |
 | MD5             | 99e01fd24edd4e5e897999e16334da97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 露娜•埃葵斯                               |
 | Region          | 未知                               |

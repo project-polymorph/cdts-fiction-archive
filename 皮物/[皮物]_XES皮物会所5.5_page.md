@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_XES皮物会所5.5.doc]([皮物]_XES皮物会所5.5.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 2a0bca15082970b14f92adf7e81edcc7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_DT游戏王同人_世界的救助者(1).doc]([变性]_DT�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 6d4a39b3debdfe09792b72989041ba36                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

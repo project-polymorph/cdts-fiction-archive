@@ -20,7 +20,7 @@ TXT 下载: [[变身]_假物化形_-_2.docx]([变身]_假物化形_-_2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22958 bytes                           |
 | MD5             | 121829f4b9f4836566227602a6c8aaa2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

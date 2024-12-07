@@ -7,7 +7,11 @@ TXT 下载: [[附身]_麻老鬼.doc]([附身]_麻老鬼.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇包含多个情节与角色互动的跨性别与伪娘题材小说，主要围绕角色高伟及其女儿高媛媛的故事展开。故事背景设定在历史中国的开封府，剧中以“麻老鬼”的传说为核心，探讨了性别认同和自我探索的主题。
+
+开篇描绘麻老鬼的恐怖传说，以一首童谣引出故事的氛围，接着介绍了高伟，一个富有但愁眉苦脸的大善人，及他的女儿高媛媛，她在峨嵋派拥有很高的地位。故事引出高伟在深夜骑马进城时因贿赂守城将士而发生异变，感受到麻老鬼的威胁。随着情节的发展，高伟为了保住女儿，以符篆抵挡麻老鬼的侵扰，却最终因犹豫和悔约而引发了更大的危机。高媛媛被麻老鬼附身，剧情发展到父女之间的禁忌之恋，展现出复杂的心理斗争与自我压抑。
+
+小说中包含大量的色情描写与侵犯情节，尤其是高媛媛被附身后与父亲的亲密互动，涉及禁忌的亲情与性欲，尖锐地探讨了罪恶与权力不对等的关系。通过角色孤独与欲望的交织，小说意图展现出在道德与伦理的交叉路口，人性所处的挣扎与选择。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +24,11 @@ TXT 下载: [[附身]_麻老鬼.doc]([附身]_麻老鬼.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | b87f11074c682cb22e085ce7169ff123                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 麻老鬼, 附身, 跨性别, 自我认同, 禁忌之恋, 伪娘, 深夜怪谈, 父女关系, 悬疑, 古代架空                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_魔方游戏.docx]([交换]_魔方游戏.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 143875 bytes                           |
 | MD5             | ca9648f320c649149a2eb0d9d9c48dc0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | YSFC                               |
 | Region          | 未知                               |

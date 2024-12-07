@@ -20,7 +20,7 @@ TXT 下载: [[变装]CDTG系2.doc]([变装]CDTG系2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | b14cdef7b4c9c78c104d3e6acef0eff7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

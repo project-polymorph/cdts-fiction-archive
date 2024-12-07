@@ -22,7 +22,7 @@ TXT 下载: [[附身]_阴阳草.docx]([附身]_阴阳草.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17377 bytes                           |
 | MD5             | 3b146c3324034b91bcf10c4e7a3696e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

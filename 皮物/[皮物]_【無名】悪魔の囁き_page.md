@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【無名】悪魔の囁き.doc]([皮物]_【無名】悪�
 | Format          | Microsoft Word Document                               |
 | Size            | 57856 bytes                           |
 | MD5             | 1a5b7d580cc5d79279d14726f788190e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

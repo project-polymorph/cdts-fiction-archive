@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_千金奇遇记.docx]([皮物]_千金奇遇记.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48395 bytes                           |
 | MD5             | 4b5643fcebb3d36049e8f5eb07dadb16                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

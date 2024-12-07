@@ -20,7 +20,7 @@ TXT 下载: [[附身]_脑波收发器.docx]([附身]_脑波收发器.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26653 bytes                           |
 | MD5             | e0cfaba152cdcd3bd31506f421e99324                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

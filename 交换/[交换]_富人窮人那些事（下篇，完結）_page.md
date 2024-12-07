@@ -20,7 +20,7 @@ TXT 下载: [[交换]_富人窮人那些事（下篇，完結）.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37315 bytes                           |
 | MD5             | 6fb48e6716d52e5042e202d987891177                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

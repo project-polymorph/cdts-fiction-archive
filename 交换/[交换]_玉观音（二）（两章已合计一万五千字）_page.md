@@ -20,7 +20,7 @@ TXT 下载: [[交换]_玉观音（二）（两章已合计一万五千字）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28125 bytes                           |
 | MD5             | a4a43753561c55bf0194ac8040c2e39d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

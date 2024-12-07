@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第六章_吾名桂花…�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41436 bytes                           |
 | MD5             | 4874badfe401a5d245a2a3f8da0a9e1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

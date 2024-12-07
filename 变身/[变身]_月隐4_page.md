@@ -20,7 +20,7 @@ TXT 下载: [[变身]_月隐4.docx]([变身]_月隐4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28890 bytes                           |
 | MD5             | 53a72f20f62ed2c64b9efbc7aaa0c8a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

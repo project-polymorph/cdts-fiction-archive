@@ -20,7 +20,7 @@ TXT 下载: [[附身]_楊文和王雨（一）.docx]([附身]_楊文和王雨（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27862 bytes                           |
 | MD5             | 2f0ad5d0fcd928d1b3d1a42cd98e4f0c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_（申码文）吊丝穿魅魔的皮.doc]([皮物]_（申�
 | Format          | Microsoft Word Document                               |
 | Size            | 89088 bytes                           |
 | MD5             | 85c13daea220889b4466af22d93c33b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 方雪樱                               |
 | Region          | 中国大陆                               |

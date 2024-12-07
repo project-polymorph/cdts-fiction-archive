@@ -20,7 +20,7 @@ TXT 下载: [[其他]_天衣无缝的计划（警察与罪犯的融合）.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | dbc226a747d70c5ec2e47412ddf07daf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

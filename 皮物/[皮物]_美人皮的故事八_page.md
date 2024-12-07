@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_美人皮的故事八.docx]([皮物]_美人皮的故事八
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19606 bytes                           |
 | MD5             | e8e20573195b70f0d75df01252edc962                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

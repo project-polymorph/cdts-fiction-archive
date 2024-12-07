@@ -20,7 +20,7 @@ TXT 下载: [小艾的幸福.doc](小艾的幸福.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 92672 bytes                           |
 | MD5             | 28c31c498a9c3584f0e0196c3e81421d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | silverity                               |
 | Region          | 中国大陆                               |

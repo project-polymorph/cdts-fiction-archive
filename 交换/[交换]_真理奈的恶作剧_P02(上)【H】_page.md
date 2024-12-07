@@ -20,7 +20,7 @@ TXT 下载: [[交换]_真理奈的恶作剧_P02(上)【H】.doc]([交换]_真理
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | e714af343ba6e11c80569345186c4808                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

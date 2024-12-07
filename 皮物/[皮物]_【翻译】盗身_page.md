@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【翻译】盗身.docx]([皮物]_【翻译】盗身.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32835 bytes                           |
 | MD5             | a9f56f1bc77a5c87cbb89873c47a5613                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 赤目(REDEYE)                               |
 | Region          | 未知                               |

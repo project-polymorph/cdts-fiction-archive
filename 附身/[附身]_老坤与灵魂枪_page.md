@@ -20,7 +20,7 @@ TXT 下载: [[附身]_老坤与灵魂枪.docx]([附身]_老坤与灵魂枪.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25733 bytes                           |
 | MD5             | f41f595bd9f911aa024960f40d67d4cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

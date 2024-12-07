@@ -20,7 +20,7 @@ TXT 下载: [[改造]_美少女万华镜：巫女与侍女.doc]([改造]_美少�
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | 86cd22a851782a15a98ac05a5757d073                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

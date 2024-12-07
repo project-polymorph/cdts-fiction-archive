@@ -20,7 +20,7 @@ TXT 下载: [[附身]_大玩家（三）前卷完.docx]([附身]_大玩家（三
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 63204 bytes                           |
 | MD5             | 081ee754538583f83198f161f88f5625                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

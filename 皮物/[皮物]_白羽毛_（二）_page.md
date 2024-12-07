@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_白羽毛_（二）.docx]([皮物]_白羽毛_（二）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19076 bytes                           |
 | MD5             | d42ac401a43c13592a51334e71b54f39                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

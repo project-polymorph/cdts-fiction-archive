@@ -21,7 +21,7 @@ TXT 下载: [[变身]_成为达西夫人.doc]([变身]_成为达西夫人.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 5a9b835f221e35ca62bab748ac82d77e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lily Florette                               |
 | Region          | 未知                               |

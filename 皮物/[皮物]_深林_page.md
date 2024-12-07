@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_深林.doc]([皮物]_深林.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | 8f0def00e94ffc45e0f1d13920266131                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

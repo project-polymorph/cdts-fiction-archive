@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_永恒青春租赁公司.docx]([皮物]_永恒青春租赁
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27316 bytes                           |
 | MD5             | 2c3411de6cae29ffa5e91defec65344c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

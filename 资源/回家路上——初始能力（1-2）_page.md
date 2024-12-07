@@ -20,7 +20,7 @@ TXT 下载: [回家路上——初始能力（1-2）.doc](回家路上——初�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | b7cc1f929efb8eadeba75a302ba31155                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

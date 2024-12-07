@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《全家桶》第4章女装直播（3）.doc]([改造]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 85d217df084a117f3fd4523256543e03                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

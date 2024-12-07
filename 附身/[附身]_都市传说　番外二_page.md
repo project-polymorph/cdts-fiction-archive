@@ -24,7 +24,7 @@ TXT 下载: [[附身]_都市传说　番外二.docx]([附身]_都市传说　番
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41709 bytes                           |
 | MD5             | b66a72bfbf735213d64668d46cdaa68e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

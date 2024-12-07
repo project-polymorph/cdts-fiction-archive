@@ -20,7 +20,7 @@ TXT 下载: [[交换]_真理奈的恶作剧_P01(上).docx]([交换]_真理奈的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24329 bytes                           |
 | MD5             | b7553f7bc91b94a5a97e1e02a21304ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

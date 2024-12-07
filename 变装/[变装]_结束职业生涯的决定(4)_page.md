@@ -20,7 +20,7 @@ TXT 下载: [[变装]_结束职业生涯的决定(4).docx]([变装]_结束职业
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61124 bytes                           |
 | MD5             | 10cb547d35f579f18d5181a2ab3e09bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

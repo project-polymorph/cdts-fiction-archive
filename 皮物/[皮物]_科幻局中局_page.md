@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_科幻局中局.docx]([皮物]_科幻局中局.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21723 bytes                           |
 | MD5             | b1630f295f35745d4e514b23fbc569e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

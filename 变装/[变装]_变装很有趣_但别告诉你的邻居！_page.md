@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装很有趣_但别告诉你的邻居！.docx]([变装]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35314 bytes                           |
 | MD5             | 7e255939b7508cf768e15eedc54afe1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Amanda                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【被变成贤惠人妻的勇者们】（1：盗贼篇）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31831 bytes                           |
 | MD5             | ae66cdde576c6bba845041bb2bf3ac38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

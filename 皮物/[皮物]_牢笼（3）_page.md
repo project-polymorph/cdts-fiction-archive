@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_牢笼（3）.docx]([皮物]_牢笼（3）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18778 bytes                           |
 | MD5             | c2c75c82b5d8ec068cc9b30e81904972                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

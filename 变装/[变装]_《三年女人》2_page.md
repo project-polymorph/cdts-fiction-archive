@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《三年女人》2.doc]([变装]_《三年女人》2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | f5fa687d6c6aa140ffd20b035e501ea3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

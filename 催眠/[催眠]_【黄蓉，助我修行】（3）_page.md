@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_【黄蓉，助我修行】（3）.doc]([催眠]_【黄蓉
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 057d4fb671c3d8397a52037ee84d1887                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮剝丸夢譚.docx]([皮物]_皮剝丸夢譚.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 221807 bytes                           |
 | MD5             | 8e3adea1b0c97263db582bb394f7a6ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | teru                               |
 | Region          | 未知                               |

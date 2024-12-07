@@ -20,7 +20,7 @@ TXT 下载: [[交换]_桃色混乱.docx]([交换]_桃色混乱.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26570 bytes                           |
 | MD5             | f3921545ba8781934f79eeb9a72cf674                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | シクノレ                               |
 | Region          | 未知                               |

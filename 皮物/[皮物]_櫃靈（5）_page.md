@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_櫃靈（5）.docx]([皮物]_櫃靈（5）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18325 bytes                           |
 | MD5             | bc1d9935995e9ceac663e0ef4aa41d80                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

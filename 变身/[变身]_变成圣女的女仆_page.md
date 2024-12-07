@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变成圣女的女仆.doc]([变身]_变成圣女的女仆.
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 0364a6af96995f7d0fe55613b415645f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

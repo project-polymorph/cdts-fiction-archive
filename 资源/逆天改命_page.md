@@ -20,7 +20,7 @@ TXT 下载: [逆天改命.docx](逆天改命.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35253 bytes                           |
 | MD5             | 18d7ac388f43d8562cdc328d9fb083b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

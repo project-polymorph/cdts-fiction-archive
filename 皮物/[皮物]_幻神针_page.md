@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_幻神针.docx]([皮物]_幻神针.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39545 bytes                           |
 | MD5             | efddc78f125fc7f71b2e9300d77a1267                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

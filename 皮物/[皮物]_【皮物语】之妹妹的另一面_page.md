@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮物语】之妹妹的另一面.doc]([皮物]_【皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 86ac8352f451e0411314154a4f322ff7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

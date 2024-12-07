@@ -7,7 +7,7 @@ TXT 下载: [[附身]_鸿蒙戒.docx]([附身]_鸿蒙戒.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《鸿蒙戒》，讲述了一位修道者在清明节期间下山捉妖的故事。故事的背景设定在一所建于山上的大学，主角被指派为一名走读转学生。清明节的到来意味着孤魂野鬼归来，学校决定组织全体师生上山扫墓。主人公在山上遇到了附身的班长，并在意外中重生到班长的身体里。故事包含了对人生身份的认同、自我探索及灵异事件的描写。情节中，随着男主角身体的变化，他的内心世界和对周围的感知也发生了改变，探讨了性别认同、附身与灵力的主题。文本中描述了具象的角色变化和灵异交战情节，是一部融合了奇幻、性别转换和校园生活的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_鸿蒙戒.docx]([附身]_鸿蒙戒.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40760 bytes                           |
 | MD5             | 7b59bf2f3f2f3ed7f134ad134e0dcc7e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 清明节, 鬼怪, 校园故事, 性别转换, 灵异事件, 道教, 修道者, 妖怪猎人, 自我探索, 灵力, 变身, 校园恋情, 奇幻小说, 身份认同, 强烈情感, 惊悚挑战, 法术对决, 经典重生, 人物心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

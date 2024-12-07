@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_大唐淫皮传.doc]([皮物]_大唐淫皮传.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 1810432 bytes                           |
 | MD5             | 88fdcef350aaf9e0139584d2de35f0b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | KITCHEN SUN                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_奇妙的四人_第一章.docx]([变身]_奇妙的四人_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28207 bytes                           |
 | MD5             | 5d17a35af5292a876bd2ab01afa0988a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

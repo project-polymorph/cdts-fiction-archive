@@ -20,7 +20,7 @@ TXT 下载: [[变身]_魔与帝国_第二章.doc]([变身]_魔与帝国_第二�
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 78e790a72cbb9c2d1b12d46a94aac065                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【無名】ずっと、皮だった….doc]([皮物]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 05ba8124bafdb4f91e53c746652f4c63                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

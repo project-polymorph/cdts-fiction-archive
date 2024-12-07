@@ -20,7 +20,7 @@ TXT 下载: [[其他]_挣扎（三）.docx]([其他]_挣扎（三）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20485 bytes                           |
 | MD5             | a1753035e1348259032a573be7afe976                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

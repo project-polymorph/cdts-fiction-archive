@@ -20,7 +20,7 @@ TXT 下载: [[附身]_入替中枢（1~4）.docx]([附身]_入替中枢（1~4）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32880 bytes                           |
 | MD5             | 860f0f57d02db12b8e8d2477b9c878f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

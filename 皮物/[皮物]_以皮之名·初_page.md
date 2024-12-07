@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_以皮之名·初.docx]([皮物]_以皮之名·初.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31627 bytes                           |
 | MD5             | b19745a28a60ba1b8945b27e1b723f1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

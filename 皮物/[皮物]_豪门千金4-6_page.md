@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_豪门千金4-6.docx]([皮物]_豪门千金4-6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49056 bytes                           |
 | MD5             | 26f074b708d34f1b6beb4088e30ddef0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

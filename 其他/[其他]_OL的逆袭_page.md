@@ -20,7 +20,7 @@ TXT 下载: [[其他]_OL的逆袭.docx]([其他]_OL的逆袭.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23541 bytes                           |
 | MD5             | d6564adc0480e19c7f431035ea549fea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Amy                               |
 | Region          | 未知                               |

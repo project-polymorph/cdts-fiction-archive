@@ -20,7 +20,7 @@ TXT 下载: [[交换]_换身诊所.docx]([交换]_换身诊所.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26654 bytes                           |
 | MD5             | 4ef5eee8c94818bd0a3741f8f690b7dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Morpheus                               |
 | Region          | 未知                               |

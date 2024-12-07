@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_老师请教教我——第一课：奇遇（申码翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | b0a9020238703c72c2fe8bf035d7d452                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_意外的后果_第五章_完美的计划.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33788 bytes                           |
 | MD5             | 1b141c147a160e35436f2b906ddd3eec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【申码文】体育老师与女学生的交换.doc]([交
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 4f2713bb619623bf4e014c6831934d21                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蔓延的恶意_1-2.doc]([附身]_蔓延的恶意_1-2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 7fae469631f9fe86ce32422a047c46d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 憑依好きの人                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_第六章_怪人的決定(下).docx]([皮物]_第六章_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30788 bytes                           |
 | MD5             | f1dcfe4a008e373af8668e469b89148a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_异能者一.docx]([皮物]_异能者一.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17709 bytes                           |
 | MD5             | bbbd97cb96829625f4065a63875bfc2d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_江山如梦（上）.docx]([交换]_江山如梦（上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34383 bytes                           |
 | MD5             | 99a209ed044f101594b0a8f730b55798                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

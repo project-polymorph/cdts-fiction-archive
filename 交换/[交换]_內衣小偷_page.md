@@ -20,7 +20,7 @@ TXT 下载: [[交换]_內衣小偷.docx]([交换]_內衣小偷.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40134 bytes                           |
 | MD5             | ef7821da8e6f236cffe09d46a55444fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | メモット                               |
 | Region          | 未知                               |

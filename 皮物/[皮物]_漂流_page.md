@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_漂流.docx]([皮物]_漂流.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29985 bytes                           |
 | MD5             | 3c5b8cb8a4dd9f7db9fdc473bc1b2eae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | dffou                               |
 | Region          | 未知                               |

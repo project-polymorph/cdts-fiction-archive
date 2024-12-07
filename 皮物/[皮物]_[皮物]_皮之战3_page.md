@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[皮物]_皮之战3.docx]([皮物]_[皮物]_皮之战3.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32552 bytes                           |
 | MD5             | 4faf0ab3272d94d731cc2716cffff5e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

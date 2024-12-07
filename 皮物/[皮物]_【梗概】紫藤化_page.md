@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【梗概】紫藤化.doc]([皮物]_【梗概】紫藤化.
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | ebcdf47f3bed076e4682af271bcf2784                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(一）奇怪的_APP？.doc]([改造]_[小
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | e16325cf371a9c34ce626ad8cfb81fdb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

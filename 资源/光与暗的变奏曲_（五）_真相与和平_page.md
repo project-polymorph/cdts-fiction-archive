@@ -20,7 +20,7 @@ TXT 下载: [光与暗的变奏曲_（五）_真相与和平.doc](光与暗的�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | c17469e61870418789c6da9c31a32986                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

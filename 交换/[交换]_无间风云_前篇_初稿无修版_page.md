@@ -20,7 +20,7 @@ TXT 下载: [[交换]_无间风云_前篇_初稿无修版.docx]([交换]_无间�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29823 bytes                           |
 | MD5             | 2c4e0d834526cbbb653424f084819ff7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

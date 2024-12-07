@@ -20,7 +20,7 @@ TXT 下载: [[变装]_父亲的秘密（2）.docx]([变装]_父亲的秘密（2�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17704 bytes                           |
 | MD5             | 7558c6adf0dc48f71ad23b4ec4241f2f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

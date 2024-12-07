@@ -20,7 +20,7 @@ TXT 下载: [[变性]_（穿胶皮）梦中的乳胶妖精生活123未完.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 91136 bytes                           |
 | MD5             | 9cdf2905894b7f90bcbbcec31ebe39d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

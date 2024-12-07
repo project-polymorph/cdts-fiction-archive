@@ -20,7 +20,7 @@ TXT 下载: [[变装]_嬗变14天（下）.doc]([变装]_嬗变14天（下）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | 66d37917310ea36fc9796623d60d01d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

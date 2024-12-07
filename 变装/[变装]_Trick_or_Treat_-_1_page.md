@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Trick_or_Treat_-_1.doc]([变装]_Trick_or_Treat_-_1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 107008 bytes                           |
 | MD5             | 999bb9cc9e76cd4269474f95d845b4c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Enigma9                               |
 | Region          | 未知                               |

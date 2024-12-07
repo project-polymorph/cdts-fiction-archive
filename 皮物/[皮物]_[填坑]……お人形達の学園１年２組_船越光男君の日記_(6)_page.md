@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[填坑]……お人形達の学園１年２組_船越光�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 8126b2234956b926d9c1e0b53e430d71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

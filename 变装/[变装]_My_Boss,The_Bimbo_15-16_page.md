@@ -22,7 +22,7 @@ TXT 下载: [[变装]_My_Boss,The_Bimbo_15-16.doc]([变装]_My_Boss,The_Bimbo_15
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | d29668b5445881ca60f4d9611a375d06                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

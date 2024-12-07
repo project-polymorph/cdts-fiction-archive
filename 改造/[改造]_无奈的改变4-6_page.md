@@ -20,7 +20,7 @@ TXT 下载: [[改造]_无奈的改变4-6.doc]([改造]_无奈的改变4-6.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 0f121333e25275dfd2d69e31e8d80144                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_性别的交换.doc]([交换]_性别的交换.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 587f60cbc11e6067d27d1d644dae30b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jon                               |
 | Region          | 未知                               |

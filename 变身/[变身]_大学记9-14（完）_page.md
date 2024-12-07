@@ -20,7 +20,7 @@ TXT 下载: [[变身]_大学记9-14（完）.docx]([变身]_大学记9-14（完�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 109498 bytes                           |
 | MD5             | 3e6d0c8f02b2887764508537ed34b7fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 人生万花筒                               |
 | Region          | 中国大陆                               |

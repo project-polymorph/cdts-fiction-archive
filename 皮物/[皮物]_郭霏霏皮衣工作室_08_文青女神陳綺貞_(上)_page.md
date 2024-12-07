@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_08_文青女神陳綺貞_(上).do
 | Format          | Microsoft Word Document                               |
 | Size            | 74752 bytes                           |
 | MD5             | d952d486bdcea6be10405f0535e9b2fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

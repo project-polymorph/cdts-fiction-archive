@@ -20,7 +20,7 @@ TXT 下载: [[变装]_圣诞十二日_（上）.doc]([变装]_圣诞十二日_�
 | Format          | Microsoft Word Document                               |
 | Size            | 90112 bytes                           |
 | MD5             | 0195d14c0fd19f49b5bdd357f65964e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

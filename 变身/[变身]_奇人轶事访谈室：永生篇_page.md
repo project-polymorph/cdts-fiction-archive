@@ -20,7 +20,7 @@ TXT 下载: [[变身]_奇人轶事访谈室：永生篇.doc]([变身]_奇人轶�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 4bbc73d674c5dcb244a41d092c8d3964                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

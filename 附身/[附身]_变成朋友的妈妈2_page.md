@@ -20,7 +20,7 @@ TXT 下载: [[附身]_变成朋友的妈妈2.doc]([附身]_变成朋友的妈妈
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 69d7c0c6734c99260f7760361f893835                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

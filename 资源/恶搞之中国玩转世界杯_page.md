@@ -20,7 +20,7 @@ TXT 下载: [恶搞之中国玩转世界杯.doc](恶搞之中国玩转世界杯.
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 2db2c10de989315b02dee8f1dad7113a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

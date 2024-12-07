@@ -20,7 +20,7 @@ TXT 下载: [[变身]_巨乳世界6.docx]([变身]_巨乳世界6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18717 bytes                           |
 | MD5             | bd9c336b903f58e9d17839fb1a1fe6a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

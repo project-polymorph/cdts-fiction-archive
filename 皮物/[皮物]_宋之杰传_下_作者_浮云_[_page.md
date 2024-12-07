@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_宋之杰传_下_作者_浮云_[.docx]([皮物]_宋之杰�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15234 bytes                           |
 | MD5             | 39e201738eb2956195267a25aa42eb22                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 浮云                               |
 | Region          | 未知                               |

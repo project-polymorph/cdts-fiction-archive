@@ -7,7 +7,7 @@ TXT 下载: [[附身]拿什么拯救你，我的爱人（一）.doc]([附身]拿
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《拿什么拯救你，我的爱人（一）》，是一部涉及性转与跨性别主题的小说。故事的主角是一名男性，意外地陷入了一种诅咒之中，导致他每隔49天便会被移魂到一具女性的身体中，通过不同的身份体验各种不同的生活和感情。文件详细描绘了主角在各种女性角色中如何适应和体验，同时也借助他所附身的女性身体，感受到各类情欲的滋味。小说中包含了多次与身体和性相关的描写，使得这个故事探讨了性别认同、自我探索与欲望之间的复杂关系。主角在不同的女性身体中体验各种爱情与性行为，尤其是在与配偶云岭的亲密关系中。小说描绘了主角在身为高贵女皇、娼妓、婴孩与老妪等角色中的转变，反映出他对自己性别与身份的冲突与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]拿什么拯救你，我的爱人（一）.doc]([附身]拿
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 14f0b0899aaec0e21af44afd4aa7eee2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 魔法, 伪娘, 情欲体验, 身份认同, 自我探索, 女性身体, 爱情关系, 性行为, 角色扮演, 时间旅行, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

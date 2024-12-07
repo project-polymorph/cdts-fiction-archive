@@ -20,7 +20,7 @@ TXT 下载: [[其他]_星耀_第二话_运命觉星之时.docx]([其他]_星耀_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23593 bytes                           |
 | MD5             | 14c5ef310813d6bc7898eb145c18222a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

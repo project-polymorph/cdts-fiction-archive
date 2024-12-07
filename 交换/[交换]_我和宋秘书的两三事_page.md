@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我和宋秘书的两三事.doc]([交换]_我和宋秘书�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 05cd425b5de58037fc9527c635258ab0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

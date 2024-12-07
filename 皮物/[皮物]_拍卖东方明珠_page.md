@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_拍卖东方明珠.docx]([皮物]_拍卖东方明珠.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26093 bytes                           |
 | MD5             | c1fe6a9134cda5100f2dbe82a1ec38e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

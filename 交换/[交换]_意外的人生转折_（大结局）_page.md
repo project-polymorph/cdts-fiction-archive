@@ -22,7 +22,7 @@ TXT 下载: [[交换]_意外的人生转折_（大结局）.doc]([交换]_意外
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | a7f0d7ce8318baae3153efa5ab205779                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

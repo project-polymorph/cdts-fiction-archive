@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】康妮-初级女仆1-4.docx]([变装]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41808 bytes                           |
 | MD5             | 7261ba45ae7b8eda038789e99d531eb9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Monica Graz                               |
 | Region          | 未知                               |

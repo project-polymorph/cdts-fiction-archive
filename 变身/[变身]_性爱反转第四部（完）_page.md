@@ -20,7 +20,7 @@ TXT 下载: [[变身]_性爱反转第四部（完）.docx]([变身]_性爱反转
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19889 bytes                           |
 | MD5             | 46cf9b10c9fb6ccaca17a99abf7a8882                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

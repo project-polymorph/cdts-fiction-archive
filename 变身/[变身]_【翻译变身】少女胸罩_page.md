@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译变身】少女胸罩.doc]([变身]_【翻译变�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 8ba64c15c3f739deb2f48a8ccf701eb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Ann Nonymous                               |
 | Region          | 未知                               |

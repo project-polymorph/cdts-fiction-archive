@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_被入替的女警-白珺篇.docx]([皮物]_被入替的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26709 bytes                           |
 | MD5             | f313c76143224444d278af29bf575eca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

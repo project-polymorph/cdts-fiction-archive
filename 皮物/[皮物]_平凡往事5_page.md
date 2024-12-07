@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_平凡往事5.docx]([皮物]_平凡往事5.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19672 bytes                           |
 | MD5             | fa8e75c16982054d2bb200bc0e7c4b87                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

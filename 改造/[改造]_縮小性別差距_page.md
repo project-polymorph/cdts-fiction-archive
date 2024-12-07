@@ -20,7 +20,7 @@ TXT 下载: [[改造]_縮小性別差距.docx]([改造]_縮小性別差距.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20865 bytes                           |
 | MD5             | c9b2c74970eec1c305c0f935e6401b96                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Roy Del Frink                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_三篇短篇故事.doc]([其他]_三篇短篇故事.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 7023f469df80927ea816cdd09d610229                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

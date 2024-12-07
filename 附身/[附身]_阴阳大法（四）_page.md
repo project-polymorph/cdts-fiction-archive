@@ -20,7 +20,7 @@ TXT 下载: [[附身]_阴阳大法（四）.docx]([附身]_阴阳大法（四）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26267 bytes                           |
 | MD5             | 6fa33013a2b9030db739d9668f2cfb4a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

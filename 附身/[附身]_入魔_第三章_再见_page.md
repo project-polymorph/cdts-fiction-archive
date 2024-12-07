@@ -20,7 +20,7 @@ TXT 下载: [[附身]_入魔_第三章_再见.docx]([附身]_入魔_第三章_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24679 bytes                           |
 | MD5             | 2592294262d8b3e08e6a82a39ac06288                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

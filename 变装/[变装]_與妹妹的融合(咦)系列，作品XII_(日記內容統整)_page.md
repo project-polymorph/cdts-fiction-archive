@@ -20,7 +20,7 @@ TXT 下载: [[变装]_與妹妹的融合(咦)系列，作品XII_(日記內容統
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23666 bytes                           |
 | MD5             | dbad4cae01e8a600b9e6f36de8ae566d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

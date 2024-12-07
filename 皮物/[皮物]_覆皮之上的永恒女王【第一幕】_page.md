@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_覆皮之上的永恒女王【第一幕】.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33933 bytes                           |
 | MD5             | 4d058ede52256714aeed421e2ee9d61e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

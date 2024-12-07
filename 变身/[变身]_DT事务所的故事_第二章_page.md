@@ -20,7 +20,7 @@ TXT 下载: [[变身]_DT事务所的故事_第二章.doc]([变身]_DT事务所�
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 676a1d0530c123ff19549a8ce8449092                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

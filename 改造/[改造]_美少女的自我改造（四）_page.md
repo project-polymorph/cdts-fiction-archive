@@ -20,7 +20,7 @@ TXT 下载: [[改造]_美少女的自我改造（四）.docx]([改造]_美少女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17332 bytes                           |
 | MD5             | d941d785032edc887044e7c43b444ef8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

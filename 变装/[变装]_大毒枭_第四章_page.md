@@ -20,7 +20,7 @@ TXT 下载: [[变装]_大毒枭_第四章.docx]([变装]_大毒枭_第四章.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21624 bytes                           |
 | MD5             | 99741f271704cc35f972a936fbe2c9ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

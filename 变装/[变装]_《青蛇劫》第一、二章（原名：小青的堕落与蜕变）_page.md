@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《青蛇劫》第一、二章（原名：小青的堕落�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | 896df8b64f89172529b9c307346eee99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

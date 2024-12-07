@@ -20,7 +20,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（六）假酒野�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30507 bytes                           |
 | MD5             | f8fc1c60de7d9105f7afaead77887f43                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

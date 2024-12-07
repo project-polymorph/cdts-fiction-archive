@@ -20,7 +20,7 @@ TXT 下载: [[变身]_願望_(原創轉貼).docx]([变身]_願望_(原創轉貼)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26040 bytes                           |
 | MD5             | d708649c214a1caca46910afa8004110                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

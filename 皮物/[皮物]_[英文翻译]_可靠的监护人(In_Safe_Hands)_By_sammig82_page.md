@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[英文翻译]_可靠的监护人(In_Safe_Hands)_By_sammig
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | 0fb416b9d55d6da59285203649f9babd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我家女友不定形【第七章】.doc]([皮物]_我家�
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | 661c59d87c750fbbba8ba9d22ae4c0f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

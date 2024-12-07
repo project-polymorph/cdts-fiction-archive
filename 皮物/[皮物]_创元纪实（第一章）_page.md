@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_创元纪实（第一章）.doc]([皮物]_创元纪实（�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 57e6157a9e6d7e3c0ffdc71a097dbd04                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

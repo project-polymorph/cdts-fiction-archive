@@ -20,7 +20,7 @@ TXT 下载: [[改造]纳米改造计划.doc]([改造]纳米改造计划.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 122880 bytes                           |
 | MD5             | 7b7a855eb7c7d151008be880246e8b86                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | skye1667                               |
 | Region          | 中国大陆                               |

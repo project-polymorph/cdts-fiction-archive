@@ -20,7 +20,7 @@ TXT 下载: [[变身]_仿皮客之小茹篇.docx]([变身]_仿皮客之小茹篇
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30852 bytes                           |
 | MD5             | 642b87af1705b9f5ff6ce3b9e8300996                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

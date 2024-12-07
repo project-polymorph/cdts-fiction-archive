@@ -20,7 +20,7 @@ TXT 下载: [[改造]_新生活（中）522更新两小段老王的故事.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | 20645b2796d7aa443bae2d0b039a1001                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

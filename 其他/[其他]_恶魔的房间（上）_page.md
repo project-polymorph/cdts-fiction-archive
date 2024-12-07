@@ -20,7 +20,7 @@ TXT 下载: [[其他]_恶魔的房间（上）.doc]([其他]_恶魔的房间（�
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 76afb02934986f7bda0a8c96238d713e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

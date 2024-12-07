@@ -20,7 +20,7 @@ TXT 下载: [[变身]_申请上浮_TG手机.docx]([变身]_申请上浮_TG手机
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25317 bytes                           |
 | MD5             | fce1c54ca37c5193cf5dcbba6b030b39                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

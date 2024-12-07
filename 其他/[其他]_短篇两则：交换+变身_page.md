@@ -20,7 +20,7 @@ TXT 下载: [[其他]_短篇两则：交换+变身.docx]([其他]_短篇两则�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30333 bytes                           |
 | MD5             | ff5a4a9613b3523dc00d97fa49e8c35d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 未知                               |

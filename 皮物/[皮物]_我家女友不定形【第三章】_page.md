@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我家女友不定形【第三章】.doc]([皮物]_我家�
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | 9132347193c9d050052d5c168509d549                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

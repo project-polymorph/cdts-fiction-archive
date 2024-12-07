@@ -20,7 +20,7 @@ TXT 下载: [[其他]_第一人称VR超梦，星宫一花_番号：ssls-245.doc]
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 5fd9f2fb12fd4ec1aafa8d16e13d059a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

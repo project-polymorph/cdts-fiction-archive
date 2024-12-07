@@ -20,7 +20,7 @@ TXT 下载: [[附身]_月球惊魂（上）.docx]([附身]_月球惊魂（上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20723 bytes                           |
 | MD5             | f159b9ead788969eb04c12ec662abad0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_我？人妖母亲？（3）.doc]([改造]_我？人妖母
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 63f77dcb2217d95da648d3a991fa872a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

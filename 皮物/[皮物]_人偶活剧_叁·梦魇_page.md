@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人偶活剧_叁·梦魇.docx]([皮物]_人偶活剧_叁·
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30813 bytes                           |
 | MD5             | 3b64cd1f103c488bada76226be86e8eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

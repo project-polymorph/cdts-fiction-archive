@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之种_第十一章-第十二章.doc]([皮物]_皮之�
 | Format          | Microsoft Word Document                               |
 | Size            | 85504 bytes                           |
 | MD5             | eedea2cb32b137b768d8f7b3cdb73e00                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 岚山ＧＯ                               |
 | Region          | 未知                               |

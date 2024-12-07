@@ -20,7 +20,7 @@ TXT 下载: [[催眠]性转催眠——百合性奴学园.doc]([催眠]性转催
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 54d19b4940e8a0e1f6acef3cdd91a631                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lovenatsu                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_妇女的健身房.doc]([变性]_妇女的健身房.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 55e48b364b8766bd592037e3dca51caf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

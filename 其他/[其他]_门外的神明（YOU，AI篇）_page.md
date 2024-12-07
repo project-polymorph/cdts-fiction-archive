@@ -20,7 +20,7 @@ TXT 下载: [[其他]_门外的神明（YOU，AI篇）.doc]([其他]_门外的�
 | Format          | Microsoft Word Document                               |
 | Size            | 93184 bytes                           |
 | MD5             | a9b77e0567e15646efc5c20165c3022e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

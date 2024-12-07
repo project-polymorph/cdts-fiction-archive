@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_ガードマン（？）.docx]([皮物]_ガードマン（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21190 bytes                           |
 | MD5             | 28edf5c5c3547cf7be224c642758e68e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

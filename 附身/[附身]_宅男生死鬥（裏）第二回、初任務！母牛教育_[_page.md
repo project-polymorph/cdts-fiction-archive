@@ -20,7 +20,7 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第二回、初任務！母牛教�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28171 bytes                           |
 | MD5             | 1415fdafe26c9795e75c974ce26afb30                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

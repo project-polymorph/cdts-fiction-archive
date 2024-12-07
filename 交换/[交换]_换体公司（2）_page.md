@@ -20,7 +20,7 @@ TXT 下载: [[交换]_换体公司（2）.docx]([交换]_换体公司（2）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24734 bytes                           |
 | MD5             | 603450185c2528399a56207f75fdfeae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

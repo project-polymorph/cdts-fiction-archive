@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_姐姐进行时1+2.docx]([皮物]_姐姐进行时1+2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28026 bytes                           |
 | MD5             | 30ee8349e647294c7033cb9dccd58a96                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

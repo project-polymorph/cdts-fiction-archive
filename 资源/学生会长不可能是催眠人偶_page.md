@@ -20,7 +20,7 @@ TXT 下载: [学生会长不可能是催眠人偶.doc](学生会长不可能是�
 | Format          | Microsoft Word Document                               |
 | Size            | 117248 bytes                           |
 | MD5             | 69324cae8812685e42e43b3d7011b0c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ghostgoat                               |
 | Region          | 中国大陆                               |

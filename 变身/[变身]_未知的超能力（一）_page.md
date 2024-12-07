@@ -20,7 +20,7 @@ TXT 下载: [[变身]_未知的超能力（一）.docx]([变身]_未知的超能
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19292 bytes                           |
 | MD5             | 69db9a940a9db02ac581d8e20bc13123                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

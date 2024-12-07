@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_两人的入替.doc]([皮物]_两人的入替.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | cd7f76d8916459398f594f655e4c0b5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

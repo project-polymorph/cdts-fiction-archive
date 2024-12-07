@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_面試　　作者efuns.docx]([皮物]_面試　　作者e
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21014 bytes                           |
 | MD5             | 9a1fe8ba5e274c44172a7f3064561817                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | efuns                               |
 | Region          | 未知                               |

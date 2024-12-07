@@ -20,7 +20,7 @@ TXT 下载: [[交换]_狩妖（三）　山魈篇.docx]([交换]_狩妖（三）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 43275 bytes                           |
 | MD5             | 65548e343fca830868be7b0cfaef4a37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

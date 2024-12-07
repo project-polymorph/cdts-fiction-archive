@@ -20,7 +20,7 @@ TXT 下载: [[变身]_合影相机_第五章.doc]([变身]_合影相机_第五�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 085e486108570a7d679f9194ba91e8b5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

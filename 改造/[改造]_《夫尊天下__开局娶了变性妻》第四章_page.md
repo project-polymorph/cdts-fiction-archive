@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下__开局娶了变性妻》第四章.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 52ae243605843f196a1bb5b2b10926c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

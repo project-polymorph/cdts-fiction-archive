@@ -20,7 +20,7 @@ TXT 下载: [[变性]_丹妮的反击（2）（完）——TGI系列之五.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 136728 bytes                           |
 | MD5             | dd4a23777640dd7591794ac2fb344395                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

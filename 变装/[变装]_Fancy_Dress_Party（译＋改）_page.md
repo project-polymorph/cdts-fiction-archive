@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Fancy_Dress_Party（译＋改）.docx]([变装]_Fancy_Dres
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32099 bytes                           |
 | MD5             | f29957f7666812f6fad4d0b8fa7479b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

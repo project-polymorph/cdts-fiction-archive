@@ -20,7 +20,7 @@ TXT 下载: [[附身]_纽带.doc]([附身]_纽带.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 27648 bytes                           |
 | MD5             | 05bf9cfc60b4955b6999a8f5236d6adc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 未知                               |

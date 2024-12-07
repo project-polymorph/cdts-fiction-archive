@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔皮_番外--_罪之章_色欲（上）及劇情整理.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34644 bytes                           |
 | MD5             | c6e8f80496e981f064ec70e8911ba374                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

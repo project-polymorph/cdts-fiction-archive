@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮术士】_十二_伯爵夫人.doc]([皮物]_【皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 29aee30e3144389f80f439aa6f6ccc27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

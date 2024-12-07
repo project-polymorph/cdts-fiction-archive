@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_川崎受难记.docx]([皮物]_川崎受难记.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30590 bytes                           |
 | MD5             | 43f9ba7b7efa1d13f89c4c171d280409                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

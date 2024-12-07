@@ -22,7 +22,7 @@ TXT 下载: [[变身]_比离婚更好的解决方案_(4).doc]([变身]_比离婚
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | f11c8344b133a3db792495229d847cd7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer Allison                               |
 | Region          | 未知                               |

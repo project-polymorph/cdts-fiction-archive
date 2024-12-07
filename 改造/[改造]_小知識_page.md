@@ -20,7 +20,7 @@ TXT 下载: [[改造]_小知識.doc]([改造]_小知識.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 83968 bytes                           |
 | MD5             | e3e2b7f618dfffc9bdd2b8c622c9a514                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Chrystal Wynd                               |
 | Region          | 美国                               |

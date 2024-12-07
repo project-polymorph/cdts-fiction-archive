@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_【三个姐姐都想嫁给我】（1）.doc]([催眠]_【
 | Format          | Microsoft Word Document                               |
 | Size            | 85504 bytes                           |
 | MD5             | 29dd9c422791177597398f35657d2824                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | q344164202                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[附身]_魂槍長篇之車展篇.doc]([附身]_魂槍長篇之車�
 | Format          | Microsoft Word Document                               |
 | Size            | 62464 bytes                           |
 | MD5             | 031a9c22e941d32793637b3db7291ae2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt, S道人                               |
 | Region          | 未知                               |

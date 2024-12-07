@@ -20,7 +20,7 @@ TXT 下载: [[其他]_黑暗英雄傳説_第一卷.docx]([其他]_黑暗英雄�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39199 bytes                           |
 | MD5             | 426d9231a56ecddca2b96906254d5e59                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | FP                               |
 | Region          | 未知                               |

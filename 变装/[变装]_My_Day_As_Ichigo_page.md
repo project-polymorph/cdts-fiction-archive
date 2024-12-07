@@ -20,7 +20,7 @@ TXT 下载: [[变装]_My_Day_As_Ichigo.docx]([变装]_My_Day_As_Ichigo.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21148 bytes                           |
 | MD5             | fc78abdc571c6e3e315952df3d395cf8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

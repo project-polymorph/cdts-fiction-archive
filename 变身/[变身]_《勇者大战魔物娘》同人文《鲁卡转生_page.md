@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《勇者大战魔物娘》同人文《鲁卡转生.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | fd21a2f616a06eee9d86f2d5eebac646                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 初ヶ瀬マキナ                               |
 | Region          | 未知                               |

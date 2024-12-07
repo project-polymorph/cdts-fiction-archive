@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_民国奇遇记（一）（联合创作）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | a7af4ca0b8f8f78b6b1da121eed448c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

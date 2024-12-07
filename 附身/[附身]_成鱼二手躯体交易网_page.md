@@ -20,7 +20,7 @@ TXT 下载: [[附身]_成鱼二手躯体交易网.doc]([附身]_成鱼二手躯�
 | Format          | Microsoft Word Document                               |
 | Size            | 90112 bytes                           |
 | MD5             | 60950838051375d0bf2e612634ac9c44                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

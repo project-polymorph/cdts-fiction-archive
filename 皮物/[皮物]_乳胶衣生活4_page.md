@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_乳胶衣生活4.docx]([皮物]_乳胶衣生活4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18028 bytes                           |
 | MD5             | b40700ee85d080050b7ad225fd9f0849                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

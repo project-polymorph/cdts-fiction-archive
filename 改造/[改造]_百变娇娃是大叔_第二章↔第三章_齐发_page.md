@@ -20,7 +20,7 @@ TXT 下载: [[改造]_百变娇娃是大叔_第二章↔第三章_齐发.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 2780081aba738186b67edf6277e21f13                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

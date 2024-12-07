@@ -20,7 +20,7 @@ TXT 下载: [[交换]_想ひ出のシャッター（番外B）.docx]([交换]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20757 bytes                           |
 | MD5             | 8ecf732a2000acdb87b880a976f773d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 搭杢煉瓦                               |
 | Region          | 未知                               |

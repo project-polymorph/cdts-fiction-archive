@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译改编】惩罚游戏.docx]([改造]_【翻译改
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36859 bytes                           |
 | MD5             | ddf508e18a7aad312eb55fd543d11c2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-SEVEN_(FIN).d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25135 bytes                           |
 | MD5             | 6951dfc82835d482a57231ecb2cfb4a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

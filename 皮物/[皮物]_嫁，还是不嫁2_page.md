@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_嫁，还是不嫁2.docx]([皮物]_嫁，还是不嫁2.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26980 bytes                           |
 | MD5             | 4bf4376815113549063a663b1a9fbfb8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

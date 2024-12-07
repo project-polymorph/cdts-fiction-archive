@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮之使徒III】第三章！参见！.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 822e8a35e8404c65ecfe83a70475fad0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

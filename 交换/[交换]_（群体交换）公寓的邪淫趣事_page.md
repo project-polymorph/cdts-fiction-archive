@@ -20,7 +20,7 @@ TXT 下载: [[交换]_（群体交换）公寓的邪淫趣事.doc]([交换]_（�
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | 06c0fe9bbd7303bed02ce21e7172df49                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

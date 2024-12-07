@@ -20,7 +20,7 @@ TXT 下载: [[交换]_与病娇妹妹的互换（上）.doc]([交换]_与病娇�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | ec162a819ecf33478cb72c173d1742d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

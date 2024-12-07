@@ -20,7 +20,7 @@ TXT 下载: [[变性]_南有乔木.doc]([变性]_南有乔木.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 106496 bytes                           |
 | MD5             | b05f647f89193189dd4b0b0900052f1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

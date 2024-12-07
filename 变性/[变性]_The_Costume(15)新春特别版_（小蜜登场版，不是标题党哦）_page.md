@@ -20,7 +20,7 @@ TXT 下载: [[变性]_The_Costume(15)新春特别版_（小蜜登场版，不是
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18404 bytes                           |
 | MD5             | bec095b385fc392e2dda4d929b397462                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

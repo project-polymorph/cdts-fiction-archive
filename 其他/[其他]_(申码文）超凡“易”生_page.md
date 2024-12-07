@@ -20,7 +20,7 @@ TXT 下载: [[其他]_(申码文）超凡“易”生.doc]([其他]_(申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 94720 bytes                           |
 | MD5             | 42cb78a72a85d6ab8cc08a8588f27572                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

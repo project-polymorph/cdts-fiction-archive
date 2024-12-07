@@ -20,7 +20,7 @@ TXT 下载: [[变身]_丝婚_[一].docx]([变身]_丝婚_[一].docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20607 bytes                           |
 | MD5             | ebcabebb362f4a6748727e9b24066301                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

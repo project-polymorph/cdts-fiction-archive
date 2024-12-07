@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_究極易容術（二）.docx]([皮物]_究極易容術（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27111 bytes                           |
 | MD5             | 7831024eb3e6a6596c707f1db1e7f6ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

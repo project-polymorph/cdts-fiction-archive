@@ -20,7 +20,7 @@ TXT 下载: [[交换]_埃及探秘.doc]([交换]_埃及探秘.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 494080 bytes                           |
 | MD5             | 6369d0cf549cb544d2aec7ec7809fef5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我，穿越者（更新LV2）（依然无色）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 63552 bytes                           |
 | MD5             | 13d0d0f0c431321d026d70e4f423de53                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [疯狂的报复.doc](疯狂的报复.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 1bd18fa252d2aa3e624c5dae5e26ffc3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 理绘子                               |
 | Region          | 未知                               |

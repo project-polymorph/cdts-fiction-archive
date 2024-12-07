@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_AOW----乱祸之源.doc]([皮物]_AOW----乱祸之源.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 222cb25f495fbe493b8308bad73c98b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

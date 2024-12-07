@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案5.doc]([皮物]_【碟中
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | ccecc8cb8888adc05d4dd24844ed436c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | mooncd                               |
 | Region          | 未知                               |

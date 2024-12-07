@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【新作】天使下的秘密.doc]([皮物]_【新作】�
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | e3083e40234ea8739f978008f493923d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

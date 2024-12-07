@@ -20,7 +20,7 @@ TXT 下载: [[附身]_猎人前传之鬼医（下）.docx]([附身]_猎人前传
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47839 bytes                           |
 | MD5             | 6ba50160e93c56e3be32e7caa362c02d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

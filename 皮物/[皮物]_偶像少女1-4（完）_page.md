@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_偶像少女1-4（完）.docx]([皮物]_偶像少女1-4（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36823 bytes                           |
 | MD5             | 2bee39c40c3990102b977b6c64ea78ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | amber2006                               |
 | Region          | 未知                               |

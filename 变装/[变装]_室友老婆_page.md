@@ -20,7 +20,7 @@ TXT 下载: [[变装]_室友老婆.docx]([变装]_室友老婆.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52839 bytes                           |
 | MD5             | 69d9cba529650be0ac302be0ba9cd30d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

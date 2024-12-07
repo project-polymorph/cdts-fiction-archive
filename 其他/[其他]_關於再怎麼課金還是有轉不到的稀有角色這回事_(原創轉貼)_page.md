@@ -20,7 +20,7 @@ TXT 下载: [[其他]_關於再怎麼課金還是有轉不到的稀有角色這�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49643 bytes                           |
 | MD5             | a1edfe9456a3d4c8e1a02d4d51ffc320                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

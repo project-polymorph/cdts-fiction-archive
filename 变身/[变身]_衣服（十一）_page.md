@@ -20,7 +20,7 @@ TXT 下载: [[变身]_衣服（十一）.doc]([变身]_衣服（十一）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 67072 bytes                           |
 | MD5             | b60bdeecd913cfd58569df1c1f59801e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

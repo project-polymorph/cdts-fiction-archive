@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]药丸-04（完结篇）.docx]([变身]_[翻译]�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26377 bytes                           |
 | MD5             | 41698a8b9c4cf2f9ac7d243b1dc3f530                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Karen Albright                               |
 | Region          | 未知                               |

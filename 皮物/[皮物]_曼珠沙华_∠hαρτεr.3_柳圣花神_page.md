@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.3_柳圣花神.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23680 bytes                           |
 | MD5             | 137d5e810bb9310de610bf8254c17822                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

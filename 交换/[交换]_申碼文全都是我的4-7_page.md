@@ -20,7 +20,7 @@ TXT 下载: [[交换]_申碼文全都是我的4-7.doc]([交换]_申碼文全都�
 | Format          | Microsoft Word Document                               |
 | Size            | 87552 bytes                           |
 | MD5             | 61f69301da0e35308c89071473f0aa25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

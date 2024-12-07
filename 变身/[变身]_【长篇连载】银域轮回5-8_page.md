@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【长篇连载】银域轮回5-8.doc]([变身]_【长篇�
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | 843cfbc1891ba5a1361ac4bc2f64db5d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 口吞日月                               |
 | Region          | 未知                               |

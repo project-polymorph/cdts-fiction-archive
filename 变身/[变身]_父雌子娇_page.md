@@ -20,7 +20,7 @@ TXT 下载: [[变身]_父雌子娇.docx]([变身]_父雌子娇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 79320 bytes                           |
 | MD5             | b27531d0e0fd674c541a12e1fc821420                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_河神.doc]([变身]_河神.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 97280 bytes                           |
 | MD5             | c9a27b3f46a498a074562fe9cba7bbbb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

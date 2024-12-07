@@ -22,7 +22,7 @@ TXT 下载: [[变装]_【翻译】爱屋及乌01.docx]([变装]_【翻译】爱�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22117 bytes                           |
 | MD5             | af2b8b7fedcfb6443162a3c70e03e96a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

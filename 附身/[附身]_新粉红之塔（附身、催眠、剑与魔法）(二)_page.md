@@ -20,7 +20,7 @@ TXT 下载: [[附身]_新粉红之塔（附身、催眠、剑与魔法）(二).d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 74613 bytes                           |
 | MD5             | e5a39e304d172ca8f76d102a0a78e283                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

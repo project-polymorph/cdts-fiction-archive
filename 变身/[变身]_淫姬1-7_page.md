@@ -20,7 +20,7 @@ TXT 下载: [[变身]_淫姬1-7.docx]([变身]_淫姬1-7.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46982 bytes                           |
 | MD5             | a8c7b1034f86371e69d82b5d71fbb685                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Daisy                               |
 | Region          | 未知                               |

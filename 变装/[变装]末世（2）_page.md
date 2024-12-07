@@ -20,7 +20,7 @@ TXT 下载: [[变装]末世（2）.doc]([变装]末世（2）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 17c245aea595a2ab4605ece864e99d3a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

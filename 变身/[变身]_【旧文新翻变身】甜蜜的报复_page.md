@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【旧文新翻变身】甜蜜的报复.doc]([变身]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | d0a43e431112baf3986789eb2ad78fd2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kristen Kitty与露娜·埃葵斯                               |
 | Region          | 未知                               |

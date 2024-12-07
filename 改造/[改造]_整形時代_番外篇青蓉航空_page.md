@@ -20,7 +20,7 @@ TXT 下载: [[改造]_整形時代_番外篇青蓉航空.docx]([改造]_整形�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52763 bytes                           |
 | MD5             | 59799ca6e4031dece419111465fcdfc4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

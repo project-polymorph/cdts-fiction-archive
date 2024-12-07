@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮物援交.docx]([皮物]_皮物援交.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28098 bytes                           |
 | MD5             | 44a5f7676ba71e3cc2f6175b43d216bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

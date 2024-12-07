@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的伪娘系统.doc]([其他]_我的伪娘系统.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | fa0e73aa73c9c6a060f43a64390489d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

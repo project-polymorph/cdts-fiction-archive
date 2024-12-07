@@ -20,7 +20,7 @@ TXT 下载: [[附身]_重生破道第三章深山救人搏妖精，古观真人�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27622 bytes                           |
 | MD5             | 9fb5aef5893d8afa36094108e948bdb4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

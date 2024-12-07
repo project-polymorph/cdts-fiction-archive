@@ -20,7 +20,7 @@ TXT 下载: [[交换]_《夫妻的奇妙日常——不完整的交换》续写.
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | fd3e00e0f39b81a7bd06b3fb38aa04a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

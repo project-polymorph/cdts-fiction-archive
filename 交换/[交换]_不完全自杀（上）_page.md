@@ -20,7 +20,7 @@ TXT 下载: [[交换]_不完全自杀（上）.doc]([交换]_不完全自杀（�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 17df26a487b325748f2ada10ed4dd43d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

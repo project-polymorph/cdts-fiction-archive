@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_碟中谍--叛国（三）.docx]([皮物]_碟中谍--叛�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21738 bytes                           |
 | MD5             | ee3c52145cd3b8f02b8b6bf44812ecb9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

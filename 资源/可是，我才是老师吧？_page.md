@@ -20,7 +20,7 @@ TXT 下载: [可是，我才是老师吧？.docx](可是，我才是老师吧？
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48337 bytes                           |
 | MD5             | e4be6e7943ce3b1412d8aff21e01447b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

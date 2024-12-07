@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译】西姆斯夫人制造了些改变.doc]([改造
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | b318eaa6f4aeea828039984004ab5f46                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

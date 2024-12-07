@@ -20,7 +20,7 @@ TXT 下载: [[交换]_[换头]_为了卧底任务我只好跟丰乳肥臀的阿�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19671 bytes                           |
 | MD5             | 89b2b76ac52c32f7c834f43ab02460ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_說不定,我被偽青梅竹馬推了入坑(上).docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30814 bytes                           |
 | MD5             | e884dfb25d9b4a911a69f209f5960dc6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

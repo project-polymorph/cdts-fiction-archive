@@ -20,7 +20,7 @@ TXT 下载: [[变身]_比离婚更好的解决方案（2）.docx]([变身]_比�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25522 bytes                           |
 | MD5             | 6de09284e3e1e77a39b64610f9ed5c0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

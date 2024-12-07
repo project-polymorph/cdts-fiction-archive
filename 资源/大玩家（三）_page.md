@@ -20,7 +20,7 @@ TXT 下载: [大玩家（三）.doc](大玩家（三）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 86528 bytes                           |
 | MD5             | 0924ee5113ed70c2ccf295d19a0482fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

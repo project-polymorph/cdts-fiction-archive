@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附身的理论基础及实践操作.doc]([附身]_附身�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | d6e1444b905136354653778f07e84976                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

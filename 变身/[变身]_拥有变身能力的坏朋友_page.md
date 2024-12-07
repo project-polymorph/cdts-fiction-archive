@@ -20,7 +20,7 @@ TXT 下载: [[变身]_拥有变身能力的坏朋友.docx]([变身]_拥有变身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21799 bytes                           |
 | MD5             | 9103920c98249a7b17d10b604fe010d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

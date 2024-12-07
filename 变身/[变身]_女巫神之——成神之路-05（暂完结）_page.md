@@ -20,7 +20,7 @@ TXT 下载: [[变身]_女巫神之——成神之路-05（暂完结）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21392 bytes                           |
 | MD5             | bd6837d9dba7c785238686d3258db609                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

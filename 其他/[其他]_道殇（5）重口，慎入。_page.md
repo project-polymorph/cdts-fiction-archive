@@ -20,7 +20,7 @@ TXT 下载: [[其他]_道殇（5）重口，慎入。.doc]([其他]_道殇（5�
 | Format          | Microsoft Word Document                               |
 | Size            | 62976 bytes                           |
 | MD5             | 209bd22664a3018ff3e6b253cb707c19                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

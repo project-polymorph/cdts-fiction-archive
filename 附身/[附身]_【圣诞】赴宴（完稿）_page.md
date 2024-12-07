@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【圣诞】赴宴（完稿）.doc]([附身]_【圣诞】�
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 77197ff5b0a3713b53db5cd2b274d5f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

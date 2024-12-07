@@ -20,7 +20,7 @@ TXT 下载: [[交换]_身体强盗part_1（人物介绍_加第0章1话）.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20212 bytes                           |
 | MD5             | b069367895070fff3b4c6c7dbf812042                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

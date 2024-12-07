@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之马自达6.doc]([皮物]_皮之马自达6.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | 4f0b0696033ed99a2332a9560eadf1e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_人皮+附身双主角《色，声，香，味，细滑》
 | Format          | Microsoft Word Document                               |
 | Size            | 82432 bytes                           |
 | MD5             | 52b8db56d1ebf00c31a0bd479060f41f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

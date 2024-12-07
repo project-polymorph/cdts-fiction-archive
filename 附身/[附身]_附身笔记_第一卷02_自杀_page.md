@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附身笔记_第一卷02_自杀.doc]([附身]_附身笔记
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 674374fa29078b51b0629df2297053aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

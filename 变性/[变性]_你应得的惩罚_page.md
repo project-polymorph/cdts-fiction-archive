@@ -20,7 +20,7 @@ TXT 下载: [[变性]_你应得的惩罚.doc]([变性]_你应得的惩罚.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | dd1eb0b203ebcedfcd5fa32132768ad3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | meganprincess                               |
 | Region          | 未知                               |

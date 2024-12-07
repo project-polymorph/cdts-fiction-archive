@@ -20,7 +20,7 @@ TXT 下载: [[变身]_沉沉沉，放错区了.doc]([变身]_沉沉沉，放错�
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 01d76ec1c5d993417019816acd2b3a8c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

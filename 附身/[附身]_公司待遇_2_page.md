@@ -20,7 +20,7 @@ TXT 下载: [[附身]_公司待遇_2.docx]([附身]_公司待遇_2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31777 bytes                           |
 | MD5             | d33e1c15d356944e57bb5d96c21e51c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

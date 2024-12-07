@@ -20,7 +20,7 @@ TXT 下载: [[交换]_直到实现我的愿望为止.docx]([交换]_直到实现
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35854 bytes                           |
 | MD5             | 766b376768f038a3dfb651e0b33972f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_创作、平衡与控制（第一章）.doc]([皮物]_创�
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | 1830e449d141ba93efcc511e866e3e25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

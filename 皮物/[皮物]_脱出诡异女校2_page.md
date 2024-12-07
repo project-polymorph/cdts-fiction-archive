@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_脱出诡异女校2.docx]([皮物]_脱出诡异女校2.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21824 bytes                           |
 | MD5             | deed62ff5954d2f7d5329ed8168a3317                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

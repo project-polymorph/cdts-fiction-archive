@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身人生路（第十一章）.doc]([变身]_变身人�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 9ece095aa5fea6ecf6240aa856acca17                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

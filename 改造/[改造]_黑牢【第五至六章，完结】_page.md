@@ -20,7 +20,7 @@ TXT 下载: [[改造]_黑牢【第五至六章，完结】.doc]([改造]_黑牢�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | ffc92b910021a1fb5cf757194e1f9aeb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

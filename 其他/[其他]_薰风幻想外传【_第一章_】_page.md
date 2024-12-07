@@ -20,7 +20,7 @@ TXT 下载: [[其他]_薰风幻想外传【_第一章_】.docx]([其他]_薰风�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24539 bytes                           |
 | MD5             | 876b4540e6e8a3b441ffa3a99e61168c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

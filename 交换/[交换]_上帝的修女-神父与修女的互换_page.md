@@ -20,7 +20,7 @@ TXT 下载: [[交换]_上帝的修女-神父与修女的互换.docx]([交换]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33550 bytes                           |
 | MD5             | 21d5b0f97be8bbcd20a44238f31e2e32                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

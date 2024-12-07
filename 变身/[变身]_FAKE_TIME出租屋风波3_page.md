@@ -20,7 +20,7 @@ TXT 下载: [[变身]_FAKE_TIME出租屋风波3.doc]([变身]_FAKE_TIME出租屋
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 2e9f5cc6094f82d4478a2f5dd240c732                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

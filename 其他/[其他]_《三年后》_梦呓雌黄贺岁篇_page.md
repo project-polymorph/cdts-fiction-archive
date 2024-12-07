@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《三年后》_梦呓雌黄贺岁篇.docx]([其他]_《�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26326 bytes                           |
 | MD5             | cc39fa9ac0fa510690f808f9d76fe61c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

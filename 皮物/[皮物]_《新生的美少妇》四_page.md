@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《新生的美少妇》四.doc]([皮物]_《新生的美�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | acf9a2a57de63a375c909958f500a758                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

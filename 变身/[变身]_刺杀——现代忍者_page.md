@@ -20,7 +20,7 @@ TXT 下载: [[变身]_刺杀——现代忍者.doc]([变身]_刺杀——现代�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 571105cab651c8fb12f7a9ce8c778854                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

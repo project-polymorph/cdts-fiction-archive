@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第六章_陈梦溪逃脱计划.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26389 bytes                           |
 | MD5             | 66af6f514589b445a656b48a7a971cd5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

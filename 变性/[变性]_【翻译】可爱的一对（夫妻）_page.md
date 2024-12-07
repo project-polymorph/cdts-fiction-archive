@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】可爱的一对（夫妻）.docx]([变性]_【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29874 bytes                           |
 | MD5             | b7beca6deb9463826511e886c5401d89                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

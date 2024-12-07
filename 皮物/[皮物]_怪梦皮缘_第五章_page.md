@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪梦皮缘_第五章.doc]([皮物]_怪梦皮缘_第五�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 6a49cce48d549add897b94a3afb1f335                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

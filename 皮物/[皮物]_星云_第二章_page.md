@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星云_第二章.docx]([皮物]_星云_第二章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16747 bytes                           |
 | MD5             | 19ddd641ca2e0e3e41da982b763ffa00                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_老婆大人不在的星期天番外3（其三）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22456 bytes                           |
 | MD5             | 2540dd4c6b47afc27f6c0c776d904cd6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

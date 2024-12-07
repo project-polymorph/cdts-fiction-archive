@@ -22,7 +22,7 @@ TXT 下载: [[附身]_聚餐(上).docx]([附身]_聚餐(上).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17924 bytes                           |
 | MD5             | 9b8ac6f379c785ac23243af36e009775                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

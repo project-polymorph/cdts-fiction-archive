@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_槲寄生-平安夜_(活動結束，正文已發上於26�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15448 bytes                           |
 | MD5             | b6c60ce9fba250865c72af1526948923                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | dany                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_水科技.docx]([附身]_水科技.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 98590 bytes                           |
 | MD5             | 6d25e4355e320cc37f6eb0e567f0c054                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

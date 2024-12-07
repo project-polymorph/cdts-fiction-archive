@@ -20,7 +20,7 @@ TXT 下载: [[变装]女同俱樂部（六）.doc]([变装]女同俱樂部（六
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 3f326b41ce2d72421566ca9a1b2cc36c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

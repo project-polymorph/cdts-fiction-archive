@@ -20,7 +20,7 @@ TXT 下载: [[交换]_非我所愿（下）.docx]([交换]_非我所愿（下）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46685 bytes                           |
 | MD5             | 168c3a3f362975e3e0d0a46caaa075e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

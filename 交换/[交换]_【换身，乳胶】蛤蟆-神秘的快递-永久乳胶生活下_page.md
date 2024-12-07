@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【换身，乳胶】蛤蟆-神秘的快递-永久乳胶�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 93913 bytes                           |
 | MD5             | d473a55ca2636cceefafab83a37537f7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 蛤蟆王子                               |
 | Region          | 未知                               |

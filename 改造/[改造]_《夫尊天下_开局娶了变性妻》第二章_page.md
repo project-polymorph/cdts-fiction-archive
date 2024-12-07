@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下_开局娶了变性妻》第二章.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | eb22eb938bf8443fd7b6be0a0b6f5d2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | q344164202                               |
 | Region          | 中国大陆                               |

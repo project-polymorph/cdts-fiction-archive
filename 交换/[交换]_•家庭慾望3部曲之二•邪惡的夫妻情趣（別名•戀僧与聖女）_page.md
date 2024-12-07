@@ -20,7 +20,7 @@ TXT 下载: [[交换]_•家庭慾望3部曲之二•邪惡的夫妻情趣（別
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 43f46399b842c648c162e9eaf9afe1ad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

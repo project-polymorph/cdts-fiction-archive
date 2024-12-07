@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【緩慢連載中】Project_S_(第十節_-_傻瓜).doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 360960 bytes                           |
 | MD5             | 558858314174acdb1e3e356ce9660ce9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 香港                               |

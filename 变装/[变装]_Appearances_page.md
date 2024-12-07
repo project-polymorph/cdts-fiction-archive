@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Appearances.doc]([变装]_Appearances.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 119296 bytes                           |
 | MD5             | 63df6fff66650dac586597b21a1f082e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Belladonna                               |
 | Region          | 未知                               |

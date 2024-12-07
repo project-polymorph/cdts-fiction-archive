@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【碟中谍征文活动】戈德曼一家_（The_Family_G
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36046 bytes                           |
 | MD5             | 3c3fd4493b98008e0d1b691a069049a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lombardjunvi，翻译：Dark Angel                               |
 | Region          | 未知                               |

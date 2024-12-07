@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_精灵之歌_第二章.docx]([皮物]_精灵之歌_第二�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31569 bytes                           |
 | MD5             | 4c1bb73aec0f071e0e40e644fd04071d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

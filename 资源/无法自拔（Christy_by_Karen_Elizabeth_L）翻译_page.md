@@ -20,7 +20,7 @@ TXT 下载: [无法自拔（Christy_by_Karen_Elizabeth_L）翻译.doc](无法自
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 39a81c27596492919b7e2f40a7561e18                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Karen Elizabeth L                               |
 | Region          | 未知                               |

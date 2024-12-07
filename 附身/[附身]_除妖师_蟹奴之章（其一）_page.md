@@ -20,7 +20,7 @@ TXT 下载: [[附身]_除妖师_蟹奴之章（其一）.doc]([附身]_除妖师
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 7af6d1bd6a91e30e8e22c14174b4e15d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

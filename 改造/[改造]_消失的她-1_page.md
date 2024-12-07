@@ -22,7 +22,7 @@ TXT 下载: [[改造]_消失的她-1.docx]([改造]_消失的她-1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20200 bytes                           |
 | MD5             | 7b9ae66fc328121701c68b6ff7a9d884                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

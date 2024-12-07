@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——第五天_game_over……
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39817 bytes                           |
 | MD5             | 90639f61f795f52bf458eba6d278ce15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

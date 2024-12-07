@@ -20,7 +20,7 @@ TXT 下载: [[变身]_深夜不要去书店.doc]([变身]_深夜不要去书店.
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | d172f42bb359308ca3a68d0aa56ce776                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第1章_杰�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 6abf8e43c69973d7d475138cd196b0ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

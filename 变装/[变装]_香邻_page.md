@@ -20,7 +20,7 @@ TXT 下载: [[变装]_香邻.docx]([变装]_香邻.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18835 bytes                           |
 | MD5             | 32176f77833c82e2a7a4b565dcf5fb88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

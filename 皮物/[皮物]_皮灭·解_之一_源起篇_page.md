@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮灭·解_之一_源起篇.docx]([皮物]_皮灭·解_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23260 bytes                           |
 | MD5             | 6fb0581cfc97e183c6ccc36dbe273af5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

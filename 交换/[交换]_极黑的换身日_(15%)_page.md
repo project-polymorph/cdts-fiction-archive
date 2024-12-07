@@ -20,7 +20,7 @@ TXT 下载: [[交换]_极黑的换身日_(15%).docx]([交换]_极黑的换身日
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19739 bytes                           |
 | MD5             | caf4422fba8bd55fc90473756477bc50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附身的女高中生与女警.doc]([附身]_附身的女�
 | Format          | Microsoft Word Document                               |
 | Size            | 131584 bytes                           |
 | MD5             | bea76d143f58a1e94ce62f5c7047407d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ＣH君                               |
 | Region          | 未知                               |

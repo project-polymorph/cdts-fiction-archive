@@ -20,7 +20,7 @@ TXT 下载: [[附身]_基因，变形虫_[.docx]([附身]_基因，变形虫_[.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29499 bytes                           |
 | MD5             | cf6307a3b2f7d175603094b6662e7bc0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

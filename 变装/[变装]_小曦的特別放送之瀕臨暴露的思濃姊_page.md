@@ -20,7 +20,7 @@ TXT 下载: [[变装]_小曦的特別放送之瀕臨暴露的思濃姊.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20933 bytes                           |
 | MD5             | ec35455257e242fa731b412e2642e7c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

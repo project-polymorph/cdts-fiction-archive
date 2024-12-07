@@ -20,7 +20,7 @@ TXT 下载: [[改造]_万事通三.doc]([改造]_万事通三.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | 06eff2c4f98f60cb6e5d58520c5d6c26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lwen23                               |
 | Region          | 未知                               |

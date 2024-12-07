@@ -20,7 +20,7 @@ TXT 下载: [[变身]_玩着文明的我发现人类一点也不可爱.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19100 bytes                           |
 | MD5             | 0616ebb9f766d054c9ab41be67ad2aac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

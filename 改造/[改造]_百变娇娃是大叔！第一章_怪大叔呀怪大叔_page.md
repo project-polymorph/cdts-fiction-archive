@@ -20,7 +20,7 @@ TXT 下载: [[改造]_百变娇娃是大叔！第一章_怪大叔呀怪大叔.do
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 06133e5c7264af8db46c3bad88c176e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

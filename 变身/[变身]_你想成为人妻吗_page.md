@@ -20,7 +20,7 @@ TXT 下载: [[变身]_你想成为人妻吗.doc]([变身]_你想成为人妻吗.
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 5fb6af873619faac5685fb555a9ea738                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

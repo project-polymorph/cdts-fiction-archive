@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文重发】女孩子真可爱啊.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40988 bytes                           |
 | MD5             | fd0f818eb24203ec59cae36ff4831a17                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

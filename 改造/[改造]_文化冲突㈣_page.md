@@ -20,7 +20,7 @@ TXT 下载: [[改造]_文化冲突㈣.docx]([改造]_文化冲突㈣.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17703 bytes                           |
 | MD5             | 88675e6b9dcce89d587c0d712c115071                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

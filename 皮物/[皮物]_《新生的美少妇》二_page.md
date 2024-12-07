@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《新生的美少妇》二.doc]([皮物]_《新生的美�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | a4ca51f6a7d14f61f505e6b4534639da                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

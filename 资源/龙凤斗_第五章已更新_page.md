@@ -20,7 +20,7 @@ TXT 下载: [龙凤斗_第五章已更新.doc](龙凤斗_第五章已更新.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | ed953a2b2e7e64dee4c672961a1e40c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

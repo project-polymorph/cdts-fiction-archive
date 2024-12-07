@@ -20,7 +20,7 @@ TXT 下载: [[交换]_吹哨人（转命簿第二季）.doc]([交换]_吹哨人�
 | Format          | Microsoft Word Document                               |
 | Size            | 252928 bytes                           |
 | MD5             | 1f5a80a0b1d62e17ef5f576d2318f939                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

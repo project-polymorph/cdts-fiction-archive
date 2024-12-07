@@ -20,7 +20,7 @@ TXT 下载: [[变性]_丹妮的报复（1）——TGI系列之四.docx]([变性]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34731 bytes                           |
 | MD5             | 27ba8d7cab4fbe957a8c5120cd51e9db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lana B.                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_(申码文重发)我的基友会附身.doc]([附身]_(申�
 | Format          | Microsoft Word Document                               |
 | Size            | 77312 bytes                           |
 | MD5             | c2bcbf87dc820008e9de341540f0e8d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

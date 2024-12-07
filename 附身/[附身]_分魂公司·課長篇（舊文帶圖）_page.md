@@ -20,7 +20,7 @@ TXT 下载: [[附身]_分魂公司·課長篇（舊文帶圖）.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29998 bytes                           |
 | MD5             | f64d3f244db0cae1724602e3cd909f5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

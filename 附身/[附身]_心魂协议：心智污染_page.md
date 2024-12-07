@@ -20,7 +20,7 @@ TXT 下载: [[附身]_心魂协议：心智污染.doc]([附身]_心魂协议：�
 | Format          | Microsoft Word Document                               |
 | Size            | 86528 bytes                           |
 | MD5             | d101c6e82fca58fa6e41c49cacca4e05                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

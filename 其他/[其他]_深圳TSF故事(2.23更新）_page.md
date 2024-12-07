@@ -20,7 +20,7 @@ TXT 下载: [[其他]_深圳TSF故事(2.23更新）.docx]([其他]_深圳TSF故�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 96145 bytes                           |
 | MD5             | d190aff4cffe6531e20158d6a6eb13b8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

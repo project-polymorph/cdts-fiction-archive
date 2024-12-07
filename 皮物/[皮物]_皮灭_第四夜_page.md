@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮灭_第四夜.docx]([皮物]_皮灭_第四夜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32065 bytes                           |
 | MD5             | 2ce916bdcaca2c8c4df7efa095908523                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx31                               |
 | Region          | 未知                               |

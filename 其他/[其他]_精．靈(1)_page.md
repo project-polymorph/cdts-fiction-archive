@@ -20,7 +20,7 @@ TXT 下载: [[其他]_精．靈(1).docx]([其他]_精．靈(1).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37854 bytes                           |
 | MD5             | 0a891067174e6aaa0315fa9ded5d430c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

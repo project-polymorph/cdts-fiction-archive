@@ -20,7 +20,7 @@ TXT 下载: [[变性]_绝密身份（1—5）.docx]([变性]_绝密身份（1—
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 76359 bytes                           |
 | MD5             | b6a00fb0f6027626632cb3f1b4855c31                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

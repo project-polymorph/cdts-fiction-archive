@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】变成女仆的男友.doc]([变身]_【翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 93c706eb5a139ccf9d76faba07e37ded                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | DawnOverNewbridge                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_「翻译」「变身」人生改变笔记.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 35720b93859196d7bd0f86b5345a9cc5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

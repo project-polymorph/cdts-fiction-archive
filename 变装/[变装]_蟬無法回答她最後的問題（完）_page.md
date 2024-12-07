@@ -20,7 +20,7 @@ TXT 下载: [[变装]_蟬無法回答她最後的問題（完）.doc]([变装]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 76488d748608de2c78b250f5043a2cd7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

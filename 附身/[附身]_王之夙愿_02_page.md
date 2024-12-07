@@ -20,7 +20,7 @@ TXT 下载: [[附身]_王之夙愿_02.doc]([附身]_王之夙愿_02.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | e111d42654494933fb0358c0c1092b23                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

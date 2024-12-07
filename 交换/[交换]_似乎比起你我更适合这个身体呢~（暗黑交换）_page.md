@@ -20,7 +20,7 @@ TXT 下载: [[交换]_似乎比起你我更适合这个身体呢~（暗黑交换
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30342 bytes                           |
 | MD5             | 5c9b32a4dbd752888a95faf31a5ee66d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_碟中谍基因密码（文字版）_原作者：凌寒冰
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55824 bytes                           |
 | MD5             | ffac63a179d0f59e36e3854a45b650fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 凌寒冰bing                               |
 | Region          | 中国大陆                               |

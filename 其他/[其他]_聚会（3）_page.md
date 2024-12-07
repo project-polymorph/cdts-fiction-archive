@@ -20,7 +20,7 @@ TXT 下载: [[其他]_聚会（3）.docx]([其他]_聚会（3）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19151 bytes                           |
 | MD5             | 5dc094e4d10d7f8ddf82740279b5ad60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

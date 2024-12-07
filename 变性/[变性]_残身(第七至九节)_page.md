@@ -20,7 +20,7 @@ TXT 下载: [[变性]_残身(第七至九节).doc]([变性]_残身(第七至九�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 007db6019765be24f2fcf030dce53497                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

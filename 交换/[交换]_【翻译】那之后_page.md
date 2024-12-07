@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【翻译】那之后.doc]([交换]_【翻译】那之后.
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 822992f14961f0b3cec384f614279741                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《七年女人》3.doc]([变装]_《七年女人》3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 82432 bytes                           |
 | MD5             | 193c565983b232434c334d37ff412e82                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

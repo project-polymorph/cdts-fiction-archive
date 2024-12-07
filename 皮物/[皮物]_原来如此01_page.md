@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_原来如此01.docx]([皮物]_原来如此01.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19784 bytes                           |
 | MD5             | 8cbb3d585e2bf4b844f941931992e0c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

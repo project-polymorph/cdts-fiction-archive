@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第十五回.doc](《金枝奇缘》第十五回.
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | ab80f3df34ed94dbb382e55b3ee78026                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_夜行者－預告片.docx]([其他]_夜行者－預告片
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19735 bytes                           |
 | MD5             | 691abfdd13c0401c5b859305584a31ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

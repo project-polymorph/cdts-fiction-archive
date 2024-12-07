@@ -20,7 +20,7 @@ TXT 下载: [[改造]_基因技术的危害3.doc]([改造]_基因技术的危害
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | c33e68c019791b61a9d2bb2e9ba6eb96                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

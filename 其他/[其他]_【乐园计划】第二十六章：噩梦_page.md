@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【乐园计划】第二十六章：噩梦.docx]([其他]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25747 bytes                           |
 | MD5             | ee0b410bfff9753899f91139f5025147                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第一节(7-12
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18875 bytes                           |
 | MD5             | fa3bf3ee4aae37d48df7ac7b0eca971b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

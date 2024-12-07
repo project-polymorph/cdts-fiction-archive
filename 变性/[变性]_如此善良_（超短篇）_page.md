@@ -20,7 +20,7 @@ TXT 下载: [[变性]_如此善良_（超短篇）.docx]([变性]_如此善良_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15627 bytes                           |
 | MD5             | b434aaf940ea92167865d5d2b8d98781                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

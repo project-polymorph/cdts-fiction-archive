@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_skin_trade2（7~9）.docx]([皮物]_skin_trade2（7~9）.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27144 bytes                           |
 | MD5             | 1405374c5f1c3138cb1d9cf37d49d467                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 嵐山GO / 呼号8                               |
 | Region          | 未知                               |

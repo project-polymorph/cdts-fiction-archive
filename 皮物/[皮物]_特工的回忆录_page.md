@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_特工的回忆录.docx]([皮物]_特工的回忆录.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36321 bytes                           |
 | MD5             | 2b20ef283601459f7ab21a4dff1c7356                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

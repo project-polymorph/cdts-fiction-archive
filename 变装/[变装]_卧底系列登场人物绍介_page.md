@@ -20,7 +20,7 @@ TXT 下载: [[变装]_卧底系列登场人物绍介.docx]([变装]_卧底系列
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18868 bytes                           |
 | MD5             | 32460d03b0a6082255aff52e866d199c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

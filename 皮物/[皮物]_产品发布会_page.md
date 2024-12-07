@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_产品发布会.doc]([皮物]_产品发布会.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 0d1f0e7e97c6ec63c615d1ed6d63c1d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

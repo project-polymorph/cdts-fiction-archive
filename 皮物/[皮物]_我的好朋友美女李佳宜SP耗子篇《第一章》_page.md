@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜SP耗子篇《第一章》.d
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 76c0b42f406fb06c210ab7f9188391f1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

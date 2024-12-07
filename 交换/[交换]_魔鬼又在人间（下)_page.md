@@ -20,7 +20,7 @@ TXT 下载: [[交换]_魔鬼又在人间（下).docx]([交换]_魔鬼又在人�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23914 bytes                           |
 | MD5             | 3baa0cdd2e575d26eb30e38521fb7cc4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_神奇的液体——第一章.docx]([皮物]_神奇的液
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18950 bytes                           |
 | MD5             | aec45874c02ec121171e45801a6b7509                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

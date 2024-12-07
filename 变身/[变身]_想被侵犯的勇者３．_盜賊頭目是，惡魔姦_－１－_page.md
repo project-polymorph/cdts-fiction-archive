@@ -20,7 +20,7 @@ TXT 下载: [[变身]_想被侵犯的勇者３．_盜賊頭目是，惡魔姦_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27883 bytes                           |
 | MD5             | 65ee7c4e7199e50db4a64d52c472bb3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

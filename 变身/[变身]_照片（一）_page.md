@@ -20,7 +20,7 @@ TXT 下载: [[变身]_照片（一）.docx]([变身]_照片（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26466 bytes                           |
 | MD5             | 64672c3b64c581af0145d26f33c3ef81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_急性換身慾望_(雙十致敬原作者篇).doc]([交换
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 68a6258f1131e7b2925b5a3a2c5af4d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

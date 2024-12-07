@@ -20,7 +20,7 @@ TXT 下载: [[附身]_水晶球系列之李明篇.doc]([附身]_水晶球系列�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 98671cce4c11e47f9278804ae06f52a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

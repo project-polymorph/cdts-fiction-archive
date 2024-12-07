@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_埋没的笔记本.docx]([皮物]_埋没的笔记本.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23762 bytes                           |
 | MD5             | fb2348865c4aa7e7d8c500bbe65b7590                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

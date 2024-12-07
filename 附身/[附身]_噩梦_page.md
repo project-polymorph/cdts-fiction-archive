@@ -20,7 +20,7 @@ TXT 下载: [[附身]_噩梦.docx]([附身]_噩梦.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30918 bytes                           |
 | MD5             | 1260cb999fa4b280b6bbea892c587d6f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_SCARLET-第二章[免费]1.docx]([交换]_SCARLET-第二�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52762 bytes                           |
 | MD5             | 1da418a1e558d9beee16ec625686a472                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

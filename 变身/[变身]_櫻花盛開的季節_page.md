@@ -20,7 +20,7 @@ TXT 下载: [[变身]_櫻花盛開的季節.docx]([变身]_櫻花盛開的季節
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21718 bytes                           |
 | MD5             | a0f5443353e529a0514ef79dc191725f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 恰似东风雨                               |
 | Region          | 未知                               |

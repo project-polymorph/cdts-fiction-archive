@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_千万别答应我。第二集啦！.docx]([皮物]_千万
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18813 bytes                           |
 | MD5             | c78bf359d217c6ca266eefedd923dd29                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

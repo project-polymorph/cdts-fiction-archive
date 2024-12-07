@@ -20,7 +20,7 @@ TXT 下载: [[改造]_婷婷欲立.doc]([改造]_婷婷欲立.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 135168 bytes                           |
 | MD5             | 072381a955d5db84a0dac0c6c3b08774                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

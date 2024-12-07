@@ -24,7 +24,7 @@ TXT 下载: [[交换]_SCARLET-第9,10章完结[免费].docx]([交换]_SCARLET-�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 110975 bytes                           |
 | MD5             | c5d792519d78ace77873bcdc5965bbbb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jessica Drew                               |
 | Region          | 未知                               |

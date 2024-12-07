@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机器人偶_9（下）_深情战斗的kigurumi.docx]([皮
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21347 bytes                           |
 | MD5             | e7065c9aaafe84132bc8cf7020b5a84b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | basana                               |
 | Region          | 未知                               |

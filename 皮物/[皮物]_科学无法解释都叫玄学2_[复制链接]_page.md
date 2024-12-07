@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_科学无法解释都叫玄学2_[复制链接].docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26254 bytes                           |
 | MD5             | a64e9747445f6777aca442b7e01b0f18                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

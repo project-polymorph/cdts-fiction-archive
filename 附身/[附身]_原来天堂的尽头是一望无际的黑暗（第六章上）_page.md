@@ -20,7 +20,7 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第六章�
 | Format          | Microsoft Word Document                               |
 | Size            | 1320448 bytes                           |
 | MD5             | 64c9f6f175b696200c9f895a0b686436                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

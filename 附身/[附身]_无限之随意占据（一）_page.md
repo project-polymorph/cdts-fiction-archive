@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无限之随意占据（一）.docx]([附身]_无限之随
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21005 bytes                           |
 | MD5             | b49c4180f45ac1dd80b0310d6f9027e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

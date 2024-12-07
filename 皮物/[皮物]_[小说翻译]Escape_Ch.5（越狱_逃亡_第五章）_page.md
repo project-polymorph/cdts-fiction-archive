@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[小说翻译]Escape_Ch.5（越狱_逃亡_第五章）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48845 bytes                           |
 | MD5             | 8f9411616aec25e26d6830c0eb9e1c82                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

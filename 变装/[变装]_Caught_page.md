@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Caught.docx]([变装]_Caught.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 81703 bytes                           |
 | MD5             | 00f4927216757b572596a11f93680348                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 贝拉多娜（Belladonna）                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_须构医药公司的故事（五）.doc]([皮物]_须构�
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 27f23d992d1fe72535c8a2056da84e33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

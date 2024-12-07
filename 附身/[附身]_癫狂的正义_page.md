@@ -20,7 +20,7 @@ TXT 下载: [[附身]_癫狂的正义.doc]([附身]_癫狂的正义.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 77824 bytes                           |
 | MD5             | c4247ac46c3ed2ef3b97affe1a44f44a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

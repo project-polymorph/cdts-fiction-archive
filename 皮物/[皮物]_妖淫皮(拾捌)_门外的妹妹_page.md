@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(拾捌)_门外的妹妹.docx]([皮物]_妖淫皮
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25572 bytes                           |
 | MD5             | 94e28fcd1cd0ca3624adaed83081449d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | mischieffancy                               |
 | Region          | 未知                               |

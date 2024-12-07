@@ -20,7 +20,7 @@ TXT 下载: [办公室职员.doc](办公室职员.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 78848 bytes                           |
 | MD5             | 9d9a254fd12a2959772097355af069f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lisa LoveLace                               |
 | Region          | 未知                               |

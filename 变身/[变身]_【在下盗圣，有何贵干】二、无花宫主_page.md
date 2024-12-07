@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】二、无花宫主.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 808cd3270b1924abd7a2936f2131df2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

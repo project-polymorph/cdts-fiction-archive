@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔法少女明石(7)~(9).docx]([附身]_魔法少女明�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《魔法少女明石（7）~(9)》的内容，涉及了角色明石夏美和她妹妹明石茜之间的复杂关系与情感纠葛。故事设定于夜晚，夏美和小茜同卧一床。夏美流露出对妹妹的情感掺杂着性冲动，内心充满了困惑与罪恶感，面对自我身份的认同与欲望的挣扎。夏美的自我认知受到影响，开始探索与女孩子之间的情感可能性，包括对自己的身体和欲望的全新理解。文本中包含不少禁忌与情欲的描写，涉及性别认同和家庭禁忌的复杂性。整体语言较为直白，情节对于角色内心冲突的描写极为细腻，展现了角色在变性与心理状态之间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔法少女明石(7)~(9).docx]([附身]_魔法少女明�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47238 bytes                           |
 | MD5             | 8b0404559ec442c81dfd48861a53da01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 性转, 家庭禁忌, 自我探索, 情感纠葛, 青春, 内心冲突, 女性视角, 欲望, 令人不安, 禁忌关系, 自我认同, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

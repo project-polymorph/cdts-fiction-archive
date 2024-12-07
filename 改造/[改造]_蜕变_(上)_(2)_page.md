@@ -20,7 +20,7 @@ TXT 下载: [[改造]_蜕变_(上)_(2).docx]([改造]_蜕变_(上)_(2).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34300 bytes                           |
 | MD5             | b980e0f629d6da1263e8a66e1b8289ad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 啦啦小子                               |
 | Region          | 未知                               |

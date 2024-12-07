@@ -20,7 +20,7 @@ TXT 下载: [[交换]_玛士撒拉.docx]([交换]_玛士撒拉.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38122 bytes                           |
 | MD5             | 4e5b5322ceb9e45048bb0faefbe5fb20                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

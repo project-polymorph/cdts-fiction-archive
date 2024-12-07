@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_家访（五）.docx]([皮物]_家访（五）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23683 bytes                           |
 | MD5             | 66e7f96e73fb2768a7f3fc4a42a4725d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

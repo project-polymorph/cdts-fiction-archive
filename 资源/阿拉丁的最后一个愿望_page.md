@@ -20,7 +20,7 @@ TXT 下载: [阿拉丁的最后一个愿望.doc](阿拉丁的最后一个愿望.
 | Format          | Microsoft Word Document                               |
 | Size            | 78848 bytes                           |
 | MD5             | 0dd05f79b905a7cc55135b25f267a260                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Imperator Mentus                               |
 | Region          | 未知                               |

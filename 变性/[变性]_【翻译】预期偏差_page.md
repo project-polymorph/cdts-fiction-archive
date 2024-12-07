@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】预期偏差.doc]([变性]_【翻译】预期�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 8cad8b9652b591d7163cfc9a11717efd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Enjoythis / 魔之天涯                               |
 | Region          | 未知                               |

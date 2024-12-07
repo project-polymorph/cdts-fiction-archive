@@ -20,7 +20,7 @@ TXT 下载: [[交换]_真理奈的恶作剧_P03(下)【微H】.docx]([交换]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22633 bytes                           |
 | MD5             | 5ead67f28b0aa4484e2224800ceaef91                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

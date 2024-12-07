@@ -20,7 +20,7 @@ TXT 下载: [[变身]_被丝袜变成女身4.docx]([变身]_被丝袜变成女�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23804 bytes                           |
 | MD5             | dafa7f30e724aeea5cf883f8f605007b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

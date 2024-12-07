@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_幻想1.docx]([皮物]_幻想1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35151 bytes                           |
 | MD5             | ae9d255bc55fd2ef3ae4d49e0fb9db91                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

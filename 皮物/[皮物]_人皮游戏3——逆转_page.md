@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮游戏3——逆转.docx]([皮物]_人皮游戏3—�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26407 bytes                           |
 | MD5             | 7fc04fc4b991a3b4375acb0118927469                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

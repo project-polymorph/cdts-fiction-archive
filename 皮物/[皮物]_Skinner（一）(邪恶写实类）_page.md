@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Skinner（一）(邪恶写实类）.doc]([皮物]_Skinner�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 95e32a7f7beb1161be2beee3c71ebd5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

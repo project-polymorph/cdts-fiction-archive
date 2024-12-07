@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第30章女性化.doc]([改造]_《夫�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 2375b76675c6b28494efd9343deca1a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

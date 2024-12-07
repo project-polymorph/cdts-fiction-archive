@@ -20,7 +20,7 @@ TXT 下载: [[变身]_選物販賣機_樸素的黑框眼鏡.doc]([变身]_選物
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 46a5fc208f0cda5d7ba643be43ac8eb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

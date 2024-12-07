@@ -20,7 +20,7 @@ TXT 下载: [[变身]_及時雨中的溫暖.doc]([变身]_及時雨中的溫暖.
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | f087172d0d1c1459b22c17409ca4928e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

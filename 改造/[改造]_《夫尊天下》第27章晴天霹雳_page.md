@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第27章晴天霹雳.doc]([改造]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | d05555e7f70449039585f8614b86aa5a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

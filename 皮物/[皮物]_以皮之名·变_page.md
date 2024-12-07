@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_以皮之名·变.docx]([皮物]_以皮之名·变.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28917 bytes                           |
 | MD5             | a4ef2021e2bc7b51cd47b0429443b847                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

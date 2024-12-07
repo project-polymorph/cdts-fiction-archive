@@ -20,7 +20,7 @@ TXT 下载: [[变性]_觉醒_第二部分（共两部分）.docx]([变性]_觉�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52518 bytes                           |
 | MD5             | be98b920091ec1b0d9033de73b4dfc51                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

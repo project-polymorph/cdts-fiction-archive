@@ -20,7 +20,7 @@ TXT 下载: [[改造]_飞鸟集「第一章」.docx]([改造]_飞鸟集「第一
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51082 bytes                           |
 | MD5             | 3971b484aa3593490e2c3671124b9fb8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《变身神域》④.doc]([改造]_《变身神域》④.
 | Format          | Microsoft Word Document                               |
 | Size            | 70656 bytes                           |
 | MD5             | adcd3bc136ea71184f7296e6e1684163                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

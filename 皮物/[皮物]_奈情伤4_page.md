@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_奈情伤4.docx]([皮物]_奈情伤4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20865 bytes                           |
 | MD5             | 232ee04d8a9a32468b50813cb89fe9be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

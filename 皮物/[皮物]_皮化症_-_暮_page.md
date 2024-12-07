@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮化症_-_暮.docx]([皮物]_皮化症_-_暮.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 81254 bytes                           |
 | MD5             | 890d22a100e8e98a51ec46a97a19dae7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

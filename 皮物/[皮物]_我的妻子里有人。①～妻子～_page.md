@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的妻子里有人。①～妻子～.doc]([皮物]_我�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 2c1fa2da193962ea6acd9c354ac0f97c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 无名2                               |
 | Region          | 未知                               |

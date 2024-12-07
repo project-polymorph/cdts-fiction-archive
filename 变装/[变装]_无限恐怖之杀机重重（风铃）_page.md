@@ -20,7 +20,7 @@ TXT 下载: [[变装]_无限恐怖之杀机重重（风铃）.docx]([变装]_无
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22240 bytes                           |
 | MD5             | 9db1893f8065b85e325da1afc9833052                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 风铃                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第四章.docx]([交换]_胧月
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33175 bytes                           |
 | MD5             | 567ea0e50967263058f628d0fae50d40                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

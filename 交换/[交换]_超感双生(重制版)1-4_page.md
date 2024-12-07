@@ -20,7 +20,7 @@ TXT 下载: [[交换]_超感双生(重制版)1-4.doc]([交换]_超感双生(重�
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | f6cd10c73342a9254cc0b6eb9454057d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

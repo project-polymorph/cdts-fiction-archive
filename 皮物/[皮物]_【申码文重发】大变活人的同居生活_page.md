@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文重发】大变活人的同居生活.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23282 bytes                           |
 | MD5             | 4fe0870f6ad29ade6aa43024c7db1235                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

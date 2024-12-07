@@ -20,7 +20,7 @@ TXT 下载: [[变装]_花将军外传（1——8）.docx]([变装]_花将军外�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72685 bytes                           |
 | MD5             | b2396473f232885742f753216ac1ff9d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

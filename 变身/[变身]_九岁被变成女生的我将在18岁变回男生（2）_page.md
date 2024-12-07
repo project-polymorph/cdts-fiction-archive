@@ -20,7 +20,7 @@ TXT 下载: [[变身]_九岁被变成女生的我将在18岁变回男生（2）.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39553 bytes                           |
 | MD5             | 1ce82b4a9d8abb392bc0b3632f531a3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

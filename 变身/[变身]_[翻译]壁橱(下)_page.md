@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]壁橱(下).docx]([变身]_[翻译]壁橱(下).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25597 bytes                           |
 | MD5             | ad8ca0ce70a7df7215e010bdf0f61bf0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

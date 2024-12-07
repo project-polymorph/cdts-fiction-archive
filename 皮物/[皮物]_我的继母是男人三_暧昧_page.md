@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的继母是男人三_暧昧.docx]([皮物]_我的继�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18399 bytes                           |
 | MD5             | e42dfdc751916c7838cff915b3d06b19                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

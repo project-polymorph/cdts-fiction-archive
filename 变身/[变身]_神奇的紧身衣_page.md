@@ -20,7 +20,7 @@ TXT 下载: [[变身]_神奇的紧身衣.doc]([变身]_神奇的紧身衣.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 76d583535d3cd15c03f7b7439d7fb079                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[变身]_在需要时有个朋友.docx]([变身]_在需要时有个
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22044 bytes                           |
 | MD5             | c85ae2f0d064c564ed9320a01866a551                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 毕尔哈特                               |
 | Region          | 未知                               |

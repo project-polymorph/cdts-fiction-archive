@@ -22,7 +22,7 @@ TXT 下载: [[交换]_交換程式.docx]([交换]_交換程式.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 53645 bytes                           |
 | MD5             | 51a8ed99821bc84c097d8b960f6fd8df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | メモット                               |
 | Region          | 未知                               |

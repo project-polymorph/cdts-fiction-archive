@@ -20,7 +20,7 @@ TXT 下载: [[其他]_脫力_(一).docx]([其他]_脫力_(一).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17255 bytes                           |
 | MD5             | 9049a4116f3d0d43f3646f43a97eaea2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_邪惡雙子(修訂).docx]([皮物]_邪惡雙子(修訂).d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47033 bytes                           |
 | MD5             | 2e070b09da1f1afda936ebec610c8be6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

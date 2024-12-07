@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游戏的代价（一）.docx]([附身]_游戏的代价（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37272 bytes                           |
 | MD5             | 06154b05ea60aa977a9e837bbe53a1c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_睚眦之主系列第一章_睚眦之主.doc]([皮物]_睚
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | b52fcbc33c503439c628ca13e24eb4e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

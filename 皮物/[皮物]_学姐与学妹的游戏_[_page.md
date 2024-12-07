@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_学姐与学妹的游戏_[.docx]([皮物]_学姐与学妹�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21415 bytes                           |
 | MD5             | 3c0a025e02b8e5e1a88532bac4853e07                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

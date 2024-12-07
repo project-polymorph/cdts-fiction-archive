@@ -20,7 +20,7 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒_第九章.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22013 bytes                           |
 | MD5             | ffb1dc7fab7e7abd762f57b2ea0b2939                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

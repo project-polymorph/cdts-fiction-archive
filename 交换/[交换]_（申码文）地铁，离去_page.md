@@ -20,7 +20,7 @@ TXT 下载: [[交换]_（申码文）地铁，离去.docx]([交换]_（申码文
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31721 bytes                           |
 | MD5             | 69fae6b92bed9b4a6d33a893e98170d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

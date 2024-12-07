@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔女的狂氣之夜(1).docx]([皮物]_魔女的狂氣之
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29007 bytes                           |
 | MD5             | 9f1caec340766f6d2d0e07f766257141                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

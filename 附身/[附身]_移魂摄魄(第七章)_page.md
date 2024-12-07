@@ -20,7 +20,7 @@ TXT 下载: [[附身]_移魂摄魄(第七章).doc]([附身]_移魂摄魄(第七�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | ba946305109f0c1745469197fcd31398                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

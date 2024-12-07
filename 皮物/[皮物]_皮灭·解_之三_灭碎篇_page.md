@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮灭·解_之三_灭碎篇.docx]([皮物]_皮灭·解_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23917 bytes                           |
 | MD5             | 027a93ecbac9271b9f9b6ee1eee220ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

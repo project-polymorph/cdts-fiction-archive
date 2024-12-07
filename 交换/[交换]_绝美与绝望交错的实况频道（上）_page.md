@@ -20,7 +20,7 @@ TXT 下载: [[交换]_绝美与绝望交错的实况频道（上）.docx]([交�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31864 bytes                           |
 | MD5             | 87de66acf8eadaa29c5fff5b1789fe41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

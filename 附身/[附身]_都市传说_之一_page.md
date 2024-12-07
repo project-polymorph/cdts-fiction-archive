@@ -20,7 +20,7 @@ TXT 下载: [[附身]_都市传说_之一.docx]([附身]_都市传说_之一.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 65929 bytes                           |
 | MD5             | 881662b0f193952490f33fe9aaa4c404                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

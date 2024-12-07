@@ -20,7 +20,7 @@ TXT 下载: [[变装]_《青蛇劫》_第四章.doc]([变装]_《青蛇劫》_�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | e9a6bae8ac03b210bd270ac089567785                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

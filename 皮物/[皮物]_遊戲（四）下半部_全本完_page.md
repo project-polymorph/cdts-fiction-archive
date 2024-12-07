@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_遊戲（四）下半部_全本完.docx]([皮物]_遊戲�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32636 bytes                           |
 | MD5             | 397d0d9247962e449d7bbdd01878c1cd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_都市传说　车站.docx]([其他]_都市传说　车站
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24244 bytes                           |
 | MD5             | 8e75972d633624696d2a4749eb16e107                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

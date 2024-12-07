@@ -20,7 +20,7 @@ TXT 下载: [[变身]_超短篇_Bunny_Trans.docx]([变身]_超短篇_Bunny_Trans
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15984 bytes                           |
 | MD5             | 4068b24ef4b1d311520a78d71a0891c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

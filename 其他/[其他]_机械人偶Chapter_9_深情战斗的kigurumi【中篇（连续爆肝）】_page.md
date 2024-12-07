@@ -20,7 +20,7 @@ TXT 下载: [[其他]_机械人偶Chapter_9_深情战斗的kigurumi【中篇（�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30853 bytes                           |
 | MD5             | bdee78c7e2d894f7d4ce968c21c5bbea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

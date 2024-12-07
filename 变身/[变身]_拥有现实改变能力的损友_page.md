@@ -20,7 +20,7 @@ TXT 下载: [[变身]_拥有现实改变能力的损友.docx]([变身]_拥有现
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36795 bytes                           |
 | MD5             | 13a5292060300715bcb4636a2fc13250                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ヴァレー                               |
 | Region          | 未知                               |

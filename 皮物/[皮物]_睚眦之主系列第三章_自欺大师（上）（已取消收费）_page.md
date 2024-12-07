@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_睚眦之主系列第三章_自欺大师（上）（已取
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37104 bytes                           |
 | MD5             | 161ff1a9e23220406924c6aad566a746                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_万圣节派对.doc]([附身]_万圣节派对.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 2258954c3d3388d1d37078edee1f1c60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

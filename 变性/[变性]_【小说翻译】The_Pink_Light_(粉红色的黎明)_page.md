@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【小说翻译】The_Pink_Light_(粉红色的黎明).docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44046 bytes                           |
 | MD5             | 3b65f667af2e618a094539dbc14858b7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_契+第一章(上.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22885 bytes                           |
 | MD5             | 2d0587f638184df45bd152532c7de6a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

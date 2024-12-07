@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_豆浆序（无乱码版）.docx]([皮物]_豆浆序（无
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26627 bytes                           |
 | MD5             | 69de03a225cfda8ee5d8cd50b670764f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

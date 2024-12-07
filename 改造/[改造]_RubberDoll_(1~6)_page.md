@@ -20,7 +20,7 @@ TXT 下载: [[改造]_RubberDoll_(1~6).docx]([改造]_RubberDoll_(1~6).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51379 bytes                           |
 | MD5             | a89fe49dfe7ee90b5ec8d52ed160d065                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

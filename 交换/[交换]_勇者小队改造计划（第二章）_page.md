@@ -20,7 +20,7 @@ TXT 下载: [[交换]_勇者小队改造计划（第二章）.docx]([交换]_勇
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26344 bytes                           |
 | MD5             | af08eb73d6b81eafd4cf5f8b4b5c3462                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 太极                               |
 | Region          | 中国大陆                               |

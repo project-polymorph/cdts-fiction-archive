@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附身公主.doc]([附身]_附身公主.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 16bd91fb18af1dc4de4e43ca14cc2f0d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

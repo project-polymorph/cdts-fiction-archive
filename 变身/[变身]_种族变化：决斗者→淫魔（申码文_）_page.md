@@ -20,7 +20,7 @@ TXT 下载: [[变身]_种族变化：决斗者→淫魔（申码文_）.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 6d3aaa7316a957e524d429529d07f2ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_幻想里世界的大冒险【一】.docx]([皮物]_幻想
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26759 bytes                           |
 | MD5             | f8787d0e5e50182c72d9d879f4dac4fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

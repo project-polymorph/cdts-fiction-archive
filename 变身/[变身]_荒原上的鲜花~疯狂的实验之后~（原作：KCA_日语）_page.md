@@ -20,7 +20,7 @@ TXT 下载: [[变身]_荒原上的鲜花~疯狂的实验之后~（原作：KCA_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17454 bytes                           |
 | MD5             | ef76d25df4887c2c7cfadf09ed8999b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | KCA                               |
 | Region          | 未知                               |

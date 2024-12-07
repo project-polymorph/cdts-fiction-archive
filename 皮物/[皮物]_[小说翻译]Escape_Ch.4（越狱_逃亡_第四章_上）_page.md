@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_[小说翻译]Escape_Ch.4（越狱_逃亡_第四章_上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52562 bytes                           |
 | MD5             | 4aec9b57c6866c55f7ac269f5afa09c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

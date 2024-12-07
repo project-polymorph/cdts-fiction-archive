@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十四、盗圣再嫁（�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 560a78155972d8481ec3af39e141e3e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

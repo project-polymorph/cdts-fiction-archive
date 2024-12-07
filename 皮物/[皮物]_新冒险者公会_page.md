@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新冒险者公会.doc]([皮物]_新冒险者公会.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | 2fd9b37626c49b1327d7c709154d444c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

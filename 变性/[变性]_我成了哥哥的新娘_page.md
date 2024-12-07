@@ -20,7 +20,7 @@ TXT 下载: [[变性]_我成了哥哥的新娘.doc]([变性]_我成了哥哥的�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 481d7b5b1d94f0e82dda3a7f11e1ed5a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Nupur                               |
 | Region          | 未知                               |

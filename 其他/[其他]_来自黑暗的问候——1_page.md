@@ -20,7 +20,7 @@ TXT 下载: [[其他]_来自黑暗的问候——1.docx]([其他]_来自黑暗�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19655 bytes                           |
 | MD5             | 001ec9db4a3d31765398744a92d45647                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 齐腾一                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [星期六的角色扮演.doc](星期六的角色扮演.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | fd4c5e38dc749e15fe6b643d8f793a24                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 云霄雨霁                               |
 | Region          | 未知                               |

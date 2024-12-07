@@ -20,7 +20,7 @@ TXT 下载: [[改造]_魅魔_The_Succubus.doc]([改造]_魅魔_The_Succubus.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | afa3868e6d06b7be6fa001d7c4ceb326                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | DavinaMcG                               |
 | Region          | 未知                               |

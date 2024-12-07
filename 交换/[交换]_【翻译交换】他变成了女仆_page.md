@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【翻译交换】他变成了女仆.doc]([交换]_【翻�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 0327eae96561e9a34d99ddf2981628e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

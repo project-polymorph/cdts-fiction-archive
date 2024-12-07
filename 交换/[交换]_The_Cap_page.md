@@ -20,7 +20,7 @@ TXT 下载: [[交换]_The_Cap.docx]([交换]_The_Cap.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21596 bytes                           |
 | MD5             | bc6d5fa656cbae0e8ff9ef8630edcc3c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Catherine D.                               |
 | Region          | 未知                               |

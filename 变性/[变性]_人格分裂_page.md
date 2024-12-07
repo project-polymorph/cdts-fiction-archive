@@ -20,7 +20,7 @@ TXT 下载: [[变性]_人格分裂.doc]([变性]_人格分裂.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 41b97fe70dd51bc35b2484ad5c1119fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 玛丽安·彼得斯                               |
 | Region          | 未知                               |

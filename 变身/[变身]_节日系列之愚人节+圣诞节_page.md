@@ -20,7 +20,7 @@ TXT 下载: [[变身]_节日系列之愚人节+圣诞节.docx]([变身]_节日�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23074 bytes                           |
 | MD5             | 2e11463857c5700d19069e832fb97f76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 中国大陆                               |

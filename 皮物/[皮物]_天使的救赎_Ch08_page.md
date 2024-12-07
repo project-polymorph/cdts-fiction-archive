@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch08.doc]([皮物]_天使的救赎_Ch08.do
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 5b7cc7584602030ace79a0ac3701aa58                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

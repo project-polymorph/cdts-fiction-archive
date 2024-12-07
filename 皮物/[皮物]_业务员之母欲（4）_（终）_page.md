@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_业务员之母欲（4）_（终）.doc]([皮物]_业务�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | bf7e86fdd80667bb2bd554a86f22d847                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

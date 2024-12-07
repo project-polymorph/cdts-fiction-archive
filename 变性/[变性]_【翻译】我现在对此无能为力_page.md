@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】我现在对此无能为力.doc]([变性]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 1d5e82fa95d06a0641d625b36db202c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Elaine，翻译：魔之天涯                               |
 | Region          | 未知                               |

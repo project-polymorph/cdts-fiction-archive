@@ -20,7 +20,7 @@ TXT 下载: [[变身]_魔法森林-Enchanted_Forest_(3).docx]([变身]_魔法森
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20106 bytes                           |
 | MD5             | 90801344d90c93dfa35b307595270fda                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

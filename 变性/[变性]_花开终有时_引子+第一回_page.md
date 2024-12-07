@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花开终有时_引子+第一回.docx]([变性]_花开终�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40142 bytes                           |
 | MD5             | 57112660ada331aca5106d30cd80c27b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

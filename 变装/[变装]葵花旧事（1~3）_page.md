@@ -20,7 +20,7 @@ TXT 下载: [[变装]葵花旧事（1~3）.doc]([变装]葵花旧事（1~3）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 122368 bytes                           |
 | MD5             | a5c76a64b5732991c5b9adc190a94158                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

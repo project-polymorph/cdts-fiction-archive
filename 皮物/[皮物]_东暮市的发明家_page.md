@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_东暮市的发明家.doc]([皮物]_东暮市的发明家.
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 11806447ff43325215f742923d75737b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

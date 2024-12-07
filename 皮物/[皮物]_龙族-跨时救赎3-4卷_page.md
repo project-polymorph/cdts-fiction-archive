@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_龙族-跨时救赎3-4卷.docx]([皮物]_龙族-跨时救�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26170 bytes                           |
 | MD5             | ecdb6c664ad66a1f3d6f49a3d5f9ceaa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

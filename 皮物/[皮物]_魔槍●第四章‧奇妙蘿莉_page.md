@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔槍●第四章‧奇妙蘿莉.docx]([皮物]_魔槍●
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22788 bytes                           |
 | MD5             | bddf08cad2c36e369515226d8afcc2e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

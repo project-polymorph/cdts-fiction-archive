@@ -20,7 +20,7 @@ TXT 下载: [[附身]_分魂公司·部長篇（舊文帶圖）.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46811 bytes                           |
 | MD5             | d7151aec6bd28b37d02a1070dd2814a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

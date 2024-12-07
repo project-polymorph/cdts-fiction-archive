@@ -20,7 +20,7 @@ TXT 下载: [[其他]_挣扎（序）.docx]([其他]_挣扎（序）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19157 bytes                           |
 | MD5             | b0c75e7a2343ca993f699c2a2f7384a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | blcik                               |
 | Region          | 中国大陆                               |

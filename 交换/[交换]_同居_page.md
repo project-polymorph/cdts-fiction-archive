@@ -20,7 +20,7 @@ TXT 下载: [[交换]_同居.doc]([交换]_同居.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 71168 bytes                           |
 | MD5             | df6af1e85580c73b50f2cf8faeb50cfe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

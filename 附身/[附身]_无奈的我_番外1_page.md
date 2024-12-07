@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无奈的我_番外1.doc]([附身]_无奈的我_番外1.do
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | f9e77964195af5d9cf3fd0a6c5120b1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -7,7 +7,11 @@ TXT 下载: [[附身]_魔界系统.docx]([附身]_魔界系统.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《魔界系统》的魔幻小说，约9万字，主要描写了主角因渴望力量而与一位名为巴鲁斯的恶魔签订契约，成为其使徒。在这个设定中，虽然名为‘系统’，但实际系统功能较弱，偶尔提供帮助，引导主角进行一系列冒险。小说采用第一人称视角，从主角的内心独白和幽默对话中展示其角色性格，同时交织了性别转换、魔法与幻想等元素。
+
+在故事中，主角初始追求的物品十分单一，甚至带有些许荒谬感，例如其回答恶魔时只提到‘奶子’。随着剧情发展，故事的感情线也从邪恶走向纯爱，体现了作者对角色心理的探索和自我认知的变化。同时，情节中存在大量的性暗示和成人内容，H戏甚至占据了故事的30%比例。
+
+该作品不仅展示了奇幻世界的设定，恶魔与人类的互动，还探讨了权力、欲望和自我认同等深层主题。尽管作者在创作过程中经历了多次写作停滞与续写，但最终呈现出相对复杂且引人入胜的故事情节。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +24,11 @@ TXT 下载: [[附身]_魔界系统.docx]([附身]_魔界系统.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 322000 bytes                           |
 | MD5             | 0e7ca4e8a14e81f2b60266b0b20c042e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔幻小说, 性转, 恶魔, 第一人称, 奇幻冒险, 自我认知, 附身, 甜宠, 幽默, 成人内容, 冒险, 幻想, 角色发展, 灵魂契约, 纯爱, 性别认同, 人物心理, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

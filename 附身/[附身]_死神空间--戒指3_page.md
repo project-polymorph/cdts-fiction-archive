@@ -20,7 +20,7 @@ TXT 下载: [[附身]_死神空间--戒指3.doc]([附身]_死神空间--戒指3.
 | Format          | Microsoft Word Document                               |
 | Size            | 237568 bytes                           |
 | MD5             | 7c1a8dfd2dac644068113230e6015bdf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

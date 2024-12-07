@@ -20,7 +20,7 @@ TXT 下载: [[附身]_悲灵.doc]([附身]_悲灵.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | 563744f060dbd39c24007ca0221f6fc2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

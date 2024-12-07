@@ -20,7 +20,7 @@ TXT 下载: [[变身]_门外的神明（完结篇）.doc]([变身]_门外的神�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 743956a9ede02f3035939ac65886b240                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

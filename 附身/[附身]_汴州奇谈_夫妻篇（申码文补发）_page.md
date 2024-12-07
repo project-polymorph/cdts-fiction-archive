@@ -20,7 +20,7 @@ TXT 下载: [[附身]_汴州奇谈_夫妻篇（申码文补发）.docx]([附身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44222 bytes                           |
 | MD5             | 29be6308c1afcf9dd7065feebc6aeff5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

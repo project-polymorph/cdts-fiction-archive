@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_代号---零.docx]([皮物]_代号---零.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22217 bytes                           |
 | MD5             | 93adc8abfa0db35b2390ca46ebb023f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

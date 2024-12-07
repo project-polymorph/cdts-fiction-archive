@@ -20,7 +20,7 @@ TXT 下载: [[改造]_lyhgq-新西兰奶牛.doc]([改造]_lyhgq-新西兰奶牛.
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | bc6ddbbba322904d6bfc3b482edfb3b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

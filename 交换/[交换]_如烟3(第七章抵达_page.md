@@ -20,7 +20,7 @@ TXT 下载: [[交换]_如烟3(第七章抵达.docx]([交换]_如烟3(第七章�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47870 bytes                           |
 | MD5             | 70c735fd13679e66a50cc243df3daca7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

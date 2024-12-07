@@ -20,7 +20,7 @@ TXT 下载: [[改造]_變化神域.doc]([改造]_變化神域.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 110592 bytes                           |
 | MD5             | a2d446d43185a73dbb3d4d653909c12b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

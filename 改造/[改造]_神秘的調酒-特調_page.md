@@ -20,7 +20,7 @@ TXT 下载: [[改造]_神秘的調酒-特調.doc]([改造]_神秘的調酒-特�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | c504f7d927c7503ff73799cadd3c7506                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

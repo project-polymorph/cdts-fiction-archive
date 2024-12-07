@@ -20,7 +20,7 @@ TXT 下载: [[其他]_亵偶_第一章-第五章.docx]([其他]_亵偶_第一章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58085 bytes                           |
 | MD5             | c6fb8073f42ef693137d4532b8a2ca0b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

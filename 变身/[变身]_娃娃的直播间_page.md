@@ -20,7 +20,7 @@ TXT 下载: [[变身]_娃娃的直播间.doc]([变身]_娃娃的直播间.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | d9fab86ecfa0fe3f8a81cd9bbb9196bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Monkey Scientist                               |
 | Region          | 未知                               |

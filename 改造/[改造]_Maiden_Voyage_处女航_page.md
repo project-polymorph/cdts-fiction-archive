@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Maiden_Voyage_处女航.docx]([改造]_Maiden_Voyage_处�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 150730 bytes                           |
 | MD5             | 3fde1e0201cbb9d78b56d185459e57ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Brian                               |
 | Region          | 美国                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_一品红3.docx]([交换]_一品红3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21764 bytes                           |
 | MD5             | 99922ea84356f2f14fad1451121f2cb4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

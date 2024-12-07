@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_无限皮装第二章第三章.doc]([皮物]_无限皮装�
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | dbb4b05ba67264db756744caa406ab34                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

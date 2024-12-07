@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译_变装】同級生の牝彼女1-2（新人申码
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 0076c46261bd79ce369c31df7dd7a517                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 滝野鏡一                               |
 | Region          | 日本                               |

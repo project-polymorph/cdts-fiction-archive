@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】女仆_第一部分（一共5部分）.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31557 bytes                           |
 | MD5             | 4def29f3fad8799f2d6119cb64faa334                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Belladonna                               |
 | Region          | 未知                               |

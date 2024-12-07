@@ -20,7 +20,7 @@ TXT 下载: [[附身]_为了孩子未来的养育费，老婆打工那件事①.
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | e2dfe11d7a65bbe029b3dc0d67a5d99f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

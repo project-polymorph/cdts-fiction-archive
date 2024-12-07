@@ -20,7 +20,7 @@ TXT 下载: [[其他]_绝妙的假期2.doc]([其他]_绝妙的假期2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 98f1edf22ce455b685fb0ba5375bd39d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 云烬                               |
 | Region          | 未知                               |

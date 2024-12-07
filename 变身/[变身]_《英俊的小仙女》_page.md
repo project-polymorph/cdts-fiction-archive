@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《英俊的小仙女》.doc]([变身]_《英俊的小仙�
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 7a47450cdbd96495dc859fe8d2790de5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

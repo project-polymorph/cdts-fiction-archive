@@ -20,7 +20,7 @@ TXT 下载: [[改造]_刻骨铭心_（下）.doc]([改造]_刻骨铭心_（下�
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | 56eba77680ff14a6e6788fc5af38a790                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

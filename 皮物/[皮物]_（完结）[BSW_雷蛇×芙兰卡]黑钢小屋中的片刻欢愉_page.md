@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（完结）[BSW_雷蛇×芙兰卡]黑钢小屋中的片�
 | Format          | Microsoft Word Document                               |
 | Size            | 86528 bytes                           |
 | MD5             | d2b25d9dd9b9b5acacc660fd8fa6c127                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_幽・拐・犯.docx]([附身]_幽・拐・犯.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22957 bytes                           |
 | MD5             | 9a3d15f935a05087ffcca1ae0192c1fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

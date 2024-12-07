@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我也是2.docx]([附身]_我也是2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21787 bytes                           |
 | MD5             | 46d327f738eeb744d015e94f79fe7f64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

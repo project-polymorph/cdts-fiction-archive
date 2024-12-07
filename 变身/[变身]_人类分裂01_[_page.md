@@ -20,7 +20,7 @@ TXT 下载: [[变身]_人类分裂01_[.docx]([变身]_人类分裂01_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21637 bytes                           |
 | MD5             | 294e8e90f6621b105ea31e3809d400b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

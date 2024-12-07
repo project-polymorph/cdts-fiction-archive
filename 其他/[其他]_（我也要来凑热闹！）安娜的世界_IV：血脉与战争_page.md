@@ -20,7 +20,7 @@ TXT 下载: [[其他]_（我也要来凑热闹！）安娜的世界_IV：血脉�
 | Format          | Microsoft Word Document                               |
 | Size            | 338432 bytes                           |
 | MD5             | 2ebb61777665bf984da49cf05183a7dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

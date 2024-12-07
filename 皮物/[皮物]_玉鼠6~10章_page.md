@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_玉鼠6~10章.doc]([皮物]_玉鼠6~10章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 6e3d6855242c13a59a76a6ca9c734bb0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

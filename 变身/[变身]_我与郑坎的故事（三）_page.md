@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我与郑坎的故事（三）.docx]([变身]_我与郑坎
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20536 bytes                           |
 | MD5             | fbaf953fa3d190f14586d265325484e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_想ひ出のシャッター（後篇）.docx]([交换]_想
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30553 bytes                           |
 | MD5             | f8544d7c98fec82a537eb2f2e38e1e07                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 搭杢煉瓦                               |
 | Region          | 未知                               |

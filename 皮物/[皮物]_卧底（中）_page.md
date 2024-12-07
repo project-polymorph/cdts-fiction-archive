@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_卧底（中）.docx]([皮物]_卧底（中）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18462 bytes                           |
 | MD5             | 64fb4d845caff4604e77a83e9dc46671                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 如梦幻泡影                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_命运巫师之我成了初恋女友的妹妹（1）.doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | d3bf533f33964b1f0181f8f1f20e0950                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

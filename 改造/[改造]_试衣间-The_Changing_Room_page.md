@@ -20,7 +20,7 @@ TXT 下载: [[改造]_试衣间-The_Changing_Room.docx]([改造]_试衣间-The_C
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30902 bytes                           |
 | MD5             | eb34d8aae4f836fbefb04b133baac177                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

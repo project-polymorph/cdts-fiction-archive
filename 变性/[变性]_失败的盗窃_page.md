@@ -20,7 +20,7 @@ TXT 下载: [[变性]_失败的盗窃.doc]([变性]_失败的盗窃.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | a1b1f95b757bbe86b932190ac75173f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

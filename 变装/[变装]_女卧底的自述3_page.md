@@ -20,7 +20,7 @@ TXT 下载: [[变装]_女卧底的自述3.docx]([变装]_女卧底的自述3.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22686 bytes                           |
 | MD5             | f7cf9fde9aea65f29f99ec26adcf035d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

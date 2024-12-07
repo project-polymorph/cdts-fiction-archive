@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】继母的麻烦.doc]([变性]_【翻译】继�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 9879a088390f681e49c25437eaa7d119                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Hello329                               |
 | Region          | 未知                               |

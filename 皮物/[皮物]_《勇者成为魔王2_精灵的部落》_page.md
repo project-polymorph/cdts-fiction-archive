@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《勇者成为魔王2_精灵的部落》.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 196384 bytes                           |
 | MD5             | e17a9319a5457d41e1e80b33d67a78ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

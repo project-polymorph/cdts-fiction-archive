@@ -20,7 +20,7 @@ TXT 下载: [[变身]_银色卡片一渐变.docx]([变身]_银色卡片一渐变
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58019 bytes                           |
 | MD5             | 766eb322974de614a1c766a84b1c14e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

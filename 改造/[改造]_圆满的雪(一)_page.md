@@ -20,7 +20,7 @@ TXT 下载: [[改造]_圆满的雪(一).doc]([改造]_圆满的雪(一).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 62464 bytes                           |
 | MD5             | 0494540582440deb8775dfe5bb842926                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

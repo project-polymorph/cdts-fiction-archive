@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_作为美少女转学生的奇遇.doc]([皮物]_作为美�
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | dbafdf2998d53103ba78a3399d69ee74                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

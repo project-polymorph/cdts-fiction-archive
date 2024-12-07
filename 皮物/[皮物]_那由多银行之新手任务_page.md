@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_那由多银行之新手任务.docx]([皮物]_那由多银
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29813 bytes                           |
 | MD5             | 400b4ad2b595fc00f7b10e518234e927                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

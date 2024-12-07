@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Spells_R_Us__The_Game_法術反斗城_改造遊戲_(2).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32392 bytes                           |
 | MD5             | b7b9534c3fe58b50fd09a69fe525f8ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Morpheus                               |
 | Region          | 未知                               |

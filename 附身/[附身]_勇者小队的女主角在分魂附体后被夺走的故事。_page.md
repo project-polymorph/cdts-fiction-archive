@@ -20,7 +20,7 @@ TXT 下载: [[附身]_勇者小队的女主角在分魂附体后被夺走的故�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28885 bytes                           |
 | MD5             | 3fe8c8e7589255e3939b4d09e8d8defe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

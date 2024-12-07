@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_special_birthday.doc]([皮物]_special_birthday.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 1884c7740fcbd4a264ecc20a4cc46d80                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

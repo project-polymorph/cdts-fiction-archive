@@ -20,7 +20,7 @@ TXT 下载: [[变身]_波佩尔瓦尼亚王国的勇者.doc]([变身]_波佩尔�
 | Format          | Microsoft Word Document                               |
 | Size            | 61952 bytes                           |
 | MD5             | 68ab720c91e94d88700a88f9ab1d59cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | taralynnsd                               |
 | Region          | 未知                               |

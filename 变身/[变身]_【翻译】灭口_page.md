@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译】灭口.doc]([变身]_【翻译】灭口.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 206336 bytes                           |
 | MD5             | c6961d06fa5161975a5eaec90aef1e7e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Elarys，翻译：魔之天涯                               |
 | Region          | 未知                               |

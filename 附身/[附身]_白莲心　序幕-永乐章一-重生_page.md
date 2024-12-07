@@ -20,7 +20,7 @@ TXT 下载: [[附身]_白莲心　序幕-永乐章一-重生.doc]([附身]_白�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 02e4337a4bcab64d5fbbb68c8fab1f67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

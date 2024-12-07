@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【道门，皮间】2，大坑慎入.doc]([皮物]_【道
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 84796445879736e7757b7be2ca8d0664                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

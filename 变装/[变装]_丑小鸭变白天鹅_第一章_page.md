@@ -20,7 +20,7 @@ TXT 下载: [[变装]_丑小鸭变白天鹅_第一章.doc]([变装]_丑小鸭变
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | ab0ec38b8ec942cc54228dd80cfd1824                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | JHouston7                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_巨乳咖啡店店长的身体所有权被全权夺取之�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 9c27634508b5abb44d1a3a086ff76f92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 笹座早々                               |
 | Region          | 未知                               |

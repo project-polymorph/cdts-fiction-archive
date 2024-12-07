@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【扶他】黏液之愛：第十二章：攻守互換.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 519df7793403e29028e3f07f570350b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

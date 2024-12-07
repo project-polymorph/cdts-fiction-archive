@@ -20,7 +20,7 @@ TXT 下载: [[交换]_女主人.docx]([交换]_女主人.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19351 bytes                           |
 | MD5             | e15beb828eeb981a9bf89476da83d0f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | bobh                               |
 | Region          | 未知                               |

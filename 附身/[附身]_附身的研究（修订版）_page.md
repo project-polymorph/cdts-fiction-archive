@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附身的研究（修订版）.doc]([附身]_附身的研�
 | Format          | Microsoft Word Document                               |
 | Size            | 178176 bytes                           |
 | MD5             | ea31c208fc7ba7efa4e605564178c01f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_Lesbian_Revenge_(1).docx]([变性]_Lesbian_Revenge_(1).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23249 bytes                           |
 | MD5             | c56a07a0cfc0eb3b221fffaadf0b79b4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

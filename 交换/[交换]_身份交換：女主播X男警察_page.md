@@ -20,7 +20,7 @@ TXT 下载: [[交换]_身份交換：女主播X男警察.doc]([交换]_身份交
 | Format          | Microsoft Word Document                               |
 | Size            | 3042816 bytes                           |
 | MD5             | e742d9209505208b64d532ca0759680f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

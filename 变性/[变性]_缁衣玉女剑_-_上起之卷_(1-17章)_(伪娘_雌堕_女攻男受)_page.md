@@ -20,7 +20,7 @@ TXT 下载: [[变性]_缁衣玉女剑_-_上起之卷_(1-17章)_(伪娘_雌堕_�
 | Format          | Microsoft Word Document                               |
 | Size            | 146432 bytes                           |
 | MD5             | 811c05e4143ffd2218b1a357a8d8acb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

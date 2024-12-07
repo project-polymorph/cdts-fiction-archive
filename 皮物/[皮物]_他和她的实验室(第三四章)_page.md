@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_他和她的实验室(第三四章).doc]([皮物]_他和�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 7a26b04d4ec593bba7b083d0c9dcd1ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [最近妈妈变得好奇怪.doc](最近妈妈变得好奇怪.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | 390b04660bbb8d58288dd1ce28b99b4d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | solitude                               |
 | Region          | 未知                               |

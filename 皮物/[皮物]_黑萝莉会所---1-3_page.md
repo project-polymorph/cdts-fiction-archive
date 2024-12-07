@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑萝莉会所---1-3.docx]([皮物]_黑萝莉会所---1-3
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30957 bytes                           |
 | MD5             | d572f8013a59609331caead33dc5dd36                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

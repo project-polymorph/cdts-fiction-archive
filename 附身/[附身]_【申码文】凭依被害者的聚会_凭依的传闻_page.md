@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码文】凭依被害者的聚会_凭依的传闻.do
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | ce5101a755fb236ba49b31ad7a6bb5ab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

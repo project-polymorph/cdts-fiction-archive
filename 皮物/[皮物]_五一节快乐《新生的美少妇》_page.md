@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_五一节快乐《新生的美少妇》.doc]([皮物]_五�
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 4150f489d5b5c0b08c0238c379e98950                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_超高校级的论破_序章_欢迎来到绝望学园.doc]
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 76c69bcd8254759a20ddfee6cd7bd48c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

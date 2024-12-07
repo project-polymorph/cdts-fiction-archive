@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_尝试新的写法——妖之恋.doc]([皮物]_尝试新�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | fa5c917481d9312eede424b143b91cf2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_覆皮之上的永恒女王【第二幕】.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32875 bytes                           |
 | MD5             | c29a9d3a807f227ef1e82f4394dd2aac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_女主播的日常与烦恼.docx]([皮物]_女主播的日
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23422 bytes                           |
 | MD5             | 035c7b7e6c8391735107b87f8b0bf004                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

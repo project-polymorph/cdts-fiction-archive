@@ -20,7 +20,7 @@ TXT 下载: [[变装]_安妮小姐（扩充）.doc]([变装]_安妮小姐（扩�
 | Format          | Microsoft Word Document                               |
 | Size            | 61440 bytes                           |
 | MD5             | a20445d86f12e3e606daafe0354b5502                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

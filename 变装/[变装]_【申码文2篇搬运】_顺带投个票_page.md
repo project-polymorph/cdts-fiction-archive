@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【申码文2篇搬运】_顺带投个票.doc]([变装]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 4f34a114360466834e833c69caddec75                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

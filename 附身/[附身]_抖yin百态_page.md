@@ -20,7 +20,7 @@ TXT 下载: [[附身]_抖yin百态.docx]([附身]_抖yin百态.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51803 bytes                           |
 | MD5             | f74ee8d2fdbfeda215f9f61b5e458caf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -22,7 +22,7 @@ TXT 下载: [[交换]_似乎比起你我更适合这个身体呢~（男性视角
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41614 bytes                           |
 | MD5             | 0784689e6e90333018c278b73d5eb409                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

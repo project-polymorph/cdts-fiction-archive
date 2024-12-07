@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_】众生相_（从新整合前三章_）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 51d2de6d00833052fa26cb9b66e08d2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 龙猫君                               |
 | Region          | 未知                               |

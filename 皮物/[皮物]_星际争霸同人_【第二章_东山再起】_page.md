@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星际争霸同人_【第二章_东山再起】.docx]([皮
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29353 bytes                           |
 | MD5             | 42e621aa37f7782279b6fc256cd2c6be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

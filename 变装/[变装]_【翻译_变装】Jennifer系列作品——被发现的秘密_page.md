@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译_变装】Jennifer系列作品——被发现的�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | dd69190dcf527084d3a3f120acad92b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

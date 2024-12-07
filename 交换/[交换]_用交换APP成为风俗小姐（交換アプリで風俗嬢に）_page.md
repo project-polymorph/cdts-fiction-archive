@@ -20,7 +20,7 @@ TXT 下载: [[交换]_用交换APP成为风俗小姐（交換アプリで風俗�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 2c73be60caeb136d8fe443b5ee65881a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

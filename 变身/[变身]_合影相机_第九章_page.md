@@ -20,7 +20,7 @@ TXT 下载: [[变身]_合影相机_第九章.doc]([变身]_合影相机_第九�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 20795e81343f0d9380bb6de5a78ec2f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

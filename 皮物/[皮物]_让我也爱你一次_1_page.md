@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_让我也爱你一次_1.doc]([皮物]_让我也爱你一�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 8651ac5b79d0df513eabca8d791bbb5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_夕張と提督の軽い実験[翻译+微调]+女性専用
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34374 bytes                           |
 | MD5             | e170d4762f863213f87bbdfaf9d6ca58                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

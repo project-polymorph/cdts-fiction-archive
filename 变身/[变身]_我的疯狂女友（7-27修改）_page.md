@@ -24,7 +24,7 @@ TXT 下载: [[变身]_我的疯狂女友（7-27修改）.doc]([变身]_我的疯
 | Format          | Microsoft Word Document                               |
 | Size            | 69120 bytes                           |
 | MD5             | 0a5d11396b45228503fd2576ea816a7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_美丽的童话_第一章.docx]([皮物]_美丽的童话_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24310 bytes                           |
 | MD5             | 283cb2f3294228606e758fb1c6472bed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

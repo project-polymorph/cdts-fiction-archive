@@ -20,7 +20,7 @@ TXT 下载: [[其他]_岳父跟老婆融合的美好紀錄(中).doc]([其他]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | ac8298223b821b87dee0e552e6392da4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

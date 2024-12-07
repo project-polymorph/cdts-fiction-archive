@@ -20,7 +20,7 @@ TXT 下载: [[其他]_欲成仙_3_分神.doc]([其他]_欲成仙_3_分神.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | 76115b12e39b39701f4c80a2b9c55f06                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

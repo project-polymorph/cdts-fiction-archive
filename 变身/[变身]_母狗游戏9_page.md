@@ -20,7 +20,7 @@ TXT 下载: [[变身]_母狗游戏9.docx]([变身]_母狗游戏9.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16730 bytes                           |
 | MD5             | e840e4b09941e33869e9d625c54409dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

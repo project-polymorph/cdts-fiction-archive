@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能_第八章（想了想早上码起的两章还
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18544 bytes                           |
 | MD5             | de42c1983f3d0124ff8b225a5e2b39ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

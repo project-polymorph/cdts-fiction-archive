@@ -20,7 +20,7 @@ TXT 下载: [[变性]_有人打网球吗？（1_3）.doc]([变性]_有人打网�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 9ab5206af719d4294af696e11768d5f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | didiwillis                               |
 | Region          | 未知                               |

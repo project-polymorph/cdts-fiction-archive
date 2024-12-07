@@ -20,7 +20,7 @@ TXT 下载: [[改造]_盖侬被塞尔达的灵魂侵蚀（其一）.docx]([改�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17193 bytes                           |
 | MD5             | fa3492cf349fe91d6655d3f814baf3fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_男孩子的我，女孩子的我.doc]([交换]_男孩子�
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | d5e02f6b909fa5b7c8b1d236a217060d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

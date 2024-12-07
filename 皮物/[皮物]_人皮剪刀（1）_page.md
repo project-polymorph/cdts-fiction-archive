@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮剪刀（1）.doc]([皮物]_人皮剪刀（1）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | 10765b2f08333a1a64905532a54bd88f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

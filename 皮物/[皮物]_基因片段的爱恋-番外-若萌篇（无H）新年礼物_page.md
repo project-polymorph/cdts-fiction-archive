@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_基因片段的爱恋-番外-若萌篇（无H）新年礼�
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 6a930a0c1fa18bb37366cae23fbf929e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_黄昏的序曲（原两级反转）2.docx]([附身]_黄�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《黄昏的序曲（原两级反转）》是一篇关于凌宇与他的妹妹凌雨曦之间错综复杂关系的小说。故事发生在荆海市，围绕着凌宇为救回被莫向海掌控的妹妹而展开。他作为一个强大的异能者，利用自己超凡的力量在危险的环境中搏斗。作品探讨了性别转换、身份认同、亲情与权力的主题，涵盖了情感与心理斗争。小说中的环境描写详细，描绘了现代都市的繁华与背后潜藏的阴暗面，涉及权力的游戏与人性的考验。内容包含一些限制级情节，表现了对角色心理与情感的深入探索。文中有诸多关于异能与心理斗争的精彩描写，比如：'我要见莫向海。'此句展现了凌宇强烈的决心与怒火，同时这个故事也反映了对异能者与普通人之间权力关系的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_黄昏的序曲（原两级反转）2.docx]([附身]_黄�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22313 bytes                           |
 | MD5             | 7bace3f5098a39842a2c517cf84ca331                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 异能, 性别认同, 家庭, 都市, 剧情冲突, 激烈搏斗, 权力游戏, 自我探索, 亲情, 科技, 变身, 心理戏, 情感纠葛, 限制级, 现代幻想, 都市传说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

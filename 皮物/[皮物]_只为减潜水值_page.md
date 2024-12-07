@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_只为减潜水值.docx]([皮物]_只为减潜水值.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26185 bytes                           |
 | MD5             | fa257bd5c29e707e98f0a3f8f4faabb8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | qazedr                               |
 | Region          | 未知                               |

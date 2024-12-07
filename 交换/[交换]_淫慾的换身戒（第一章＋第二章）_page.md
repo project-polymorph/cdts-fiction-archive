@@ -20,7 +20,7 @@ TXT 下载: [[交换]_淫慾的换身戒（第一章＋第二章）.doc]([交换
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 52ca939dd03f991b074bccd9bae05c3f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

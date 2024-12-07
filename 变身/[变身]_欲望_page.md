@@ -22,7 +22,7 @@ TXT 下载: [[变身]_欲望.docx]([变身]_欲望.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25643 bytes                           |
 | MD5             | 916428fe32295d85a062d9f5c7368262                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

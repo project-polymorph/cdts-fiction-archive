@@ -20,7 +20,7 @@ TXT 下载: [[变装]_The_result_of_steal_shoes.doc]([变装]_The_result_of_stea
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 77a5ad15cc0953178c18b61f97341d33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

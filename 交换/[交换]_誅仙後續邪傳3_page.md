@@ -20,7 +20,7 @@ TXT 下载: [[交换]_誅仙後續邪傳3.docx]([交换]_誅仙後續邪傳3.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24414 bytes                           |
 | MD5             | 07c932ebd9d867ab293b7d1272ed00d3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

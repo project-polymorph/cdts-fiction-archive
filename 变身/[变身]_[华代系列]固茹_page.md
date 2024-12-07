@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[华代系列]固茹.docx]([变身]_[华代系列]固茹.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49557 bytes                           |
 | MD5             | e6c8987b68ed18df555f60347da2b760                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 原田圣也 / 真城悠                               |
 | Region          | 未知                               |

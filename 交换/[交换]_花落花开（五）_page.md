@@ -22,7 +22,7 @@ TXT 下载: [[交换]_花落花开（五）.doc]([交换]_花落花开（五）.
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | fc22d15898c9878ac22de82b2c6c7251                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

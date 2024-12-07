@@ -20,7 +20,7 @@ TXT 下载: [[变身]_比特币病毒（上）.doc]([变身]_比特币病毒（�
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | bc08aa0f0eac1e4f9299aeca5515949d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

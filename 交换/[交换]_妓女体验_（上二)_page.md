@@ -20,7 +20,7 @@ TXT 下载: [[交换]_妓女体验_（上二).doc]([交换]_妓女体验_（上�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 4e1ca52b61ff13f80f2137bbe7b8dc24                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

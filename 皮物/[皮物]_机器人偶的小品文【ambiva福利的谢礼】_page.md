@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机器人偶的小品文【ambiva福利的谢礼】.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16188 bytes                           |
 | MD5             | dd2ed7a8598abaecce5cd54740557d51                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

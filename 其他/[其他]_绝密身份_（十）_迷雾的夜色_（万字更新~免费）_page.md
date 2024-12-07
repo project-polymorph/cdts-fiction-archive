@@ -22,7 +22,7 @@ TXT 下载: [[其他]_绝密身份_（十）_迷雾的夜色_（万字更新~免
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50890 bytes                           |
 | MD5             | 60b124cf94a8816b3b40ebb474d117cd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

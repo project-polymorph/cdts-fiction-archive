@@ -20,7 +20,7 @@ TXT 下载: [[变身]_真红乐章（4）_[.docx]([变身]_真红乐章（4）_[
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24242 bytes                           |
 | MD5             | 732eb084f0aca8280b4e76a58641e947                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

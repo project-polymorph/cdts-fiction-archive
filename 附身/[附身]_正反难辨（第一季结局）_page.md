@@ -20,7 +20,7 @@ TXT 下载: [[附身]_正反难辨（第一季结局）.doc]([附身]_正反难�
 | Format          | Microsoft Word Document                               |
 | Size            | 144896 bytes                           |
 | MD5             | b1fcb7690d18e7ac20d34ac3b0aff7d9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

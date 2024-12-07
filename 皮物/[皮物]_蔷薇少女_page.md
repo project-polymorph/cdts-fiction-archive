@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_蔷薇少女.doc]([皮物]_蔷薇少女.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 8387528fb6b42e4e5d194e8f465e43fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

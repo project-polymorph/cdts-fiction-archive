@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第12章_县城.doc]([改造]_《夫尊�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 1c08a19d0b5165a75c582442b983eca1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

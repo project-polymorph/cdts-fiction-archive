@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑佛骨3.docx]([皮物]_黑佛骨3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27204 bytes                           |
 | MD5             | 213af1d25e3acef2ca3172a1046a1e97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

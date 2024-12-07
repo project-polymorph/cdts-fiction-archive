@@ -20,7 +20,7 @@ TXT 下载: [[附身]_盆栽.docx]([附身]_盆栽.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21498 bytes                           |
 | MD5             | 64169396271ae1e2a3f2d46876206bd4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

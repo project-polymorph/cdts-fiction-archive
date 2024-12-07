@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[悬赏道具]神奇的丝袜.doc]([附身]_[悬赏道具]
 | Format          | Microsoft Word Document                               |
 | Size            | 79360 bytes                           |
 | MD5             | 733b1fbc96e4c6f87be526870be1c4b6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

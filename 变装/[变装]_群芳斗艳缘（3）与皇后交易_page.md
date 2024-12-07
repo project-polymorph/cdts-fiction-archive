@@ -20,7 +20,7 @@ TXT 下载: [[变装]_群芳斗艳缘（3）与皇后交易.docx]([变装]_群�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18935 bytes                           |
 | MD5             | 3d059a1b563276bc42ca92b09e20fc5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

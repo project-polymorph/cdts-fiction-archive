@@ -20,7 +20,7 @@ TXT 下载: [[附身]_共和国，我为你拍照.doc]([附身]_共和国，我�
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | 708145b618de516eec87c09add345425                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

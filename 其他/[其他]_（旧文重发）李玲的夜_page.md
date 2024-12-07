@@ -20,7 +20,7 @@ TXT 下载: [[其他]_（旧文重发）李玲的夜.doc]([其他]_（旧文重�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 76802c2b0e397961e9a2e88dbe8c22aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

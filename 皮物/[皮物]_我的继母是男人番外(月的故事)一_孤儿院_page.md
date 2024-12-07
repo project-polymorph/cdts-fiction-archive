@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的继母是男人番外(月的故事)一_孤儿院.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19187 bytes                           |
 | MD5             | f529c8fb7d032688127b093081e707d8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

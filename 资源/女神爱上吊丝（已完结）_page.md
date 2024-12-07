@@ -20,7 +20,7 @@ TXT 下载: [女神爱上吊丝（已完结）.doc](女神爱上吊丝（已完�
 | Format          | Microsoft Word Document                               |
 | Size            | 83968 bytes                           |
 | MD5             | 0c0399d0a9fb51ee8d8f7fd374898d9d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

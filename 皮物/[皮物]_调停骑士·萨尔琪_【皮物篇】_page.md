@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_调停骑士·萨尔琪_【皮物篇】.docx]([皮物]_调
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31408 bytes                           |
 | MD5             | 9fd0e16a330c52bbdf5cb56945ebbd0d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_（新人渣翻译）吸乳附身术.doc]([附身]_（新�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一篇关于角色夺舍及性别转换的小说内容，主要围绕着两个姐妹之间复杂的情感关系展开。故事的主角是一个通过附身术夺取了妹妹明日香身体的角色，他在体验明日香的生活时逐渐对其姐姐由香产生了好感。在家庭晚餐的场景中，作者通过细腻的描写展现了明日香对姐姐内心的比较及自我认知的迷茫并掺杂着对由香身体的渴望。角色之间的对话流露出暗示、尴尬以及青涩的情感交流，描绘了明日香试图更深入了解由香的情况，并尝试成为由香的姐妹，同时也表现了性别转换带来的认知冲突与伦理道德的挑战。小说涉及一定量的性暗示和情感探索，适合关注性别与自我认同主题的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_（新人渣翻译）吸乳附身术.doc]([附身]_（新�
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | a3a8650a25a98027b34aa2dd6a074392                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 姐妹关系, 情感纠葛, 自我认知, 强烈欲望, 恋爱情感, 附身术, 青涩爱情, 禁忌之爱, 家庭互动, 二次元, 心理冲突, 身体认同, 阶级差异, 成长, 探索未解之谜, 性别认同, 校园生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

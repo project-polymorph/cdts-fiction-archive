@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮戒.doc]([皮物]_皮戒.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 194560 bytes                           |
 | MD5             | cd0fbed73992f764de09350c1ea39568                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

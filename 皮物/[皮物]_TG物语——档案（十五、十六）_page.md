@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_TG物语——档案（十五、十六）.doc]([皮物]_TG
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 80303db35f527c08865ef2851df091aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_凝膠果汁狂想曲【里】三.docx]([交换]_凝膠果
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21275 bytes                           |
 | MD5             | e167846f210b31600ca31513b2c3c15e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | せなちか                               |
 | Region          | 未知                               |

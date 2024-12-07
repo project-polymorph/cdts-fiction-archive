@@ -20,7 +20,7 @@ TXT 下载: [[变身]_淫魔堕世录.docx]([变身]_淫魔堕世录.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26382 bytes                           |
 | MD5             | 703a2c63321a793ffe48bb2102f00d1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

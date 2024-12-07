@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【申码文重发】我，女大学生_0~5章.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | 75dae8e1499405ccaaf8644bd4798df5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

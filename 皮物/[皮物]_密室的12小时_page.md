@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_密室的12小时.docx]([皮物]_密室的12小时.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36846 bytes                           |
 | MD5             | 02eb0240b757eb996d37b985cd644762                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

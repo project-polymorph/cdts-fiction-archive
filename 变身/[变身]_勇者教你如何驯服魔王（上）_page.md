@@ -20,7 +20,7 @@ TXT 下载: [[变身]_勇者教你如何驯服魔王（上）.doc]([变身]_勇�
 | Format          | Microsoft Word Document                               |
 | Size            | 85504 bytes                           |
 | MD5             | aac0228ba3e339c61af9239b8c25feb3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

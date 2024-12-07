@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]美好人生3（带图版）.docx]([变性
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26212 bytes                           |
 | MD5             | f9a14f8219c395e0422077b738e1c92d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

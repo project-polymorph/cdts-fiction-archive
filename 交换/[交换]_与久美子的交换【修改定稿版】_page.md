@@ -20,7 +20,7 @@ TXT 下载: [[交换]_与久美子的交换【修改定稿版】.docx]([交换]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41285 bytes                           |
 | MD5             | c474fdc8aabf052a5f08d5ea3ce63769                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

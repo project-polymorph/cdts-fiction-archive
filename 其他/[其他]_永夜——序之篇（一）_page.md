@@ -20,7 +20,7 @@ TXT 下载: [[其他]_永夜——序之篇（一）.docx]([其他]_永夜——
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20308 bytes                           |
 | MD5             | 6935d852f8b05846c846c34b1e8df885                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

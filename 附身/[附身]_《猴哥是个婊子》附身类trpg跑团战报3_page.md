@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《猴哥是个婊子》附身类trpg跑团战报3.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35840 bytes                           |
 | MD5             | e807b4444c19094266273c5866f6ac22                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 轻咬的指尖                               |
 | Region          | 未知                               |

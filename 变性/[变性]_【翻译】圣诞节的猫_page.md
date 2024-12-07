@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】圣诞节的猫.doc]([变性]_【翻译】圣�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | a22f8a5fcee9c6965e1956a2dde66952                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Paula Girl                               |
 | Region          | 未知                               |

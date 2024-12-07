@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_狱望之陪伴（上）.doc]([皮物]_狱望之陪伴（�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 8c1fd6ec85f58709724259b9050e45c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

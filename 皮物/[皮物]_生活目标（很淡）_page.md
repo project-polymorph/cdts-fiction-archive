@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_生活目标（很淡）.docx]([皮物]_生活目标（很
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22992 bytes                           |
 | MD5             | e9ac79b2fd34d93014c7ce45dbc34f50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

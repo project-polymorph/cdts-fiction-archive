@@ -20,7 +20,7 @@ TXT 下载: [现实修改.doc](现实修改.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 62976 bytes                           |
 | MD5             | a31c556ce8d9607f51f9b3721e09a966                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

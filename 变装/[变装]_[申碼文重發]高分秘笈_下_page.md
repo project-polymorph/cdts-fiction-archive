@@ -20,7 +20,7 @@ TXT 下载: [[变装]_[申碼文重發]高分秘笈_下.doc]([变装]_[申碼文
 | Format          | Microsoft Word Document                               |
 | Size            | 75264 bytes                           |
 | MD5             | 2f7935f865deae0bbf4f1d372bbc5e73                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Miss Justine / 0894mitsuna                               |
 | Region          | 未知                               |

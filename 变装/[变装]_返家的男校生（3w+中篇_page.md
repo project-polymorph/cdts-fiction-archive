@@ -20,7 +20,7 @@ TXT 下载: [[变装]_返家的男校生（3w+中篇.doc]([变装]_返家的男�
 | Format          | Microsoft Word Document                               |
 | Size            | 124928 bytes                           |
 | MD5             | 1a3e3ebc3a22dab75b42164f3041f24d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

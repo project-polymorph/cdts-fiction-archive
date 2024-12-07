@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一个刺激的夜和一个心塞的我！(序幕).docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21353 bytes                           |
 | MD5             | 06f4ff51874f23f6db9950a8e46659e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

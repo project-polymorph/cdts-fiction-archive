@@ -20,7 +20,7 @@ TXT 下载: [[交换]_暗黑之星_(交換篇).doc]([交换]_暗黑之星_(交�
 | Format          | Microsoft Word Document                               |
 | Size            | 114688 bytes                           |
 | MD5             | 91f00bd9e766346e8a860aa14aa4e6a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

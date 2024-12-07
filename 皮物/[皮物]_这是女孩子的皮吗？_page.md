@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_这是女孩子的皮吗？.docx]([皮物]_这是女孩子
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33802 bytes                           |
 | MD5             | a1fbe9a1959abd935e23d2c4c99a7135                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

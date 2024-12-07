@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【颠倒的爱】（二）.docx]([皮物]_【颠倒的爱
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23912 bytes                           |
 | MD5             | 1b643106ee8a3321d0763897dde8707d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

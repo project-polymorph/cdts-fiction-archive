@@ -20,7 +20,7 @@ TXT 下载: [[其他]_真实的我.docx]([其他]_真实的我.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18901 bytes                           |
 | MD5             | a2eb06b2ca9b375f0e710a337293bd17                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

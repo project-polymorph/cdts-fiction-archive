@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魅魔手套（二）.docx]([皮物]_魅魔手套（二）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25193 bytes                           |
 | MD5             | dfc68e8c00c70cdbb434864c0e8b5eab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

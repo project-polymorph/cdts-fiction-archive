@@ -20,7 +20,7 @@ TXT 下载: [[交换]_错魂体_第六篇.docx]([交换]_错魂体_第六篇.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25549 bytes                           |
 | MD5             | 6146f4958be24d19b2913e770101303a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

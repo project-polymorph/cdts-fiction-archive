@@ -20,7 +20,7 @@ TXT 下载: [[变性]_借体重生2.docx]([变性]_借体重生2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26768 bytes                           |
 | MD5             | 73592fe8abb8d25695e4f6256f9dd53b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

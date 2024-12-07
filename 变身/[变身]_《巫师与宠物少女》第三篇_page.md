@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《巫师与宠物少女》第三篇.doc]([变身]_《巫�
 | Format          | Microsoft Word Document                               |
 | Size            | 209920 bytes                           |
 | MD5             | 84ff9ca4653197648d9733e1a8402c16                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

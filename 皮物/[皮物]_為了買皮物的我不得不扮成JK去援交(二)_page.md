@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_為了買皮物的我不得不扮成JK去援交(二).docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22254 bytes                           |
 | MD5             | 3d64efa2290c76932c5ae1178ba3939d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

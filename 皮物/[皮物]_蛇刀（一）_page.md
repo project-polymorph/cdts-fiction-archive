@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_蛇刀（一）.docx]([皮物]_蛇刀（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20496 bytes                           |
 | MD5             | efed204620379d08e303f9904cebfd4f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

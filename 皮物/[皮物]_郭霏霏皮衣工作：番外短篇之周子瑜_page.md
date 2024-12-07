@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作：番外短篇之周子瑜.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19763 bytes                           |
 | MD5             | d1d4ae1f3163732b5cee0c0d2494c040                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 郭霏霏皮衣工作室                               |
 | Region          | 台湾                               |

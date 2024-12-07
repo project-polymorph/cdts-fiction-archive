@@ -20,7 +20,7 @@ TXT 下载: [一个奇怪的交换.doc](一个奇怪的交换.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | a8e2c39db4384df05bb8ae0c9e511b94                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

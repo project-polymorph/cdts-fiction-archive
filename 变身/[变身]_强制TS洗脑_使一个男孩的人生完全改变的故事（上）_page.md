@@ -20,7 +20,7 @@ TXT 下载: [[变身]_强制TS洗脑_使一个男孩的人生完全改变的故�
 | Format          | Microsoft Word Document                               |
 | Size            | 94208 bytes                           |
 | MD5             | ba2213b66cfc3009c8aa18b1fbda7954                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

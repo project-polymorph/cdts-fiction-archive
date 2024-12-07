@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第19章小人得志.doc]([改造]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 985146ee90a885e158213f7fcab2d7e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

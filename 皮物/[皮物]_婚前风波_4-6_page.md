@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_婚前风波_4-6.docx]([皮物]_婚前风波_4-6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26989 bytes                           |
 | MD5             | a6aaa9cdd2d1dd9e62114bec7d5a4045                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

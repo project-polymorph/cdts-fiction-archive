@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[审码文]_[翻译]重生：一种新的爱的方式.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24457 bytes                           |
 | MD5             | a4c4dea7a23365b3d8b2a7936e78deaf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Layne Smyth                               |
 | Region          | 未知                               |

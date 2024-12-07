@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【翻译】辽子前辈.docx]([附身]_【翻译】辽子
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15757 bytes                           |
 | MD5             | 0922fbf8b5b91ad49221a4dd22fc6525                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

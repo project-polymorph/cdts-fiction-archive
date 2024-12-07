@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_馆主的秘密(根据游戏动漫区的Masking改编).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22715 bytes                           |
 | MD5             | 96decbf6797b2953e52e730fe4e5c824                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

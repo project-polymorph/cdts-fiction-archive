@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我是女仆马利亚.docx]([其他]_我是女仆马利亚
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20059 bytes                           |
 | MD5             | bbd561f531d3d87fd23f4030abb5ce84                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

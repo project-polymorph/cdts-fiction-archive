@@ -20,7 +20,7 @@ TXT 下载: [[附身]_転身——女警雨宮晶子篇(上）.docx]([附身]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19028 bytes                           |
 | MD5             | ba252015bb71153f829fc2854796f920                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

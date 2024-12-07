@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_喉舌计划——隆南外传.doc]([皮物]_喉舌计划�
 | Format          | Microsoft Word Document                               |
 | Size            | 84992 bytes                           |
 | MD5             | 77de77beea3702948c10330084b21e4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

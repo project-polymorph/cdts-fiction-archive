@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机甲师之殇.docx]([皮物]_机甲师之殇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27556 bytes                           |
 | MD5             | 4953454ad4b1481bd158c65b9a6c0cdf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -24,7 +24,7 @@ TXT 下载: [[附身]_分魂秘术（二）.doc]([附身]_分魂秘术（二）.
 | Format          | Microsoft Word Document                               |
 | Size            | 59392 bytes                           |
 | MD5             | 4279a7b6a5eb24b33566e80ef0da635a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

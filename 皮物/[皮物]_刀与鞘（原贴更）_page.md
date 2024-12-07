@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_刀与鞘（原贴更）.docx]([皮物]_刀与鞘（原贴
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42113 bytes                           |
 | MD5             | 40f2ff7c46843c39195662a89de5cd4a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

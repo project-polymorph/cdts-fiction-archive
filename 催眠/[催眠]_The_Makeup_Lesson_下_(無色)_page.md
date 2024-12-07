@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_The_Makeup_Lesson_下_(無色).doc]([催眠]_The_Makeup_Le
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 241b5e2472624497d04418d1c92437f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

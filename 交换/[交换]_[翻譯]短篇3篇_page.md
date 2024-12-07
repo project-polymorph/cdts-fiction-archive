@@ -20,7 +20,7 @@ TXT 下载: [[交换]_[翻譯]短篇3篇.doc]([交换]_[翻譯]短篇3篇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | e510831dc8ecfeff3d63f052cba41a0a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

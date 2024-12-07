@@ -20,7 +20,7 @@ TXT 下载: [[变性]_伴娘_Demoiselle_d'honneur.docx]([变性]_伴娘_Demoisel
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51177 bytes                           |
 | MD5             | c7efce0a15ff042f0fece066c752583d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Petit Pierre                               |
 | Region          | 未知                               |

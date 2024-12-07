@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_申码文重发《断流的黄河》.doc]([皮物]_申码�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | c572adb6e439b01d4be7a302a61dfd48                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

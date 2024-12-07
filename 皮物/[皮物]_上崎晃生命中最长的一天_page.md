@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_上崎晃生命中最长的一天.doc]([皮物]_上崎晃�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 0ee82837d71c561dffbfcbaed4054f99                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | savonias                               |
 | Region          | 未知                               |

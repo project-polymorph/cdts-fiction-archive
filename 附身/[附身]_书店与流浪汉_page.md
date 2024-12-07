@@ -20,7 +20,7 @@ TXT 下载: [[附身]_书店与流浪汉.doc]([附身]_书店与流浪汉.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | bc1e02978644944af0a5751d88a87bf1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

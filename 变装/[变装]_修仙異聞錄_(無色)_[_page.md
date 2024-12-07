@@ -20,7 +20,7 @@ TXT 下载: [[变装]_修仙異聞錄_(無色)_[.docx]([变装]_修仙異聞錄_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24456 bytes                           |
 | MD5             | ae757cc53d229937c3cb7ab5bb4c535d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

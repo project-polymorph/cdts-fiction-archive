@@ -20,7 +20,7 @@ TXT 下载: [[交换]_恐怖微信群第二章_（暂时不坑）.docx]([交换]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27871 bytes                           |
 | MD5             | 4885471b70fbc972c2cdcca0823d7673                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

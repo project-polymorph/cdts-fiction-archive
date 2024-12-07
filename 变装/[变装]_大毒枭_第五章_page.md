@@ -20,7 +20,7 @@ TXT 下载: [[变装]_大毒枭_第五章.docx]([变装]_大毒枭_第五章.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21273 bytes                           |
 | MD5             | 484619c40676a2e1ddb06db018f02f1f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

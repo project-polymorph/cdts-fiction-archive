@@ -20,7 +20,7 @@ TXT 下载: [[变身]_肉欲人偶（入魔其一），10_8，第四节前半，
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24674 bytes                           |
 | MD5             | c44746e6141e3e0792ac18eec8bb3598                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 幸运星                               |
 | Region          | 未知                               |

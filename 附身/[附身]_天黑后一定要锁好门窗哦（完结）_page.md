@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天黑后一定要锁好门窗哦（完结）.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | c4508c1af58ee8c92e3530024c870cbe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花开终有时_第三回_‘落花’.docx]([变性]_花�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34058 bytes                           |
 | MD5             | 035f11188009444592733ee90adccfca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

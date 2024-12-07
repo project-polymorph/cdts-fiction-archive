@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【代发短篇】表里不一.doc]([皮物]_【代发短�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | b3c14f08e5a3a04402182821d7c99226                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

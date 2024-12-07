@@ -20,7 +20,7 @@ TXT 下载: [[附身]_美少女战士邪传.docx]([附身]_美少女战士邪传
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27386 bytes                           |
 | MD5             | ce30840dba5f983281439a36334f9bbc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

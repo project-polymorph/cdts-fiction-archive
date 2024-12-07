@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《蛇媚》(第三章·要代替姐姐，姐姐竟然加�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32535 bytes                           |
 | MD5             | 026c4b9aea139291a41c36ab42834ad1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

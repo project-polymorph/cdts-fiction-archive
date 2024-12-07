@@ -20,7 +20,7 @@ TXT 下载: [[变身]_被恶魔俘虏的神6.docx]([变身]_被恶魔俘虏的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18147 bytes                           |
 | MD5             | 51bf99a177277d09b029ba33057a82ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

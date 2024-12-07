@@ -20,7 +20,7 @@ TXT 下载: [[其他]_高考征文壹——北京题《纽带》.doc]([其他]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | 0461fae5e978117547d62a6b6beb51dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

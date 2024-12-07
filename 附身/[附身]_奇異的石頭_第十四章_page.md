@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奇異的石頭_第十四章.docx]([附身]_奇異的石�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16221 bytes                           |
 | MD5             | 8a91b6ea05bd0ff9e8381d621f9aee56                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 是一次十足                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_上学啦——linchong短篇集第四辑（7）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23862 bytes                           |
 | MD5             | 24d07e65ab4396eef32f39d11bdd5463                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_机械歌姬3.docx]([其他]_机械歌姬3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34436 bytes                           |
 | MD5             | 651db96a975a6e7b1f842a01a9cc7c34                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_顿悟三部曲之二_顿悟_（新年，新皮物，新�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32847 bytes                           |
 | MD5             | 7fd7315752b86408e5b67cc12c67834b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

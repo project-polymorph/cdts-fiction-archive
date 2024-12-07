@@ -20,7 +20,7 @@ TXT 下载: [[交换]_平凡的日常生活（下）.doc]([交换]_平凡的日�
 | Format          | Microsoft Word Document                               |
 | Size            | 700928 bytes                           |
 | MD5             | 1446b42fdc8cb197a56d4596a742c086                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

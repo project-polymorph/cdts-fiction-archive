@@ -20,7 +20,7 @@ TXT 下载: [[附身]_凡人歌_01.docx]([附身]_凡人歌_01.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35800 bytes                           |
 | MD5             | 6e78c7aff3a522fb92062f3581857b1a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

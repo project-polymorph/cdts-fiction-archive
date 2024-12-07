@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_平凡往事_3.docx]([皮物]_平凡往事_3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18309 bytes                           |
 | MD5             | ff9d45ba3a6fedf8702893d2a755010d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

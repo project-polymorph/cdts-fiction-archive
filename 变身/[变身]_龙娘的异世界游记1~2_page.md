@@ -20,7 +20,7 @@ TXT 下载: [[变身]_龙娘的异世界游记1~2.doc]([变身]_龙娘的异世�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 0cb3264b0ce191c9a6d34182a41fd966                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

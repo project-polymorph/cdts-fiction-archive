@@ -20,7 +20,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十八章+登场�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26629 bytes                           |
 | MD5             | f3f30250ed81ac542c4bcef06486eb5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 雨蝶清                               |
 | Region          | 未知                               |

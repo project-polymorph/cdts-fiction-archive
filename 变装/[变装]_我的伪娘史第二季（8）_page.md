@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我的伪娘史第二季（8）.docx]([变装]_我的伪�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20400 bytes                           |
 | MD5             | 66f9b499453a07128d77eed0cd931bcf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

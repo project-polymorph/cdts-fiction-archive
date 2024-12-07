@@ -20,7 +20,7 @@ TXT 下载: [[变身]_Sunset_Strip__Opening_Night.docx]([变身]_Sunset_Strip__O
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32909 bytes                           |
 | MD5             | 7491239dbc01ddafd1ccfa5ce595f92e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | MAD Mike                               |
 | Region          | 未知                               |

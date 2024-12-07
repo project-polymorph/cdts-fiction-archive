@@ -20,7 +20,7 @@ TXT 下载: [帝都风云_（番外篇二）罗曼奇遇记.doc](帝都风云_�
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | d0114b3e7741a4d3a752cd2a7d5170a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

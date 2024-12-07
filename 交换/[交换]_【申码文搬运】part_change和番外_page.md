@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【申码文搬运】part_change和番外.docx]([交换]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48667 bytes                           |
 | MD5             | d69f0e8225fa634e4438e39453e15bd4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魂·阴阳珠_第二卷_4-6章.doc]([其他]_魂·阴阳�
 | Format          | Microsoft Word Document                               |
 | Size            | 80896 bytes                           |
 | MD5             | 5cc5825c1580004835b5bd6b8db9ec62                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

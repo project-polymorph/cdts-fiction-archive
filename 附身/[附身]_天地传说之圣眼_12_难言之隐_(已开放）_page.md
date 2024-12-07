@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天地传说之圣眼_12_难言之隐_(已开放）.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20596 bytes                           |
 | MD5             | 6447efa78f8e71f647f1db635127e9c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

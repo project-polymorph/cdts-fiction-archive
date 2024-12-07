@@ -20,7 +20,7 @@ TXT 下载: [[其他]_迷宫_第三章.doc]([其他]_迷宫_第三章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | fb3414c36369f5e7d799cb99d22eb54b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

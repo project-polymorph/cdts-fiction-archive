@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的芙姊.docx]([皮物]_我的芙姊.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29766 bytes                           |
 | MD5             | c3af02127975e03056658544eb84592e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 女大学生4                               |
 | Region          | 未知                               |

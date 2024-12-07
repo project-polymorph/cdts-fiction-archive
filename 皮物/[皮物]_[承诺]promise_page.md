@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[承诺]promise.docx]([皮物]_[承诺]promise.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40929 bytes                           |
 | MD5             | dc7b3a071f5db44a77c7c572a7e9a593                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Misfit                               |
 | Region          | 未知                               |

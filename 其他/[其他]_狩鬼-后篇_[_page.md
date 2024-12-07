@@ -20,7 +20,7 @@ TXT 下载: [[其他]_狩鬼-后篇_[.docx]([其他]_狩鬼-后篇_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21109 bytes                           |
 | MD5             | 73b5b9b3f0d34f7bb6b179a20081dacb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

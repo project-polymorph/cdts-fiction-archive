@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪梦皮缘_第六章.doc]([皮物]_怪梦皮缘_第六�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 7e2072352bdeb9d966cc1da2d6405920                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

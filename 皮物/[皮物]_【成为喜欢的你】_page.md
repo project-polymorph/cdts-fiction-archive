@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【成为喜欢的你】.doc]([皮物]_【成为喜欢的�
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 8a20a0d11642679f78abf96cedc4db97                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

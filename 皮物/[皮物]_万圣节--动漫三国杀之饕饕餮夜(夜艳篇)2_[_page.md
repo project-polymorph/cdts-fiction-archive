@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_万圣节--动漫三国杀之饕饕餮夜(夜艳篇)2_[.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18413 bytes                           |
 | MD5             | 82e00f1f62c51ed799398e3306cf8e4a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

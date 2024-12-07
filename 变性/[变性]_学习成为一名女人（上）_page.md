@@ -20,7 +20,7 @@ TXT 下载: [[变性]_学习成为一名女人（上）.docx]([变性]_学习成
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20967 bytes                           |
 | MD5             | 3f03b863097958aa24af1378e2c707df                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

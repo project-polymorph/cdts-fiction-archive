@@ -20,7 +20,7 @@ TXT 下载: [[交换]_メイドカフェで集団入れ替わり(女仆咖啡馆
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | b43759381a79fa52fd42c739e052d0e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ごみんと                               |
 | Region          | 日本                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_安静的代价.docx]([皮物]_安静的代价.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22425 bytes                           |
 | MD5             | e1ab1d24d2689938b78feca0f3761a3a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

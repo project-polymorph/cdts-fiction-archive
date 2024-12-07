@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【舊文】特殊概率.doc]([附身]_【舊文】特殊�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 6c1c967d6e36ab616b2768288fb08941                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

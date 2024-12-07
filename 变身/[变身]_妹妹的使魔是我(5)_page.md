@@ -20,7 +20,7 @@ TXT 下载: [[变身]_妹妹的使魔是我(5).docx]([变身]_妹妹的使魔是
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21450 bytes                           |
 | MD5             | d778b8822f6412ed35ab8d4ee51b5e14                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

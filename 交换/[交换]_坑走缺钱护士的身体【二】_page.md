@@ -20,7 +20,7 @@ TXT 下载: [[交换]_坑走缺钱护士的身体【二】.docx]([交换]_坑走
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28462 bytes                           |
 | MD5             | 02f9e8b0088a5e6f7e4566712144ef41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

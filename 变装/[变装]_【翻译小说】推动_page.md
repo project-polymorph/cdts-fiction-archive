@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】推动.docx]([变装]_【翻译小说】
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48353 bytes                           |
 | MD5             | aa6e5ac0cad9fd80f866d321ed4d5f0d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | enduringshades                               |
 | Region          | 未知                               |

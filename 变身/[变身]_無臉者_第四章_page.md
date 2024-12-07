@@ -20,7 +20,7 @@ TXT 下载: [[变身]_無臉者_第四章.doc]([变身]_無臉者_第四章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 0062761ffecac71c01d7375281c18afb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lu9mimi                               |
 | Region          | 未知                               |

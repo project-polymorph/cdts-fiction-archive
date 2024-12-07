@@ -20,7 +20,7 @@ TXT 下载: [[变身]_星幻.docx]([变身]_星幻.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26316 bytes                           |
 | MD5             | dd7bcb3bb1ca005dbff586a14a41f570                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | wydle                               |
 | Region          | 未知                               |

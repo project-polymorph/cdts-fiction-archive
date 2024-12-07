@@ -20,7 +20,7 @@ TXT 下载: [[其他]_仙噬(五).docx]([其他]_仙噬(五).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 14786 bytes                           |
 | MD5             | 523323b43c1f6dcf20faae7c9b91aff6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

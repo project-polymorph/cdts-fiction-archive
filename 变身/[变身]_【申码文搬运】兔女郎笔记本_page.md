@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申码文搬运】兔女郎笔记本.doc]([变身]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 875a77334f4e8f5fffd8583b1d72482b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

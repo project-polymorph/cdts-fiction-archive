@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_伪身真情~Real_Love_Beneath_Fake_Skins.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 88576 bytes                           |
 | MD5             | e60fa70537a72070a3c7a4513416cbff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Despale                               |
 | Region          | 中国大陆                               |

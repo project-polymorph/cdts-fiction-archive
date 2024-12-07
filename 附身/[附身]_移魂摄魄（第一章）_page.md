@@ -20,7 +20,7 @@ TXT 下载: [[附身]_移魂摄魄（第一章）.doc]([附身]_移魂摄魄（�
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | 350dda0e2cb7fbed1026f0d3eb0b0f25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

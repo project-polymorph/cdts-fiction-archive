@@ -20,7 +20,7 @@ TXT 下载: [[交换]_转命簿.doc]([交换]_转命簿.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 315392 bytes                           |
 | MD5             | 6c556930156a4ea3fb0a208f5714cee3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

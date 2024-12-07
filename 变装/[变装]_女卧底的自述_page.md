@@ -20,7 +20,7 @@ TXT 下载: [[变装]_女卧底的自述.docx]([变装]_女卧底的自述.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51577 bytes                           |
 | MD5             | 68c2875f0733d90bda7862afd08cff26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小轩窗                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_到了异世界就给我狠狠更新【2】.doc]([附身]_
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | ef32ae763729d3ca67ac621619d77019                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

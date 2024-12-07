@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我老婆的最佳女友_第一章_24小时女佣.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | bf665cb1c996c89a6280784e44032a54                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

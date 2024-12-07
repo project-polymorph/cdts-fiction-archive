@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寒蝉（六章）.docx]([皮物]_寒蝉（六章）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25301 bytes                           |
 | MD5             | 9c96596e792ebdced2e522d479678a45                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

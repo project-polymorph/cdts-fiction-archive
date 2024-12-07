@@ -20,7 +20,7 @@ TXT 下载: [[改造]_塚鬼袶_第十一回、昆沙明王，雙修陰陽之絕
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33510 bytes                           |
 | MD5             | 719883bf29da2f01f676f53efd316733                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

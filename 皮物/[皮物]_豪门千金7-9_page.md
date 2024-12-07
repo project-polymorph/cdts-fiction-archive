@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_豪门千金7-9.docx]([皮物]_豪门千金7-9.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48682 bytes                           |
 | MD5             | 3f5c1b67caa4d28a90416bdab271f5c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_神奇手机（第三章）.doc]([附身]_神奇手机（�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 18a44631c5608c115f589fba673b4ada                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

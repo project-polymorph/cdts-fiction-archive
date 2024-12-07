@@ -20,7 +20,7 @@ TXT 下载: [[附身]_能力变异药剂_13_SSS.docx]([附身]_能力变异药�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20184 bytes                           |
 | MD5             | cbfafb3ce54b53edd004363eb26e4849                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

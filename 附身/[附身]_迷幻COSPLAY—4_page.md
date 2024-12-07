@@ -22,7 +22,7 @@ TXT 下载: [[附身]_迷幻COSPLAY—4.docx]([附身]_迷幻COSPLAY—4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20508 bytes                           |
 | MD5             | 9cc69a0e2c6a7f1236be5fe8f5e430af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

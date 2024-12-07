@@ -20,7 +20,7 @@ TXT 下载: [[变身]_一场意外我变成了小萝莉1-3.doc]([变身]_一场�
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | a2be132cf9a4086f499f460df6b15b2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

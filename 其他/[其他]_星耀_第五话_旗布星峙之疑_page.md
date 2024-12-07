@@ -20,7 +20,7 @@ TXT 下载: [[其他]_星耀_第五话_旗布星峙之疑.docx]([其他]_星耀_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24513 bytes                           |
 | MD5             | 215b1324931d3b9127eb93cb4cd40d52                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 中国大陆                               |

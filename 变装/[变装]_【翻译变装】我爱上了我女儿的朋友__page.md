@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译变装】我爱上了我女儿的朋友_.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 0436a855e6375894398d028533940877                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

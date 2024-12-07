@@ -20,7 +20,7 @@ TXT 下载: [[变身]_網路遊戲一天一小時_(原創轉貼).docx]([变身]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32780 bytes                           |
 | MD5             | 13830b6bd42f39a2ae019b15f4fdee82                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

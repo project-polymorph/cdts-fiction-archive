@@ -20,7 +20,7 @@ TXT 下载: [[改造]_现在我是_Kookee_（上）.doc]([改造]_现在我是_K
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | ad08d0dbf3ea3cd2cab29117278cc300                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Reverend Rasputin                               |
 | Region          | 未知                               |

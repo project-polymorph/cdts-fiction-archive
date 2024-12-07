@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮发卡1.docx]([皮物]_人皮发卡1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24994 bytes                           |
 | MD5             | 9f36d43dde5587114690a947b01faef7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_吸收二日制[収吸二日制].doc]([变身]_吸收二�
 | Format          | Microsoft Word Document                               |
 | Size            | 81920 bytes                           |
 | MD5             | 81412f7876572f0526bbd62118fbcbe9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | onaona                               |
 | Region          | 未知                               |

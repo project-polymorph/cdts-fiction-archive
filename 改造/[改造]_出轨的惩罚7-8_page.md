@@ -20,7 +20,7 @@ TXT 下载: [[改造]_出轨的惩罚7-8.doc]([改造]_出轨的惩罚7-8.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 7129cf2424e3884467976fb8b1e0d015                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

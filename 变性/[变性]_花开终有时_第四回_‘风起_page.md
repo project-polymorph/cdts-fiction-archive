@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花开终有时_第四回_‘风起.docx]([变性]_花开�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34378 bytes                           |
 | MD5             | 1ba573e215996b58c0bc868b645b66af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

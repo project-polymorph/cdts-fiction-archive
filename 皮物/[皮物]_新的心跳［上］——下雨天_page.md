@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新的心跳［上］——下雨天.docx]([皮物]_新的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31768 bytes                           |
 | MD5             | d5014f78471a9dde03d00cfea4a9cfcc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

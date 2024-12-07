@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_无双三国1.docx]([皮物]_无双三国1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19539 bytes                           |
 | MD5             | cc5757042c33e67f8c2163b32f93674d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

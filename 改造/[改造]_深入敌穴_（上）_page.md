@@ -20,7 +20,7 @@ TXT 下载: [[改造]_深入敌穴_（上）.doc]([改造]_深入敌穴_（上�
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 8a789ef1344942dc7397b0158b3ea369                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

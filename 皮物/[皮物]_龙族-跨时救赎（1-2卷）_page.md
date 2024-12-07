@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_龙族-跨时救赎（1-2卷）.docx]([皮物]_龙族-跨�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 75802 bytes                           |
 | MD5             | d8cd8005c16df316e2d7daa96300ad42                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我家女友不定形_【第八章】.doc]([皮物]_我家
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | d7afb65780016cd24474e3da795fef96                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

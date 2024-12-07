@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_另加一短篇.doc]([皮物]_另加一短篇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 27648 bytes                           |
 | MD5             | 778cbfae903fa9935d98991c9d7601e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_（申文重发）我把你当朋友而你却想上我？.
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 0f72126aa0755482e98a5e5cc6f585e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

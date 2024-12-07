@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新人报道《情感捕获》.doc]([皮物]_新人报道�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 575aea361b3e6ff81d527641169fe609                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

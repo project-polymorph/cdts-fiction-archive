@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~第二卷(二).docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19806 bytes                           |
 | MD5             | 4e9d543982591d4b8909d4e7ca00cf91                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_爱与家庭（后篇+尾声）.doc]([皮物]_爱与家庭
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | 94c8a9e2e02b84d76e88d3f14405e75e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_律_（第四章）.docx]([皮物]_律_（第四章）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31121 bytes                           |
 | MD5             | 5a1bfafed55211d7a736036c3f97ad83                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

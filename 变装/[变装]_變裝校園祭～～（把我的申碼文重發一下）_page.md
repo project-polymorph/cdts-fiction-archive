@@ -24,7 +24,7 @@ TXT 下载: [[变装]_變裝校園祭～～（把我的申碼文重發一下）.
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | 6a85c135c698307bb4e33a46c5b54fb5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

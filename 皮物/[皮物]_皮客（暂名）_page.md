@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮客（暂名）.docx]([皮物]_皮客（暂名）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17087 bytes                           |
 | MD5             | bbab3f2e942f08e73ff83816d714f32c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

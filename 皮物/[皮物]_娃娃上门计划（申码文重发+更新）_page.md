@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_娃娃上门计划（申码文重发+更新）.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41854 bytes                           |
 | MD5             | 655743dc825fa38f58cb3ce67e746a05                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

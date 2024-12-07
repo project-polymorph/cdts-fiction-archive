@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_组织的作战.docx]([皮物]_组织的作战.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23213 bytes                           |
 | MD5             | a180a19b4d1d401bb6dd1a5b61cdfe29                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

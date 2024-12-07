@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【申请上浮】性轉空姐招募說明會.doc]([变性
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | b3e13dc19073a063eab985cff0508912                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

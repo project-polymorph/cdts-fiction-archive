@@ -20,7 +20,7 @@ TXT 下载: [[变身]_無臉者_第二章.doc]([变身]_無臉者_第二章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | dca97457ed17e7ba6113d862b57ec451                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lu9mimi                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】特殊研究（中）.docx]([变装]_【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 90474 bytes                           |
 | MD5             | c2217d936aada6ef7ee7cd6c55a1d0ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

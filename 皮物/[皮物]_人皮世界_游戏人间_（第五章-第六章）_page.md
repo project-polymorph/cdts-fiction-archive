@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮世界_游戏人间_（第五章-第六章）.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37238 bytes                           |
 | MD5             | 086232e238e2a56c18bc852a86a59216                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文重发】特工歪传.docx]([皮物]_【申码
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25297 bytes                           |
 | MD5             | 62acfbf8505399aee0b2c5d243ed4336                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

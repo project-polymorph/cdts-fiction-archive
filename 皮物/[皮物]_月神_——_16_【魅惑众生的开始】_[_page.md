@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月神_——_16_【魅惑众生的开始】_[.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27325 bytes                           |
 | MD5             | 9546451983830268c8aa721130d03f33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ambiva                               |
 | Region          | 未知                               |

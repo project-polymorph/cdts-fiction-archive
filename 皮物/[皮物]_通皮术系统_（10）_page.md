@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_通皮术系统_（10）.doc]([皮物]_通皮术系统_（
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | e2a53cafc0546cb5da763a544e26be3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

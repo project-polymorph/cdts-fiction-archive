@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Tabloid_TV_（3）.docx]([变装]_Tabloid_TV_（3）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29468 bytes                           |
 | MD5             | 90b2bc1b57ec490cb5a95a18deee9498                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

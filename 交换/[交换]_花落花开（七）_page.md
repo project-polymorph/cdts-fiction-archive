@@ -20,7 +20,7 @@ TXT 下载: [[交换]_花落花开（七）.doc]([交换]_花落花开（七）.
 | Format          | Microsoft Word Document                               |
 | Size            | 70144 bytes                           |
 | MD5             | 8d3729405636c1e89a2d3920363bcbdf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

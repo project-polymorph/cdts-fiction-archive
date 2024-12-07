@@ -20,7 +20,7 @@ TXT 下载: [[变身]_父亲变妹妹.doc]([变身]_父亲变妹妹.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 920064 bytes                           |
 | MD5             | 0a270fec2434f5e5cee1ca17fc3ec65b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

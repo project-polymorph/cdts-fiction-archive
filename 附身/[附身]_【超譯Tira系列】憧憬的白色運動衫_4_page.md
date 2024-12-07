@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【超譯Tira系列】憧憬的白色運動衫_4.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26906 bytes                           |
 | MD5             | 1850a02cbf336f31b7f40698cf6dd4bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tira                               |
 | Region          | 未知                               |

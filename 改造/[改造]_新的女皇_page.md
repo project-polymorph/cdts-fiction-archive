@@ -20,7 +20,7 @@ TXT 下载: [[改造]_新的女皇.doc]([改造]_新的女皇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | 177b6fb73e36cdfd9e7d333314258169                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

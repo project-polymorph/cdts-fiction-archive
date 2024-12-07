@@ -20,7 +20,7 @@ TXT 下载: [[附身]_猎人前传之咪咪能解毒（前传完）.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40675 bytes                           |
 | MD5             | 959d401d3e13edffa9a73c07dbd87c59                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

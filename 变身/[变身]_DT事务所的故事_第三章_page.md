@@ -20,7 +20,7 @@ TXT 下载: [[变身]_DT事务所的故事_第三章.doc]([变身]_DT事务所�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 778577978e36a64e535226c7dd8e34c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

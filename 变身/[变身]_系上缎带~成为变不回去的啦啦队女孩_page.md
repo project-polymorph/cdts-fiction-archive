@@ -20,7 +20,7 @@ TXT 下载: [[变身]_系上缎带~成为变不回去的啦啦队女孩.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23844 bytes                           |
 | MD5             | d2d5b37f484673287150b40f199d6f16                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | K C A                               |
 | Region          | 未知                               |

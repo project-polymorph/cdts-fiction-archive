@@ -20,7 +20,7 @@ TXT 下载: [[变装]_无奈的转变（5）.doc]([变装]_无奈的转变（5�
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | adf146acd7294f8f654c3f6aebc6b32f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

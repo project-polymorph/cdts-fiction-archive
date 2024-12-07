@@ -20,7 +20,7 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈一〉：護士_x_黑道�
 | Format          | Microsoft Word Document                               |
 | Size            | 109568 bytes                           |
 | MD5             | 7d250fcf42f137d22a988bbb1cec4cea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

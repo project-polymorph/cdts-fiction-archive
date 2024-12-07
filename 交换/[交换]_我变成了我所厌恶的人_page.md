@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我变成了我所厌恶的人.docx]([交换]_我变成了
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44056 bytes                           |
 | MD5             | b394a1bbd3dc0e6355debe183ba02730                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

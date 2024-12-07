@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】坤包是开端.doc]([变性]_【翻译】坤�
 | Format          | Microsoft Word Document                               |
 | Size            | 220160 bytes                           |
 | MD5             | 1f4b5f8de080b43df9911a853b6fc2fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Varian Milagro（翻译：魔之天涯）                               |
 | Region          | 未知                               |

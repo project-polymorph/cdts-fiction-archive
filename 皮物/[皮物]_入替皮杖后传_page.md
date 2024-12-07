@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_入替皮杖后传.doc]([皮物]_入替皮杖后传.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 428032 bytes                           |
 | MD5             | 6a1c0b5e432818c056f893deccb2a43c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | hedian                               |
 | Region          | 中国大陆                               |

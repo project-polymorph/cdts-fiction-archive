@@ -20,7 +20,7 @@ TXT 下载: [[变装]_彼岸_第五回.docx]([变装]_彼岸_第五回.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34386 bytes                           |
 | MD5             | e5fe200be62ce63c9d318d00aa6af14a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

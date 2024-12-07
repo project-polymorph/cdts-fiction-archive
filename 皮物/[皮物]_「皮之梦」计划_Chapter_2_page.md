@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_「皮之梦」计划_Chapter_2.doc]([皮物]_「皮之梦
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 79da3bd99d70209352a67fa1e7b044fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

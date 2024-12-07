@@ -20,7 +20,7 @@ TXT 下载: [[变身]_士兵的结局并不总是死亡.docx]([变身]_士兵的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21457 bytes                           |
 | MD5             | a0b076faec5f6703c199441744d8d870                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | JayPandacubs4                               |
 | Region          | 未知                               |

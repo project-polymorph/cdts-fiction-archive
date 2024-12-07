@@ -20,7 +20,7 @@ TXT 下载: [[附身]_8_我是腿控，但我那拥有凭依能力的挚友是�
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | d215969cbdf27f3c957f9908adccef37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

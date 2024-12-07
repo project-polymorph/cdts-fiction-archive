@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_汉贼（十三）.docx]([皮物]_汉贼（十三）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26200 bytes                           |
 | MD5             | 54a94a6f725f63f6097b160131b18175                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

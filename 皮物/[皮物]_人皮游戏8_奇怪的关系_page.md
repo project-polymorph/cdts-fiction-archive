@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮游戏8_奇怪的关系.docx]([皮物]_人皮游戏8
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28350 bytes                           |
 | MD5             | c0ed829eb40946ab5e30c128069e3a29                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

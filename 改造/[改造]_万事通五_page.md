@@ -20,7 +20,7 @@ TXT 下载: [[改造]_万事通五.doc]([改造]_万事通五.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | e0eb630e1aae49dca95b785900773f8b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

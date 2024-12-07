@@ -20,7 +20,7 @@ TXT 下载: [[变装]_真正的幸运.docx]([变装]_真正的幸运.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55661 bytes                           |
 | MD5             | 47ba246d21bee38ab861693ffdf62247                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

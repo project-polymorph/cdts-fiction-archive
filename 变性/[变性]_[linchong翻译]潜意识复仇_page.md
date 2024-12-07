@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[linchong翻译]潜意识复仇.docx]([变性]_[linchong�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 59424 bytes                           |
 | MD5             | 0187c1a7dc4d77204b8fa271168c488e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong                               |
 | Region          | 未知                               |

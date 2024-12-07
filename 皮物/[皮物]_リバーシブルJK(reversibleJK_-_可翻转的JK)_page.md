@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_リバーシブルJK(reversibleJK_-_可翻转的JK).docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22259 bytes                           |
 | MD5             | 6d8f914889d19b7b680e602365adf360                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

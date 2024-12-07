@@ -20,7 +20,7 @@ TXT 下载: [[变性]_少爷，我在这里.docx]([变性]_少爷，我在这里
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22863 bytes                           |
 | MD5             | 0cd70675a6ee453dedf163cd0e40a82e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

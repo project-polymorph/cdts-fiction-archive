@@ -20,7 +20,7 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（11）（完）.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38562 bytes                           |
 | MD5             | 05d7f88adbbe37806e6b7062e647c962                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

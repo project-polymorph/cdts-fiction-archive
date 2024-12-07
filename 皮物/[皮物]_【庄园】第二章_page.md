@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【庄园】第二章.doc]([皮物]_【庄园】第二章.
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 616cec54e3e38095069ebcab921db615                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

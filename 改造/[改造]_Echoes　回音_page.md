@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Echoes　回音.docx]([改造]_Echoes　回音.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30706 bytes                           |
 | MD5             | d3ebba1615bd9b6fc681089aee044668                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Serenity                               |
 | Region          | 未知                               |

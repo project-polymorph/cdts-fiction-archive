@@ -20,7 +20,7 @@ TXT 下载: [[其他]_注意_Noticing.docx]([其他]_注意_Noticing.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28107 bytes                           |
 | MD5             | 480b33050047d7c88df13288ab51fd02                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Trismegistus Shandy                               |
 | Region          | 未知                               |

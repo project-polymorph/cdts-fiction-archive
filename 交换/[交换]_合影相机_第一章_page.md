@@ -20,7 +20,7 @@ TXT 下载: [[交换]_合影相机_第一章.doc]([交换]_合影相机_第一�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 527c13172d53570234e2b06842dd008e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

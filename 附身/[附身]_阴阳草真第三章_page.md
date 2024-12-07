@@ -20,7 +20,7 @@ TXT 下载: [[附身]_阴阳草真第三章.docx]([附身]_阴阳草真第三章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16689 bytes                           |
 | MD5             | 6484f1b156676e54dd5da7eca6d0e77d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

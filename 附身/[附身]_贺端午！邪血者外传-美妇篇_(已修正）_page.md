@@ -20,7 +20,7 @@ TXT 下载: [[附身]_贺端午！邪血者外传-美妇篇_(已修正）.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31296 bytes                           |
 | MD5             | 3df0aeea8676cab8e99f0a26e7d44a61                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

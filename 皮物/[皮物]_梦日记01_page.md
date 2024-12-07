@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_梦日记01.docx]([皮物]_梦日记01.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20385 bytes                           |
 | MD5             | 3a418e08729e7fe6f1048466f58dadb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_道觞(6)_[.docx]([其他]_道觞(6)_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46498 bytes                           |
 | MD5             | 1ec17db27dcb24358e2f72118d2b8f11                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【王者荣耀同人文】如果元歌是个女装大佬.
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | a800f447ad6bb7b49e9db0ea3a12bc76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 未知                               |

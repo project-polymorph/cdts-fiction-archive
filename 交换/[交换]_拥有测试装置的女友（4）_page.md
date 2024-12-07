@@ -20,7 +20,7 @@ TXT 下载: [[交换]_拥有测试装置的女友（4）.doc]([交换]_拥有测
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | b8fa24e86fed2ee64696eca1f21b2954                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

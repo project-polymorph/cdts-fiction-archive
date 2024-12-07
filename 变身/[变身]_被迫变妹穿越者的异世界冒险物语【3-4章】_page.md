@@ -20,7 +20,7 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【3-4章】.
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 78ecd9143c39e31ed89ab53f12c0e6ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

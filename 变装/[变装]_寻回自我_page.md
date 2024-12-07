@@ -20,7 +20,7 @@ TXT 下载: [[变装]_寻回自我.doc]([变装]_寻回自我.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 27648 bytes                           |
 | MD5             | fe918b80ba05895743315c48d1145196                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

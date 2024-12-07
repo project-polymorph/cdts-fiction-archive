@@ -20,7 +20,7 @@ TXT 下载: [[附身]_蔓延的恶意_3.doc]([附身]_蔓延的恶意_3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 912710a9c10f50ff30d9ec7014343ce0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

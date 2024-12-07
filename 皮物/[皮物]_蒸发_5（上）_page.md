@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_蒸发_5（上）.docx]([皮物]_蒸发_5（上）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25280 bytes                           |
 | MD5             | d25ca8aaff0a7eb6dfc32702b0613507                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

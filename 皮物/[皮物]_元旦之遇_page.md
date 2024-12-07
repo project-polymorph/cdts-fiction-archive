@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_元旦之遇.docx]([皮物]_元旦之遇.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22884 bytes                           |
 | MD5             | 438cb2bd3951bedad30b31cc941576b6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 1111                               |
 | Region          | 未知                               |

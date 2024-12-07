@@ -20,7 +20,7 @@ TXT 下载: [[改造]_女律师的小主妇.docx]([改造]_女律师的小主妇
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 71010 bytes                           |
 | MD5             | 63dbcad01d5993a3a56cc7ab49c56ac7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

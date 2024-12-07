@@ -20,7 +20,7 @@ TXT 下载: [[其他]_特殊事物处理局_——起点.docx]([其他]_特殊�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20790 bytes                           |
 | MD5             | eb51f23026cb9dfc6e11f90d125feb1e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

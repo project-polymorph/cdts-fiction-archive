@@ -20,7 +20,7 @@ TXT 下载: [[变装]_天生超模(四).docx]([变装]_天生超模(四).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41206 bytes                           |
 | MD5             | ffabb148bdeb557192fd592573225cd6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

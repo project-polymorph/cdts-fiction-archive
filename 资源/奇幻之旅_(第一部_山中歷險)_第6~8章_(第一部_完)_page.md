@@ -20,7 +20,7 @@ TXT 下载: [奇幻之旅_(第一部_山中歷險)_第6~8章_(第一部_完).doc
 | Format          | Microsoft Word Document                               |
 | Size            | 76288 bytes                           |
 | MD5             | a067549228ebe9202ce3f40c1099cd1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

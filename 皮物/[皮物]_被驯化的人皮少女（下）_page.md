@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_被驯化的人皮少女（下）.doc]([皮物]_被驯化�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 7397e8d7c29763dc8301546d2744c04b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

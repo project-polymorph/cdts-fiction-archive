@@ -20,7 +20,7 @@ TXT 下载: [[附身]_骗人布的恶作剧日记.docx]([附身]_骗人布的恶
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58604 bytes                           |
 | MD5             | 2e39992e7cfeb17b20eaf2f6746a109d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

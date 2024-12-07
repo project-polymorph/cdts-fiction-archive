@@ -20,7 +20,7 @@ TXT 下载: [[改造]_锁中蔷薇2.docx]([改造]_锁中蔷薇2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40131 bytes                           |
 | MD5             | 641ea61b496b5f7c0ede6de2cd24727a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [警察故事.doc](警察故事.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 88064 bytes                           |
 | MD5             | 31303eebbbe36b7641d8add851c66b6f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 老木木                               |
 | Region          | 中国大陆                               |

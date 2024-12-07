@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我和妈妈的游戏.docx]([皮物]_我和妈妈的游戏
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 88573 bytes                           |
 | MD5             | 675c8b4bc240b868c7d0f8bb659758b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

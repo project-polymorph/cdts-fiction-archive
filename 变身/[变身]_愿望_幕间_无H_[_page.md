@@ -20,7 +20,7 @@ TXT 下载: [[变身]_愿望_幕间_无H_[.docx]([变身]_愿望_幕间_无H_[.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19393 bytes                           |
 | MD5             | ec88d90c7f998d14a720a3cad73a5dde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

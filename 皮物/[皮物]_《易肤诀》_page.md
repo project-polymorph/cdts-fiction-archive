@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《易肤诀》.doc]([皮物]_《易肤诀》.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 88064 bytes                           |
 | MD5             | 43ead18d51122db3ab5af3b7950fafe9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

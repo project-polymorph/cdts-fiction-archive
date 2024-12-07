@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_改变的身体.doc]([皮物]_改变的身体.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68608 bytes                           |
 | MD5             | 1fafa90e03247d7031e548d7777ea830                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 灯台守                               |
 | Region          | 未知                               |

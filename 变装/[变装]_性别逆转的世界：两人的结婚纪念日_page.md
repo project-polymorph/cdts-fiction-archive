@@ -20,7 +20,7 @@ TXT 下载: [[变装]_性别逆转的世界：两人的结婚纪念日.doc]([变
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 7ef6d4ea642048084a47323d9dc04304                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sonnyjimjr                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（2）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19847 bytes                           |
 | MD5             | c037cdf6f60896e4095db36ebd2b8a78                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 丽妮                               |
 | Region          | 未知                               |

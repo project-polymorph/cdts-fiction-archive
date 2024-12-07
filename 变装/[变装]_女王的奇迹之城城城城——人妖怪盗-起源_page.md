@@ -20,7 +20,7 @@ TXT 下载: [[变装]_女王的奇迹之城城城城——人妖怪盗-起源.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51553 bytes                           |
 | MD5             | 42be8307aaddcb701b7689a4cd95951f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 重口味女王                               |
 | Region          | 未知                               |

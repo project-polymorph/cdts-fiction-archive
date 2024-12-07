@@ -20,7 +20,7 @@ TXT 下载: [[变身]_废弃医院灵异事件第一章.doc]([变身]_废弃医�
 | Format          | Microsoft Word Document                               |
 | Size            | 88064 bytes                           |
 | MD5             | 41eb0d91453d2f603206911b929c90e8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

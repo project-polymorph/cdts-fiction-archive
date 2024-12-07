@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_九尾刃第七章.docx]([皮物]_九尾刃第七章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24842 bytes                           |
 | MD5             | e7bfa0422ded60b295e9ab73c8c71913                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

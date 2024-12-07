@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_03__性感女神林志玲.docx]([
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42392 bytes                           |
 | MD5             | a9c9e0c90b89b3bbed4df6a65e13414b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

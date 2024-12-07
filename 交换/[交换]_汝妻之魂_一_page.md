@@ -20,7 +20,7 @@ TXT 下载: [[交换]_汝妻之魂_一.docx]([交换]_汝妻之魂_一.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34228 bytes                           |
 | MD5             | bb247d875b0d2ee20fd3b25810981bee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

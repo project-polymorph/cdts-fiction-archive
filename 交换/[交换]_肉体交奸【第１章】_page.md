@@ -20,7 +20,7 @@ TXT 下载: [[交换]_肉体交奸【第１章】.docx]([交换]_肉体交奸【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35231 bytes                           |
 | MD5             | 840c25e82b393c3d36af23f78524abfd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 岚山GO                               |
 | Region          | 未知                               |

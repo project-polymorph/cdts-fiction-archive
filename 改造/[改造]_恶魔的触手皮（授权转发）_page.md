@@ -20,7 +20,7 @@ TXT 下载: [[改造]_恶魔的触手皮（授权转发）.docx]([改造]_恶魔
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 137083 bytes                           |
 | MD5             | ffcb24d1a1dc490b6e1955ed3d2efc00                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 水戸湊                               |
 | Region          | 未知                               |

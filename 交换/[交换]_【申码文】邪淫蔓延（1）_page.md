@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【申码文】邪淫蔓延（1）.doc]([交换]_【申码
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | f4cf2cbce1ed6f19de2f42ae86fe159f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（重置）真红乐章_第一章.docx]([变身]_（重�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22639 bytes                           |
 | MD5             | 9369809fc9912b4ed47141c4c1103c9f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

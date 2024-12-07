@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(拾肆)_在去学校的路上_[.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20922 bytes                           |
 | MD5             | c34225edc14eecac4c42885c2fb6cb61                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

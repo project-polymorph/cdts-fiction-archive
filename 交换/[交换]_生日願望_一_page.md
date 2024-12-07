@@ -20,7 +20,7 @@ TXT 下载: [[交换]_生日願望_一.docx]([交换]_生日願望_一.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23383 bytes                           |
 | MD5             | 48b6cc159eb5e72cf9ecc1db2cdc6f14                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

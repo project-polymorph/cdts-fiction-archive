@@ -20,7 +20,7 @@ TXT 下载: [[改造]_黑牢【第三章】.doc]([改造]_黑牢【第三章】.
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 9b223d0868284acd304753d751dfe669                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

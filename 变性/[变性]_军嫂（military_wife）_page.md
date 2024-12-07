@@ -20,7 +20,7 @@ TXT 下载: [[变性]_军嫂（military_wife）.docx]([变性]_军嫂（military
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40823 bytes                           |
 | MD5             | 8783d34d3928709031e0314fe559537b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | stanman63                               |
 | Region          | 未知                               |

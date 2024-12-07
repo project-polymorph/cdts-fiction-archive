@@ -20,7 +20,7 @@ TXT 下载: [[变性]_拿回失去的肉棒——linchong短篇集第四辑（5�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25884 bytes                           |
 | MD5             | b5403ce2fb3ac6f30b33fa93bca8003d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong                               |
 | Region          | 未知                               |

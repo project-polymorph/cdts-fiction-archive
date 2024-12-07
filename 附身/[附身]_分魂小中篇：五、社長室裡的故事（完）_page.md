@@ -20,7 +20,7 @@ TXT 下载: [[附身]_分魂小中篇：五、社長室裡的故事（完）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19222 bytes                           |
 | MD5             | 3d35b4153e44af3f0b1ac754b6e1b95f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_百變怪與喬伊.docx]([变身]_百變怪與喬伊.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20225 bytes                           |
 | MD5             | f91021c1b582d0bd816a3705b7f96607                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

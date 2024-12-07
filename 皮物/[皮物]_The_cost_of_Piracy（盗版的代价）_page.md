@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_The_cost_of_Piracy（盗版的代价）.doc]([皮物]_The_
 | Format          | Microsoft Word Document                               |
 | Size            | 172032 bytes                           |
 | MD5             | 3750509aa73c25ddfbf61ae9857e9e28                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

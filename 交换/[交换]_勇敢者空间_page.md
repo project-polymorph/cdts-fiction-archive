@@ -20,7 +20,7 @@ TXT 下载: [[交换]_勇敢者空间.docx]([交换]_勇敢者空间.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 75052 bytes                           |
 | MD5             | 817656da473eea879882b1c4e11bcc7b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

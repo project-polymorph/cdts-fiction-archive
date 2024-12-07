@@ -20,7 +20,7 @@ TXT 下载: [[变装]_一个女装大佬的故事1（后期会发展成皮物）
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 9a63ec14c6261500efb96bbfc6e3dcfd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

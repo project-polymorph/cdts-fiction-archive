@@ -20,7 +20,7 @@ TXT 下载: [[附身]_吞灵神体_第三-第六章.docx]([附身]_吞灵神体_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45740 bytes                           |
 | MD5             | 9a1bc00ffafaa3a94581d6cc677a5205                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

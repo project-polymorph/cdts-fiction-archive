@@ -20,7 +20,7 @@ TXT 下载: [[附身]_能力变异药剂_1-11.docx]([附身]_能力变异药剂_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 90680 bytes                           |
 | MD5             | ed799cf7c5245d945677c7d4ac4bc50a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

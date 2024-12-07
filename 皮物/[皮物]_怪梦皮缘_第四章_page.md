@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪梦皮缘_第四章.doc]([皮物]_怪梦皮缘_第四�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 61a2e5f8939a565c1b27750216bb2769                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一点星光剑6.docx]([皮物]_一点星光剑6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20306 bytes                           |
 | MD5             | ce5ac87317409c26072fecc27ed51824                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

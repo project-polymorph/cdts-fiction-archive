@@ -20,7 +20,7 @@ TXT 下载: [[附身]_露營奇緣.docx]([附身]_露營奇緣.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23656 bytes                           |
 | MD5             | 4075547fdf7c53eed5124ecbe1374901                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

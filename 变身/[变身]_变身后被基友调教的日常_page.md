@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身后被基友调教的日常.doc]([变身]_变身后�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 96acd57d627ff89b969e2a3e17409284                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

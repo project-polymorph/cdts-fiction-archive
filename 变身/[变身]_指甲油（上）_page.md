@@ -20,7 +20,7 @@ TXT 下载: [[变身]_指甲油（上）.docx]([变身]_指甲油（上）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21550 bytes                           |
 | MD5             | 74740ecbd3fe25c4a7d92a775ffd3142                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_缠魂米.docx]([附身]_缠魂米.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 117385 bytes                           |
 | MD5             | 78ffcae8e35da8c818f65f04315577c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

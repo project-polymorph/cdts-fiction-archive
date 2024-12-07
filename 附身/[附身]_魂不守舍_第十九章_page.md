@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂不守舍_第十九章.doc]([附身]_魂不守舍_第�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | 07a2ee2eed4e99e834c990ecac98413a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

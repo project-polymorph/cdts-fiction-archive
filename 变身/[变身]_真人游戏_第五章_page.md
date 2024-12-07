@@ -20,7 +20,7 @@ TXT 下载: [[变身]_真人游戏_第五章.docx]([变身]_真人游戏_第五�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29643 bytes                           |
 | MD5             | c10b38b12edce3cf9613002ef83c5737                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

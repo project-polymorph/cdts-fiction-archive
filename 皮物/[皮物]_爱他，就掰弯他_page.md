@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_爱他，就掰弯他.doc]([皮物]_爱他，就掰弯他.
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 014b93bffe52dded83f1df300711d852                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_The_Costume(9).docx]([变性]_The_Costume(9).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22508 bytes                           |
 | MD5             | 26abe38fd311bcc958532ed79ccff261                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

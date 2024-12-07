@@ -20,7 +20,7 @@ TXT 下载: [[变身]_减肥药（一）.doc]([变身]_减肥药（一）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | a80e3d7e2bad20a4fbbf6730cd99ea72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_风雨.docx]([变身]_风雨.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19484 bytes                           |
 | MD5             | 96e4662f6c9d6118385ce758d35f3286                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

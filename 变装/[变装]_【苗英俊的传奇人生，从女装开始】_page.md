@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【苗英俊的传奇人生，从女装开始】.doc]([变
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 0fae78724b3d6809037b198dd438ca59                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

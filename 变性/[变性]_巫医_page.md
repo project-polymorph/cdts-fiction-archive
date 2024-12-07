@@ -20,7 +20,7 @@ TXT 下载: [[变性]_巫医.docx]([变性]_巫医.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51321 bytes                           |
 | MD5             | 90ab13c51c71040f1a5a244a7afc49fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rohmer Fan                               |
 | Region          | 未知                               |

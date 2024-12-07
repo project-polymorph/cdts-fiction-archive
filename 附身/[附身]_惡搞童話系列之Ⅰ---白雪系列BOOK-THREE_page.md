@@ -20,7 +20,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列BOOK-THREE.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17695 bytes                           |
 | MD5             | 29d2e3c1872ed7834fad70b85be45f72                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

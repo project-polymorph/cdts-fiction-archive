@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_你的微笑_Her_Smile.docx]([皮物]_你的微笑_Her_Smi
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 259696 bytes                           |
 | MD5             | 448524681cbdf0985e1d1a7544e0dc19                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ghostlywriter                               |
 | Region          | 未知                               |

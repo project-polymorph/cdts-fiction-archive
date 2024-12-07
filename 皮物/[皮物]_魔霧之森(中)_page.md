@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔霧之森(中).docx]([皮物]_魔霧之森(中).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41114 bytes                           |
 | MD5             | 8c6e87ca62670f6341c861839959d3b5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | kk9700                               |
 | Region          | 未知                               |

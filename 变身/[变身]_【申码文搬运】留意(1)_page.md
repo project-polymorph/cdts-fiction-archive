@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申码文搬运】留意(1).doc]([变身]_【申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 158720 bytes                           |
 | MD5             | 1f5df9a913d230d8794e48b0f8a19fdd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

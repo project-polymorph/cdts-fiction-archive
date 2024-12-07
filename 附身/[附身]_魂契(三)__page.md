@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂契(三)_.docx]([附身]_魂契(三)_.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25819 bytes                           |
 | MD5             | 83c1d30bff21ceeb1ddf7b84355fef08                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

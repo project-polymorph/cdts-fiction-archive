@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_临时女友(完.docx]([皮物]_临时女友(完.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38680 bytes                           |
 | MD5             | fc9231ed7e9fafa069b3a9ff208dc50a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

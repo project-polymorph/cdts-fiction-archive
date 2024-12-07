@@ -20,7 +20,7 @@ TXT 下载: [[变装]_执行助理.docx]([变装]_执行助理.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 88417 bytes                           |
 | MD5             | e7ecf3732764ca3eda37a6aa3bf526bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Zeno                               |
 | Region          | 未知                               |

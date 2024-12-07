@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_基因片段的爱恋（六）.doc]([皮物]_基因片段�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | e0917fd128a64d84de28eee5f1d9cf50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TG独狼                               |
 | Region          | 未知                               |

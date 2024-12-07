@@ -20,7 +20,7 @@ TXT 下载: [[交换]_意外的意外.docx]([交换]_意外的意外.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17287 bytes                           |
 | MD5             | be25b6bcd988b854f742a7397e1df6c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

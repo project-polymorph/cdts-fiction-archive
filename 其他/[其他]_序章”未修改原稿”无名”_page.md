@@ -20,7 +20,7 @@ TXT 下载: [[其他]_序章”未修改原稿”无名”.docx]([其他]_序章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20521 bytes                           |
 | MD5             | c488b677a7d788a1bc6406001369a7c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 周世康                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮鞭(上).docx]([皮物]_皮鞭(上).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18273 bytes                           |
 | MD5             | b2587583635549d387dcbf0afa17ac79                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_猎心（十）.docx]([交换]_猎心（十）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38655 bytes                           |
 | MD5             | 5777a9c4b6a359b0f5bd7c08c10e58aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

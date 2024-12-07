@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《镜之彼端》（序篇）.docx]([变身]_《镜之彼
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26418 bytes                           |
 | MD5             | 5c9b2989e28995c04ef87c00ec5b57f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

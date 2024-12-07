@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申请码重发】最喜欢虫子前辈了(长瀞同学
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 5f099b314af6c84a63bb42304ee58e52                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

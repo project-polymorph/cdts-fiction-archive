@@ -24,7 +24,7 @@ TXT 下载: [恶魔的记事本.doc](恶魔的记事本.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 5517b55cf702ff0478a14d94c0ebb624                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 红枫多情                               |
 | Region          | 未知                               |

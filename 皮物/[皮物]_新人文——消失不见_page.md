@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新人文——消失不见.docx]([皮物]_新人文——
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36302 bytes                           |
 | MD5             | 13227593bcc8487daf93ce82e4be4677                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

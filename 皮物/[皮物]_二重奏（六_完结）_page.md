@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_二重奏（六_完结）.docx]([皮物]_二重奏（六_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25029 bytes                           |
 | MD5             | 55123e9c849ff60fb5a8593ac796cbe8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_有了女友，兄弟不要了？(下).doc]([附身]_有�
 | Format          | Microsoft Word Document                               |
 | Size            | 77824 bytes                           |
 | MD5             | 2c2eda1530103451893712760f0164af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

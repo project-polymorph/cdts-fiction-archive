@@ -20,7 +20,7 @@ TXT 下载: [[变性]_[翻译]我的人生在跑步时完全改变(很长的一�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 56097 bytes                           |
 | MD5             | 7fab199d6fecaaa54d6c17b05ea55765                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

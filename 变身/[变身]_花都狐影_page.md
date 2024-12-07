@@ -20,7 +20,7 @@ TXT 下载: [[变身]_花都狐影.doc]([变身]_花都狐影.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 105472 bytes                           |
 | MD5             | 09eb98a02c234045d4d48f590a2918ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 未知                               |

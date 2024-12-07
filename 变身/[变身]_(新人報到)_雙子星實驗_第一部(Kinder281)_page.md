@@ -20,7 +20,7 @@ TXT 下载: [[变身]_(新人報到)_雙子星實驗_第一部(Kinder281).doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | c232036f8120b65ffcdf28d2d77b7c35                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

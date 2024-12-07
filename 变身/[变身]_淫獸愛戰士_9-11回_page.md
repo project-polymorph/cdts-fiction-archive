@@ -20,7 +20,7 @@ TXT 下载: [[变身]_淫獸愛戰士_9-11回.docx]([变身]_淫獸愛戰士_9-1
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 79516 bytes                           |
 | MD5             | 9fac6ec2c0b573b11d9692cd4924e73a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

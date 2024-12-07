@@ -20,7 +20,7 @@ TXT 下载: [[改造]_化蝶_（13号更新）.docx]([改造]_化蝶_（13号更
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27164 bytes                           |
 | MD5             | 8345406c191eeca12ee329b5448e6ed3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Nate Denney                               |
 | Region          | 未知                               |

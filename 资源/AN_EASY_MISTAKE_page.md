@@ -20,7 +20,7 @@ TXT 下载: [AN_EASY_MISTAKE.doc](AN_EASY_MISTAKE.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | 16cb2b79649047347924a5a89f210745                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_REDの短篇_琵偶館.doc]([皮物]_REDの短篇_琵偶�
 | Format          | Microsoft Word Document                               |
 | Size            | 96256 bytes                           |
 | MD5             | 324b683773045fde68605764be598a35                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

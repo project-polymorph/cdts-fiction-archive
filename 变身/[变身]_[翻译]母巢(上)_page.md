@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]母巢(上).docx]([变身]_[翻译]母巢(上).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26847 bytes                           |
 | MD5             | 59a0c9d200bb5344ce75e75d79f5baca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

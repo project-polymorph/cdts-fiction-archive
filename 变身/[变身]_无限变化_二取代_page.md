@@ -22,7 +22,7 @@ TXT 下载: [[变身]_无限变化_二取代.docx]([变身]_无限变化_二取�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17750 bytes                           |
 | MD5             | 8cee666f72effbc5a1dcc273e3e82dd8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

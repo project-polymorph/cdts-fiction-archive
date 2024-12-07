@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【永远的狐娘】及附赠的皮物短篇.doc]([皮物
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 6c6c1c10a44b61fd6bb84ec8bf5671b5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

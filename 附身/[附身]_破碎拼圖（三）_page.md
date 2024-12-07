@@ -20,7 +20,7 @@ TXT 下载: [[附身]_破碎拼圖（三）.docx]([附身]_破碎拼圖（三）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22880 bytes                           |
 | MD5             | 29e4fb1ff972023629b0a2329fa1a6d5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

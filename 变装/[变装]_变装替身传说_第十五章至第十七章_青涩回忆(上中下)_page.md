@@ -20,7 +20,7 @@ TXT 下载: [[变装]_变装替身传说_第十五章至第十七章_青涩回�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44475 bytes                           |
 | MD5             | 5237ff0bcc7d71c88c6adc70b609a142                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

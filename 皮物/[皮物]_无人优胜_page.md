@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_无人优胜.doc]([皮物]_无人优胜.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 761633144ed3ab966ce746f3da1e0e0a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Holly Fairfa                               |
 | Region          | 未知                               |

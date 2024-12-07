@@ -20,7 +20,7 @@ TXT 下载: [[变身]_合影相机_第六章.doc]([变身]_合影相机_第六�
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 54fb8f8a6ac8527621c366a45cb07621                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

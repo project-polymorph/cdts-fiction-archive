@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第三十二回【完结】.doc](《金枝奇缘�
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | ab6a8d279ada7d3e9c5a8413f2378601                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

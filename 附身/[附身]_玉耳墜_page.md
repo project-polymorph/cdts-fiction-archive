@@ -20,7 +20,7 @@ TXT 下载: [[附身]_玉耳墜.docx]([附身]_玉耳墜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30115 bytes                           |
 | MD5             | edea9b18a94e83b0166d6eb621a9f419                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

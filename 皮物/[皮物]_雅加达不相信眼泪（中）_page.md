@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_雅加达不相信眼泪（中）.doc]([皮物]_雅加达�
 | Format          | Microsoft Word Document                               |
 | Size            | 75264 bytes                           |
 | MD5             | 4576ed40689cc29b7f4a01c6b02bff84                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

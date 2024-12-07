@@ -20,7 +20,7 @@ TXT 下载: [[交换]_未名缘1~5_[.docx]([交换]_未名缘1~5_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 77175 bytes                           |
 | MD5             | aaae3b1dba36ed3518aef2d8cc984726                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

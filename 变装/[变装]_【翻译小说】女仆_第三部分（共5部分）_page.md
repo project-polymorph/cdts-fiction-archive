@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】女仆_第三部分（共5部分）.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49640 bytes                           |
 | MD5             | 718e3e1d195b35aa0ca9ddb52ed1fc7c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

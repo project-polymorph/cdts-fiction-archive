@@ -20,7 +20,7 @@ TXT 下载: [[其他]_橡胶娃娃（译）（风铃）.doc]([其他]_橡胶娃�
 | Format          | Microsoft Word Document                               |
 | Size            | 30208 bytes                           |
 | MD5             | 21bdd56c8939098e78b3567b153d034c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 风铃                               |
 | Region          | 未知                               |

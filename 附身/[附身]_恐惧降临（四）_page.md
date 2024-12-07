@@ -22,7 +22,7 @@ TXT 下载: [[附身]_恐惧降临（四）.docx]([附身]_恐惧降临（四）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26180 bytes                           |
 | MD5             | 1470683b8bdd12ffb9ce21493750dfb0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

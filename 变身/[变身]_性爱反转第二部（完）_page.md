@@ -20,7 +20,7 @@ TXT 下载: [[变身]_性爱反转第二部（完）.docx]([变身]_性爱反转
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32864 bytes                           |
 | MD5             | af84b77c7591234d75b8ee552c2b5d2e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

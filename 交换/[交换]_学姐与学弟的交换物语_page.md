@@ -20,7 +20,7 @@ TXT 下载: [[交换]_学姐与学弟的交换物语.doc]([交换]_学姐与学�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 90aa8b974f124b1da1418930e5c9aba8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

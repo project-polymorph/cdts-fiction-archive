@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【替身人偶】03.docx]([变身]_【替身人偶】03.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18499 bytes                           |
 | MD5             | 8b7bc719a1516f00ee369190851ef9b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

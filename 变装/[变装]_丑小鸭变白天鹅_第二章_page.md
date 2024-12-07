@@ -20,7 +20,7 @@ TXT 下载: [[变装]_丑小鸭变白天鹅_第二章.doc]([变装]_丑小鸭变
 | Format          | Microsoft Word Document                               |
 | Size            | 62976 bytes                           |
 | MD5             | d14a1c69aefafbffa4d9d20aa436a1d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | JHouston                               |
 | Region          | 未知                               |

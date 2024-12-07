@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_拿什么来报复你们——我的前女友和她的老�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29435 bytes                           |
 | MD5             | e0938d0f5a64ed5a58969b7e47b3ffce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

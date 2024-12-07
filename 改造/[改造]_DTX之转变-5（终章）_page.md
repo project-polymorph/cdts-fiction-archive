@@ -20,7 +20,7 @@ TXT 下载: [[改造]_DTX之转变-5（终章）.doc]([改造]_DTX之转变-5（
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 224526774034daab98d4018fc807e2e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

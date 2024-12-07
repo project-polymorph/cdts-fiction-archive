@@ -20,7 +20,7 @@ TXT 下载: [[其他]_如何輕鬆寫出TSF小說：入門篇.docx]([其他]_如
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 632728 bytes                           |
 | MD5             | 0666de85c2fe0c38b44aa1748c23fcd2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 1w1w52                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_金丝雀.docx]([其他]_金丝雀.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29220 bytes                           |
 | MD5             | d2f4802c75b22ce0e2f124c61bb35651                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

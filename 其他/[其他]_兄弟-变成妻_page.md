@@ -20,7 +20,7 @@ TXT 下载: [[其他]_兄弟-变成妻.doc]([其他]_兄弟-变成妻.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 17f022678c80decd4083682bce3c60de                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

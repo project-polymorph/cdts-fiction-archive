@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_召唤之始.docx]([皮物]_召唤之始.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32552 bytes                           |
 | MD5             | 02759fa410e79c9b2afc804ee5148e3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

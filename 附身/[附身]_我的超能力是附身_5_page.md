@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我的超能力是附身_5.doc]([附身]_我的超能力�
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 2d8333884221cde418e69899717d7779                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

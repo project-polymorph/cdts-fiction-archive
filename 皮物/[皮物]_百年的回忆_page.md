@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百年的回忆.doc]([皮物]_百年的回忆.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 39f6bd81edfe2ff498a24e9657cdac2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

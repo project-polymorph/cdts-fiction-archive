@@ -20,7 +20,7 @@ TXT 下载: [[其他]_玉佩的故事_（2）.docx]([其他]_玉佩的故事_（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24491 bytes                           |
 | MD5             | cf8e22c3c1a1062b026ff443f2625442                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

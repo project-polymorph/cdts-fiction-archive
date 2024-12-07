@@ -20,7 +20,7 @@ TXT 下载: [[变身]_求子-番外篇(夫妻的情趣).doc]([变身]_求子-番
 | Format          | Microsoft Word Document                               |
 | Size            | 80896 bytes                           |
 | MD5             | d6f629f0554b9fe39ef6c5d2ff452117                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 新加坡                               |

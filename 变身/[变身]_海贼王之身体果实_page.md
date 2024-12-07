@@ -20,7 +20,7 @@ TXT 下载: [[变身]_海贼王之身体果实.docx]([变身]_海贼王之身体
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39409 bytes                           |
 | MD5             | 7fc7bd15f9732a6337510c6496d8d929                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

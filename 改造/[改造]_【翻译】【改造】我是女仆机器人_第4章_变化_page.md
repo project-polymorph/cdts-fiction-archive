@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第4章_变�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 9bc66076f375172ff58e45bf2fcce04a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

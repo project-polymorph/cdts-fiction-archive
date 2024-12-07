@@ -20,7 +20,7 @@ TXT 下载: [[附身]_TG物语——异体（七、八）.doc]([附身]_TG物语
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 1924f8a1b01a887d38dc51deb2150f8c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

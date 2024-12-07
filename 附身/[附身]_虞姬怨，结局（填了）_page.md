@@ -20,7 +20,7 @@ TXT 下载: [[附身]_虞姬怨，结局（填了）.docx]([附身]_虞姬怨，
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19263 bytes                           |
 | MD5             | c2805acfed597b5933722ff1ec4b3f60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

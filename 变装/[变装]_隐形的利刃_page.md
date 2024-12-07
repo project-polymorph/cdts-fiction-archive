@@ -20,7 +20,7 @@ TXT 下载: [[变装]_隐形的利刃.doc]([变装]_隐形的利刃.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 5b4dbd780e4ae14efd8b65d36be5c219                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

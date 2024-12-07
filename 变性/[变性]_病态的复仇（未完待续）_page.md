@@ -20,7 +20,7 @@ TXT 下载: [[变性]_病态的复仇（未完待续）.docx]([变性]_病态的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61858 bytes                           |
 | MD5             | 21ae5c94fa26e51eafb1b4e031684aca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

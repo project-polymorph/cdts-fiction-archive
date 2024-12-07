@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮物语】之拼多多的女友.doc]([皮物]_【皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 6e004ff7217e8e9b47f0ed4cd41de634                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

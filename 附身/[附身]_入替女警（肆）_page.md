@@ -20,7 +20,7 @@ TXT 下载: [[附身]_入替女警（肆）.doc]([附身]_入替女警（肆）.
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | e1bd197da691e0d4ae5d40dfa9150eda                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

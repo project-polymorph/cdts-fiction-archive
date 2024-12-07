@@ -20,7 +20,7 @@ TXT 下载: [[附身]_恐惧降临（后日谈）.docx]([附身]_恐惧降临（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21605 bytes                           |
 | MD5             | 4b24dfe5edac367aec17f497c8dc7813                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

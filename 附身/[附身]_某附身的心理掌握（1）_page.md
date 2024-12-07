@@ -20,7 +20,7 @@ TXT 下载: [[附身]_某附身的心理掌握（1）.docx]([附身]_某附身�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27942 bytes                           |
 | MD5             | b3ad5a2c3a48f0fa97f834ee61f5ca6b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

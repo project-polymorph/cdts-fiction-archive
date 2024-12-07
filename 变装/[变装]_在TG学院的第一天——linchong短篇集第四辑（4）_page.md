@@ -20,7 +20,7 @@ TXT 下载: [[变装]_在TG学院的第一天——linchong短篇集第四辑（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20147 bytes                           |
 | MD5             | 78ecbc48c53fc7d8dfad5c6850693e66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | linchong                               |
 | Region          | 未知                               |

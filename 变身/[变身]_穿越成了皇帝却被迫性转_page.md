@@ -20,7 +20,7 @@ TXT 下载: [[变身]_穿越成了皇帝却被迫性转.doc]([变身]_穿越成�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 575d4d5d99f2b1c54b6702bec0e5a9f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

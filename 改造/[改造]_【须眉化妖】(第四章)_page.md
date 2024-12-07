@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【须眉化妖】(第四章).doc]([改造]_【须眉化�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | eafa071cf1d2edcddc4b77b0b746d17e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

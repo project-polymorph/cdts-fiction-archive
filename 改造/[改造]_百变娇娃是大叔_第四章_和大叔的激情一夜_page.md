@@ -20,7 +20,7 @@ TXT 下载: [[改造]_百变娇娃是大叔_第四章_和大叔的激情一夜.d
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | 468cfce88faec2e6a17b8cf54177c00e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

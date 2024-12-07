@@ -20,7 +20,7 @@ TXT 下载: [[变身]_电梯里的变化.doc]([变身]_电梯里的变化.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 6ca86609cd4c1a5d4eee5e621ca3af75                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Emerald Boys                               |
 | Region          | 未知                               |

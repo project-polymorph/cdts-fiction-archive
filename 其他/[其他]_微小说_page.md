@@ -20,7 +20,7 @@ TXT 下载: [[其他]_微小说.docx]([其他]_微小说.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15171 bytes                           |
 | MD5             | e685ae72dd838d5064caa225902e44ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

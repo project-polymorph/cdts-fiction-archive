@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_谍海商战番外3.docx]([皮物]_谍海商战番外3.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15974 bytes                           |
 | MD5             | 8a087a2fe563e85890df78c5469ebdd7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

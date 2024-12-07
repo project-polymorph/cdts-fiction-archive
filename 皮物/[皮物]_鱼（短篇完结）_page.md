@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_鱼（短篇完结）.docx]([皮物]_鱼（短篇完结）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35103 bytes                           |
 | MD5             | d07f66857ff1aefdc08563c05a177f30                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 果壳中的国王                               |
 | Region          | 未知                               |

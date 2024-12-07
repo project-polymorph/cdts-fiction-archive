@@ -20,7 +20,7 @@ TXT 下载: [[交换]_恋爱系抽奖.docx]([交换]_恋爱系抽奖.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24398 bytes                           |
 | MD5             | e87f7ee19a5cc613ffc18cbe9c62c327                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

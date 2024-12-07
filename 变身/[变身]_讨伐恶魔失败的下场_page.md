@@ -20,7 +20,7 @@ TXT 下载: [[变身]_讨伐恶魔失败的下场.doc]([变身]_讨伐恶魔失�
 | Format          | Microsoft Word Document                               |
 | Size            | 51712 bytes                           |
 | MD5             | 21a50ad26e7e928fe5c99100563bc834                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

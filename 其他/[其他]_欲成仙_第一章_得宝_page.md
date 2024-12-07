@@ -20,7 +20,7 @@ TXT 下载: [[其他]_欲成仙_第一章_得宝.doc]([其他]_欲成仙_第一�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 3acd33f70abf8afe09015181a2126051                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

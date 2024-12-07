@@ -20,7 +20,7 @@ TXT 下载: [[交换]_三年的惩罚.docx]([交换]_三年的惩罚.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40221 bytes                           |
 | MD5             | 3ff5837e714b39309a75c816f0d530e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

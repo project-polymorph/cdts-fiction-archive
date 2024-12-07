@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》第五章.doc]([附身]_《到�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 981b46f48c2130fc74d6116d9610636f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

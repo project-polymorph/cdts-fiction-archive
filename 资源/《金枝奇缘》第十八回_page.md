@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第十八回.doc](《金枝奇缘》第十八回.
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | bae22564cd1e18222a172944ab7a0b0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

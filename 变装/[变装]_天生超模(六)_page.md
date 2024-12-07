@@ -20,7 +20,7 @@ TXT 下载: [[变装]_天生超模(六).docx]([变装]_天生超模(六).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38835 bytes                           |
 | MD5             | f15f47b0a6570a0185093a7c8f539206                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Melissa N                               |
 | Region          | 未知                               |

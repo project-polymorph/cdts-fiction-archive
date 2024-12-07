@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》_第九章.doc]([变性]_《蒹葭录》_�
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | b1d9f2bdfc25a02d90782ef8105c77bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

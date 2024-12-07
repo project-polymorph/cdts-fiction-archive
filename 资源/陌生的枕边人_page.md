@@ -20,7 +20,7 @@ TXT 下载: [陌生的枕边人.doc](陌生的枕边人.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 72704 bytes                           |
 | MD5             | 99d6a52c253d19fe2f05c9d6f49179fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

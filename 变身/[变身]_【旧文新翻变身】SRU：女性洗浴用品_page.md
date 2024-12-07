@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【旧文新翻变身】SRU：女性洗浴用品.doc]([变
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | f3d556fd916546b8dbf94e1d8e808982                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Paul G. Jutras / 露娜·埃葵斯                               |
 | Region          | 未知                               |

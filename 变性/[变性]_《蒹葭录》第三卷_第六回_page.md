@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第六回.doc]([变性]_《蒹葭
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | f7d4fe8ca78425cbb799f5aad2682c92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

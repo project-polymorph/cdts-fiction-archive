@@ -20,7 +20,7 @@ TXT 下载: [[附身]_伊斯特大陆编年史·圣光教会篇.doc]([附身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 83968 bytes                           |
 | MD5             | c3863ea5ac3786edec30215840ccc40e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

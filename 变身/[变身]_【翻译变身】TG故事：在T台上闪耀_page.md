@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【翻译变身】TG故事：在T台上闪耀.doc]([变身
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 2f57ed63be4d5eccce7a07b0418c5347                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jumbo Shirmp                               |
 | Region          | 未知                               |

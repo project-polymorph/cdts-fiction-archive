@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_错乱（九）（完结）.docx]([皮物]_错乱（九）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20939 bytes                           |
 | MD5             | 8fd1a680cf7aa0ab7acaca430bc8e8c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

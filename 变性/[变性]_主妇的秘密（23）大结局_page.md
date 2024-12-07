@@ -20,7 +20,7 @@ TXT 下载: [[变性]_主妇的秘密（23）大结局.docx]([变性]_主妇的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37416 bytes                           |
 | MD5             | 42ad2207aab7bffa6b887f008c89b310                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

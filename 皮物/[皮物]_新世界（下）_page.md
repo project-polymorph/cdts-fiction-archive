@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新世界（下）.docx]([皮物]_新世界（下）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39759 bytes                           |
 | MD5             | d54137c2e507cb66bb48c58dcbe3bccc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

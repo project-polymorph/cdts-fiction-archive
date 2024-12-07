@@ -20,7 +20,7 @@ TXT 下载: [[变装]_勇者的时尚街.docx]([变装]_勇者的时尚街.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35228 bytes                           |
 | MD5             | 92a9c71dcea7197768e1ea453cce0a11                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

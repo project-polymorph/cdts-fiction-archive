@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[舊文重貼]Teiresias-[憑依]適正試験.docx]([附身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20094 bytes                           |
 | MD5             | 40b746cff1a3181722541be4e331e3f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

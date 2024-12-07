@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_长梦·第一部_下.doc]([皮物]_长梦·第一部_下.
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | 8d6411f96f252216d13db4131f4a7f85                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 青蓑                               |
 | Region          | 未知                               |

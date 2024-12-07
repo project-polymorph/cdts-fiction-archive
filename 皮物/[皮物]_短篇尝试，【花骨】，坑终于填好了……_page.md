@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_短篇尝试，【花骨】，坑终于填好了…….doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18759 bytes                           |
 | MD5             | 4da5f881c16b64d93c525063b40eee07                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 花骨                               |
 | Region          | 中国大陆                               |

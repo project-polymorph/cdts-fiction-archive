@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_异祸（１１）.docx]([皮物]_异祸（１１）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35776 bytes                           |
 | MD5             | e5afd80311c174764e28a3bea8d75685                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

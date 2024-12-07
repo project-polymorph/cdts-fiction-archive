@@ -24,7 +24,7 @@ TXT 下载: [[变身]_成为魅魔后的百合人生2.doc]([变身]_成为魅魔
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 2fa59c1af7a8596977ccbeee1ea8f68f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_TG联盟【Ⅴ】（待续）.doc]([附身]_TG联盟【Ⅴ
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 500805eda4e14d28d6c6956ee6bdeb79                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

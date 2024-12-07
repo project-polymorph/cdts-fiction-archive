@@ -20,7 +20,7 @@ TXT 下载: [[交换]_灵魂交换器（1）.docx]([交换]_灵魂交换器（1�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24352 bytes                           |
 | MD5             | 52eda291df2c9d2b5e6f0089f63b7548                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

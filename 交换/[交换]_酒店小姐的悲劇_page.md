@@ -20,7 +20,7 @@ TXT 下载: [[交换]_酒店小姐的悲劇.docx]([交换]_酒店小姐的悲劇
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20633 bytes                           |
 | MD5             | 274bae051bdd449011e2907d882fe9b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

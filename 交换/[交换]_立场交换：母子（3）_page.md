@@ -20,7 +20,7 @@ TXT 下载: [[交换]_立场交换：母子（3）.doc]([交换]_立场交换：
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | b381d474bef76cea357d1304a3cfe715                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

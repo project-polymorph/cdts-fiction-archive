@@ -20,7 +20,7 @@ TXT 下载: [[变性]_Jennifer系列作品——植入物带来的改变.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 1b3146f8d83acd2c078df27e83899931                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

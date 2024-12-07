@@ -20,7 +20,7 @@ TXT 下载: [[附身]_能力变异药剂_16_雪莉.docx]([附身]_能力变异�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21601 bytes                           |
 | MD5             | c6440f23b7ffa16ee906d53cfe9c8fc9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

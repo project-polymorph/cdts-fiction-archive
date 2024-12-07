@@ -20,7 +20,7 @@ TXT 下载: [[其他]_隔壁老杨之我的婶婶.doc]([其他]_隔壁老杨之�
 | Format          | Microsoft Word Document                               |
 | Size            | 58880 bytes                           |
 | MD5             | e9a1b53a1319021ab56665e967c9287a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

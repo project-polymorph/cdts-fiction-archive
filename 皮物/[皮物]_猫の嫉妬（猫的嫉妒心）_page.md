@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_猫の嫉妬（猫的嫉妒心）.docx]([皮物]_猫の嫉
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26751 bytes                           |
 | MD5             | 022e36f1879262a51f7a70b82ee6134a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

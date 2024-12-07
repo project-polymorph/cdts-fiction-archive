@@ -20,7 +20,7 @@ TXT 下载: [[附身]_虞姬怨.docx]([附身]_虞姬怨.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17802 bytes                           |
 | MD5             | 5c1e02a5239f6a49ac81fa3d1d647aa5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | e; _) {6 v+ N0 i                               |
 | Region          | 中国大陆                               |

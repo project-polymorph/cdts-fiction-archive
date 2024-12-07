@@ -20,7 +20,7 @@ TXT 下载: [[其他]_与虫共舞.docx]([其他]_与虫共舞.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38002 bytes                           |
 | MD5             | be9997d7ad0fb848675e1dc2ed3e81c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

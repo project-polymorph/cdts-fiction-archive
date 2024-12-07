@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（首发荆棘鸟）电车上的少女.docx]([变身]_（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61006 bytes                           |
 | MD5             | 180252a826c0a7c1b1387e5c4bb59167                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 墨晓式沉默                               |
 | Region          | 未知                               |

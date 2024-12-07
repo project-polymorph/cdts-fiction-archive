@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第五回.doc]([变性]_《蒹葭
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | b41fe85e6482b60c4c206ea3eaf5f01a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

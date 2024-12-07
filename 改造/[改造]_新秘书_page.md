@@ -20,7 +20,7 @@ TXT 下载: [[改造]_新秘书.docx]([改造]_新秘书.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72920 bytes                           |
 | MD5             | ac2d838308bf979c1ab1f56880b9a223                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

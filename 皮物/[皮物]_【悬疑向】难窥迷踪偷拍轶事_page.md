@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【悬疑向】难窥迷踪偷拍轶事.doc]([皮物]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 68096 bytes                           |
 | MD5             | 01792151e1d38157e41774950fe3692c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

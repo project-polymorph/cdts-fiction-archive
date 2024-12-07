@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【恶堕】【雌堕】AB面.doc]([其他]_【恶堕】�
 | Format          | Microsoft Word Document                               |
 | Size            | 96256 bytes                           |
 | MD5             | 9b60d64fbe7e25a9fe13d69ddd68f330                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

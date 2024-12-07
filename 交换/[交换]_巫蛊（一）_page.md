@@ -20,7 +20,7 @@ TXT 下载: [[交换]_巫蛊（一）.docx]([交换]_巫蛊（一）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42128 bytes                           |
 | MD5             | 5caeea1912a0d3f84ec7ff0e04e9f880                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

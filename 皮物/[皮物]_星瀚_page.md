@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星瀚.docx]([皮物]_星瀚.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17571 bytes                           |
 | MD5             | cd92abe09f7af07f5870a44fa4991077                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

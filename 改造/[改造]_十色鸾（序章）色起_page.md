@@ -20,7 +20,7 @@ TXT 下载: [[改造]_十色鸾（序章）色起.doc]([改造]_十色鸾（序�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 2514daa00b83d9948402ef1591ab381a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

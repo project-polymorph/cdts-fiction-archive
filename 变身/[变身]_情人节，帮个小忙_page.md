@@ -20,7 +20,7 @@ TXT 下载: [[变身]_情人节，帮个小忙.docx]([变身]_情人节，帮个
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24486 bytes                           |
 | MD5             | 38bbe96194b798dc875eff3a8031de85                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

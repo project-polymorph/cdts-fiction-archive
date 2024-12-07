@@ -22,7 +22,7 @@ TXT 下载: [[变身]_我的“戏精”女友.doc]([变身]_我的“戏精”�
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 476078c0aae8a85de84aee00bb0ae45c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 中国大陆                               |

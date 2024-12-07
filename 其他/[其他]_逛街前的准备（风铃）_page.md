@@ -20,7 +20,7 @@ TXT 下载: [[其他]_逛街前的准备（风铃）.docx]([其他]_逛街前的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16431 bytes                           |
 | MD5             | 2bc00b18aa81621f2f9e134558c0fa50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 风铃                               |
 | Region          | 未知                               |

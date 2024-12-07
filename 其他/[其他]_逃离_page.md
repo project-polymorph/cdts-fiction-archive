@@ -20,7 +20,7 @@ TXT 下载: [[其他]_逃离.doc]([其他]_逃离.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 6372bbdd10c8349f40a9a6c602e39875                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

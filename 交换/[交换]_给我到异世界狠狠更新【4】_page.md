@@ -20,7 +20,7 @@ TXT 下载: [[交换]_给我到异世界狠狠更新【4】.doc]([交换]_给我
 | Format          | Microsoft Word Document                               |
 | Size            | 70144 bytes                           |
 | MD5             | 229fdec0f2da6077ae9db829690686af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

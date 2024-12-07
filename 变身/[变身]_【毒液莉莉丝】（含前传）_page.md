@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【毒液莉莉丝】（含前传）.doc]([变身]_【毒�
 | Format          | Microsoft Word Document                               |
 | Size            | 124928 bytes                           |
 | MD5             | c5d765a09634a6ce9fe2206934750ff9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

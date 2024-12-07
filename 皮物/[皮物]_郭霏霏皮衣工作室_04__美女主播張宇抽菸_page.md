@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_04__美女主播張宇抽菸.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 73256 bytes                           |
 | MD5             | 7bdd8838419b78afc8a8e2e48b16e45f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_她的俘虏3.docx]([变身]_她的俘虏3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24290 bytes                           |
 | MD5             | d9a06e2b6266d3106d75296e8c2b84d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

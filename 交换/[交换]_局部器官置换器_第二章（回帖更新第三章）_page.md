@@ -20,7 +20,7 @@ TXT 下载: [[交换]_局部器官置换器_第二章（回帖更新第三章）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19020 bytes                           |
 | MD5             | 2d23770f522831240e4ef7e6e72e1511                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

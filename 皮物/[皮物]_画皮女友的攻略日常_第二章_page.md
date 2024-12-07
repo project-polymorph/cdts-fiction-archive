@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第二章.doc]([皮物]_画皮
 | Format          | Microsoft Word Document                               |
 | Size            | 71680 bytes                           |
 | MD5             | d259414f0f7aa721420544788513677d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

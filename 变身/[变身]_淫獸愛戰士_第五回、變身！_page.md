@@ -21,7 +21,7 @@ TXT 下载: [[变身]_淫獸愛戰士_第五回、變身！.docx]([变身]_淫�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32353 bytes                           |
 | MD5             | 864f123a1c077676c65792983808ff74                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

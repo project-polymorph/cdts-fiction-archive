@@ -20,7 +20,7 @@ TXT 下载: [[交换]_换身后的撞鬼生涯（1-5）.doc]([交换]_换身后�
 | Format          | Microsoft Word Document                               |
 | Size            | 72704 bytes                           |
 | MD5             | b1051c797204ce4250ff6f1ebf4988a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

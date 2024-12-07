@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文】改变命运的古书.doc]([皮物]_【申�
 | Format          | Microsoft Word Document                               |
 | Size            | 75264 bytes                           |
 | MD5             | 05a4ff5f7613a1566e238328f326744e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

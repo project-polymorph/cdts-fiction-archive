@@ -20,7 +20,7 @@ TXT 下载: [[催眠]田中由美（二）.doc]([催眠]田中由美（二）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 9dc779ba53bbe0ce179e110eb566356e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

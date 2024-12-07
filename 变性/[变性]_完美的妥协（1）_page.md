@@ -20,7 +20,7 @@ TXT 下载: [[变性]_完美的妥协（1）.docx]([变性]_完美的妥协（1�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23352 bytes                           |
 | MD5             | 74ca56bb65a8253e05f76e1e8f54e4bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | suki                               |
 | Region          | 未知                               |

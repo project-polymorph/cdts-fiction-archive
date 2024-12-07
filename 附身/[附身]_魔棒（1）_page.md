@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魔棒（1）.docx]([附身]_魔棒（1）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21934 bytes                           |
 | MD5             | f0c54344658a60a78f625585335d0557                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

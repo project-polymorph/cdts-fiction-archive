@@ -20,7 +20,7 @@ TXT 下载: [[改造]_A_Certain_Perception.docx]([改造]_A_Certain_Perception.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 123232 bytes                           |
 | MD5             | 677b68af0be306c26eacbb7300384b90                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

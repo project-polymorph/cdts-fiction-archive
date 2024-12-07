@@ -20,7 +20,7 @@ TXT 下载: [[变性]_Metamorphose_(3).docx]([变性]_Metamorphose_(3).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41328 bytes                           |
 | MD5             | 561d8724e9f84b7b2d427ccccb38d81b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

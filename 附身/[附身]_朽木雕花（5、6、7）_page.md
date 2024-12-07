@@ -20,7 +20,7 @@ TXT 下载: [[附身]_朽木雕花（5、6、7）.doc]([附身]_朽木雕花（5
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 3d5369df1fa6b6235d984d9ab1a83aa6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_欲望？欲望.docx]([皮物]_欲望？欲望.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32874 bytes                           |
 | MD5             | 10f67cfda1400793e096e33ccb029741                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

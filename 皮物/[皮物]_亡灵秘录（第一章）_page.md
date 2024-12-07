@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_亡灵秘录（第一章）.docx]([皮物]_亡灵秘录（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28911 bytes                           |
 | MD5             | 19668611c8e5d8787c63d496dc290d30                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 绯红女皇                               |
 | Region          | 未知                               |

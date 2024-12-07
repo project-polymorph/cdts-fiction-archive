@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月神_——_S1_【开放式短篇——异形篇】.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15550 bytes                           |
 | MD5             | b596fd0ffe2a5cd4ea33ac222c0fff7b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[碟中谍]越狱_2.doc]([皮物]_[碟中谍]越狱_2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 48f74acaf2f8a2fe51ae0fc8a10301f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

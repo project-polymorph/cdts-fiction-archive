@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Dare.docx]([改造]_Dare.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42192 bytes                           |
 | MD5             | 269852b1c76a8f929ad5bb18e3b25bb8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Callie Messenger                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_西游情厄传（第十六回）.docx]([其他]_西游情
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26527 bytes                           |
 | MD5             | 8a8adc32d4014644e3f1bf008fa6e7ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

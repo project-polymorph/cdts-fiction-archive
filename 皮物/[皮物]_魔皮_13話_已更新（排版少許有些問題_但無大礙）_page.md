@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魔皮_13話_已更新（排版少許有些問題_但無�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37159 bytes                           |
 | MD5             | 13f9be51380f6ee5d5e10d8768f8547e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

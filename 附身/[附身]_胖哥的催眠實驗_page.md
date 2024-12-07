@@ -20,7 +20,7 @@ TXT 下载: [[附身]_胖哥的催眠實驗.docx]([附身]_胖哥的催眠實驗
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50389 bytes                           |
 | MD5             | 3288be839c848e9820e418b3a54e9f02                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

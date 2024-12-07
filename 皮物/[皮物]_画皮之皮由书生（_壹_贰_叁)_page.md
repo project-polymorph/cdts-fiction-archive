@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_画皮之皮由书生（_壹_贰_叁).docx]([皮物]_画�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34062 bytes                           |
 | MD5             | 91a63a83357f9c2dbcf6b83aec0b39a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 花满楼                               |
 | Region          | 中国大陆                               |

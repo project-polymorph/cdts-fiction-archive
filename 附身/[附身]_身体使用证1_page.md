@@ -20,7 +20,7 @@ TXT 下载: [[附身]_身体使用证1.docx]([附身]_身体使用证1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31539 bytes                           |
 | MD5             | e77cb55143e09b7a7d5e6cb539dacbfb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

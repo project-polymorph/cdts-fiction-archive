@@ -20,7 +20,7 @@ TXT 下载: [[附身]_灵魂药丸.doc]([附身]_灵魂药丸.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | d4dd1a4f4498c87f59d3fb59c984b220                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

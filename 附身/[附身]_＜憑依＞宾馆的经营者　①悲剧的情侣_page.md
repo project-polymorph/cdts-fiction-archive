@@ -7,7 +7,7 @@ TXT 下载: [[附身]_＜憑依＞宾馆的经营者　①悲剧的情侣.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《憑依》系列小说的第一卷，标题为《悲剧的情侣》。故事发生在一间宾馆，该宾馆流传着一个都市传说：情侣入住后会变得不幸。小说主要讲述了宾馆经营者名仓俊之，他拥有一种扭曲的‘附身能力’，能够附身于他人，以此来操纵和破坏他们的幸福。在故事中，名仓目睹了一对年轻情侣柚子和将司前来宾馆入住，他内心暗藏着毁灭他们幸福的欲望。随着情节的推进，柚子在附身后显露出扭曲的一面，逐渐陷入了一种自我毁灭的状态，做出了出格的行为，如自拍、上传不雅视频等。最终，将司返回后发现了柚子令人震惊的举动，情节离奇且充满暗黑色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_＜憑依＞宾馆的经营者　①悲剧的情侣.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22046 bytes                           |
 | MD5             | ee846cf5080cd2962e225af618d08aa0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 无名＠純白の憑依人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 都市传说, 悲剧, 色情, 心理扭曲, 道德崩塌, 自我探索, 关系破坏, 爱情, 绝望, 黑暗幻想, 性别认同, 情感操控, 扭曲的美学, 双向欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

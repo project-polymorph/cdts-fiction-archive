@@ -20,7 +20,7 @@ TXT 下载: [[其他]_CD世界OL_2_电车之狼.doc]([其他]_CD世界OL_2_电�
 | Format          | Microsoft Word Document                               |
 | Size            | 31232 bytes                           |
 | MD5             | 6f2c1c5e80f93a423f9ad6c20e17aeea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

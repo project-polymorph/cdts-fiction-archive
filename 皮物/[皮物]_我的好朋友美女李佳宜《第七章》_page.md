@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第七章》.docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35197 bytes                           |
 | MD5             | dd32a68f3ae7664e1be806542fdc5809                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

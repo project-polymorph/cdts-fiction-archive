@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译催眠变性】Jennifer系列作品：女士画�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 946eef4efc1efb9e28bbc620e29ca722                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

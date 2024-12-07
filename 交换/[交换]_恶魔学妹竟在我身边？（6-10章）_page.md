@@ -20,7 +20,7 @@ TXT 下载: [[交换]_恶魔学妹竟在我身边？（6-10章）.doc]([交换]_
 | Format          | Microsoft Word Document                               |
 | Size            | 92672 bytes                           |
 | MD5             | d2b224e734bbc6229f38606d49700a7f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 暗蓝alan                               |
 | Region          | 未知                               |

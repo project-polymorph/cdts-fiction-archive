@@ -20,7 +20,7 @@ TXT 下载: [被黑暗结社憑依夺舍的魔法少妇.docx](被黑暗结社憑
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19021 bytes                           |
 | MD5             | 301ff3274f43f8ae80e2cfd47325a01d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

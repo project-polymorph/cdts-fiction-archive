@@ -20,7 +20,7 @@ TXT 下载: [[变性]_杀妻偿“命”.docx]([变性]_杀妻偿“命”.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23594 bytes                           |
 | MD5             | 6c9cdc2396870224975020e1b88e9856                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters                               |
 | Region          | 未知                               |

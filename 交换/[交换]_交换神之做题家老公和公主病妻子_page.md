@@ -20,7 +20,7 @@ TXT 下载: [[交换]_交换神之做题家老公和公主病妻子.docx]([交�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24037 bytes                           |
 | MD5             | 3d2b461396f9f3779091f9866a746027                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

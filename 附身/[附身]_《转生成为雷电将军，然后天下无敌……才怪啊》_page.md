@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《转生成为雷电将军，然后天下无敌……才�
 | Format          | Microsoft Word Document                               |
 | Size            | 73216 bytes                           |
 | MD5             | 8194c3434ef77e2e1caae13a30cf47f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

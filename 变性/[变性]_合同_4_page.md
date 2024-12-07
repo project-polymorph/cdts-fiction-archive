@@ -20,7 +20,7 @@ TXT 下载: [[变性]_合同_4.docx]([变性]_合同_4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47765 bytes                           |
 | MD5             | 29c1e3ff9fe6cf0747a8a1355928f1bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cheryl                               |
 | Region          | 未知                               |

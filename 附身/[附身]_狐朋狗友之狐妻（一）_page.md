@@ -20,7 +20,7 @@ TXT 下载: [[附身]_狐朋狗友之狐妻（一）.docx]([附身]_狐朋狗友
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39478 bytes                           |
 | MD5             | 751e6f4623fdca8bae7bffbec4127a8b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

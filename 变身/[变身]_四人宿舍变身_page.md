@@ -20,7 +20,7 @@ TXT 下载: [[变身]_四人宿舍变身.doc]([变身]_四人宿舍变身.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 30d8597dcaf286fc10af676f9c1bd102                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

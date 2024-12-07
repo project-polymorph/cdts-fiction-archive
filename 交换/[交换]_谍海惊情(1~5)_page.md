@@ -20,7 +20,7 @@ TXT 下载: [[交换]_谍海惊情(1~5).docx]([交换]_谍海惊情(1~5).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32499 bytes                           |
 | MD5             | b1b9bfb5b8314b7cd2d432015076f442                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Want2BaGirl                               |
 | Region          | 未知                               |

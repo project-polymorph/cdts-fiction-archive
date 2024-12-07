@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_空气魔法使.docx]([皮物]_空气魔法使.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25769 bytes                           |
 | MD5             | 567ffce8fd0b52ae5b370aa168bc7730                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

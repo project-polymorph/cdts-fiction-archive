@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮术士】十一_神的恩赐.doc]([皮物]_【皮术
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 590630921113365b4b6915d6dfeb6298                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

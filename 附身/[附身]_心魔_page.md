@@ -20,7 +20,7 @@ TXT 下载: [[附身]_心魔.docx]([附身]_心魔.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31868 bytes                           |
 | MD5             | b9995f15c16eba96c40eff5dfe6ae6eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

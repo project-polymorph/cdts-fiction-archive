@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮灭_后夜祭.docx]([皮物]_皮灭_后夜祭.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20017 bytes                           |
 | MD5             | 429838893f647356e5399eed53c24556                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

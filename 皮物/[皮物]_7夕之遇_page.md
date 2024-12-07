@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_7夕之遇.doc]([皮物]_7夕之遇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | ab0e79a16d73282c9d5fa06921355e22                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

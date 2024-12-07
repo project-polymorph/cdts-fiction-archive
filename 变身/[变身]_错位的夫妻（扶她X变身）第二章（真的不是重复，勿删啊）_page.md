@@ -20,7 +20,7 @@ TXT 下载: [[变身]_错位的夫妻（扶她X变身）第二章（真的不是
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 1350644bbc851931bad8cf76b17bc56a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

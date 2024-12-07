@@ -20,7 +20,7 @@ TXT 下载: [[附身]_勇者与魔王的对决.docx]([附身]_勇者与魔王的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25533 bytes                           |
 | MD5             | 9733111ca09bdc5dc47f9cecf4199ec0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

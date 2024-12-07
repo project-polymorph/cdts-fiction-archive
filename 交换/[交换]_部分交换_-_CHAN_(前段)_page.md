@@ -20,7 +20,7 @@ TXT 下载: [[交换]_部分交换_-_CHAN_(前段).doc]([交换]_部分交换_-_
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 78e8a5990661364f0bc2496b58d38f5b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rae Lincoln                               |
 | Region          | 未知                               |

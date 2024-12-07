@@ -20,7 +20,7 @@ TXT 下载: [[变身]_绑架3-4.doc]([变身]_绑架3-4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 00058bb9db681c8f770a62ae20d0bfbf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

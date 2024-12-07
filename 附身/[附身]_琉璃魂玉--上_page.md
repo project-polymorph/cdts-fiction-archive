@@ -20,7 +20,7 @@ TXT 下载: [[附身]_琉璃魂玉--上.doc]([附身]_琉璃魂玉--上.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 73728 bytes                           |
 | MD5             | ce5269c065ca580e462d98874ee4e46d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

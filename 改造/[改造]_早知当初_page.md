@@ -20,7 +20,7 @@ TXT 下载: [[改造]_早知当初.docx]([改造]_早知当初.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17429 bytes                           |
 | MD5             | 7af5f973a28d8bf9af3bb171e1ee834f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Gennie TV/TS                               |
 | Region          | 未知                               |

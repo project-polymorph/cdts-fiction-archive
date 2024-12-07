@@ -20,7 +20,7 @@ TXT 下载: [[变身]_游戏人生（改二）.docx]([变身]_游戏人生（改
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29082 bytes                           |
 | MD5             | 6eb0b59b6d8d8621c692e54b649d1c71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

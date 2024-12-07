@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_末世见闻录.doc]([皮物]_末世见闻录.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 417bd2c6de860d219bd192ffcd61fd26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

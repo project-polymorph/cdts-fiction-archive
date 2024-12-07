@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_衣替2.docx]([皮物]_衣替2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18547 bytes                           |
 | MD5             | 4bb059b807c6ac2c41593d8a914437a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_美梦能成真吗？.docx]([变身]_美梦能成真吗？
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28705 bytes                           |
 | MD5             | d8f2cd7e0ee5b53bafaef1c30afef43b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Paula Girl                               |
 | Region          | 未知                               |

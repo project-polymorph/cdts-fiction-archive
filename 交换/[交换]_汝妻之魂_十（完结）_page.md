@@ -20,7 +20,7 @@ TXT 下载: [[交换]_汝妻之魂_十（完结）.docx]([交换]_汝妻之魂_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29155 bytes                           |
 | MD5             | c4870abe9115eba24fb57de4ea60f326                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

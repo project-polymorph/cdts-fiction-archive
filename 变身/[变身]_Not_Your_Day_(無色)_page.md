@@ -24,7 +24,7 @@ TXT 下载: [[变身]_Not_Your_Day_(無色).doc]([变身]_Not_Your_Day_(無色).
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 1a6a05346ea9b070b2797ac60829061b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

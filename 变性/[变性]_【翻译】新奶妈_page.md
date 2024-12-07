@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】新奶妈.doc]([变性]_【翻译】新奶妈.
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | 5c9a895404132508f215922ffcd7c363                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Hello329，编译：魔之天涯                               |
 | Region          | 未知                               |

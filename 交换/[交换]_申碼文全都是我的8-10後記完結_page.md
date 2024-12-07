@@ -20,7 +20,7 @@ TXT 下载: [[交换]_申碼文全都是我的8-10後記完結.doc]([交换]_申
 | Format          | Microsoft Word Document                               |
 | Size            | 79872 bytes                           |
 | MD5             | db9b8b63c73f2de4799693d4f1d2bc86                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

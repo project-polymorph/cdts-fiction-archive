@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_狩鬼-1_[.docx]([皮物]_狩鬼-1_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47737 bytes                           |
 | MD5             | 2ed0c644e693ed694a42201636e0e6e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

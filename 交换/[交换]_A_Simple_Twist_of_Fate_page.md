@@ -20,7 +20,7 @@ TXT 下载: [[交换]_A_Simple_Twist_of_Fate.docx]([交换]_A_Simple_Twist_of_Fa
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40070 bytes                           |
 | MD5             | 716940eaa83da8a4df897ee92f3cb622                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Caterpillar Girl                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_回春按摩（完）.doc]([交换]_回春按摩（完）.
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | a708521f2ed6519c7c72b5b9e703efd9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 人生万花筒                               |
 | Region          | 未知                               |

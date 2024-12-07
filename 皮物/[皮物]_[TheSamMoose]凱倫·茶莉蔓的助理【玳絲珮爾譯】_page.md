@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[TheSamMoose]凱倫·茶莉蔓的助理【玳絲珮爾譯�
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | a04c91ba972b8ec09337a34f1f379c48                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TheSamMoose                               |
 | Region          | 未知                               |

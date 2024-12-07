@@ -20,7 +20,7 @@ TXT 下载: [[变性]_Tel(le)_est_pris(e)_qui_croyait_prendre...猎与被猎.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24304 bytes                           |
 | MD5             | b49ff4c55542ffda0f95ac8bebd41e9c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Frenchy067                               |
 | Region          | 未知                               |

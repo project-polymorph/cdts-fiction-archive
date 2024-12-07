@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】私人调查.doc]([变性]_【翻译】私人�
 | Format          | Microsoft Word Document                               |
 | Size            | 135168 bytes                           |
 | MD5             | 3041c98158f30f7fdf6e4afc838e5491                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Karen Albright（翻译：魔之天涯）                               |
 | Region          | 未知                               |

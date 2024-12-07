@@ -20,7 +20,7 @@ TXT 下载: [[附身]_身體交換錶.docx]([附身]_身體交換錶.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18285 bytes                           |
 | MD5             | e9b01e86e76c357847963b17610f0d37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

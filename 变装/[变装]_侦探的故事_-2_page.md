@@ -20,7 +20,7 @@ TXT 下载: [[变装]_侦探的故事_-2.docx]([变装]_侦探的故事_-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30069 bytes                           |
 | MD5             | 5f04df3fa8964e58720664ef1fc62e4a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

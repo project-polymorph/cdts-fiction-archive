@@ -20,7 +20,7 @@ TXT 下载: [[改造]_女性的解放.doc]([改造]_女性的解放.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 4c16ff4f9de7045f98961dcb17fa8236                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Dick Inch-Heynes, 译者：露娜·埃葵斯                               |
 | Region          | 未知                               |

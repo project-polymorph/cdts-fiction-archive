@@ -20,7 +20,7 @@ TXT 下载: [[交换]_等价交换1-7.docx]([交换]_等价交换1-7.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 76451 bytes                           |
 | MD5             | cc0e9a8b0a13f29c89b0209957c72b71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

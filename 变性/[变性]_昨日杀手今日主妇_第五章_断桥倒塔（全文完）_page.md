@@ -20,7 +20,7 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第五章_断桥倒塔（全文�
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | e9d9f21d1c3ecba1aebe5a56e32646f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

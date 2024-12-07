@@ -20,7 +20,7 @@ TXT 下载: [[其他]_Kat's_Eyes_1.docx]([其他]_Kat's_Eyes_1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22305 bytes                           |
 | MD5             | d5cd0a5a781561df8c006c02f345b76e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

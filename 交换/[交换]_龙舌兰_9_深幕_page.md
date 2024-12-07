@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_9_深幕.docx]([交换]_龙舌兰_9_深幕.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32950 bytes                           |
 | MD5             | edf7031a88a8f4188118da0b26c67396                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yudi                               |
 | Region          | 未知                               |

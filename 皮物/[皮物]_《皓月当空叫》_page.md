@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《皓月当空叫》.doc]([皮物]_《皓月当空叫》.
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 516893b107bc5031483c99e632191086                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

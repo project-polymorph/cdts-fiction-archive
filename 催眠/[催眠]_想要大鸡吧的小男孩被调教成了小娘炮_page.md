@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_想要大鸡吧的小男孩被调教成了小娘炮.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | cb90981c7972c1e1cb6d5110e7f547f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

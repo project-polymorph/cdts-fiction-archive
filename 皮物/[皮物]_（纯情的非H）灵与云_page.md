@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_（纯情的非H）灵与云.doc]([皮物]_（纯情的非
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 1a6156671e39f69e44e60983fdb519bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

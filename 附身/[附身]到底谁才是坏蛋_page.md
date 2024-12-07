@@ -7,7 +7,7 @@ TXT 下载: [[附身]到底谁才是坏蛋.doc]([附身]到底谁才是坏蛋.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《到底谁才是坏蛋》的原创小说作品，描述了主人公郭麒麟的故事，故事背景设定在2020年的蓉城一中。郭麒麟是一名普通的高中生，性格沉稳，与同班的几位女孩关系密切。文中提到了神秘的战国遗迹和搜索不死之药的冒险情节，郭麒麟因好奇而追踪同班的‘三屌’（三个屌丝）男生，卷入一系列复杂的事件中，同时展示了他对家庭成员和朋友的情感。同时还涉及一些敏感和复杂的主题，如性别认同与人际关系。故事中有许多细腻的情感描写和悬疑元素，使整个故事更具吸引力。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]到底谁才是坏蛋.doc]([附身]到底谁才是坏蛋.do
 | Format          | Microsoft Word Document                               |
 | Size            | 92672 bytes                           |
 | MD5             | cf8b288e4379bbf769fd8237f615891e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 荆棘鸟ID：LAGER1664                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 少年成长, 冒险, 友情, 性别认同, 校园, 变身, 心理冲突, 战国遗迹, 不死之药, 继承与责任, 家庭关系, 社交动态, 青春期困惑, 神秘事件, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

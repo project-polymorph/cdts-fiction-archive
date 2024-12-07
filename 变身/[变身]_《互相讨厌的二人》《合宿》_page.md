@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《互相讨厌的二人》《合宿》.docx]([变身]_《
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 397267 bytes                           |
 | MD5             | 55deb35a16903fcefc05ffc3ecfc8c23                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 真城　悠                               |
 | Region          | 未知                               |

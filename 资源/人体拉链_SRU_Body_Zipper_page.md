@@ -20,7 +20,7 @@ TXT 下载: [人体拉链_SRU_Body_Zipper.doc](人体拉链_SRU_Body_Zipper.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | d9679340fd06c5a104b2d6f31a123e36                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

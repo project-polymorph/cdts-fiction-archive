@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_TSA梦——自由变身KIGURUMI_02.docx]([皮物]_TSA梦�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44703 bytes                           |
 | MD5             | 0e75a0699440b778f555c51c93a63f1c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

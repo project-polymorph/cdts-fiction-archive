@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_与世隔绝_番外_连载.doc]([皮物]_与世隔绝_番�
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 9c3fecfc13d86c4bae837b7dea118f25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

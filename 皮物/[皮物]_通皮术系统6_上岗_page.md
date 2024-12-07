@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_通皮术系统6_上岗.docx]([皮物]_通皮术系统6_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30376 bytes                           |
 | MD5             | 1c6b99b29cc10e90f39be8789eb393cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

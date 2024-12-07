@@ -20,7 +20,7 @@ TXT 下载: [[改造]_你寧願__Luke_&_Lexi_Would_You_Rather_Luke_&_Lexi.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 73728 bytes                           |
 | MD5             | e4656efcb38c1dbd2297730222e1ae2e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Razmagurk                               |
 | Region          | 未知                               |

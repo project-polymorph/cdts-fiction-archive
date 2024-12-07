@@ -20,7 +20,7 @@ TXT 下载: [[变身]_Bikes_'R'_Us.docx]([变身]_Bikes_'R'_Us.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39114 bytes                           |
 | MD5             | 51e37922146cb235c7a7ab9e0a2e9608                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | J.C. Arby                               |
 | Region          | 未知                               |

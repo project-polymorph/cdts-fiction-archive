@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【纪实】关于我被Twitter上认识的人调教的故
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 125409 bytes                           |
 | MD5             | 09b5f41874b5e764058cd03ee75e32db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

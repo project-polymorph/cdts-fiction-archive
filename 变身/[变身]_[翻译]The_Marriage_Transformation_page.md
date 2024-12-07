@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]The_Marriage_Transformation.doc]([变身]_[翻译]
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | bca5864002938b3b3404d1089c702d9c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_天台学园异闻录（二）.docx]([变身]_天台学园
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22372 bytes                           |
 | MD5             | 9083b39b1e947a3fe438f9f8c0147c01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【原创】蒸發_·序(修).doc]([皮物]_【原创】�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 5670b447f982a88470607cee8f5a73cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

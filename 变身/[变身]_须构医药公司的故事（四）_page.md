@@ -22,7 +22,7 @@ TXT 下载: [[变身]_须构医药公司的故事（四）.doc]([变身]_须构�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 9889a183f7220e27e99afa12c0c0da3c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的继母是男人_五_少女？.docx]([皮物]_我的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17127 bytes                           |
 | MD5             | 5ca87258e06286e3f006a7b261edd86d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

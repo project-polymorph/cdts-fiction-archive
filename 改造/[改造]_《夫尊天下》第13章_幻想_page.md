@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第13章_幻想.doc]([改造]_《夫尊�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | fd82d60947ea82d1b58f9ed52286dcf8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

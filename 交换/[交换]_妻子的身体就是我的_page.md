@@ -20,7 +20,7 @@ TXT 下载: [[交换]_妻子的身体就是我的.docx]([交换]_妻子的身体
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 86103 bytes                           |
 | MD5             | c8069349754ca6c41ee40ab1c1b81ec3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

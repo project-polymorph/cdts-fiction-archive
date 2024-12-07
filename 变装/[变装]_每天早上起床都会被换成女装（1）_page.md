@@ -20,7 +20,7 @@ TXT 下载: [[变装]_每天早上起床都会被换成女装（1）.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 56832 bytes                           |
 | MD5             | ea309026b339fb7ce706184ff8ab9120                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

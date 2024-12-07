@@ -20,7 +20,7 @@ TXT 下载: [[改造]_午後的愉快時光_(2).docx]([改造]_午後的愉快�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 44209 bytes                           |
 | MD5             | 981458754bc1ed6e64658070ed193eee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

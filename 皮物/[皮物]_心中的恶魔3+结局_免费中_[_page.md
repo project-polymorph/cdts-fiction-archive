@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_心中的恶魔3+结局_免费中_[.docx]([皮物]_心中�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33794 bytes                           |
 | MD5             | 6f8cb038adf716a2b8e483cf633d6211                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

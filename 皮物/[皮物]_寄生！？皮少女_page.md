@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寄生！？皮少女.docx]([皮物]_寄生！？皮少女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27373 bytes                           |
 | MD5             | fabae0f6199fe2497336a1debeacb239                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 田中まさみ                               |
 | Region          | 未知                               |

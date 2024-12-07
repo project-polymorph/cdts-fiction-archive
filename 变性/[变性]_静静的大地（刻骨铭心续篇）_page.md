@@ -20,7 +20,7 @@ TXT 下载: [[变性]_静静的大地（刻骨铭心续篇）.docx]([变性]_静
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 75391 bytes                           |
 | MD5             | 7a2de50c7056946ee3eae8fc714f5510                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Katherine Gorge                               |
 | Region          | 未知                               |

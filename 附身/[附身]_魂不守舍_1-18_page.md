@@ -20,7 +20,7 @@ TXT 下载: [[附身]_魂不守舍_1-18.doc]([附身]_魂不守舍_1-18.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 150016 bytes                           |
 | MD5             | 205eafdff8910ed1347a645b9a0a87e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 逗破苍天                               |
 | Region          | 中国大陆                               |

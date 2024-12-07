@@ -20,7 +20,7 @@ TXT 下载: [[变装]奇异人生前传.doc]([变装]奇异人生前传.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 93696 bytes                           |
 | MD5             | a6bef616fc326579757eb86d4e3f706e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

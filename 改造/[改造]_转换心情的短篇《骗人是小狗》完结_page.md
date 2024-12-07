@@ -20,7 +20,7 @@ TXT 下载: [[改造]_转换心情的短篇《骗人是小狗》完结.doc]([改
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 04b8508fd9e61f9287370ac3251cc7b4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

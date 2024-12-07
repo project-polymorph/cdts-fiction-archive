@@ -20,7 +20,7 @@ TXT 下载: [[变装]_白色婚纱.doc]([变装]_白色婚纱.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | c5a629627dabb6af0e781d3ab955e917                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | didiwillis                               |
 | Region          | 未知                               |

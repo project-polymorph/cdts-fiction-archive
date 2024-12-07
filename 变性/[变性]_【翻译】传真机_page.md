@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】传真机.docx]([变性]_【翻译】传真机
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62656 bytes                           |
 | MD5             | 574ed55aeee4d898de83b7493b9cd802                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer Miller                               |
 | Region          | 未知                               |

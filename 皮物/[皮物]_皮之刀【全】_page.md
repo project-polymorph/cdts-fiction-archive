@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之刀【全】.docx]([皮物]_皮之刀【全】.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42511 bytes                           |
 | MD5             | af98e98465432e47695a5cc4364eeb48                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

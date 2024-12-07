@@ -20,7 +20,7 @@ TXT 下载: [[附身]_特殊性癖满足服务公司.doc]([附身]_特殊性癖�
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 36c1ee939280a2b22efe736d288ad9b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_应该分享的责任_第四章.docx]([交换]_应该分�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30137 bytes                           |
 | MD5             | 8af6f0f83c6653dfbd29bcc8352fe5ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

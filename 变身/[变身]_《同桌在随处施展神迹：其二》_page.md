@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《同桌在随处施展神迹：其二》.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 62464 bytes                           |
 | MD5             | b01912e8fbdb82a813cd40444c65e764                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

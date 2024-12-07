@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【短篇】掩盖所有的缺点是成为女人的第一�
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | 8b7257898f0012f71c88fa6d86f215ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | groxu                               |
 | Region          | 未知                               |

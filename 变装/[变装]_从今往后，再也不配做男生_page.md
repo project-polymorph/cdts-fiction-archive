@@ -20,7 +20,7 @@ TXT 下载: [[变装]_从今往后，再也不配做男生.doc]([变装]_从今�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 66d16bfdd38a616bbc4b4bbf69389e25                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小小姬                               |
 | Region          | 未知                               |

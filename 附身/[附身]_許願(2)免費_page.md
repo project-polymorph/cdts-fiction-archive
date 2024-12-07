@@ -20,7 +20,7 @@ TXT 下载: [[附身]_許願(2)免費.docx]([附身]_許願(2)免費.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19956 bytes                           |
 | MD5             | a1aa31ca5c17fa558a01b920ff5711c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

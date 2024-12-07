@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_神奇的道具~变成皮的少女.docx]([皮物]_神奇�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23886 bytes                           |
 | MD5             | 5c4ca236e9b64192c21b74d1d5957908                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[其他]_惡夢的圓環.docx]([其他]_惡夢的圓環.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26598 bytes                           |
 | MD5             | 90a65bc7630c0b21363780b5cc053102                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

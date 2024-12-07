@@ -20,7 +20,7 @@ TXT 下载: [[附身]_私密攝影之入魂_(優衣庫新年番外篇).doc]([附
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | d09e158e4d903531d8f6016e8775c262                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

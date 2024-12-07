@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新文。。没取名字.docx]([皮物]_新文。。没取
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27399 bytes                           |
 | MD5             | 40fc262806e418f5474a320281796109                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

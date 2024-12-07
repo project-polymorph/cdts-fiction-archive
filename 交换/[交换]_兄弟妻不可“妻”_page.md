@@ -20,7 +20,7 @@ TXT 下载: [[交换]_兄弟妻不可“妻”.doc]([交换]_兄弟妻不可“�
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | b08ee979ffc57bb07001dbc3be80d6f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 孔夫子                               |
 | Region          | 未知                               |

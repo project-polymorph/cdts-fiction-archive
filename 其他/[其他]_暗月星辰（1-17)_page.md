@@ -20,7 +20,7 @@ TXT 下载: [[其他]_暗月星辰（1-17).doc]([其他]_暗月星辰（1-17).do
 | Format          | Microsoft Word Document                               |
 | Size            | 116224 bytes                           |
 | MD5             | 6bf9e16f8f2cfe2ff6c4c75b0a85ccba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

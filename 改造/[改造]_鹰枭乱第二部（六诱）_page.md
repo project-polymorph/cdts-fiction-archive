@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱第二部（六诱）.docx]([改造]_鹰枭乱第
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18693 bytes                           |
 | MD5             | 22748b6d87de0615a5b5cd29f2b4f90b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

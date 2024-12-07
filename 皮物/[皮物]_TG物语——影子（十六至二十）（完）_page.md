@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_TG物语——影子（十六至二十）（完）.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | b51bd909ba4d6c8d18d7dbcec8a3fe84                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

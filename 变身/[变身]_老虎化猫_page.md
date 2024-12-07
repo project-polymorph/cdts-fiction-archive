@@ -20,7 +20,7 @@ TXT 下载: [[变身]_老虎化猫.docx]([变身]_老虎化猫.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33672 bytes                           |
 | MD5             | 8dfa60eccf30d38ef45c19c3ba31f528                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 咕咕丸                               |
 | Region          | 未知                               |

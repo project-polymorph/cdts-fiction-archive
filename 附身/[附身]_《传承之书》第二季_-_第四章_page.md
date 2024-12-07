@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第四章.doc]([附身]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | d3f1b076c29c27fe44e9843fad4be9ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 紫依                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_命运转换：沉溺实验.doc]([变身]_命运转换：�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 70f8a335c3b0f58e9e5c9c6df46c4899                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

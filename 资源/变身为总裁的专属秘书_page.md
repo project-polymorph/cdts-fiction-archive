@@ -20,7 +20,7 @@ TXT 下载: [变身为总裁的专属秘书.docx](变身为总裁的专属秘书
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39709 bytes                           |
 | MD5             | c8b570d2c03e955d6b847aa5bf8b59a6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

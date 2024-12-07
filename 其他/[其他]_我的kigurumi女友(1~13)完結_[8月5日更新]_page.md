@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我的kigurumi女友(1~13)完結_[8月5日更新].docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25230 bytes                           |
 | MD5             | 2ad18345ea7f0c3c8c666a591c660fa3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

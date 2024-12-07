@@ -20,7 +20,7 @@ TXT 下载: [[变装]_群芳斗艳缘（6）花旗蜕变.docx]([变装]_群芳�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20442 bytes                           |
 | MD5             | 5d01bcccc74a1988c38783ccda31093e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

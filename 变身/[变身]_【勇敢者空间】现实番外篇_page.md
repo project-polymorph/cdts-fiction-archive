@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【勇敢者空间】现实番外篇.doc]([变身]_【勇�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 452cc9f1219c1e23b20497d7764268f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

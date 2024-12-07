@@ -20,7 +20,7 @@ TXT 下载: [[变身]_婚礼会场的异变.docx]([变身]_婚礼会场的异变
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23865 bytes                           |
 | MD5             | 12bbf15645b34900f569f2065279347e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怪人逃跑中！.docx]([皮物]_怪人逃跑中！.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29494 bytes                           |
 | MD5             | 25a3381350c0897af10120ff27d25a77                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_竞技场_（3）.doc]([其他]_竞技场_（3）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 73728 bytes                           |
 | MD5             | 7175c522858f96d67204f50d88cb2907                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

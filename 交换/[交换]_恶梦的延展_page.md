@@ -22,7 +22,7 @@ TXT 下载: [[交换]_恶梦的延展.docx]([交换]_恶梦的延展.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25477 bytes                           |
 | MD5             | 6bd06a18c0e671db21593f16de1d28a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

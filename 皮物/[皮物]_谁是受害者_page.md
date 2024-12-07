@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_谁是受害者.doc]([皮物]_谁是受害者.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | dec77e974de76d734c090a561de96651                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_怠惰的人妻只想要躺平(申码文）.docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28621 bytes                           |
 | MD5             | 30a1d54193de2f28e9d9bd4f3d6ddc2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

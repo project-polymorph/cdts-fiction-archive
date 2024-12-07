@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_网络与现实_序.docx]([皮物]_网络与现实_序.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15351 bytes                           |
 | MD5             | 0cf19164a83b1cac01b237022b2a243c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

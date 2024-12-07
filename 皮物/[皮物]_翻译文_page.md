@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_翻译文.docx]([皮物]_翻译文.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21973 bytes                           |
 | MD5             | d2914db0ddc0f3c59540b1ecfa623698                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

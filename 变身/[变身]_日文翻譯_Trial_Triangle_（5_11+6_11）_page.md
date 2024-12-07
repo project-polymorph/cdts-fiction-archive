@@ -20,7 +20,7 @@ TXT 下载: [[变身]_日文翻譯_Trial_Triangle_（5_11+6_11）.docx]([变身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29390 bytes                           |
 | MD5             | 9ed0b627a2fa3b00f09955d57c712ab5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

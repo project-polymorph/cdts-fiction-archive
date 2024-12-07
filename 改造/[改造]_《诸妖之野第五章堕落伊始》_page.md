@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《诸妖之野第五章堕落伊始》.doc]([改造]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 47da2e22ad67ec22ddfde373e9c067d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 山雨                               |
 | Region          | 未知                               |

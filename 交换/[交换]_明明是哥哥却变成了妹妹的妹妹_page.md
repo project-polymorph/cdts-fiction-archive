@@ -20,7 +20,7 @@ TXT 下载: [[交换]_明明是哥哥却变成了妹妹的妹妹.doc]([交换]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | f29c220f2e2ac82d2e16eabd30559648                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

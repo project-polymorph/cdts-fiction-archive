@@ -20,7 +20,7 @@ TXT 下载: [[附身]_女神系统（一）.docx]([附身]_女神系统（一）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34895 bytes                           |
 | MD5             | 6306c2a931a473116ba51cdaafd0a039                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

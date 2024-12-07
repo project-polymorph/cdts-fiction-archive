@@ -20,7 +20,7 @@ TXT 下载: [[变装]_全力以赴_4.docx]([变装]_全力以赴_4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51932 bytes                           |
 | MD5             | 346ade42f3627585e6fff85389948db1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

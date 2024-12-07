@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[附身+皮物]偏执的爱（三）.doc]([皮物]_[附身
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 77f0268b2e8b4c229e4c93fbb43e9619                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch13.doc]([皮物]_天使的救赎_Ch13.do
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 0d7c7dd783bc28b88b2ee47fec526d89                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

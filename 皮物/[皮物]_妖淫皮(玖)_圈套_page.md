@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(玖)_圈套.docx]([皮物]_妖淫皮(玖)_圈套
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27406 bytes                           |
 | MD5             | 7f195734887d726d6fb0c5d410ccfd2b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

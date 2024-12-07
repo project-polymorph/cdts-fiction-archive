@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·序章&衣冠优孟（第一篇）.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 97280 bytes                           |
 | MD5             | 1b1fd6ba91c348ac0f0972780f1324fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

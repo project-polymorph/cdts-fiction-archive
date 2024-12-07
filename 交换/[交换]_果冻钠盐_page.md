@@ -24,7 +24,7 @@ TXT 下载: [[交换]_果冻钠盐.docx]([交换]_果冻钠盐.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35810 bytes                           |
 | MD5             | 6bdf0eb93141b481580db97dff1eb8aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | toshi9                               |
 | Region          | 日本                               |

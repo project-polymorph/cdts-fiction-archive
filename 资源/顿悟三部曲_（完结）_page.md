@@ -22,7 +22,7 @@ TXT 下载: [顿悟三部曲_（完结）.doc](顿悟三部曲_（完结）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 113664 bytes                           |
 | MD5             | 692a4f889524a411f5e3146b8c4c1d18                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

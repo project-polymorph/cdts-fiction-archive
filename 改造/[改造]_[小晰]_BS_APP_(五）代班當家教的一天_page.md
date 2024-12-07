@@ -20,7 +20,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(五）代班當家教的一天.doc]([改�
 | Format          | Microsoft Word Document                               |
 | Size            | 77312 bytes                           |
 | MD5             | 464efb704c60054339746900731f2652                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的第一輛車.doc]([皮物]_我的第一輛車.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | 157434041e8e63a2b6db0d6c2f55a932                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

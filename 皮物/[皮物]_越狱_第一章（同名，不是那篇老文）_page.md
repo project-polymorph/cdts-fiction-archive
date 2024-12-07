@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_越狱_第一章（同名，不是那篇老文）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 49559 bytes                           |
 | MD5             | 1c5493fcaaaedeca75781aaa0dc519e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

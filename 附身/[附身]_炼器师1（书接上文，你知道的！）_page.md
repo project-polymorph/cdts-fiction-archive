@@ -20,7 +20,7 @@ TXT 下载: [[附身]_炼器师1（书接上文，你知道的！）.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19131 bytes                           |
 | MD5             | 49a76832fd5e9339026c17c2d953fdd0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

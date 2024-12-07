@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《办公室的故事》第三章.doc]([其他]_《办公�
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | 69991c7dfbbbf3317f459683fe39dd02                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

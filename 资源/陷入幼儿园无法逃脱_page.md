@@ -20,7 +20,7 @@ TXT 下载: [陷入幼儿园无法逃脱.doc](陷入幼儿园无法逃脱.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 89d8e0d20efdb06fcaa6468a5ced07f7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_性别逆转的世界：聘用新秘书.doc]([变装]_性�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 41bed0e68b6b5470914c7cf4d2da1a57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sonnyjimjr                               |
 | Region          | 未知                               |

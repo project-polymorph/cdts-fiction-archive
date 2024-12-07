@@ -20,7 +20,7 @@ TXT 下载: [[改造]_原神同人_深渊魔女的诞生，神里绫华的新生
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 64174 bytes                           |
 | MD5             | 14558827e670446b66e2fc2fb814e060                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

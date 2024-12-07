@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_神奇杂货铺（六～九）.docx]([皮物]_神奇杂货
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 62216 bytes                           |
 | MD5             | b6054d82d6dd9508e6e94e0709741cd5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

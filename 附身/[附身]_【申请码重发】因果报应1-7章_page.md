@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申请码重发】因果报应1-7章.doc]([附身]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 119808 bytes                           |
 | MD5             | aeac27bfd6dbe74a07ed822b4d0e560d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

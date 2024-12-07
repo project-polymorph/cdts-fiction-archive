@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_为了我的新手奖励~~《宫斗》~~临时起的名子
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40791 bytes                           |
 | MD5             | f82c8b2869a0b50bbd1ea396648f1466                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔界战记3-4_[.docx]([其他]_魔界战记3-4_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24807 bytes                           |
 | MD5             | 19696115a576a090e49181c0f201c6dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

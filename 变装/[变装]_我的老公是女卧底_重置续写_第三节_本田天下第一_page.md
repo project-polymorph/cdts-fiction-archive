@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我的老公是女卧底_重置续写_第三节_本田天�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | d83f6a856df2b7a9116790cb1a8fea15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

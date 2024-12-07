@@ -20,7 +20,7 @@ TXT 下载: [[附身]_未知领域——身灵合一.docx]([附身]_未知领域
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19715 bytes                           |
 | MD5             | 4b6fc4ab90157ba6e383260d90e79a49                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

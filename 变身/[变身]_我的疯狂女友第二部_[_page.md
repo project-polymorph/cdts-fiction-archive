@@ -20,7 +20,7 @@ TXT 下载: [[变身]_我的疯狂女友第二部_[.docx]([变身]_我的疯狂�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21577 bytes                           |
 | MD5             | 88a2cf7652beb8731e044c77162f8d2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

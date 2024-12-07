@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_空中奇缘：欣柔視角.docx]([皮物]_空中奇缘：
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 2924264 bytes                           |
 | MD5             | 4a7a14081fb77b43081ca2bc3c2700ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

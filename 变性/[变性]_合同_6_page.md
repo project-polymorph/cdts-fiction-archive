@@ -20,7 +20,7 @@ TXT 下载: [[变性]_合同_6.docx]([变性]_合同_6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36812 bytes                           |
 | MD5             | 66c9a6edc98651cddeda865ea674143f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

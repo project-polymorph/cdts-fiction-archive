@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_青发的她_第三章+第四章.doc]([皮物]_青发的�
 | Format          | Microsoft Word Document                               |
 | Size            | 222720 bytes                           |
 | MD5             | 70bab34d010c0b6c4c0b71e0361c620c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

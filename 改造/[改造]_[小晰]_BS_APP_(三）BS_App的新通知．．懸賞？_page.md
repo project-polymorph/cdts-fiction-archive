@@ -22,7 +22,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(三）BS_App的新通知．．懸賞？.d
 | Format          | Microsoft Word Document                               |
 | Size            | 71680 bytes                           |
 | MD5             | a7c854d3700d3bac70b95eda9ff0100d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

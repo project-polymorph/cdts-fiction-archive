@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_喉舌计划（利卡洛外传）.doc]([皮物]_喉舌计�
 | Format          | Microsoft Word Document                               |
 | Size            | 84480 bytes                           |
 | MD5             | bbf8e0744456f701e2be185afe88241e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的继母是男人番外(月的故事)三_兄妹.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18029 bytes                           |
 | MD5             | c26ceede6c753096813f362a232ce57c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

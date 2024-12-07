@@ -20,7 +20,7 @@ TXT 下载: [[交换]_薰风幻想_【第十章：溷乱、抗拒、臣服】_.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33066 bytes                           |
 | MD5             | d7a3efaec985777d08d06afcecf44d22                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | RE                               |
 | Region          | 未知                               |

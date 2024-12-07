@@ -20,7 +20,7 @@ TXT 下载: [[变装]_忘了名字-纯爱-恶堕.doc]([变装]_忘了名字-纯�
 | Format          | Microsoft Word Document                               |
 | Size            | 120832 bytes                           |
 | MD5             | 3edffd0b5506a411daa7142feb88db64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

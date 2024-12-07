@@ -20,7 +20,7 @@ TXT 下载: [[改造]_人造美人_引子与第一部分（共3到4部分）.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | d3e6d33fbce7a7cda09b8ff59981309f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

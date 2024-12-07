@@ -20,7 +20,7 @@ TXT 下载: [[交换]_互换身体的两人.doc]([交换]_互换身体的两人.
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | a3d99900cbe4012a6cd5cd2b9990ca8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jumboshirmp                               |
 | Region          | 未知                               |

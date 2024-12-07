@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_奇方_第六章.docx]([皮物]_奇方_第六章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22806 bytes                           |
 | MD5             | 9626b0a73e23563d83de7fcc68a72376                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 思考下计划                               |
 | Region          | 未知                               |

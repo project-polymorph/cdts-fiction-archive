@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我附身成了异界少妇（4）.docx]([附身]_我附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18424 bytes                           |
 | MD5             | f541c6fde7e2a286389658cbe444722d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

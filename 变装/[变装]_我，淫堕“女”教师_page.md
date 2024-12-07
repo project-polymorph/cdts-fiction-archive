@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我，淫堕“女”教师.doc]([变装]_我，淫堕“�
 | Format          | Microsoft Word Document                               |
 | Size            | 102912 bytes                           |
 | MD5             | 60ebe3abb416fa51c21c10c9513189e2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 东方美穗子                               |
 | Region          | 中国大陆                               |

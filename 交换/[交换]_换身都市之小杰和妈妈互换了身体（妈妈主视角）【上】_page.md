@@ -20,7 +20,7 @@ TXT 下载: [[交换]_换身都市之小杰和妈妈互换了身体（妈妈主�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25483 bytes                           |
 | MD5             | bbff343507f22a78c44015459555c4cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

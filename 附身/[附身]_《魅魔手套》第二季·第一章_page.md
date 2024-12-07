@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《魅魔手套》第二季·第一章.doc]([附身]_《�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 3c41cbc84044efa5cab5ed1661e3fbf9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

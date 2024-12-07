@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_『申码文重发』一个腹黑萝莉女仆和自家大�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38440 bytes                           |
 | MD5             | 549e62ed72540572061e318e5eecab57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

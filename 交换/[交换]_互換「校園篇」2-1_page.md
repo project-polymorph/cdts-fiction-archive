@@ -20,7 +20,7 @@ TXT 下载: [[交换]_互換「校園篇」2-1.docx]([交换]_互換「校園篇
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23598 bytes                           |
 | MD5             | afb5f3df3555ddc54d8bc7c63c0aaa66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Of_Fools_and_Pantyhose.docx]([变装]_Of_Fools_and_Pantyho
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 56474 bytes                           |
 | MD5             | 7727aa2e9ef471381ee8529e2d80cf66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Belladonna                               |
 | Region          | 未知                               |

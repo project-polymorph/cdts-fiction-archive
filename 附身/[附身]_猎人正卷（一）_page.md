@@ -22,7 +22,7 @@ TXT 下载: [[附身]_猎人正卷（一）.doc]([附身]_猎人正卷（一）.
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | 2c2690c89f69d185a884a655084714b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

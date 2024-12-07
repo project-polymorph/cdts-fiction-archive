@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱第二部(7混混救警察？）_[_(2).docx]([改
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19134 bytes                           |
 | MD5             | 1005b0cda3c2fdd2aedf201a2bc1aaf6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

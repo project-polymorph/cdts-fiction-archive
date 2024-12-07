@@ -20,7 +20,7 @@ TXT 下载: [[变身]_被囚禁的战士.doc]([变身]_被囚禁的战士.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 772ea1b3ad1789ffae62dc0c1f570406                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 梦幻馆                               |
 | Region          | 未知                               |

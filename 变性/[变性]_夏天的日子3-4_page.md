@@ -20,7 +20,7 @@ TXT 下载: [[变性]_夏天的日子3-4.docx]([变性]_夏天的日子3-4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34987 bytes                           |
 | MD5             | b569aac9af9dbc4a3d33f25777c3ff20                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Annie Larson                               |
 | Region          | 未知                               |

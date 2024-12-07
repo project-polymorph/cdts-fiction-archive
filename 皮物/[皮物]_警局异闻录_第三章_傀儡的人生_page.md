@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_警局异闻录_第三章_傀儡的人生.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25529 bytes                           |
 | MD5             | c4731bd4c3ef3deba06beb38bd34598a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

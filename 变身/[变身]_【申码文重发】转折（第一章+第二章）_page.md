@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申码文重发】转折（第一章+第二章）.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33894 bytes                           |
 | MD5             | 5dda180624bc939ae9e21fca94d6a16a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《我的魔头老婆》4~6.doc]([其他]_《我的魔头�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 8b80a0ac671d4d6d82907607c0fe36f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

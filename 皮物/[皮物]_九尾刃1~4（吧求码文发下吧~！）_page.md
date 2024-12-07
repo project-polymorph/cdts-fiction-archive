@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_九尾刃1~4（吧求码文发下吧~！）.docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39244 bytes                           |
 | MD5             | 052f6fd81fc1cc5c2e2fbd16abea98c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

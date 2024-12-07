@@ -20,7 +20,7 @@ TXT 下载: [[改造]_聖魔邪靈第二部第一集.doc]([改造]_聖魔邪靈�
 | Format          | Microsoft Word Document                               |
 | Size            | 428032 bytes                           |
 | MD5             | 21a71ebfff0945e222c8d70016db5a4a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 白纸& e7 I5 O0 G5 s                               |
 | Region          | 未知                               |

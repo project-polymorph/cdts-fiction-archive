@@ -20,7 +20,7 @@ TXT 下载: [[附身]_缠魂米四.doc]([附身]_缠魂米四.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 97280 bytes                           |
 | MD5             | 173da9bc1ea784ac0570cfc25eb5859c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

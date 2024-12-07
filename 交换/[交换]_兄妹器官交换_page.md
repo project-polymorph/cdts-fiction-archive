@@ -20,7 +20,7 @@ TXT 下载: [[交换]_兄妹器官交换.docx]([交换]_兄妹器官交换.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17584 bytes                           |
 | MD5             | 8865bb64fdf042fbc9428ed2cc55fbcf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

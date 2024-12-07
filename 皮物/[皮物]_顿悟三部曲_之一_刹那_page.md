@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_顿悟三部曲_之一_刹那.docx]([皮物]_顿悟三部�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25983 bytes                           |
 | MD5             | 10fd470dae37508d925ab476ca53ba1c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

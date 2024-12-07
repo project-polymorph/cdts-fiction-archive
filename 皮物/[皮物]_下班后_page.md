@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_下班后.docx]([皮物]_下班后.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20126 bytes                           |
 | MD5             | a7c1f03ca3821e4b9b7daa976b84c0c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

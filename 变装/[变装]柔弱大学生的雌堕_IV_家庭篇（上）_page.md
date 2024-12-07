@@ -20,7 +20,7 @@ TXT 下载: [[变装]柔弱大学生的雌堕_IV_家庭篇（上）.doc]([变装
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | a89109b9a8c3c9ec7937d0ac2f7f77dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

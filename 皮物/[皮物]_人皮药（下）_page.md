@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_人皮药（下）.docx]([皮物]_人皮药（下）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 39421 bytes                           |
 | MD5             | 02e9ed013d4f4b683cce34a732cec653                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

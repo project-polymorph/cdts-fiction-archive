@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人体模具续.doc]([交换]_人体模具续.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 86902db012800eadfe60024a5c35ab10                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

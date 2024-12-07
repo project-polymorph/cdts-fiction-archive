@@ -20,7 +20,7 @@ TXT 下载: [[变性]_毒魔女（深山篇）.doc]([变性]_毒魔女（深山�
 | Format          | Microsoft Word Document                               |
 | Size            | 79360 bytes                           |
 | MD5             | 0d4bc2c05b4ec2614c92c36001aa75a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 荆棘鸟申码文                               |
 | Region          | 中国大陆                               |

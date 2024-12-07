@@ -20,7 +20,7 @@ TXT 下载: [[变装]_樱树下_其一.docx]([变装]_樱树下_其一.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20405 bytes                           |
 | MD5             | 1ae4c9ab30d41be8679b5ffa4e92bd7e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

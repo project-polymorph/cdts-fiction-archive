@@ -20,7 +20,7 @@ TXT 下载: [[交换]_和妈妈的不完全交换.doc]([交换]_和妈妈的不�
 | Format          | Microsoft Word Document                               |
 | Size            | 241664 bytes                           |
 | MD5             | c9e7348e8e23e116a5bf9da1a12c613a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 逍遥0                               |
 | Region          | 中国大陆                               |

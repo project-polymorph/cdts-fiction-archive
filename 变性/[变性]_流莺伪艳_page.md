@@ -20,7 +20,7 @@ TXT 下载: [[变性]_流莺伪艳.doc]([变性]_流莺伪艳.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 411136 bytes                           |
 | MD5             | 43dadadff718966c3d98cf78d8ab5f5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_申码文重发_女装骑士依格.docx]([变装]_申码�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 77411 bytes                           |
 | MD5             | 27c1a471b402761164b8279914dab6b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

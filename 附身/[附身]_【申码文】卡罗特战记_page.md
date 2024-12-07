@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码文】卡罗特战记.doc]([附身]_【申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 0bbb38d95357a960cefe04595f3769c4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

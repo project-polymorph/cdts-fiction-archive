@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Integration_1-3.docx]([变装]_Integration_1-3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72662 bytes                           |
 | MD5             | b21cc37befce904be59dd0084892093f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Pindick                               |
 | Region          | 未知                               |

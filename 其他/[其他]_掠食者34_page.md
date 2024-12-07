@@ -20,7 +20,7 @@ TXT 下载: [[其他]_掠食者34.doc]([其他]_掠食者34.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 4818f78839f4b02bb739eab339727aad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

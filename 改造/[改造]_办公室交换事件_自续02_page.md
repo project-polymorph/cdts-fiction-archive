@@ -20,7 +20,7 @@ TXT 下载: [[改造]_办公室交换事件_自续02.docx]([改造]_办公室交
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17788 bytes                           |
 | MD5             | 9dace1f6d85ace773054c22fc7be1dc8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

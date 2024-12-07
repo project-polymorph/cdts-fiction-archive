@@ -20,7 +20,7 @@ TXT 下载: [[变身]_衣服（八）.doc]([变身]_衣服（八）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 83456 bytes                           |
 | MD5             | 0f8bbaea53d0ae5aab93debab368fb8f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

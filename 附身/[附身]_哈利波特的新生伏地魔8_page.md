@@ -20,7 +20,7 @@ TXT 下载: [[附身]_哈利波特的新生伏地魔8.docx]([附身]_哈利波�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25402 bytes                           |
 | MD5             | deab71c735c8d32a02efc47cb130aa93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

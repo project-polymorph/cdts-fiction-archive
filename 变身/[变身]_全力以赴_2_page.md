@@ -20,7 +20,7 @@ TXT 下载: [[变身]_全力以赴_2.docx]([变身]_全力以赴_2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 54742 bytes                           |
 | MD5             | 33d249321d33a3d95bf4f467cec88295                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

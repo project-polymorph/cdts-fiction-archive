@@ -20,7 +20,7 @@ TXT 下载: [[交换]_把戲1-6.docx]([交换]_把戲1-6.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41472 bytes                           |
 | MD5             | 0f075c1b6bf5a2dae4ee6a05f3ad3a52                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Kayooger                               |
 | Region          | 未知                               |

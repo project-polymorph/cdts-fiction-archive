@@ -20,7 +20,7 @@ TXT 下载: [[变装]_性别逆转的世界：我的第一次约会.doc]([变装
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | 646e7d0542d95d4e134e77aa9e64e986                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sonnyjimjr                               |
 | Region          | 未知                               |

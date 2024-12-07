@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《关于我和恶魔大小姐的日常》3.docx]([附身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31976 bytes                           |
 | MD5             | 08cf6b6f355e561aea8c84b30984e148                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

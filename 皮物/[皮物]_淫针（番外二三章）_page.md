@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_淫针（番外二三章）.docx]([皮物]_淫针（番外
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27023 bytes                           |
 | MD5             | 2f87a76c7b86b47a5e7cf218ec812068                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

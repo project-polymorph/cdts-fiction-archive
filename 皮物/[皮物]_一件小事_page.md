@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_一件小事.docx]([皮物]_一件小事.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23570 bytes                           |
 | MD5             | f2f31fad1e3c1867fdc04912a2d13dbd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

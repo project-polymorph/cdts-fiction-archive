@@ -20,7 +20,7 @@ TXT 下载: [[改造]_淫月蚀心.doc]([改造]_淫月蚀心.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 68608 bytes                           |
 | MD5             | ebb2f9065468f9718f71d46d9d70ae4a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

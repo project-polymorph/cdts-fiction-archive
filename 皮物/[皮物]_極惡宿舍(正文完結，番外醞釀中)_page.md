@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_極惡宿舍(正文完結，番外醞釀中).docx]([皮物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 59647 bytes                           |
 | MD5             | 4e853bce7b020a78912216d6186e238d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

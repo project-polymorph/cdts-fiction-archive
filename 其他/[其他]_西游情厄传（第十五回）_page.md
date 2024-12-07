@@ -20,7 +20,7 @@ TXT 下载: [[其他]_西游情厄传（第十五回）.docx]([其他]_西游情
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21228 bytes                           |
 | MD5             | 0933b30a7f9c01260dcaa6b88f1ad222                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

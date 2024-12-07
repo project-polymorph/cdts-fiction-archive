@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第十章.doc]([变性]_《蒹葭录》第�
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | 97e92a58a13cd60c6228f8f077c6c912                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

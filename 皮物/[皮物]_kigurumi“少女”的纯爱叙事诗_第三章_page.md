@@ -24,7 +24,7 @@ TXT 下载: [[皮物]_kigurumi“少女”的纯爱叙事诗_第三章.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40851 bytes                           |
 | MD5             | 5f2ddc69a17cb63d7871cee0eb35a48b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

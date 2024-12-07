@@ -20,7 +20,7 @@ TXT 下载: [[改造]_十三号协议（更新ing）.doc]([改造]_十三号协�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 378b387f41890b83091585e2166b886e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

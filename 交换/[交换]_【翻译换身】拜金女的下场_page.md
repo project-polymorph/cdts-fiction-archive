@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【翻译换身】拜金女的下场.doc]([交换]_【翻�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 64672fec84ca23d3dbb110842e99bb03                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Morpheus（原作者），露娜·埃葵斯（译者）                               |
 | Region          | 未知                               |

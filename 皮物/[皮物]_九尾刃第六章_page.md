@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_九尾刃第六章.docx]([皮物]_九尾刃第六章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19281 bytes                           |
 | MD5             | 08856f2db9a09a5575767051586302ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

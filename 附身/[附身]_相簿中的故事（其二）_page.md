@@ -20,7 +20,7 @@ TXT 下载: [[附身]_相簿中的故事（其二）.docx]([附身]_相簿中的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23419 bytes                           |
 | MD5             | bff9662dcbb3ba207c7c4b2676af8025                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 天天吃稀饭                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_大众情人的女友.docx]([皮物]_大众情人的女友
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31422 bytes                           |
 | MD5             | b7a94be4439a5ae862c7b95d46d890b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | dama                               |
 | Region          | 中国大陆                               |

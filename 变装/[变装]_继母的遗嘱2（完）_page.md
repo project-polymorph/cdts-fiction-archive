@@ -20,7 +20,7 @@ TXT 下载: [[变装]_继母的遗嘱2（完）.doc]([变装]_继母的遗嘱2�
 | Format          | Microsoft Word Document                               |
 | Size            | 72704 bytes                           |
 | MD5             | 7c0e5ac886a52594627d02a4bb16ec3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

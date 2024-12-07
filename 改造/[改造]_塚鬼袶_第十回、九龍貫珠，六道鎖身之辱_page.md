@@ -20,7 +20,7 @@ TXT 下载: [[改造]_塚鬼袶_第十回、九龍貫珠，六道鎖身之辱.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28946 bytes                           |
 | MD5             | f76fd9e4c822ca97bb9dafadfeb1cfbf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

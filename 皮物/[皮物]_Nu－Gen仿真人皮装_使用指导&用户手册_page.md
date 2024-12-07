@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Nu－Gen仿真人皮装_使用指导&用户手册.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18797 bytes                           |
 | MD5             | 7697e0aabb29ad5474038690327e873d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 寒蝉                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_爱与家庭（前+中）.doc]([皮物]_爱与家庭（前
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 5f10825a288cab5401d2290effe78270                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

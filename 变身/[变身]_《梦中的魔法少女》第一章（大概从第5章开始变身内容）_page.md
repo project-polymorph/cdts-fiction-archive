@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第一章（大概从第5章开
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | fc45914f782034e562c2d9b05f1bc35a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

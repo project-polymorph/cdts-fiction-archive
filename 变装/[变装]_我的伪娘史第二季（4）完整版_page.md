@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我的伪娘史第二季（4）完整版.docx]([变装]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17494 bytes                           |
 | MD5             | d7f3d596bb601efc32efca9648896606                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

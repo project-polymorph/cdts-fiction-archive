@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_第五章_怪人的推理_(下)_(解答篇).docx]([皮物]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21981 bytes                           |
 | MD5             | c11c0c00a2d23ca8502640b9a89f9088                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

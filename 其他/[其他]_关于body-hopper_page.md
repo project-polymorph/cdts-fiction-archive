@@ -20,7 +20,7 @@ TXT 下载: [[其他]_关于body-hopper.docx]([其他]_关于body-hopper.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19124 bytes                           |
 | MD5             | 710b2b5b0ee5544e692712e746a1ae8e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Mister A, 翻译：Dark Angel                               |
 | Region          | 未知                               |

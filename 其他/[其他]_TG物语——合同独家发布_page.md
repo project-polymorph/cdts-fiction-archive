@@ -20,7 +20,7 @@ TXT 下载: [[其他]_TG物语——合同独家发布.doc]([其他]_TG物语—
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | c7994d02c2558d7844dbc93ab3bf193a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

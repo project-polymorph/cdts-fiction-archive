@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_Mady_Katt_suit.docx]([皮物]_Mady_Katt_suit.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26136 bytes                           |
 | MD5             | 9c289b9aac4882651b01c466e457c32c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

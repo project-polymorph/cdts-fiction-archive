@@ -20,7 +20,7 @@ TXT 下载: [[变身]_超人女孩（4）.docx]([变身]_超人女孩（4）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21536 bytes                           |
 | MD5             | fba9e36452fdb0429f05f07f16a5fafb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮物游戏_BY_TIRA.doc]([皮物]_皮物游戏_BY_TIRA.do
 | Format          | Microsoft Word Document                               |
 | Size            | 89088 bytes                           |
 | MD5             | e66040b088370bd4432f83d7c97af6a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TIRA                               |
 | Region          | 未知                               |

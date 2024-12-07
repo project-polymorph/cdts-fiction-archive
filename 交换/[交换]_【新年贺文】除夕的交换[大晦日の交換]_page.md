@@ -20,7 +20,7 @@ TXT 下载: [[交换]_【新年贺文】除夕的交换[大晦日の交換].doc]
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | 424d74d9f8428129e1f5ee4d7785db51                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 無名                               |
 | Region          | 日本                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_李沐权第二部《李家大院》第一集灭绝师太�
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | 07fbd5278985cb9fa0736827cf50a6d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 李沐权                               |
 | Region          | 中国大陆                               |

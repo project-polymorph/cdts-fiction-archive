@@ -20,7 +20,7 @@ TXT 下载: [[改造]_朋友的故事（短篇）.docx]([改造]_朋友的故事
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22152 bytes                           |
 | MD5             | e8044f4dcd5517a0ad8b1406d1b475b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

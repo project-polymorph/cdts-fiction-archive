@@ -20,7 +20,7 @@ TXT 下载: [[变装]_睁大你的眼睛.doc]([变装]_睁大你的眼睛.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 111104 bytes                           |
 | MD5             | 4e0dd99e10530ad8356e1ba14372dd77                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | CDBOOK翻译小队                               |
 | Region          | 未知                               |

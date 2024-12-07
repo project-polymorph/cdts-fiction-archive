@@ -22,7 +22,7 @@ TXT 下载: [[变身]_第三个故事（1）.docx]([变身]_第三个故事（1�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18504 bytes                           |
 | MD5             | 3d7c59bdd1bc9ab782435e6e19fa1665                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

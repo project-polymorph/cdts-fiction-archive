@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【日文翻译】某对TS夫妇的回忆录之6.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20545 bytes                           |
 | MD5             | 1bf5da71a5d4ba0acb4ceaa7517f855f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

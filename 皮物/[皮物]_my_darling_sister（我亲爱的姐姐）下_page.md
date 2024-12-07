@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_my_darling_sister（我亲爱的姐姐）下.docx]([皮物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28469 bytes                           |
 | MD5             | 8190432169e368a1dc7535cb2b8ff91a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

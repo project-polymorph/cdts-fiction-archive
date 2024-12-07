@@ -20,7 +20,7 @@ TXT 下载: [[附身]_人蟲_序.docx]([附身]_人蟲_序.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17221 bytes                           |
 | MD5             | 54a9bf4f7763a5ad6080b64a5552c44b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

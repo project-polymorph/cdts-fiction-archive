@@ -20,7 +20,7 @@ TXT 下载: [暗月杀机之幻灭.doc](暗月杀机之幻灭.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 23c36630da9da593e66c5c67b03a8f68                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

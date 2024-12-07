@@ -20,7 +20,7 @@ TXT 下载: [[改造]_允許做任何事Allowed_to_do_Anything.docx]([改造]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34918 bytes                           |
 | MD5             | 5a997e9588f439051e6a46313b87bcd6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

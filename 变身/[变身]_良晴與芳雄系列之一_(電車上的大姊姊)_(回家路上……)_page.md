@@ -20,7 +20,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_(電車上的大姊姊)_(回�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26712 bytes                           |
 | MD5             | b240a1aaef560770260c0d93e28e3c0b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Tira                               |
 | Region          | 未知                               |

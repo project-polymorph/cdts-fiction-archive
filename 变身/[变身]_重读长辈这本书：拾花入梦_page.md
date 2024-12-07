@@ -20,7 +20,7 @@ TXT 下载: [[变身]_重读长辈这本书：拾花入梦.doc]([变身]_重读�
 | Format          | Microsoft Word Document                               |
 | Size            | 29696 bytes                           |
 | MD5             | cb1a06de199cf672ad0582d53abf934b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 皮师                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_长生论：第一章.docx]([交换]_长生论：第一章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21522 bytes                           |
 | MD5             | e08018526a9dcd1edb3e6aa478586e5f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

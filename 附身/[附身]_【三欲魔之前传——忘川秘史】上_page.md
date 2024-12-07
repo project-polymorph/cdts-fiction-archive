@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【三欲魔之前传——忘川秘史】上.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | ec80888b125fbf80efdeb2c124b04e7e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_众生相_第二章（第一章在征文里，要看的麻
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21981 bytes                           |
 | MD5             | 0d2bbbb6f8a781b3151462ab5f952bba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 龙猫                               |
 | Region          | 中国大陆                               |

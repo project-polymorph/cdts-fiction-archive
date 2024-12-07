@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_肖恩的周末.doc]([皮物]_肖恩的周末.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | df75923d552802d795f096d956269953                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lissa (译者：bobby456)                               |
 | Region          | 未知                               |

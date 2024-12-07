@@ -20,7 +20,7 @@ TXT 下载: [[附身]_移魂录（第一季）.docx]([附身]_移魂录（第一
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 91872 bytes                           |
 | MD5             | dda9ac9c3e90231dc2bacc7fb93d1067                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

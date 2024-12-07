@@ -22,7 +22,7 @@ TXT 下载: [[改造]_《夫尊天下》第17章绿林好汉变女仆（1）.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 2b316554b35ccf67604258c94a97d1bb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

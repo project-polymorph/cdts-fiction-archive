@@ -20,7 +20,7 @@ TXT 下载: [[其他]_恐怖微信群_第三章.docx]([其他]_恐怖微信群_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21947 bytes                           |
 | MD5             | 0cfba8a80a2cfabad4575b7e41f4a8e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_危险的“公司”事务.docx]([变性]_危险的“公
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 60898 bytes                           |
 | MD5             | 326c230986e99398d036a9db305bc1f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rachael Free                               |
 | Region          | 未知                               |

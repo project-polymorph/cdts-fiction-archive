@@ -20,7 +20,7 @@ TXT 下载: [[其他]_怪奇博士系列‧序_[.docx]([其他]_怪奇博士系�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 12655 bytes                           |
 | MD5             | 102e01cd7f5186e057c47093169da8f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_人生交换之财富与地位_1.docx]([变装]_人生交�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34621 bytes                           |
 | MD5             | 68244615ae06503cdb81431761098247                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

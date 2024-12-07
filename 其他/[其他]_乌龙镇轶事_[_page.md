@@ -20,7 +20,7 @@ TXT 下载: [[其他]_乌龙镇轶事_[.docx]([其他]_乌龙镇轶事_[.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16326 bytes                           |
 | MD5             | 23c82994ec8e5baeba5cbd8a27fda92b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 未知                               |

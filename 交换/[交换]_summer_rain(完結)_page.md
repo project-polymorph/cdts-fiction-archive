@@ -20,7 +20,7 @@ TXT 下载: [[交换]_summer_rain(完結).docx]([交换]_summer_rain(完結).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 48382 bytes                           |
 | MD5             | 0398b6c26a2ecad6ba466cebed842c50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Carolyn Collins                               |
 | Region          | 未知                               |

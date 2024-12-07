@@ -20,7 +20,7 @@ TXT 下载: [[改造]_人鱼妻养成记第五章.doc]([改造]_人鱼妻养成�
 | Format          | Microsoft Word Document                               |
 | Size            | 38400 bytes                           |
 | MD5             | 9cd4d9b9f572a0c62b9a13d21ece4f93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

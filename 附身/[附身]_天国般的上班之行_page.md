@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天国般的上班之行.docx]([附身]_天国般的上班
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28889 bytes                           |
 | MD5             | 3c7a8040c53ca459dd2338effac5d350                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ecvt                               |
 | Region          | 未知                               |

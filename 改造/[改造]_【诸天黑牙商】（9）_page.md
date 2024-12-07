@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【诸天黑牙商】（9）.doc]([改造]_【诸天黑牙
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 37acf48f366ab84ef4f5daae61a4faf2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

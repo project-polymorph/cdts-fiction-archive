@@ -20,7 +20,7 @@ TXT 下载: [[其他]_迷失2：迷失都市（更新至54章）.doc]([其他]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 116224 bytes                           |
 | MD5             | fd153c60de8eefe6fb62580ebd57ff05                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

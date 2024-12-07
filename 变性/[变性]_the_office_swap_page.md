@@ -20,7 +20,7 @@ TXT 下载: [[变性]_the_office_swap.docx]([变性]_the_office_swap.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42627 bytes                           |
 | MD5             | 5a23650354be07f09efcb59242907bbd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

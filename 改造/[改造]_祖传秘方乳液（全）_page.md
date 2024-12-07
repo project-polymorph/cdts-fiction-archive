@@ -20,7 +20,7 @@ TXT 下载: [[改造]_祖传秘方乳液（全）.doc]([改造]_祖传秘方乳�
 | Format          | Microsoft Word Document                               |
 | Size            | 76288 bytes                           |
 | MD5             | 448c72737f6a425f6bbb7c65a3a03fe6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 竹竹                               |
 | Region          | 中国大陆                               |

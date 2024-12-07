@@ -20,7 +20,7 @@ TXT 下载: [[交换]_集体交换事件4个月后，原男现女的发小们的
 | Format          | Microsoft Word Document                               |
 | Size            | 51200 bytes                           |
 | MD5             | 9450408bc1c345734e91d4a98b401d60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

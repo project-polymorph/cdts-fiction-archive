@@ -20,7 +20,7 @@ TXT 下载: [[变身]_善惡之間.doc]([变身]_善惡之間.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 207872 bytes                           |
 | MD5             | d1049c64f9216ed6001b0c7d86f5ebcb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

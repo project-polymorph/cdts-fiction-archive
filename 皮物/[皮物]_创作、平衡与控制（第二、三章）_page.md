@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_创作、平衡与控制（第二、三章）.doc]([皮物
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 22099fcb5c73cb11044c3d1a31e13ba1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

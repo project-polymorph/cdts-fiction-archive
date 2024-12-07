@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_九尾刃第十章（第一部完结章）.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19891 bytes                           |
 | MD5             | b6fc2bc48ae2bedb54aa108f406e5b80                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

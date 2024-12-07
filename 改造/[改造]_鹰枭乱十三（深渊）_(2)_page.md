@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱十三（深渊）_(2).docx]([改造]_鹰枭乱�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26889 bytes                           |
 | MD5             | 7a4905588a7e2f407e42195da6a58d88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

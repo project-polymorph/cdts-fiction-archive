@@ -20,7 +20,7 @@ TXT 下载: [[改造]_人鱼妻养成记第七章.doc]([改造]_人鱼妻养成�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 81de1aa90215303760333c204e62da03                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

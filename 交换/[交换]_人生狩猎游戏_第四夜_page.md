@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人生狩猎游戏_第四夜.docx]([交换]_人生狩猎�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35764 bytes                           |
 | MD5             | b6e4a37e3efc28f4b605a2195b8e6375                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_破碎拼圖（二）.doc]([附身]_破碎拼圖（二）.
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | a31708ba4d776536ab990e1b2a32175c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

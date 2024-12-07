@@ -20,7 +20,7 @@ TXT 下载: [[附身]_TG物语——异体（一、二）独家发布.doc]([附�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 2b39f1ecbc95dab9f9d569f1ff114f44                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

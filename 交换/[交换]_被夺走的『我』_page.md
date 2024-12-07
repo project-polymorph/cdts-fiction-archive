@@ -20,7 +20,7 @@ TXT 下载: [[交换]_被夺走的『我』.docx]([交换]_被夺走的『我』
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19325 bytes                           |
 | MD5             | 300cbd3a9c0fcea853d15772b8fe3c32                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | テルミナ                               |
 | Region          | 未知                               |

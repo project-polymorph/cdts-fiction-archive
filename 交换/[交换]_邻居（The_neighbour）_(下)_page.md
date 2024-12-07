@@ -20,7 +20,7 @@ TXT 下载: [[交换]_邻居（The_neighbour）_(下).docx]([交换]_邻居（Th
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29249 bytes                           |
 | MD5             | 210e47aa901760c6d63d4c0be7ed3ca3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Joeanne / Dark Angel                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译_变装】着吾妻之衣（1_2）.doc]([变装]_
 | Format          | Microsoft Word Document                               |
 | Size            | 65024 bytes                           |
 | MD5             | d9c79755c8c9e6e0a27014fff883bf15                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

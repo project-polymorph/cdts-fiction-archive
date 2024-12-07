@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[皮物]皮术士，16，阴影.doc]([皮物]_[皮物]皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | cc74d405acbf8bb48a7314f53c1c33cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | subhermits                               |
 | Region          | 未知                               |

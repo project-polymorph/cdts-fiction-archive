@@ -20,7 +20,7 @@ TXT 下载: [[其他]_黑暗籠罩-1.docx]([其他]_黑暗籠罩-1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27790 bytes                           |
 | MD5             | 4951f27435c4f9ca5287d3e03129f8d5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

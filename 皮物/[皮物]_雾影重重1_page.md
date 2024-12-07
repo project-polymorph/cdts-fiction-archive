@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_雾影重重1.docx]([皮物]_雾影重重1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21040 bytes                           |
 | MD5             | 5ebee820169a0d99ecf5c87c543cabe3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_短篇集其一：魔界角鬥.docx]([交换]_短篇集其
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17222 bytes                           |
 | MD5             | efe3ba9024cfee2f0c64d5c50fe8a9c7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

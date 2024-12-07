@@ -20,7 +20,7 @@ TXT 下载: [[附身]_絲魅系列小短篇之--基.docx]([附身]_絲魅系列�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20239 bytes                           |
 | MD5             | 3e3e304026c84a39358ca1c69968b6ac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[非首發]_沒有名字_二章之三_(1~2)_微修版.doc]
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | b5e39d4b47cae9b71a3f64c789f5cd71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 九月                               |
 | Region          | 未知                               |

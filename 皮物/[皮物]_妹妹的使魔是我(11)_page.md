@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妹妹的使魔是我(11).docx]([皮物]_妹妹的使魔�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22598 bytes                           |
 | MD5             | 7b64eb3ee3b82659ea520b02805f9cde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

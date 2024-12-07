@@ -20,7 +20,7 @@ TXT 下载: [[交换]_《关于露出癖JK和体育老师换身这件事》.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51074 bytes                           |
 | MD5             | ddcb1a0b9c55320047959cd45c8adb0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ごみんと（ID：362471）                               |
 | Region          | 未知                               |

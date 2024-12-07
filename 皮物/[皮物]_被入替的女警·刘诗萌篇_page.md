@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_被入替的女警·刘诗萌篇.docx]([皮物]_被入替�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25939 bytes                           |
 | MD5             | bdff48f598958ff3dc22c36dc6c6f445                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

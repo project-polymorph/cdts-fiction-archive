@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮之使徒III】第五章！.doc]([皮物]_【皮之�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | ac7bdefd0d8971d94d57af91f0ddd7d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

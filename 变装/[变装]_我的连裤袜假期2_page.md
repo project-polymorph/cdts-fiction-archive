@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我的连裤袜假期2.doc]([变装]_我的连裤袜假期
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 9d9c9101141edc9f234fa8b3f4e2b000                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

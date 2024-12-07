@@ -20,7 +20,7 @@ TXT 下载: [[变身]_花都狐影8~9（CDBOOK首发）.docx]([变身]_花都狐
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23149 bytes                           |
 | MD5             | d0b8b2ecbcbda797ddb58f3189ac1ec1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

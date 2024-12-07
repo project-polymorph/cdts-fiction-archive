@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]药丸-02.docx]([变身]_[翻译]药丸-02.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24488 bytes                           |
 | MD5             | 41553a6e7ee50ca215090e7f4beeed53                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Karen Albright                               |
 | Region          | 未知                               |

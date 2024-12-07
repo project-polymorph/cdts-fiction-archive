@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】你是女的.doc]([变性]_【翻译】你是�
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 80545c5de440fe42573604a5b2c45197                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

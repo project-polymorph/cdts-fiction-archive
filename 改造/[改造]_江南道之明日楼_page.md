@@ -20,7 +20,7 @@ TXT 下载: [[改造]_江南道之明日楼.doc]([改造]_江南道之明日楼.
 | Format          | Microsoft Word Document                               |
 | Size            | 67584 bytes                           |
 | MD5             | 70354a6ad269f28dbfe369121139debe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

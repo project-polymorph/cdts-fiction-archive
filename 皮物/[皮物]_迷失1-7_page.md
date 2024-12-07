@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_迷失1-7.doc]([皮物]_迷失1-7.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 94208 bytes                           |
 | MD5             | b3188a7ccd2956ff35cfc627efa063c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

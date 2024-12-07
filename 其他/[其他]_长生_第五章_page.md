@@ -20,7 +20,7 @@ TXT 下载: [[其他]_长生_第五章.docx]([其他]_长生_第五章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17212 bytes                           |
 | MD5             | f498e2c33b48df7d276a37789855854b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

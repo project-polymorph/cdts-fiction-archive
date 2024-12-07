@@ -20,7 +20,7 @@ TXT 下载: [[变装]_戲言01－公主.docx]([变装]_戲言01－公主.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52446 bytes                           |
 | MD5             | b7dbd91715573c0b63b93a3e3c153dbb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】My_Vagina.doc]([变性]_【翻译】My_Vagina.
 | Format          | Microsoft Word Document                               |
 | Size            | 86528 bytes                           |
 | MD5             | c0e295b279bb888a5f5248ed1343eb6a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cassandra Morgan                               |
 | Region          | 未知                               |

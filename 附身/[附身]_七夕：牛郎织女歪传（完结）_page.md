@@ -20,7 +20,7 @@ TXT 下载: [[附身]_七夕：牛郎织女歪传（完结）.docx]([附身]_七
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28989 bytes                           |
 | MD5             | 25d4e048d401fc7643ecb31d1a9326e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

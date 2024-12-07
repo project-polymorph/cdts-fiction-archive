@@ -20,7 +20,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](12).docx]([改造]_永
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36822 bytes                           |
 | MD5             | 85655c4d107917fbc1f2f677e0cdd0ce                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

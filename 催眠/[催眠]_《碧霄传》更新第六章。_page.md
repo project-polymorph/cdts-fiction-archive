@@ -20,7 +20,7 @@ TXT 下载: [[催眠]_《碧霄传》更新第六章。.doc]([催眠]_《碧霄�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | fde4baede4dbe7e73b80e3066b8ad4c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

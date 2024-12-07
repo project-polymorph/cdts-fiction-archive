@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我和博导的故事（第一章）.doc]([皮物]_我和�
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | b9603c2bb3861a52aca1cf75e21fdc12                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

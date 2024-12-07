@@ -20,7 +20,7 @@ TXT 下载: [[变身]_男子高中生變成了魔法少女（9-10）.doc]([变�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | b355c187802ae0a6c696a89170d70732                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 7037794（P站ID）                               |
 | Region          | 未知                               |

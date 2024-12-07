@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_迷人的太太.docx]([皮物]_迷人的太太.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22999 bytes                           |
 | MD5             | 285a1285268b5219b31ac08d3a04a498                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

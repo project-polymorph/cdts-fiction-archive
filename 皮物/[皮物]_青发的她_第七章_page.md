@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_青发的她_第七章.docx]([皮物]_青发的她_第七�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26301 bytes                           |
 | MD5             | 7a5fac5489afdaf54887095d9bede5f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

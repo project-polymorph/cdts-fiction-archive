@@ -20,7 +20,7 @@ TXT 下载: [[其他]_神秘家族之二初入校园1.docx]([其他]_神秘家�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20143 bytes                           |
 | MD5             | 396a8e26a09f7da0498c13b7496a9cd5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

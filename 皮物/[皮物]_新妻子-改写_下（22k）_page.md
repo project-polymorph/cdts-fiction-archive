@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新妻子-改写_下（22k）.doc]([皮物]_新妻子-改�
 | Format          | Microsoft Word Document                               |
 | Size            | 91136 bytes                           |
 | MD5             | dcf9b9fa8ede770fe6421a6413d5737d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

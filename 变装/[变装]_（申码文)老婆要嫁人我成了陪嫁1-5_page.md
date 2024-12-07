@@ -20,7 +20,7 @@ TXT 下载: [[变装]_（申码文)老婆要嫁人我成了陪嫁1-5.docx]([变�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50443 bytes                           |
 | MD5             | 3bfffd331f590f5b23b61059745876c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

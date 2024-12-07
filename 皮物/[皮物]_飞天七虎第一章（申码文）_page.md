@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_飞天七虎第一章（申码文）.docx]([皮物]_飞天
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 74268 bytes                           |
 | MD5             | ade8f441320cc48dca375f15c1da50fc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

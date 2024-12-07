@@ -20,7 +20,7 @@ TXT 下载: [[变身]_为这美丽的末世献上福利（第七章，回忆黑�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 72232 bytes                           |
 | MD5             | 969a4cf3a891d5cab7ad515670ca9104                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 硕鼠硕鼠                               |
 | Region          | 未知                               |

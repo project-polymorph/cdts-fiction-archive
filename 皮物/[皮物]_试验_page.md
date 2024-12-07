@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_试验.docx]([皮物]_试验.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17582 bytes                           |
 | MD5             | ec3043ea6b09ece76d2b4f38a9a98975                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

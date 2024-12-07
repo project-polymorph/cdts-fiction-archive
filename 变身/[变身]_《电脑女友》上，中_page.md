@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《电脑女友》上，中.doc]([变身]_《电脑女友�
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 59b41c2e006801acf78687620214e291                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

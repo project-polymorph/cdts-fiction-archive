@@ -22,7 +22,7 @@ TXT 下载: [[交换]_安裝女僕機器人.docx]([交换]_安裝女僕機器人
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36612 bytes                           |
 | MD5             | 8adc9023ffa22a6efa4a81f6a7e213f1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 旦那@danna_story                               |
 | Region          | 未知                               |

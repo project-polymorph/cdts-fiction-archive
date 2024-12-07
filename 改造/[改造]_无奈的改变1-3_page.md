@@ -20,7 +20,7 @@ TXT 下载: [[改造]_无奈的改变1-3.doc]([改造]_无奈的改变1-3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | ed2f2b748a800e8306bed212aa78f48c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_公寓！公寓！公寓！(第一章_1、2话).docx]([交
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22574 bytes                           |
 | MD5             | f1ca89d39472377fc401bf734d64cc81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | らいらっく                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_A_Reward_of_Wishes_3上.docx]([变身]_A_Reward_of_Wishes_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29201 bytes                           |
 | MD5             | 5875ffaa1f02d086b744361c4aee9119                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【重译】好朋友.doc]([变性]_【重译】好朋友.
 | Format          | Microsoft Word Document                               |
 | Size            | 88576 bytes                           |
 | MD5             | ebda0f6941309037a2f33563102f8654                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

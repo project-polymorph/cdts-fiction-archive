@@ -20,7 +20,7 @@ TXT 下载: [[其他]_天使的救赎_Ch14.doc]([其他]_天使的救赎_Ch14.do
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 64a60270e70077cfa6e02b9e99004a0b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

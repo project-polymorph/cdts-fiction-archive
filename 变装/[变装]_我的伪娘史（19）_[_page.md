@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我的伪娘史（19）_[.docx]([变装]_我的伪娘史�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16664 bytes                           |
 | MD5             | e51f0f0c01d4250aaff9853118aba37a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

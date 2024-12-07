@@ -20,7 +20,7 @@ TXT 下载: [[改造]_小李的沉沦_【第二章_陷入套路贷】.doc]([改�
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 356dd66efed6cffd0c2945220565fb57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

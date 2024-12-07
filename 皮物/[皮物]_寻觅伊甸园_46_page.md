@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_寻觅伊甸园_46.docx]([皮物]_寻觅伊甸园_46.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23401 bytes                           |
 | MD5             | 9e6c07234896953d28348fadf972acb2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

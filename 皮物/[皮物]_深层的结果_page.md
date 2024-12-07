@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_深层的结果.docx]([皮物]_深层的结果.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23449 bytes                           |
 | MD5             | a83811539e888f32b5fbc66bb6f4d80d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

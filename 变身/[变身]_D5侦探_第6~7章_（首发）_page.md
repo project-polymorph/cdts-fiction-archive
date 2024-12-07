@@ -20,7 +20,7 @@ TXT 下载: [[变身]_D5侦探_第6~7章_（首发）.doc]([变身]_D5侦探_第
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | f852f3e346df8c07031d7f9689d1ea6c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 中国大陆                               |

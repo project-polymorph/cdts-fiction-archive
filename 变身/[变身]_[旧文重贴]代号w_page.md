@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[旧文重贴]代号w.doc]([变身]_[旧文重贴]代号w.
 | Format          | Microsoft Word Document                               |
 | Size            | 72704 bytes                           |
 | MD5             | b5cd32fc613c7e5d09a40991c03137a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

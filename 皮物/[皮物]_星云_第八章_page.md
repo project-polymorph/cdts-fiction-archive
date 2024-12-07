@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_星云_第八章.docx]([皮物]_星云_第八章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19024 bytes                           |
 | MD5             | 431fec0524739d09ec7cf67b3118fc10                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

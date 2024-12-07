@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《古镜奇缘》7-8.docx]([皮物]_《古镜奇缘》7-8
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25217 bytes                           |
 | MD5             | 25a155bf72ea44dcbf8f50b9a6800e76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

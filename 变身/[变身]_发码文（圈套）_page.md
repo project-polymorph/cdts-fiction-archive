@@ -20,7 +20,7 @@ TXT 下载: [[变身]_发码文（圈套）.docx]([变身]_发码文（圈套）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32276 bytes                           |
 | MD5             | 1752082b39e83c305d5c27718a8e5ea0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

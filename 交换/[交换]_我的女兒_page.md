@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我的女兒.docx]([交换]_我的女兒.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41999 bytes                           |
 | MD5             | 272b12f0674bb0b4f4858340ebd91f88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Heather St. Claire                               |
 | Region          | 未知                               |

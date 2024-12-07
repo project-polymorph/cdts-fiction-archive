@@ -20,7 +20,7 @@ TXT 下载: [[改造]_毒魔女（城市篇）（第一，二章）.doc]([改造
 | Format          | Microsoft Word Document                               |
 | Size            | 71680 bytes                           |
 | MD5             | 21953b3f816aa5765d6de555451d1bc3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

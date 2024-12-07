@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【翻译小说】律师助理.docx]([变装]_【翻译小
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42815 bytes                           |
 | MD5             | 463a012e44e5574082f0d0d95e98aacb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Belladonna                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_破茧的黑之翼3.doc]([皮物]_破茧的黑之翼3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 2584daefa8310d1a91b577294f707305                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

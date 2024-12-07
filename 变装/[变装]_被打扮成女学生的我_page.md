@@ -20,7 +20,7 @@ TXT 下载: [[变装]_被打扮成女学生的我.doc]([变装]_被打扮成女�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 28960f09dc0ad9ef1e3c97cf297f31f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | didiwillis                               |
 | Region          | 未知                               |

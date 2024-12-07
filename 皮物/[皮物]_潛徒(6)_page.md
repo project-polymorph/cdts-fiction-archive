@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_潛徒(6).docx]([皮物]_潛徒(6).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22465 bytes                           |
 | MD5             | f1fd71e82ef94c1ddfd013adcac2d74d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

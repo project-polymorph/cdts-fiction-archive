@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身之穿越阿朱_（一至四章）.doc]([变身]_变
 | Format          | Microsoft Word Document                               |
 | Size            | 71168 bytes                           |
 | MD5             | ca4cf69f0a5ec543c0116addd813a121                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 屎坨子                               |
 | Region          | 未知                               |

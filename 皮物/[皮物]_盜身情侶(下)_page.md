@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_盜身情侶(下).docx]([皮物]_盜身情侶(下).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20162 bytes                           |
 | MD5             | cc45bfde67487ade957559eb9f6f5249                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_复仇.doc]([皮物]_复仇.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 131deda9ce56493eda0421dc72b94205                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

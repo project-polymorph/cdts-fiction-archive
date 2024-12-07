@@ -20,7 +20,7 @@ TXT 下载: [[附身]_拿什么拯救你，我的爱人（二）.doc]([附身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 0ee6dd52c2195387b6ba46cebb3a51a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

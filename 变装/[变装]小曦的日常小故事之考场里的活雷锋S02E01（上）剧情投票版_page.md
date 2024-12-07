@@ -20,7 +20,7 @@ TXT 下载: [[变装]小曦的日常小故事之考场里的活雷锋S02E01（�
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | 8dd337eb7d844ea5cf038541d60ca14a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

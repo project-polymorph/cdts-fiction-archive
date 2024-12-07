@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_众生相_第三章_吐血赶稿。。。.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21220 bytes                           |
 | MD5             | 1ebf836fa87e0ff8f450e081f381df24                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

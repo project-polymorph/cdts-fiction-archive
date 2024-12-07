@@ -20,7 +20,7 @@ TXT 下载: [[变性]_论坛传说之胶衣.docx]([变性]_论坛传说之胶衣
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17809 bytes                           |
 | MD5             | 0c4a039ce42089fe1264669291f3bc68                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 重口味女王                               |
 | Region          | 未知                               |

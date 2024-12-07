@@ -20,7 +20,7 @@ TXT 下载: [[改造]_小莎莉(二)_(2).docx]([改造]_小莎莉(二)_(2).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27937 bytes                           |
 | MD5             | d40fea5c63ee00488b6dd696d7157a98                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | serifuta                               |
 | Region          | 未知                               |

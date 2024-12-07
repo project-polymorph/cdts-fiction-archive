@@ -20,7 +20,7 @@ TXT 下载: [[改造]_人鱼妻养成记第一章.doc]([改造]_人鱼妻养成�
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 0800e3d9e734a73b4405c48b133f4d84                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

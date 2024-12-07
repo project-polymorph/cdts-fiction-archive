@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申请上浮】三十岁,再就业,转职.docx]([变身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23038 bytes                           |
 | MD5             | f2fbf1e202320790a5480c42a7434883                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

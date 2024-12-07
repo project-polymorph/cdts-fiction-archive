@@ -20,7 +20,7 @@ TXT 下载: [[附身]_天地传说之圣眼_十四_收集愿力.doc]([附身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | b1bae09244209cdc03255640a0ac3d4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

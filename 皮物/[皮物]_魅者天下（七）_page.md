@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_魅者天下（七）.docx]([皮物]_魅者天下（七）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25643 bytes                           |
 | MD5             | 146f7446abdd6cf3b9db714ae2bd72d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

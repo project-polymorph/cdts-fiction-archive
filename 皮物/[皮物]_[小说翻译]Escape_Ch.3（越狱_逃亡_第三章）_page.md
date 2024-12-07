@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[小说翻译]Escape_Ch.3（越狱_逃亡_第三章）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 61754 bytes                           |
 | MD5             | 140a269ba943e09828a63073eb7e0237                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sammig82                               |
 | Region          | 未知                               |

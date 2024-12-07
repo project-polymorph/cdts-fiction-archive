@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】新的真实.doc]([变性]_【翻译】新的�
 | Format          | Microsoft Word Document                               |
 | Size            | 92160 bytes                           |
 | MD5             | 5db9dec2d47850962adbe3848aafc89e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Karen Elizabeth L.                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十二、云破月来.doc
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 1b1d063fb2f621ccfe4b39b773296ef4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

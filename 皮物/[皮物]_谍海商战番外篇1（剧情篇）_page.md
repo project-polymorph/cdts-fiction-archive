@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_谍海商战番外篇1（剧情篇）.docx]([皮物]_谍�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17703 bytes                           |
 | MD5             | bd3678eb916b308ff949c1a8a917024d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

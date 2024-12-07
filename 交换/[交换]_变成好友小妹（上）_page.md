@@ -20,7 +20,7 @@ TXT 下载: [[交换]_变成好友小妹（上）.doc]([交换]_变成好友小�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 2f8740bbbf3a8e44541e34dd784bd72c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

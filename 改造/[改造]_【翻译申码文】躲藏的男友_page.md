@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【翻译申码文】躲藏的男友.docx]([改造]_【翻
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58212 bytes                           |
 | MD5             | c3361b717fbffe0e9ae5da19daa03c7e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【申码文】再给我一次机会.doc]([附身]_【申�
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | 57c5d0a32579b45fcd9f6df62e984680                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_夏威夷假日_8_12.doc]([变装]_夏威夷假日_8_12.do
 | Format          | Microsoft Word Document                               |
 | Size            | 64512 bytes                           |
 | MD5             | f36f592c977bcef5d5ea7d8c1e5579af                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

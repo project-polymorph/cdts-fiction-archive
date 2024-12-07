@@ -20,7 +20,7 @@ TXT 下载: [Soul_Note—击碎幻想，扭曲而黑暗的写实故事.doc](Soul
 | Format          | Microsoft Word Document                               |
 | Size            | 104960 bytes                           |
 | MD5             | 5c82e5dafd20964b0e52fcf83283f0ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | zardbest                               |
 | Region          | 中国大陆                               |

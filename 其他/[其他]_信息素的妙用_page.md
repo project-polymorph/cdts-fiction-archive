@@ -20,7 +20,7 @@ TXT 下载: [[其他]_信息素的妙用.doc]([其他]_信息素的妙用.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 5afc7fbe1fae0bc3697b4c3699568248                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Angela Rasch                               |
 | Region          | 未知                               |

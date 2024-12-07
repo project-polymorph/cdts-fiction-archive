@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_丝模的诱惑.docx]([皮物]_丝模的诱惑.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17290 bytes                           |
 | MD5             | 0133810810ae5f43eb847b1feacd625a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

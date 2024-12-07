@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_葬礼背后的故事（下）结局已发，原帖更新.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23041 bytes                           |
 | MD5             | 23fadecdd84df2d79e520336dde21514                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

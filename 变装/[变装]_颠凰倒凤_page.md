@@ -21,7 +21,7 @@ TXT 下载: [[变装]_颠凰倒凤.doc]([变装]_颠凰倒凤.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | bd7f9cacf7a9ca97e2c183f23979f909                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

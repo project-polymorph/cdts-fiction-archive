@@ -20,7 +20,7 @@ TXT 下载: [[附身]_损友的奇葩超能力（六）.docx]([附身]_损友的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23968 bytes                           |
 | MD5             | 8d5f27138725aab9b827ca81e66e981d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_温莎酒店的娘娘腔女仆_1.docx]([变性]_温莎酒�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28896 bytes                           |
 | MD5             | 26e08ae4e3c6e07b5ced39dc95e541a1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Cassandra Morgan                               |
 | Region          | 未知                               |

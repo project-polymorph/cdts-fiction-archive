@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_黑萝莉会所--4小玖的意外（上）.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27272 bytes                           |
 | MD5             | d7f7c273c4f713cd8653dd395f6a913c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

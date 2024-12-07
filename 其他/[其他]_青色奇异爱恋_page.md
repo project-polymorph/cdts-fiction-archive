@@ -20,7 +20,7 @@ TXT 下载: [[其他]_青色奇异爱恋.docx]([其他]_青色奇异爱恋.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23128 bytes                           |
 | MD5             | ba04321d77648fa82bf273f24b9ee87d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

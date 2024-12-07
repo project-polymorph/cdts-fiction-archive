@@ -20,7 +20,7 @@ TXT 下载: [[变装]_Fuzzy_Slippers（译＆改）.docx]([变装]_Fuzzy_Slipper
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 70682 bytes                           |
 | MD5             | 76ae63ce46aff16dd1df2a5fc35d9d02                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | gatling1（翻译与改编）                               |
 | Region          | 未知                               |

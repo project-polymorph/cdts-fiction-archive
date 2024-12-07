@@ -20,7 +20,7 @@ TXT 下载: [[附身]_灵剑传说_4-6章.doc]([附身]_灵剑传说_4-6章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | 530db8c94bd75c6138d621b668e448eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

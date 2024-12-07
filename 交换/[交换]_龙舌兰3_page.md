@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰3.docx]([交换]_龙舌兰3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32759 bytes                           |
 | MD5             | 985bcd698e65c99bb23341ac9baefa3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

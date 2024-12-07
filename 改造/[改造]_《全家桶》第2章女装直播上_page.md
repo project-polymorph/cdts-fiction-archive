@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《全家桶》第2章女装直播上.doc]([改造]_《全
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 6d1118f88678c427660fec19f15debbc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

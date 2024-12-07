@@ -20,7 +20,7 @@ TXT 下载: [[附身]_莫甘娜的眼泪（二）.doc]([附身]_莫甘娜的眼�
 | Format          | Microsoft Word Document                               |
 | Size            | 89600 bytes                           |
 | MD5             | b75050050e26cf1ef84156850bc08d88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

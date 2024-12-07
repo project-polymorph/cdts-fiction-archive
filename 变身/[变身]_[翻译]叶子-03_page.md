@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[翻译]叶子-03.docx]([变身]_[翻译]叶子-03.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24888 bytes                           |
 | MD5             | 82afb8142b778c4fe9c431db4827cc91                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

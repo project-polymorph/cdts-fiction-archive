@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第三章~第六章》.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 77823 bytes                           |
 | MD5             | 85dfab2172ddcfc11b7b402eaa42da92                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

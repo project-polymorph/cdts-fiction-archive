@@ -20,7 +20,7 @@ TXT 下载: [[改造]_幸福的女孩5~8.doc]([改造]_幸福的女孩5~8.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | e6a776c9c5a37daa23cbb7cac1db1f98                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

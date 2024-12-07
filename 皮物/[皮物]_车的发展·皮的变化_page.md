@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_车的发展·皮的变化.doc]([皮物]_车的发展·皮
 | Format          | Microsoft Word Document                               |
 | Size            | 28160 bytes                           |
 | MD5             | 16e3174ea3090c3ba1b09c9851e02f1f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

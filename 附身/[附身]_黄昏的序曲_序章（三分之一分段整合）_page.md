@@ -7,7 +7,7 @@ TXT 下载: [[附身]_黄昏的序曲_序章（三分之一分段整合）.doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于异能者的小说序章，故事围绕一个名叫凌宇的角色展开，他在一次偶然中获得了异能，面对着家人和异能者的复杂关系。他的妹妹雨曦显现出不同寻常的行为，使得凌宇不得不在保护她的同时，处理与异能组织赤血的关系。内容中描绘了凌宇与雨曦的对话，揭示了他们之间的兄妹情感及异能带来的风险与责任。在故事中，凌宇显露出冷酷的一面，同时也体现出他对妹妹的关心与保护欲。文中包含一些晦涩的情节，例如凌宇发现妹妹在进行一些羞耻的举动，并且与异能相关的责任感交织着兄妹之间微妙的情感。整体来看，这是一部关于异能、兄妹关系与内心冲突的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_黄昏的序曲_序章（三分之一分段整合）.doc](
 | Format          | Microsoft Word Document                               |
 | Size            | 122368 bytes                           |
 | MD5             | 06e7d99d7b8dd067e0fcb9cd4d41ced9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 异能, 变身, 兄妹情, 保护者, 特殊能力, 黑暗幻想, 情感纠葛, 自我探索, 非人类组织, 秘密任务, 情感冲突, 家人关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

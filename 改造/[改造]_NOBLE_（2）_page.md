@@ -20,7 +20,7 @@ TXT 下载: [[改造]_NOBLE_（2）.docx]([改造]_NOBLE_（2）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19504 bytes                           |
 | MD5             | 24f01c3593d5464fe8e3887b14d5ddf3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

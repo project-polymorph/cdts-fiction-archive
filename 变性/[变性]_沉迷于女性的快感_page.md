@@ -20,7 +20,7 @@ TXT 下载: [[变性]_沉迷于女性的快感.doc]([变性]_沉迷于女性的�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | fc966207fc4c62943f8942c0b96042db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jennifer White                               |
 | Region          | 未知                               |

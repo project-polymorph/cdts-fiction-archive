@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【轮回空间】第7~8章.doc]([变身]_【轮回空间�
 | Format          | Microsoft Word Document                               |
 | Size            | 56320 bytes                           |
 | MD5             | 2d5ed0a0ba3d8b31dff6c43037919462                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

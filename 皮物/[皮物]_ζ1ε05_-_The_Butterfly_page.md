@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_ζ1ε05_-_The_Butterfly.docx]([皮物]_ζ1ε05_-_The_Butte
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22251 bytes                           |
 | MD5             | 158ac893b1340c7eaf891e9c1034a7be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Hazel M                               |
 | Region          | 未知                               |

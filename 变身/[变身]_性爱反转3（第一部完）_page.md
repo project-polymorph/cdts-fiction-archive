@@ -20,7 +20,7 @@ TXT 下载: [[变身]_性爱反转3（第一部完）.docx]([变身]_性爱反�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20293 bytes                           |
 | MD5             | 6768f1f61666eae5347c1ad146b63adf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

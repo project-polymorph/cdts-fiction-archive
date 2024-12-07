@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身药膏第一章_变身初始（修改版）.doc]([�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | b7cdfd45eba049bc6b8195487623f28a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

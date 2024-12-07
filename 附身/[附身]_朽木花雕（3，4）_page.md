@@ -20,7 +20,7 @@ TXT 下载: [[附身]_朽木花雕（3，4）.doc]([附身]_朽木花雕（3，4
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | dd698f5c781d11b4c1f247792a37a38f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

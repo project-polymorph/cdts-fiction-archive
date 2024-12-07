@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我的改变.doc]([变装]_我的改变.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 887aad6706a25257fa4f80b2b819f9a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | didiwillis                               |
 | Region          | 未知                               |

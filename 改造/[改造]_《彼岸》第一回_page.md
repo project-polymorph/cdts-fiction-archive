@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《彼岸》第一回.doc]([改造]_《彼岸》第一回.
 | Format          | Microsoft Word Document                               |
 | Size            | 81408 bytes                           |
 | MD5             | 3b5a8ee1577126c03d96a95cc1066163                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

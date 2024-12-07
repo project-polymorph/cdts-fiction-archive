@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_致命接觸_(下)_第一部完.doc]([皮物]_致命接觸
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 8ced438b5084060dbe4e4327bc8d202e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

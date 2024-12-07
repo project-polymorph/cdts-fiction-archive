@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第五章_超能统括委员会.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24372 bytes                           |
 | MD5             | aabf15176fbdd2d6d1fdd3a9da414674                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

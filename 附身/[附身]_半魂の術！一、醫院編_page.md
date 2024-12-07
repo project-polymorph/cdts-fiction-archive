@@ -20,7 +20,7 @@ TXT 下载: [[附身]_半魂の術！一、醫院編.docx]([附身]_半魂の術
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28992 bytes                           |
 | MD5             | 2945d7cdb0c9d7af220f4d402aabc8e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TRUE                               |
 | Region          | 未知                               |

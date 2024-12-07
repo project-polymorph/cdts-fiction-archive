@@ -20,7 +20,7 @@ TXT 下载: [[其他]_卡扎菲的秘密葬礼_18_玫瑰战争（交换、皮物
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20823 bytes                           |
 | MD5             | 845b46c7fb37d8a04327b31d3de20cca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

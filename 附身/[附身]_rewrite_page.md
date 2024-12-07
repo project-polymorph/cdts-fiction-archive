@@ -20,7 +20,7 @@ TXT 下载: [[附身]_rewrite.doc]([附身]_rewrite.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 77312 bytes                           |
 | MD5             | fe68fb28239a138d058c62de3f625094                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

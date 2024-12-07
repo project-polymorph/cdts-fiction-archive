@@ -20,7 +20,7 @@ TXT 下载: [[变装]白銀貴婦人_v2.doc]([变装]白銀貴婦人_v2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 675a3d0d45ed3ebccc2480dec338c7a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

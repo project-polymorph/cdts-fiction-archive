@@ -20,7 +20,7 @@ TXT 下载: [[改造]_DTX之转变-4.doc]([改造]_DTX之转变-4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 54784 bytes                           |
 | MD5             | 5d67f533f7913f1e4cd87d1c0e0158b0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

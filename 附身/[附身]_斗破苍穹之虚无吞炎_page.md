@@ -20,7 +20,7 @@ TXT 下载: [[附身]_斗破苍穹之虚无吞炎.doc]([附身]_斗破苍穹之�
 | Format          | Microsoft Word Document                               |
 | Size            | 73728 bytes                           |
 | MD5             | 280350337c53ce59eb468b63e8515526                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Aki秋柒                               |
 | Region          | 未知                               |

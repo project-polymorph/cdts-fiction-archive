@@ -20,7 +20,7 @@ TXT 下载: [[附身]_重生破道第一章言语惹激变白兔，皇帝围猎�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27512 bytes                           |
 | MD5             | 90200d6d51ae9498db2d3d59d2dd5fa5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

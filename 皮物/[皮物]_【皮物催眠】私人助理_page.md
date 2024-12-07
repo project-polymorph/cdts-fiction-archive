@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【皮物催眠】私人助理.doc]([皮物]_【皮物催�
 | Format          | Microsoft Word Document                               |
 | Size            | 92160 bytes                           |
 | MD5             | 4ab9a4e49eb64f2d2f6d7203221963c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_正反难辨前传（第一二章）.doc]([附身]_正反�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 704116b5d6858af3b0b45add36499b6a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

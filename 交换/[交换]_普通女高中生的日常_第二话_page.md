@@ -20,7 +20,7 @@ TXT 下载: [[交换]_普通女高中生的日常_第二话.docx]([交换]_普�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22304 bytes                           |
 | MD5             | 69fbb13be962d562c76b977bedc4e800                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

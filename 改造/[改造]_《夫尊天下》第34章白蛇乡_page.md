@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《夫尊天下》第34章白蛇乡.doc]([改造]_《夫�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 9b7bf8ac12ab7abff81c81016eb786f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

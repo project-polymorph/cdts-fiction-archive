@@ -20,7 +20,7 @@ TXT 下载: [[附身]_吞灵神体_第二章_相处.docx]([附身]_吞灵神体_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21875 bytes                           |
 | MD5             | 1dd2f5e7f1892ce18ea092f20926d1c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

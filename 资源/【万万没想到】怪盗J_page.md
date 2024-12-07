@@ -20,7 +20,7 @@ TXT 下载: [【万万没想到】怪盗J.doc](【万万没想到】怪盗J.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | f2aabc8337fbe3cd0d863eb79d17b859                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《我的魔头老婆》_第三部.doc]([其他]_《我的
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 4af00279fb5388448bbbe7939529d359                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

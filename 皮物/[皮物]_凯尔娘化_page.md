@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_凯尔娘化.doc]([皮物]_凯尔娘化.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | 550e1bfe18a4f85f4c3803781029b4a9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

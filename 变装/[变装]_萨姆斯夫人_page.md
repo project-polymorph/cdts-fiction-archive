@@ -20,7 +20,7 @@ TXT 下载: [[变装]_萨姆斯夫人.doc]([变装]_萨姆斯夫人.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 7f6d9e377abd476999d497e1164e4fd1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

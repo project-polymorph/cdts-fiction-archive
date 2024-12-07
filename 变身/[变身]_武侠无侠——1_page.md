@@ -20,7 +20,7 @@ TXT 下载: [[变身]_武侠无侠——1.docx]([变身]_武侠无侠——1.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20315 bytes                           |
 | MD5             | 49b6095682e0e226898f3407f7ecd4d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_(免费）错乱（六）（14章）.doc]([皮物]_(免费
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 166c3ed7bfef2cfc008c9ba30411c060                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

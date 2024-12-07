@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Chloe_the_Maid_1.doc]([改造]_Chloe_the_Maid_1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 76800 bytes                           |
 | MD5             | 0bcb307ae1e5933f9346000fc234a981                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_梦01-寻找少女的摄影师.docx]([变身]_梦01-寻找
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29719 bytes                           |
 | MD5             | 973d11d7dcb988cdf157d67f5eb7b54a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

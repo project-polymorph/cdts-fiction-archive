@@ -20,7 +20,7 @@ TXT 下载: [[附身]_三个人的午餐时间（上）.doc]([附身]_三个人�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 228f2b1e398397d678d1914908ca6cb4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

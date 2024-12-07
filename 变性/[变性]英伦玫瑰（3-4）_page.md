@@ -20,7 +20,7 @@ TXT 下载: [[变性]英伦玫瑰（3-4）.doc]([变性]英伦玫瑰（3-4）.do
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | ef122bc3255b9931086d8e46966c1843                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_黑暗英雄傳說_第二卷.docx]([其他]_黑暗英雄�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34568 bytes                           |
 | MD5             | 46260db1537e0fa620e734c6b7d426db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | FP                               |
 | Region          | 未知                               |

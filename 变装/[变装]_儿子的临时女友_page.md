@@ -20,7 +20,7 @@ TXT 下载: [[变装]_儿子的临时女友.doc]([变装]_儿子的临时女友.
 | Format          | Microsoft Word Document                               |
 | Size            | 159232 bytes                           |
 | MD5             | eeb7b20eab382a7e7438b8778b0708a7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

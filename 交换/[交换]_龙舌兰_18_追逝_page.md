@@ -20,7 +20,7 @@ TXT 下载: [[交换]_龙舌兰_18_追逝.docx]([交换]_龙舌兰_18_追逝.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27542 bytes                           |
 | MD5             | 492154bbdfc4739daf6d1f15d3c63e86                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | yudi（ft3020997）                               |
 | Region          | 未知                               |

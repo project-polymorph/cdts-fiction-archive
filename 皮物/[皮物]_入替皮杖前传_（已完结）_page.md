@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_入替皮杖前传_（已完结）.docx]([皮物]_入替�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 237618 bytes                           |
 | MD5             | b19168ece08b8b6cd4abb58ad9d9ef8c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能_第七章（早起码字，略短，勿怪）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18494 bytes                           |
 | MD5             | 22a6da607b6a22ba9cd2dedd5fba9444                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

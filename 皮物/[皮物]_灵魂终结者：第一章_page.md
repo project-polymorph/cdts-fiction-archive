@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_灵魂终结者：第一章.docx]([皮物]_灵魂终结者
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30185 bytes                           |
 | MD5             | c67257aa67adfbfdd6cc19bb00bb6d51                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

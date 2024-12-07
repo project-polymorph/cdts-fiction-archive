@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_邪之暗香.docx]([皮物]_邪之暗香.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29606 bytes                           |
 | MD5             | cdd4cac8608eb549365f51f6ea25691c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

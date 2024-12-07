@@ -20,7 +20,7 @@ TXT 下载: [[附身]_回家路上番外篇——去而复返（2）.doc]([附�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | d001ecd5b2cecde4b2852237f53a35d2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

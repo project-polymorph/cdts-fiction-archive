@@ -20,7 +20,7 @@ TXT 下载: [[变身]_勇者小队改造计划（序章和第一章）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29020 bytes                           |
 | MD5             | 420fc683ffef1ebcd087b35e3d34541c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

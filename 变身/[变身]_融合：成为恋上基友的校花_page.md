@@ -20,7 +20,7 @@ TXT 下载: [[变身]_融合：成为恋上基友的校花.docx]([变身]_融合
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32139 bytes                           |
 | MD5             | 610913eb1e0c3c156348973d10f72538                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

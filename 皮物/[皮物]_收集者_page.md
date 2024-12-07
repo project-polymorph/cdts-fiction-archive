@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_收集者.docx]([皮物]_收集者.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28861 bytes                           |
 | MD5             | 131466781412eaefa253379cab39db1d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

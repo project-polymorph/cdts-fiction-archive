@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】被收养的生活.docx]([变性]_【翻译】
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46818 bytes                           |
 | MD5             | 4a19df39b3a2ba0772f298ad68460f16                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Stacy Bolan                               |
 | Region          | 未知                               |

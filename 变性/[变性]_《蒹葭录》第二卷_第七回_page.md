@@ -20,7 +20,7 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第七回.doc]([变性]_《蒹葭
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | 737523af9e1b82a8e2be93b6e84c8531                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

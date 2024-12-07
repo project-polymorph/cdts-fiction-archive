@@ -20,7 +20,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第三章（主要是思路断�
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | 53a4d87b275475d46d9b568100f37c71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

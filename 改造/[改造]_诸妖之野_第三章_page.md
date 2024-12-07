@@ -20,7 +20,7 @@ TXT 下载: [[改造]_诸妖之野_第三章.docx]([改造]_诸妖之野_第三�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31104 bytes                           |
 | MD5             | 4eb64da11cc0e4438cabfa758f132d33                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_突然的变化.doc]([其他]_突然的变化.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 29184 bytes                           |
 | MD5             | 6b40235c4eec45233afb8948c304718b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

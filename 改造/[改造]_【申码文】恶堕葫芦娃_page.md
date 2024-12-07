@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【申码文】恶堕葫芦娃.doc]([改造]_【申码文�
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | ffd451dbd55e2ba4ed6d9787dcbf8d7f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

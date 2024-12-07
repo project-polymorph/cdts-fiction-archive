@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_The_Costume_Competition_-_P1&P2.docx]([皮物]_The_Costume
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32960 bytes                           |
 | MD5             | 5c86fbe073e8654faa529ddd85cc46c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | thatotherguy93                               |
 | Region          | 未知                               |

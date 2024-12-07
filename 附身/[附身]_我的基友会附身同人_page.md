@@ -20,7 +20,7 @@ TXT 下载: [[附身]_我的基友会附身同人.doc]([附身]_我的基友会�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 0a61317c99a7315f3793d34176b5634b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 九九雷姆                               |
 | Region          | 未知                               |

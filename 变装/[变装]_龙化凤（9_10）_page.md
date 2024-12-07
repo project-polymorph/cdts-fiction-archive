@@ -20,7 +20,7 @@ TXT 下载: [[变装]_龙化凤（9_10）.docx]([变装]_龙化凤（9_10）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18599 bytes                           |
 | MD5             | c2d6bc67e7f5224974a6e1dd2f25480d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

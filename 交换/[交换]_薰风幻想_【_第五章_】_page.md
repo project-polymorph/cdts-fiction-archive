@@ -20,7 +20,7 @@ TXT 下载: [[交换]_薰风幻想_【_第五章_】.docx]([交换]_薰风幻想
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28749 bytes                           |
 | MD5             | 7cd3709b4ad0afe03b8f77c515fc0221                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

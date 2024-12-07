@@ -20,7 +20,7 @@ TXT 下载: [[附身]_詭異的女郎與我.docx]([附身]_詭異的女郎與我
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18451 bytes                           |
 | MD5             | ef3701341ce080e7787823de27f63519                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | fdisguise                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_父慈子孝精灵皮.doc]([改造]_父慈子孝精灵皮.
 | Format          | Microsoft Word Document                               |
 | Size            | 63488 bytes                           |
 | MD5             | de44bd89101d196254eb66abcc7e1220                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

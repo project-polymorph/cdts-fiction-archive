@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】乳房庄园的诅咒.doc]([变性]_【翻译�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | dd9a565548ebb99340c2d357eedcca37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Paula Girl（翻译：魔之天涯）                               |
 | Region          | 未知                               |

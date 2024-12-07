@@ -20,7 +20,7 @@ TXT 下载: [[交换]_梦萱（完）.doc]([交换]_梦萱（完）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 5e45e16b327cec2b36208749c0e2f212                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

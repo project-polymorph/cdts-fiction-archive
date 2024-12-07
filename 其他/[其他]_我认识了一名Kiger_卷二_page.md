@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我认识了一名Kiger_卷二.docx]([其他]_我认识了
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23649 bytes                           |
 | MD5             | 5a98b5ac80185d75c461a60fc41781b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

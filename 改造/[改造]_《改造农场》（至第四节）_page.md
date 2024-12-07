@@ -20,7 +20,7 @@ TXT 下载: [[改造]_《改造农场》（至第四节）.doc]([改造]_《改�
 | Format          | Microsoft Word Document                               |
 | Size            | 105472 bytes                           |
 | MD5             | 272a3b39458b227c60c070249e48f11c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

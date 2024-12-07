@@ -20,7 +20,7 @@ TXT 下载: [[变装]末世（3）.doc]([变装]末世（3）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 31a92f34f9a95eb9b4cdaf075c23d908                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_无职同人_人神的复仇(申码文)_.doc]([变性]_无
 | Format          | Microsoft Word Document                               |
 | Size            | 81408 bytes                           |
 | MD5             | 9c1d49ee7234f4b575743acd026ac2d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 赫萝大尊师                               |
 | Region          | 未知                               |

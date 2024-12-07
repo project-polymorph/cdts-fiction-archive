@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【申码文重发】幻梦惊变.docx]([变性]_【申码
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36479 bytes                           |
 | MD5             | 0d60d3b669718305eb938eab2b66cdf7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

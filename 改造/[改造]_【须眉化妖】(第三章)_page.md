@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【须眉化妖】(第三章).doc]([改造]_【须眉化�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 6c1f2dd3fb96fc397019d06483d27e28                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

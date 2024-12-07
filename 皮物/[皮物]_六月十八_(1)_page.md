@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_六月十八_(1).docx]([皮物]_六月十八_(1).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22777 bytes                           |
 | MD5             | ba60b885d3f776f19010ea93a5ecbe55                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

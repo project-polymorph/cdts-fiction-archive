@@ -20,7 +20,7 @@ TXT 下载: [[变装]_危险任务10（完结）.docx]([变装]_危险任务10�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26017 bytes                           |
 | MD5             | c065b488fa83e979ed78a087ab663fe3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_-_7_落幕（完）.doc]([附身]_[�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | d1babbdf867323b240a61d0a498c4c46                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

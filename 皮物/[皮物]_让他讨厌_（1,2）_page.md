@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_让他讨厌_（1,2）.docx]([皮物]_让他讨厌_（1,2�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29665 bytes                           |
 | MD5             | 9bdbe375464ee5c9388deb78e02e8419                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

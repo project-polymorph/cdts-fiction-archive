@@ -20,7 +20,7 @@ TXT 下载: [[改造]_占有.docx]([改造]_占有.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45540 bytes                           |
 | MD5             | cbd681fba601adf03c01a53b7e906541                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

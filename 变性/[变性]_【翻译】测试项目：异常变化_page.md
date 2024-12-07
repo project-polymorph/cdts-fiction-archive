@@ -20,7 +20,7 @@ TXT 下载: [[变性]_【翻译】测试项目：异常变化.docx]([变性]_【
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32436 bytes                           |
 | MD5             | 2fa17a7b722b8716c022a2f2f4f8c057                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Guy Faux                               |
 | Region          | 未知                               |

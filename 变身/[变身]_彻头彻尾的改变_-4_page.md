@@ -22,7 +22,7 @@ TXT 下载: [[变身]_彻头彻尾的改变_-4.docx]([变身]_彻头彻尾的改
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40588 bytes                           |
 | MD5             | ba764011e20fd738f1e8369b049ce1e4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

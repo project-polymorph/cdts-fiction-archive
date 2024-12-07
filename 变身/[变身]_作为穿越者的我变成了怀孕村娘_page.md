@@ -20,7 +20,7 @@ TXT 下载: [[变身]_作为穿越者的我变成了怀孕村娘.doc]([变身]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | 457e257ff525652a0bab6d2447d3ce6b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

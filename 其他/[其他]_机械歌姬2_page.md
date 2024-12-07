@@ -20,7 +20,7 @@ TXT 下载: [[其他]_机械歌姬2.docx]([其他]_机械歌姬2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41293 bytes                           |
 | MD5             | d2f60a1966ee778c5723bc55071ffdfd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

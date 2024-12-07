@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_汉贼-相映红（上）_[.docx]([皮物]_汉贼-相映�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28556 bytes                           |
 | MD5             | b678117cb09e767928e6389f7069839b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

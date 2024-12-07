@@ -20,7 +20,7 @@ TXT 下载: [[其他]_窈窕淑男.doc]([其他]_窈窕淑男.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 221c33bbe3303b26fd79f5fe2f41cbee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Dick Inch-Heynes                               |
 | Region          | 未知                               |

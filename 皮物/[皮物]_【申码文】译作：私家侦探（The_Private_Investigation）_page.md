@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【申码文】译作：私家侦探（The_Private_Investi
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | cdb6cf6814347f6bd3b4cd564916fe56                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

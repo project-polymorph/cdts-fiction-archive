@@ -20,7 +20,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔序篇〕（二）.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22296 bytes                           |
 | MD5             | 7e5bbef0d11d36c898517c9fe69dab13                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 日本                               |

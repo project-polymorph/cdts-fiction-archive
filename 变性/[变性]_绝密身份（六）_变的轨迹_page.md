@@ -20,7 +20,7 @@ TXT 下载: [[变性]_绝密身份（六）_变的轨迹.docx]([变性]_绝密�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22924 bytes                           |
 | MD5             | fd2dc23d912668e75f9f95b267140c70                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

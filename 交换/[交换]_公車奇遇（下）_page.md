@@ -23,7 +23,7 @@ TXT 下载: [[交换]_公車奇遇（下）.docx]([交换]_公車奇遇（下）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 32284 bytes                           |
 | MD5             | 362b87891665481aa7d58ee622158cc7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

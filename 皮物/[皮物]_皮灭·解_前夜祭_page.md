@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮灭·解_前夜祭.docx]([皮物]_皮灭·解_前夜祭
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22072 bytes                           |
 | MD5             | ae9356a5f8cc1755c311084a7bced8fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Rockx3                               |
 | Region          | 未知                               |

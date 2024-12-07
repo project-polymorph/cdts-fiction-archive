@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_同学.docx]([皮物]_同学.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22454 bytes                           |
 | MD5             | 60d4e2f7272c920e324d8b89d8b73efb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

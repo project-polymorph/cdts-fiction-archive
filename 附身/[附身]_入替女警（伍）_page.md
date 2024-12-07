@@ -20,7 +20,7 @@ TXT 下载: [[附身]_入替女警（伍）.doc]([附身]_入替女警（伍）.
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 0f82bf672515e1c55bfba9736e242b60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

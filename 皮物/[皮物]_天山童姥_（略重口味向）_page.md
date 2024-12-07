@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_天山童姥_（略重口味向）.docx]([皮物]_天山�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25130 bytes                           |
 | MD5             | 857bb4cd75935c9d27127a7ad1f5760e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

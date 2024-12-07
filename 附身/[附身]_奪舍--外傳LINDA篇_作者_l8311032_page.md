@@ -20,7 +20,7 @@ TXT 下载: [[附身]_奪舍--外傳LINDA篇_作者_l8311032.docx]([附身]_奪�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21364 bytes                           |
 | MD5             | d5122f5fb6de4708705be8a80170f452                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | l8311032                               |
 | Region          | 未知                               |

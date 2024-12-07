@@ -20,7 +20,7 @@ TXT 下载: [[改造]_通向女孩子的道路（九）.doc]([改造]_通向女�
 | Format          | Microsoft Word Document                               |
 | Size            | 104448 bytes                           |
 | MD5             | 161054c81651c7dccbea8077c468148c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

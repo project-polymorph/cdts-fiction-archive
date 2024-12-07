@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣7_(第一季完).doc]([附身]_游泳衣7_(第一
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | e9bd24f77d786503d2b74faaf1a1050b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

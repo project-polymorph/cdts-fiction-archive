@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【长生天的王牌机师】(一）.doc]([皮物]_【长
 | Format          | Microsoft Word Document                               |
 | Size            | 45056 bytes                           |
 | MD5             | 758b993ea1f983d9d006a89c9f0e3426                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

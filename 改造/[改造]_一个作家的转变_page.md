@@ -20,7 +20,7 @@ TXT 下载: [[改造]_一个作家的转变.doc]([改造]_一个作家的转变.
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 4b5a13bdbe94875e6f4652917c1dd4cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Throne                               |
 | Region          | 未知                               |

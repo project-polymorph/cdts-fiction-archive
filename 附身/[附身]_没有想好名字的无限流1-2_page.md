@@ -20,7 +20,7 @@ TXT 下载: [[附身]_没有想好名字的无限流1-2.doc]([附身]_没有想�
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 778ca1781e4d27b14bbaec626b512fcb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

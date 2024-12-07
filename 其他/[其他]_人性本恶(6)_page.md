@@ -20,7 +20,7 @@ TXT 下载: [[其他]_人性本恶(6).docx]([其他]_人性本恶(6).docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20290 bytes                           |
 | MD5             | cadc2f7d73464ddd013de5ecd7646d57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

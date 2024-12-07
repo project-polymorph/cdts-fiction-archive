@@ -20,7 +20,7 @@ TXT 下载: [[改造]_诱饵.docx]([改造]_诱饵.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 51280 bytes                           |
 | MD5             | ab6d7945f79bf5e987ab1f839886875f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

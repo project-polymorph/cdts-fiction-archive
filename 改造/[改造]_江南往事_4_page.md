@@ -20,7 +20,7 @@ TXT 下载: [[改造]_江南往事_4.doc]([改造]_江南往事_4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | aecc5ef109c98db633f17c84f46b4f9b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 鬼畜奏                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_隔壁老王下.docx]([附身]_隔壁老王下.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20987 bytes                           |
 | MD5             | 496b85bc120988117471d4fa919e79ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

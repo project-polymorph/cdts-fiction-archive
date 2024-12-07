@@ -20,7 +20,7 @@ TXT 下载: [[变性]_女仆交易_12.doc]([变性]_女仆交易_12.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 4030c83359f7496b1db9af4780b5c0c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

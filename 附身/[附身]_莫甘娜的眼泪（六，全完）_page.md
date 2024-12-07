@@ -20,7 +20,7 @@ TXT 下载: [[附身]_莫甘娜的眼泪（六，全完）.doc]([附身]_莫甘�
 | Format          | Microsoft Word Document                               |
 | Size            | 78336 bytes                           |
 | MD5             | bfb26dbc6e5ac6e2a0b6933bfc97e5c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_黑色洗衣液（五）.docx]([附身]_黑色洗衣液（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《黑色洗衣液（五）》的部分内容，主要围绕角色苏秋的内心变化与自我认知展开。故事通过苏秋的视角，描绘了她在与阿强和刘总之间的复杂关系中，如何在欲望与自我认同之间挣扎。文件中详细描绘了苏秋的生活场景和心理活动，尤其是她对自身欲望的探索。《黑色洗衣液（五）》呈现了角色苏秋在性别认同和自我价值方面的迷茫和探索，揭示了性感与清纯之间的对立，以及在欲望驱动下的角色变化。故事里充满了暗示和复杂的人际关系，讨论了被操控与自我认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_黑色洗衣液（五）.docx]([附身]_黑色洗衣液（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22206 bytes                           |
 | MD5             | ba31bbc1095e595122ac99f74760b75d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 和谐号列车长                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 变身小说, 情感纠葛, 自我探索, 欲望与控制, 心理描写, 都市恋情, 禁忌爱情, 男女性别转换, 性爱与情感, 虚幻与现实, 感情背叛, 性别认同危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

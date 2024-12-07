@@ -20,7 +20,7 @@ TXT 下载: [[交换]_一品紅5（拍賣會風波上•怪異的警匪戰1）.d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20553 bytes                           |
 | MD5             | 9d59745aafd9cc829b7a585a18500f4c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

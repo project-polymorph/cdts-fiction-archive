@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——第二天_心灵开始被
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | fe0a971bb9c794cc1af8f3ddb2445ba7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

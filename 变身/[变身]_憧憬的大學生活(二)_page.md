@@ -20,7 +20,7 @@ TXT 下载: [[变身]_憧憬的大學生活(二).doc]([变身]_憧憬的大學�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | af10fbed79bb2a7949ee18e201f7c667                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

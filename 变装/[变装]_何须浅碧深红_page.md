@@ -20,7 +20,7 @@ TXT 下载: [[变装]_何须浅碧深红.doc]([变装]_何须浅碧深红.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 28672 bytes                           |
 | MD5             | 6fc2715cd757ee81e70b94e1e5e165cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_Body_Hopper-得到夏洛特的身体.docx]([附身]_Body_H
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21497 bytes                           |
 | MD5             | 279d19a83f8c9e69819699da949e83c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

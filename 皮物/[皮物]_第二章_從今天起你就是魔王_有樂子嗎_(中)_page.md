@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_第二章_從今天起你就是魔王_有樂子嗎_(中).d
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21978 bytes                           |
 | MD5             | a2bcbcf0a5c538112a8065199e9d519c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

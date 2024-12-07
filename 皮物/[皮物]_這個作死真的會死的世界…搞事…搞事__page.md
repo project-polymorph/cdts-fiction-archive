@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_這個作死真的會死的世界…搞事…搞事_.docx]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35503 bytes                           |
 | MD5             | a43d3384f72c74e8e38190aa73c9808d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

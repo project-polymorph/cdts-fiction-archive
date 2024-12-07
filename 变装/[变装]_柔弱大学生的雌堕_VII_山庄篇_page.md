@@ -20,7 +20,7 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_VII_山庄篇.doc]([变装]_柔�
 | Format          | Microsoft Word Document                               |
 | Size            | 79360 bytes                           |
 | MD5             | 218ca1b6036db7312725ed6a6fe661d5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

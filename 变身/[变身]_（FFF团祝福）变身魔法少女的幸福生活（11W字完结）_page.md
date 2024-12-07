@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（FFF团祝福）变身魔法少女的幸福生活（11W�
 | Format          | Microsoft Word Document                               |
 | Size            | 372736 bytes                           |
 | MD5             | 0a4514c5788e64367ca3332b89be2e0a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

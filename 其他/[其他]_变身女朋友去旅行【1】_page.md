@@ -20,7 +20,7 @@ TXT 下载: [[其他]_变身女朋友去旅行【1】.doc]([其他]_变身女朋
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 6015f6b59596ffe89fdd4e09b89d75bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_穿越未来.doc]([其他]_穿越未来.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 83d9049156b05e2d92a85fbe7e8a5dd2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

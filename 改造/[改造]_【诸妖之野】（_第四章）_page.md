@@ -20,7 +20,7 @@ TXT 下载: [[改造]_【诸妖之野】（_第四章）.doc]([改造]_【诸妖
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | cccb85eed615aab13b6fcb2229e55533                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 山雨                               |
 | Region          | 未知                               |

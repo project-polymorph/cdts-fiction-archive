@@ -20,7 +20,7 @@ TXT 下载: [[改造]_(改造)换奇异的治疗方案.doc]([改造]_(改造)换
 | Format          | Microsoft Word Document                               |
 | Size            | 69632 bytes                           |
 | MD5             | 692d9f48286c1a95071ecbe3e95ec685                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | lin1989912、C3 Y+ q$x+ X                               |
 | Region          | 未知                               |

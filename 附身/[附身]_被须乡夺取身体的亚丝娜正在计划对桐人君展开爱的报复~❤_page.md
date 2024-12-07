@@ -20,7 +20,7 @@ TXT 下载: [[附身]_被须乡夺取身体的亚丝娜正在计划对桐人君�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 52664 bytes                           |
 | MD5             | 4be4dcdd9f1e1eac3ad6b11661fa6d17                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 一舸烟雨                               |
 | Region          | 中国大陆                               |

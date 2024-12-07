@@ -20,7 +20,7 @@ TXT 下载: [[变身]_宫崎凉介的温泉山庄之旅.doc]([变身]_宫崎凉�
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 2ee02089f9c12b823ea3cf03412a8a68                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

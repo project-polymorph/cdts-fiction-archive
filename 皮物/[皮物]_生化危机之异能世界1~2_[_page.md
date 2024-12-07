@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_生化危机之异能世界1~2_[.docx]([皮物]_生化危�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21225 bytes                           |
 | MD5             | d1a4384a07d6ffde5e6115f35c77fdc2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

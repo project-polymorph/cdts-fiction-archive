@@ -20,7 +20,7 @@ TXT 下载: [[附身]_新春福利之异种（二）.docx]([附身]_新春福利
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28009 bytes                           |
 | MD5             | b4c458314ca24db92733ab49138dfd45                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

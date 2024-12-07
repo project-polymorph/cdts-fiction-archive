@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_文森特的小插曲_Vincent`s_Vignettes.docx]([皮物]_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30047 bytes                           |
 | MD5             | 43730771f51cf5a687668b8a122115bb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Vanessa Chan（翻译：寒蝉）                               |
 | Region          | 未知                               |

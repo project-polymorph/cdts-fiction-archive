@@ -20,7 +20,7 @@ TXT 下载: [[其他]_平行世界之我是妻子(2).docx]([其他]_平行世界
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19729 bytes                           |
 | MD5             | 43d9b3f00b0fccb5790bdf670bdf6740                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_圣女;上部《女神篇》完结.docx]([附身]_圣女;�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 56878 bytes                           |
 | MD5             | 2bc7179df40ca117685667161ec411a4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

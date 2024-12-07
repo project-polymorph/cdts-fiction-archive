@@ -20,7 +20,7 @@ TXT 下载: [[附身]_附身入门-2.docx]([附身]_附身入门-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28634 bytes                           |
 | MD5             | d567e007851f4459e0588ea9bf731fdb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

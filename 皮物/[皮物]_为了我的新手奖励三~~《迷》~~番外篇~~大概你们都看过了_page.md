@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_为了我的新手奖励三~~《迷》~~番外篇~~大概�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27747 bytes                           |
 | MD5             | 4292b8f199ea1d6d9ffdc0a445a7bba0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

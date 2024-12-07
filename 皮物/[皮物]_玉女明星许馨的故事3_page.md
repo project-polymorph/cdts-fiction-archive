@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_玉女明星许馨的故事3.docx]([皮物]_玉女明星�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22971 bytes                           |
 | MD5             | cf6db62b4c103e21c7c2c0cbad780354                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

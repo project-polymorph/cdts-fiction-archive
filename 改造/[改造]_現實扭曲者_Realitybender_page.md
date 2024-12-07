@@ -20,7 +20,7 @@ TXT 下载: [[改造]_現實扭曲者_Realitybender.docx]([改造]_現實扭曲�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33079 bytes                           |
 | MD5             | 0d58fc7ce1b408c1e2217466b02d9632                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

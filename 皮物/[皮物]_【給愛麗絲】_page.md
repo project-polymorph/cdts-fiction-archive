@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_【給愛麗絲】.doc]([皮物]_【給愛麗絲】.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 94720 bytes                           |
 | MD5             | a7579c6bb41b63df3203bbe0b14f567a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |

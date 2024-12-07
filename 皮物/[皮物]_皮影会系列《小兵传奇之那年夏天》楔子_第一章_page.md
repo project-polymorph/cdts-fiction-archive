@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_皮影会系列《小兵传奇之那年夏天》楔子_第
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17594 bytes                           |
 | MD5             | 9f026748a7729a1f333a58a3b6eb81d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_金盆洗手（下）.docx]([变性]_金盆洗手（下）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28993 bytes                           |
 | MD5             | cd6fae6702b8f68ee750d63dd2d5ddf3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Katherine Leigh                               |
 | Region          | 未知                               |

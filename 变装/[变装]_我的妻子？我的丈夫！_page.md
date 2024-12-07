@@ -20,7 +20,7 @@ TXT 下载: [[变装]_我的妻子？我的丈夫！.doc]([变装]_我的妻子�
 | Format          | Microsoft Word Document                               |
 | Size            | 37376 bytes                           |
 | MD5             | 92e1b0fdd3597fc81e17e246412f0b93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Ms Brandi                               |
 | Region          | 未知                               |

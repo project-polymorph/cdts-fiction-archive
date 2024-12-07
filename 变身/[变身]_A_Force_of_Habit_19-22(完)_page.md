@@ -20,7 +20,7 @@ TXT 下载: [[变身]_A_Force_of_Habit_19-22(完).docx]([变身]_A_Force_of_Habi
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50170 bytes                           |
 | MD5             | 16eb7f340b3d320af396e404f50e4b38                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

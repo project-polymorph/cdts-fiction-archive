@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_恶友：购物.docx]([皮物]_恶友：购物.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22371 bytes                           |
 | MD5             | 002738d47b4a685c1120a20c986aba61                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

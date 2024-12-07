@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《蒹葭录》_第三卷_第十回.doc]([其他]_《蒹�
 | Format          | Microsoft Word Document                               |
 | Size            | 67072 bytes                           |
 | MD5             | 9ff017b43d312f0f899cb69ab062bc08                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

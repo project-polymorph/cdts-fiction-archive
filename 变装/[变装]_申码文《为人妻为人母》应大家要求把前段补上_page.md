@@ -20,7 +20,7 @@ TXT 下载: [[变装]_申码文《为人妻为人母》应大家要求把前段�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58911 bytes                           |
 | MD5             | ea041a07e534582272516cb49382ab6d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

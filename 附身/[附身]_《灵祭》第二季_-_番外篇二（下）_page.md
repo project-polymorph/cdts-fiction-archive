@@ -20,7 +20,7 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇二（下）.docx]([附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20960 bytes                           |
 | MD5             | b8a4d9c020cc006bf59d315f7a6661d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 紫依                               |
 | Region          | 中国大陆                               |

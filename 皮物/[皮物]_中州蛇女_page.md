@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_中州蛇女.doc]([皮物]_中州蛇女.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 71680 bytes                           |
 | MD5             | 3e901a0509baa3251691c1c27d4f8607                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

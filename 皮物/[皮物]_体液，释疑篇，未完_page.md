@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_体液，释疑篇，未完.docx]([皮物]_体液，释疑
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37545 bytes                           |
 | MD5             | aaefb993e323fb959f448279437f171d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

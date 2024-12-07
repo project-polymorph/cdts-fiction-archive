@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《同桌在随处施展神迹：其一》.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 64000 bytes                           |
 | MD5             | cf06f1d3598191bb09843807db6117db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

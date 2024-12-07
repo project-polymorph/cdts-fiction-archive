@@ -20,7 +20,7 @@ TXT 下载: [[变身]_一个正确的大错误.docx]([变身]_一个正确的大
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46703 bytes                           |
 | MD5             | 7c8080bb5375d6729b540d2d02d29cd9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | MistressD                               |
 | Region          | 未知                               |

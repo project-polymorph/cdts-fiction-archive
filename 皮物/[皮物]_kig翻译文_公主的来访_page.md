@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_kig翻译文_公主的来访.doc]([皮物]_kig翻译文_�
 | Format          | Microsoft Word Document                               |
 | Size            | 83456 bytes                           |
 | MD5             | f87b5ea185ea7b672fa0f3aad1f12534                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

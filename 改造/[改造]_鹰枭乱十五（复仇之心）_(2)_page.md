@@ -20,7 +20,7 @@ TXT 下载: [[改造]_鹰枭乱十五（复仇之心）_(2).docx]([改造]_鹰�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31617 bytes                           |
 | MD5             | a221c794376e6672e5a7e8e5443d3152                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

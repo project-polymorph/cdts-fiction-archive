@@ -20,7 +20,7 @@ TXT 下载: [[变装]_图书馆的邂逅1.docx]([变装]_图书馆的邂逅1.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18450 bytes                           |
 | MD5             | 7afa790be1dbb897abcc23aca1741130                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

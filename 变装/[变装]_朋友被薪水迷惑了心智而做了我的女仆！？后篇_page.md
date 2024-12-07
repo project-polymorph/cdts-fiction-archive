@@ -20,7 +20,7 @@ TXT 下载: [[变装]_朋友被薪水迷惑了心智而做了我的女仆！？�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37044 bytes                           |
 | MD5             | d2cdf419362abe99195e7eeaa241facc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[改造]_辉石战士2虚妄之影.doc]([改造]_辉石战士2虚�
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 3a598e9e6ae6795b9a6e13c4f634c1cb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 重口味女王                               |
 | Region          | 未知                               |

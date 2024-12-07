@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣前传6_-_阴谋.doc]([附身]_游泳衣前传6_-
 | Format          | Microsoft Word Document                               |
 | Size            | 46080 bytes                           |
 | MD5             | c62985a198a45aff40cec47a113b27f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

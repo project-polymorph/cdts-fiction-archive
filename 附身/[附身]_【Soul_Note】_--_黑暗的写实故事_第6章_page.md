@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【Soul_Note】_--_黑暗的写实故事_第6章.doc]([附
 | Format          | Microsoft Word Document                               |
 | Size            | 81408 bytes                           |
 | MD5             | 98c2f5d554af59eddef1685ee56d7f93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

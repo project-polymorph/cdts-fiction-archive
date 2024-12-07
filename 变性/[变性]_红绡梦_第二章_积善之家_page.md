@@ -22,7 +22,7 @@ TXT 下载: [[变性]_红绡梦_第二章_积善之家.docx]([变性]_红绡梦_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27966 bytes                           |
 | MD5             | ab82c31ebe87db14aea6b5e026c5a6a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

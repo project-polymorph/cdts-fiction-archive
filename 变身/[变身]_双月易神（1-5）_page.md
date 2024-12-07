@@ -20,7 +20,7 @@ TXT 下载: [[变身]_双月易神（1-5）.docx]([变身]_双月易神（1-5）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 83638 bytes                           |
 | MD5             | 4c13da64f9df6e4cdab92a22f3886f76                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

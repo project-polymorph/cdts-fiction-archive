@@ -20,7 +20,7 @@ TXT 下载: [[变身]_驯兽师_第一章_（ビーストテイマーズ_Ｂｙ�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23824 bytes                           |
 | MD5             | a11e4989dd8d0c9254fbb8710bb5f814                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

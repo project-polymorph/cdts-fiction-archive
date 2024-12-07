@@ -20,7 +20,7 @@ TXT 下载: [想和班花换身的我却意外成了名媛班主任.docx](想和
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 77252 bytes                           |
 | MD5             | 2be491450780471b3248b498936d8eee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

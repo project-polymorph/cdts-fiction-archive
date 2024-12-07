@@ -20,7 +20,7 @@ TXT 下载: [[附身]_神奇的合体术.doc]([附身]_神奇的合体术.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | de58b025c1b649f6abde8e353e65081b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

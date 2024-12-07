@@ -20,7 +20,7 @@ TXT 下载: [[变装]柔弱大学生的雌堕_I.doc]([变装]柔弱大学生的�
 | Format          | Microsoft Word Document                               |
 | Size            | 68608 bytes                           |
 | MD5             | 49bf2d20b9e3e3ac8c75f711d11c4203                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

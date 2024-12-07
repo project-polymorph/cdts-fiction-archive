@@ -20,7 +20,7 @@ TXT 下载: [[交换]_女儿的日记2.doc]([交换]_女儿的日记2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 6af016cf86765ccc55cda064b420bde0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | darksoul                               |
 | Region          | 中国大陆                               |

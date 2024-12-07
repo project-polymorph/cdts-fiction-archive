@@ -20,7 +20,7 @@ TXT 下载: [[变装]_一个女装大佬的故事4.docx]([变装]_一个女装�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31937 bytes                           |
 | MD5             | 0246fe69a59f2ea84a238b66232a0ed7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

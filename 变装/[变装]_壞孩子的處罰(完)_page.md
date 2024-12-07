@@ -20,7 +20,7 @@ TXT 下载: [[变装]_壞孩子的處罰(完).docx]([变装]_壞孩子的處罰(
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18733 bytes                           |
 | MD5             | 3f0e7180d41c450fd0cfa11b7aba546b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_我被抢走的身体1-3.docx]([交换]_我被抢走的身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28120 bytes                           |
 | MD5             | 63606b3953f8824e9908855838eebc35                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

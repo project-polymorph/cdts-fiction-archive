@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《有时候，热心会害了你》短篇（下午已经�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 385b10ed7021536dfb359a3e84a0dc2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 美国                               |

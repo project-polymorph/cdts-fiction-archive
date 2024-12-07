@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·为鬼为魅（第十二篇）.doc]([皮物]
 | Format          | Microsoft Word Document                               |
 | Size            | 6504960 bytes                           |
 | MD5             | a5d820041f5c8dd92d5f4202653f6d9c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

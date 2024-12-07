@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变成室友的小妹妹.doc]([皮物]_变成室友的小�
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 705d8d9e5ced8a051e7d9417fe90fbd3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

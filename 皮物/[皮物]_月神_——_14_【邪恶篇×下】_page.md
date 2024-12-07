@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_月神_——_14_【邪恶篇×下】.docx]([皮物]_月�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27654 bytes                           |
 | MD5             | 34dc41dd8cb087ddb7161e4b5dd79994                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

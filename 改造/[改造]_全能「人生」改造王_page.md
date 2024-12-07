@@ -20,7 +20,7 @@ TXT 下载: [[改造]_全能「人生」改造王.docx]([改造]_全能「人生
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45667 bytes                           |
 | MD5             | 2a5540c7412aa7aa968b9bceef3c5a42                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

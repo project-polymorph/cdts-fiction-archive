@@ -20,7 +20,7 @@ TXT 下载: [[变身]_合影相机_第三章.doc]([变身]_合影相机_第三�
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | c03f2dc50d40b9f02f93c7ef4b2843d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

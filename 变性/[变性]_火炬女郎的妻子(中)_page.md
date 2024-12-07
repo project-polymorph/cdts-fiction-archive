@@ -20,7 +20,7 @@ TXT 下载: [[变性]_火炬女郎的妻子(中).docx]([变性]_火炬女郎的�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38875 bytes                           |
 | MD5             | 8837be58e800d737e7da1d8a1b8bb11b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

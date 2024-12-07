@@ -20,7 +20,7 @@ TXT 下载: [[其他]_获得幸福的三人.doc]([其他]_获得幸福的三人.
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 4dbb93e975b07655aabfabc20cc80991                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

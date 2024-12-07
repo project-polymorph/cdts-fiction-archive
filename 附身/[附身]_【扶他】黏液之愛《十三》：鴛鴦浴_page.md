@@ -20,7 +20,7 @@ TXT 下载: [[附身]_【扶他】黏液之愛《十三》：鴛鴦浴.doc]([附
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 1569267071e87a10f5baee6eb5ed6e6c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

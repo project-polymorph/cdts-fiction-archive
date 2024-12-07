@@ -20,7 +20,7 @@ TXT 下载: [[改造]_Fantasy_and_Reality.docx]([改造]_Fantasy_and_Reality.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 138070 bytes                           |
 | MD5             | 743ab9313a20cc9cd84191edb1fd11a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

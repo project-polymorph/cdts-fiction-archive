@@ -20,7 +20,7 @@ TXT 下载: [[其他]_魔物大陆_第二章_[.docx]([其他]_魔物大陆_第�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20828 bytes                           |
 | MD5             | b274df1c046f66527c683d981f020c40                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

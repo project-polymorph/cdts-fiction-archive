@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_用余生去报答你.docx]([皮物]_用余生去报答你
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 75298 bytes                           |
 | MD5             | 27102e904368c0566044ed995c6ab13f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

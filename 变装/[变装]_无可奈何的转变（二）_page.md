@@ -20,7 +20,7 @@ TXT 下载: [[变装]_无可奈何的转变（二）.doc]([变装]_无可奈何�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | e2ac7308d04eccbcf82a4f6172079206                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

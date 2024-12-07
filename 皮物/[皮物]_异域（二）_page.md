@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_异域（二）.doc]([皮物]_异域（二）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 2cf390459247a84b72b16dff7f9e29c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_穿着变成皮的好友去牧场参观（上）.doc]([皮
 | Format          | Microsoft Word Document                               |
 | Size            | 53760 bytes                           |
 | MD5             | 9bfc18fc0e87e921047b0b76d9d2a7d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

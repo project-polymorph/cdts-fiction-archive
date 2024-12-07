@@ -20,7 +20,7 @@ TXT 下载: [[变身]_命运锚点修改器.doc]([变身]_命运锚点修改器.
 | Format          | Microsoft Word Document                               |
 | Size            | 249344 bytes                           |
 | MD5             | cbd52d6dcfec6696cadafda164e60dd5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

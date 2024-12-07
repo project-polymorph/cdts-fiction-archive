@@ -20,7 +20,7 @@ TXT 下载: [[变身]_勇者弱体化封印_15.docx]([变身]_勇者弱体化封
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33688 bytes                           |
 | MD5             | 724c25d155ea1c9b3abd9bf9a02417dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | tt69                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变身]_魔法少女ヒロミ☆ひろ_1-1.docx]([变身]_魔法�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19476 bytes                           |
 | MD5             | 114a7e437645aa53a0614e1d31c16bdd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

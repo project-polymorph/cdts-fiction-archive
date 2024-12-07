@@ -20,7 +20,7 @@ TXT 下载: [[其他]_面具女友，后记篇（上）.doc]([其他]_面具女�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | d029bb7a4e28c801bd6b082361649116                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

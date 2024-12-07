@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_老婆大人不在的星期天.doc]([皮物]_老婆大人�
 | Format          | Microsoft Word Document                               |
 | Size            | 155648 bytes                           |
 | MD5             | 40ff25437af291712638f0012fc9a9c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王小明                               |
 | Region          | 中国大陆                               |

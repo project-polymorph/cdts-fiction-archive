@@ -20,7 +20,7 @@ TXT 下载: [回家路上——她的诱惑（3-4）.doc](回家路上——她�
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | f12cf46ddc9db2e84894cb391afa7d14                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

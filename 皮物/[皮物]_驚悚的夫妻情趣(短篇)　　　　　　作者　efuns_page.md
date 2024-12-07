@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_驚悚的夫妻情趣(短篇)　　　　　　作者　ef
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18272 bytes                           |
 | MD5             | c67afd86e256f7cb16ef104e57985832                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | efuns                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_白帝学院同人.docx]([变性]_白帝学院同人.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 77225 bytes                           |
 | MD5             | 16e16dc8fc12024e3398815ff599e434                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

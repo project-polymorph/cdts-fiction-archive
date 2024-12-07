@@ -20,7 +20,7 @@ TXT 下载: [[变性]_A_breast_of_the_times.docx]([变性]_A_breast_of_the_times
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 153286 bytes                           |
 | MD5             | 952c5676273f21ca02ee74c2a96a214a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

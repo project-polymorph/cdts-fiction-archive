@@ -20,7 +20,7 @@ TXT 下载: [[变装]_重发万能事务所1-2，看过无视=_=.docx]([变装]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26527 bytes                           |
 | MD5             | 4fcb58a2e59f26ea09559d7ce8420f6f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_謊言的甜蜜代價.docx]([变装]_謊言的甜蜜代價
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24452 bytes                           |
 | MD5             | f4df8307ffb2d65c1a2b1a67687014c2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

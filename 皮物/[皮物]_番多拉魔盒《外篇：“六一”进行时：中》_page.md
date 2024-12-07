@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_番多拉魔盒《外篇：“六一”进行时：中》.
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21011 bytes                           |
 | MD5             | 386358e9bce39ecd521cc24e0dbe85c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 苍茫                               |
 | Region          | 中国大陆                               |

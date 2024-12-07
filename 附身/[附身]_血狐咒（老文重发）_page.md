@@ -20,7 +20,7 @@ TXT 下载: [[附身]_血狐咒（老文重发）.doc]([附身]_血狐咒（老�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | f784c38be9c6a3bcb139df7ce176502c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 紫依                               |
 | Region          | 未知                               |

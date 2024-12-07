@@ -20,7 +20,7 @@ TXT 下载: [《金枝奇缘》第三回.doc](《金枝奇缘》第三回.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | 1c4ea646839c8bfac3db8c9709c46875                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

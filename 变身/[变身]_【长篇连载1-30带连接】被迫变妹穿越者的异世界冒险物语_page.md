@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【长篇连载1-30带连接】被迫变妹穿越者的异
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | a66e780e5890e6b820f980f7fe3203ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

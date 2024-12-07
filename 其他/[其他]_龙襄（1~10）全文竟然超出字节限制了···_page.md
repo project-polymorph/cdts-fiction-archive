@@ -20,7 +20,7 @@ TXT 下载: [[其他]_龙襄（1~10）全文竟然超出字节限制了···.do
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 69779 bytes                           |
 | MD5             | 41c95a2febae05b7596f9692e6a838dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -22,7 +22,7 @@ TXT 下载: [[变性]_宫城四美——昭君篇（一部已鸽的未发表作�
 | Format          | Microsoft Word Document                               |
 | Size            | 75264 bytes                           |
 | MD5             | c434a8e4f500124487d679e131967f9e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宫城四美                               |
 | Region          | 中国大陆                               |

@@ -22,7 +22,7 @@ TXT 下载: [[皮物]_替换皮裤[入れ替わりの皮パンツ].doc]([皮物]
 | Format          | Microsoft Word Document                               |
 | Size            | 36352 bytes                           |
 | MD5             | 5246cf935886df36f01c234159069968                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | ＠ぽっけ                               |
 | Region          | 未知                               |

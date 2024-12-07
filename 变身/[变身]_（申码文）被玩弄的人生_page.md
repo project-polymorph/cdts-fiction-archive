@@ -20,7 +20,7 @@ TXT 下载: [[变身]_（申码文）被玩弄的人生.doc]([变身]_（申码�
 | Format          | Microsoft Word Document                               |
 | Size            | 79360 bytes                           |
 | MD5             | 7c73948441bb7c879b3b1ff38b3d7ef7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

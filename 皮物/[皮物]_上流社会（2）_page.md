@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_上流社会（2）.doc]([皮物]_上流社会（2）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 72192 bytes                           |
 | MD5             | 91e633c4b65384b6925f2f60476ab3ab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

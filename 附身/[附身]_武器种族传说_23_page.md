@@ -20,7 +20,7 @@ TXT 下载: [[附身]_武器种族传说_23.doc]([附身]_武器种族传说_23.
 | Format          | Microsoft Word Document                               |
 | Size            | 74752 bytes                           |
 | MD5             | b1fceb7ad4e07b916274616c576f9024                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

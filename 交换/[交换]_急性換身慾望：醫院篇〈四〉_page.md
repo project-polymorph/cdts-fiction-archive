@@ -20,7 +20,7 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈四〉.doc]([交换]_急�
 | Format          | Microsoft Word Document                               |
 | Size            | 54272 bytes                           |
 | MD5             | 725f264fa73a4f47ed5b9b549f047f6c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_暗杀者.docx]([皮物]_暗杀者.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21740 bytes                           |
 | MD5             | 7c4c794ca926d8f1c8cd88b16a66c477                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

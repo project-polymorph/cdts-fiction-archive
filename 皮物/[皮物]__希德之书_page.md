@@ -20,7 +20,7 @@ TXT 下载: [[皮物]__希德之书.doc]([皮物]__希德之书.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 87040 bytes                           |
 | MD5             | dceef37e327f7e5e4c63791600a8ff18                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

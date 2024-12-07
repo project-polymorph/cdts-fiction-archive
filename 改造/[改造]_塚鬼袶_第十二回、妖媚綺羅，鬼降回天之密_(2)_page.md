@@ -20,7 +20,7 @@ TXT 下载: [[改造]_塚鬼袶_第十二回、妖媚綺羅，鬼降回天之密
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29358 bytes                           |
 | MD5             | b71f9ecee960457f45f3808451158f39                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

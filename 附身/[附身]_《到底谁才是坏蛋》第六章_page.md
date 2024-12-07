@@ -24,7 +24,7 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》第六章.doc]([附身]_《到�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 0476851fecae0564f93227431041be77                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

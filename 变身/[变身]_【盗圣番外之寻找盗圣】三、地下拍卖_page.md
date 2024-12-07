@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】三、地下拍卖.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | a93e9bcf5822dd2cfb0752c22ee401ab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

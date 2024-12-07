@@ -20,7 +20,7 @@ TXT 下载: [[附身]_新编天子寻龙（上）.docx]([附身]_新编天子寻
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23776 bytes                           |
 | MD5             | 8fa6cd571d149f9ec18682176465417a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

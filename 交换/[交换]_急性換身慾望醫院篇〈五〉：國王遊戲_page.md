@@ -20,7 +20,7 @@ TXT 下载: [[交换]_急性換身慾望醫院篇〈五〉：國王遊戲.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 55296 bytes                           |
 | MD5             | 44a1e185dd57790d0a38b8314ab84e1b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

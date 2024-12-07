@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第五章_(上).docx]([皮�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21904 bytes                           |
 | MD5             | 42a136612090254b44fe8e6a0c0308bd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

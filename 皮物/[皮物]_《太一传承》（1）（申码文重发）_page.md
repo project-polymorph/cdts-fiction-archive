@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《太一传承》（1）（申码文重发）.doc]([皮�
 | Format          | Microsoft Word Document                               |
 | Size            | 81920 bytes                           |
 | MD5             | 0bcff19ad898fb0d6876f1755e3db193                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

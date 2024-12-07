@@ -20,7 +20,7 @@ TXT 下载: [[变装]_槲寄生-聖誕節.doc]([变装]_槲寄生-聖誕節.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 74240 bytes                           |
 | MD5             | b2a819e83f093085e32837ca4d62ac4c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

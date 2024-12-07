@@ -20,7 +20,7 @@ TXT 下载: [[附身]_无尽异能_第十章.docx]([附身]_无尽异能_第十�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22920 bytes                           |
 | MD5             | 8ad6048e3feed59cac8b4745b790e261                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

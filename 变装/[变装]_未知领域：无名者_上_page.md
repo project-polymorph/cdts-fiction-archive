@@ -20,7 +20,7 @@ TXT 下载: [[变装]_未知领域：无名者_上.docx]([变装]_未知领域�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 16675 bytes                           |
 | MD5             | fc1478df51c95612a755087174bf0213                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

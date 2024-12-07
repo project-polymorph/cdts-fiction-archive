@@ -20,7 +20,7 @@ TXT 下载: [[附身]_被夺取身体的ELF公主.doc]([附身]_被夺取身体�
 | Format          | Microsoft Word Document                               |
 | Size            | 60416 bytes                           |
 | MD5             | 2be741c5715bb98458856a8b77c77355                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

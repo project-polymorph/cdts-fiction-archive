@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_盗亦有道（申码文）.docx]([皮物]_盗亦有道（
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24524 bytes                           |
 | MD5             | 59802b35fb96f3e4c9129048a4ada2ed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

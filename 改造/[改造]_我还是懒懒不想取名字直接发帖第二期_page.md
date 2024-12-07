@@ -20,7 +20,7 @@ TXT 下载: [[改造]_我还是懒懒不想取名字直接发帖第二期.doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 35840 bytes                           |
 | MD5             | b777c17afd40d8170b823bc35a16c471                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

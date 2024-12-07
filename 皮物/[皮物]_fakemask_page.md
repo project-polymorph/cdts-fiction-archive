@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_fakemask.doc]([皮物]_fakemask.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 65536 bytes                           |
 | MD5             | 81bbce28a2c3a1cb1038fcd2ea5f9030                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

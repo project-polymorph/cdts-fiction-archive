@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔王的复活.docx]([附身]_魔王的复活.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《魔王的复活》，属于性转与变身小说类别，讲述了一位曾是勇者配偶的女性神官神宫璇的故事。在一次魔王讨伐战后，勇者为了封印魔王而牺牲自己，神宫璇则在失去爱人后的孤独与苦痛中生活着。她必须面对魔王泄露的魔力正在不断侵蚀自身的现实，文中通过神宫璇的内心独白描绘了她的绝望与挣扎。随着剧情的发展，神宫璇开始计划通过与女儿的身体交换完成魔王的复活。小说的内容涉及复杂的人物关系和心理活动，具有较强的戏剧性和情感冲突。同时，文中包含一些情色内容及母女之间的纠葛，暗示了神宫璇对女儿的占有欲，如她对女儿的柔情描写以及想要将女儿变成新娘的念头。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魔王的复活.docx]([附身]_魔王的复活.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19482 bytes                           |
 | MD5             | 43dac77b5bd02bd2d7e3a29b05528571                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 魔王复活, 神官, 亲子关系, 女儿, 身体交换, 性别认同, 心理斗争, 痛苦, 绝望, 情感纠葛, 色情内容, 强烈占有欲, 变身, 二次元, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

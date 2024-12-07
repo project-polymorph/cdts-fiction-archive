@@ -20,7 +20,7 @@ TXT 下载: [[附身]_憑依アプリと訪問者（附身应用程序.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31272 bytes                           |
 | MD5             | 84c51bee383d02a9bb3c07007be045bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_精灵之歌_序+第一章.docx]([皮物]_精灵之歌_序
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35683 bytes                           |
 | MD5             | 17eabfeb4cc50f289c2bce445c5c2942                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

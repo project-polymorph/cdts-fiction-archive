@@ -20,7 +20,7 @@ TXT 下载: [[附身]_skin_world_1.doc]([附身]_skin_world_1.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 31744 bytes                           |
 | MD5             | 9eb4a9f3cdfb6560806da5b05bb52e41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

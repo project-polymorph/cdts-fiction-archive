@@ -20,7 +20,7 @@ TXT 下载: [[变装]_大尧宫事（1-14）完结.docx]([变装]_大尧宫事�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 69601 bytes                           |
 | MD5             | bb87f6c54a07dbef6729f2695b61eb71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【连载中】fate_命运扭曲之夜.doc]([其他]_【�
 | Format          | Microsoft Word Document                               |
 | Size            | 107520 bytes                           |
 | MD5             | 247261a124a441c10f2cfc3b3539561c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

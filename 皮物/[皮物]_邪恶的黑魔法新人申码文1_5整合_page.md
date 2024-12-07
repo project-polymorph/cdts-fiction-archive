@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_邪恶的黑魔法新人申码文1_5整合.docx]([皮物]_
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 75414 bytes                           |
 | MD5             | aaaf398606268968a0d7ee7148dca6d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

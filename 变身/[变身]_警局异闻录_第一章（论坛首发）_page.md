@@ -20,7 +20,7 @@ TXT 下载: [[变身]_警局异闻录_第一章（论坛首发）.docx]([变身]
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20100 bytes                           |
 | MD5             | 51ee2bc69740788b6db1f6c37f59a2a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 宅路人                               |
 | Region          | 中国大陆                               |

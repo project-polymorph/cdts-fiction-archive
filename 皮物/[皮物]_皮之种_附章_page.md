@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_皮之种_附章.doc]([皮物]_皮之种_附章.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 5aa36fcfe8c2d4e8b7ec384983dec7c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 岚山ＧＯ                               |
 | Region          | 未知                               |

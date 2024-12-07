@@ -20,7 +20,7 @@ TXT 下载: [[其他]_我变成了朝思暮想的galgame主角？！前传_林�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30878 bytes                           |
 | MD5             | cc7710b3933d8673048916b76633f566                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

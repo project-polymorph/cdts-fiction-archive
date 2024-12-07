@@ -20,7 +20,7 @@ TXT 下载: [[交换]_公寓！公寓！公寓！【完结（暂定）】.docx](
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26582 bytes                           |
 | MD5             | af89f8ea352bd1cdc8e90561656e8e41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

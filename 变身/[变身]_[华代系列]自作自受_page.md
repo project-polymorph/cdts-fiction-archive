@@ -20,7 +20,7 @@ TXT 下载: [[变身]_[华代系列]自作自受.docx]([变身]_[华代系列]�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26606 bytes                           |
 | MD5             | 1fdee11c8d23d372367aaf9023c737ca                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

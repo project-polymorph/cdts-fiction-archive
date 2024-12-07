@@ -20,7 +20,7 @@ TXT 下载: [[变性]_虚幻世界_男女之间（1）.docx]([变性]_虚幻世�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27543 bytes                           |
 | MD5             | 3322f4afb733cb0700e1949daaaffda9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

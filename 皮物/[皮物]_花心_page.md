@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_花心.docx]([皮物]_花心.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18556 bytes                           |
 | MD5             | d7b3c7f5e8f3eaeb37fe869507308847                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

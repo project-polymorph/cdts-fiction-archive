@@ -20,7 +20,7 @@ TXT 下载: [回家路上——继续旅程（11-END）.doc](回家路上——�
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 97ad903e5b8a4614417c56ec0bd8953d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

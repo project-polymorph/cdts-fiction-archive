@@ -20,7 +20,7 @@ TXT 下载: [[其他]_《我张傲宸是来当起点男主不是来当H游戏女
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | db638a5b43b7b92edf14b1cbdf9ccd0d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

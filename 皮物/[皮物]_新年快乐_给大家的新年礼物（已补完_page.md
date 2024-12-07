@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_新年快乐_给大家的新年礼物（已补完.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36253 bytes                           |
 | MD5             | 7682695f026b25f45a00abc56b1dd291                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

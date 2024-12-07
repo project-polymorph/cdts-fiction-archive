@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【都市奇谈】之夜半歌声.doc]([变身]_【都市�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | d1ee0ec759aef6dc4702482f0a9fce88                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

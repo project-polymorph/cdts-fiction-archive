@@ -20,7 +20,7 @@ TXT 下载: [[变装]_【申码文】七年女人.doc]([变装]_【申码文】�
 | Format          | Microsoft Word Document                               |
 | Size            | 117248 bytes                           |
 | MD5             | 9cae5680098e28c7c7a694cb942bc23e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

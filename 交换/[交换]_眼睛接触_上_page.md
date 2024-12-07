@@ -20,7 +20,7 @@ TXT 下载: [[交换]_眼睛接触_上.docx]([交换]_眼睛接触_上.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21999 bytes                           |
 | MD5             | e3407ebac68f62e2383a85bd9fb62747                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

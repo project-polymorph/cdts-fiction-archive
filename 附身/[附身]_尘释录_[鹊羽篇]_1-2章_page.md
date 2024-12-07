@@ -20,7 +20,7 @@ TXT 下载: [[附身]_尘释录_[鹊羽篇]_1-2章.docx]([附身]_尘释录_[鹊
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27197 bytes                           |
 | MD5             | d804f55839e38321e627bfc8a8795a24                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

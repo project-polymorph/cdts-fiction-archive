@@ -20,7 +20,7 @@ TXT 下载: [[附身]_炼器师2.docx]([附身]_炼器师2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24497 bytes                           |
 | MD5             | 5b4baa599695df11e6229e15fea658aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

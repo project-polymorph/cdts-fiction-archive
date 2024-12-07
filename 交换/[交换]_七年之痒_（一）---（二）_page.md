@@ -20,7 +20,7 @@ TXT 下载: [[交换]_七年之痒_（一）---（二）.docx]([交换]_七年�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30717 bytes                           |
 | MD5             | fd39d11cd0ff8855457d08b4fc18122e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Yudi                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[短篇]憑依實錄.doc]([附身]_[短篇]憑依實錄.do
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | 092ff0723bab53b5b0d11172b59f722c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变装]_My_Boss,The_Bimbo_6-9.docx]([变装]_My_Boss,The_Bimbo_6-9
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20138 bytes                           |
 | MD5             | 330ed861dea46bef5034dc0a91c25c27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

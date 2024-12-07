@@ -20,7 +20,7 @@ TXT 下载: [[变性]_TG司令官.docx]([变性]_TG司令官.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34377 bytes                           |
 | MD5             | 9fc2e8d4df910e5eebbbbaaac6854b0b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | TGFictionStv                               |
 | Region          | 未知                               |

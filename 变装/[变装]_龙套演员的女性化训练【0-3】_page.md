@@ -20,7 +20,7 @@ TXT 下载: [[变装]_龙套演员的女性化训练【0-3】.docx]([变装]_龙
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33684 bytes                           |
 | MD5             | 8ff6d7a24cfc59c77bcd45c418e9a980                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

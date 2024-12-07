@@ -20,7 +20,7 @@ TXT 下载: [[变身]_申请上浮-创世神格（续写）.docx]([变身]_申�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30570 bytes                           |
 | MD5             | 460190abe53b19651cc6506992db1fdd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

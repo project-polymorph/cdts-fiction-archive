@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_替考暗云(1-2).doc]([皮物]_替考暗云(1-2).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 48128 bytes                           |
 | MD5             | 1e8d32d8009322a683922d7ebe447154                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

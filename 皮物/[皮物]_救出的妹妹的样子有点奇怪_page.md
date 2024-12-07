@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_救出的妹妹的样子有点奇怪.docx]([皮物]_救出
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36577 bytes                           |
 | MD5             | f324afd5937c9ec6bd3c15ed432f4699                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

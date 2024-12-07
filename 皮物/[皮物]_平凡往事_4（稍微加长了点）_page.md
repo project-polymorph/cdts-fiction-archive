@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_平凡往事_4（稍微加长了点）.docx]([皮物]_平�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24065 bytes                           |
 | MD5             | 9e4dc86389b452a7d4ad7b3a10346763                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

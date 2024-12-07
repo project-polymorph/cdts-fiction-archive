@@ -20,7 +20,7 @@ TXT 下载: [小曦的日常小故事之发酵的口香糖S01E04.doc](小曦的�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | 8821965f5153e9dd20c0b075e31a0743                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[交换]_头交换技巧.docx]([交换]_头交换技巧.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 75631 bytes                           |
 | MD5             | a6f77e76178e8e90fd2721f7d5b2457a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 卡尤格                               |
 | Region          | 未知                               |

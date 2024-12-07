@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_生化危机之异能世界3_[复.docx]([皮物]_生化危
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 17748 bytes                           |
 | MD5             | a7a1ba2fcf022e5fdfc96d86642a6923                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_变物1~3.doc]([皮物]_变物1~3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 73a1311702e7bf2b444dc18c1f140f6e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

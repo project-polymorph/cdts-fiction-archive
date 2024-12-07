@@ -20,7 +20,7 @@ TXT 下载: [[交换]_（申码文）移花接木.docx]([交换]_（申码文）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26052 bytes                           |
 | MD5             | 23a44c5cf49df360216fcef471f00393                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

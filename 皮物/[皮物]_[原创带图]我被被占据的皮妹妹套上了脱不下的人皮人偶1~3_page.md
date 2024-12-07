@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_[原创带图]我被被占据的皮妹妹套上了脱不�
 | Format          | Microsoft Word Document                               |
 | Size            | 90112 bytes                           |
 | MD5             | 6ddb775023274128ab2e375ac47fb475                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 莓色瑠璃子                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_永夜—序之篇（三）_完.doc]([其他]_永夜—序
 | Format          | Microsoft Word Document                               |
 | Size            | 41984 bytes                           |
 | MD5             | 9c0a3f439293b1ccb00b6ff2a4e3b08a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

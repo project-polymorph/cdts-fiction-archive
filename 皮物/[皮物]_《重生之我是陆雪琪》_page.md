@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_《重生之我是陆雪琪》.docx]([皮物]_《重生之
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 237410 bytes                           |
 | MD5             | 0e5ee3737a84b0b4712b048e608f5529                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[变性]_花开终有时_第二回.docx]([变性]_花开终有时_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34885 bytes                           |
 | MD5             | 87d2994a1de7229ed0d30ffd9709f128                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

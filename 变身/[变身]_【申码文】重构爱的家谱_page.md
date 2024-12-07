@@ -20,7 +20,7 @@ TXT 下载: [[变身]_【申码文】重构爱的家谱.docx]([变身]_【申码
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 65871 bytes                           |
 | MD5             | 368c476f9b17bf36361152841316aabc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

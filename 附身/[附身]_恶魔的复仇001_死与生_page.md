@@ -20,7 +20,7 @@ TXT 下载: [[附身]_恶魔的复仇001_死与生.docx]([附身]_恶魔的复�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18882 bytes                           |
 | MD5             | 12569d5871cadbe507a4939f125b6f9d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

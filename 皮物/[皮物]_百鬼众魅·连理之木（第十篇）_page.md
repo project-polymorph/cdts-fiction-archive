@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_百鬼众魅·连理之木（第十篇）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 114176 bytes                           |
 | MD5             | 2fec061dfb2b8fb3642814e4fd6e42c5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

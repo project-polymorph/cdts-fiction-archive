@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身之穿越阿朱_（九、十）.doc]([变身]_变身
 | Format          | Microsoft Word Document                               |
 | Size            | 47104 bytes                           |
 | MD5             | 3e97439532407c103ebb88cbf51f4437                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

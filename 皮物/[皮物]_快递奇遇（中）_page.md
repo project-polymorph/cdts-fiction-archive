@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_快递奇遇（中）.doc]([皮物]_快递奇遇（中）.
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | 23c7b3a1429ce04b510f0b586df329c3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

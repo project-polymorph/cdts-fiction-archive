@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_リクエスト.doc]([皮物]_リクエスト.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 69da577ce24e9a85a8dcc3212e3f5a11                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 白ラムネ                               |
 | Region          | 未知                               |

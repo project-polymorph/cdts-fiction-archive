@@ -20,7 +20,7 @@ TXT 下载: [[附身]_[旧文重贴]灵魂管理器.doc]([附身]_[旧文重贴]
 | Format          | Microsoft Word Document                               |
 | Size            | 50688 bytes                           |
 | MD5             | a57d3687906eb5e263cd6b72dc31d967                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

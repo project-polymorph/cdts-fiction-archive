@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_机器人偶_Chapter_7_激战的开端（不定期更新�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27653 bytes                           |
 | MD5             | 0e3a8ba43a55f9f1a3d876ce84635293                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

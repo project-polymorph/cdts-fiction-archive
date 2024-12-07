@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_照相机---第７話「我是你，你是我」_[复制�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18430 bytes                           |
 | MD5             | 5c26a8c0cee895b7b92f7fd4d262e52c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

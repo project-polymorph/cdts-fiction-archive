@@ -20,7 +20,7 @@ TXT 下载: [[交换]_櫻與桃.docx]([交换]_櫻與桃.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34526 bytes                           |
 | MD5             | 7a2703cbb5d29fbed6b396de1f3c8ced                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | toshi9                               |
 | Region          | 未知                               |

@@ -20,7 +20,7 @@ TXT 下载: [[其他]_[申码文重发]Eternal密室逃脱游戏.doc]([其他]_[
 | Format          | Microsoft Word Document                               |
 | Size            | 95232 bytes                           |
 | MD5             | 68b8de89e54eea7df9d640df6cdd1142                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

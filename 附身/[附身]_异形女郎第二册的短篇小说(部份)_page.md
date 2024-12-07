@@ -20,7 +20,7 @@ TXT 下载: [[附身]_异形女郎第二册的短篇小说(部份).docx]([附身
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45615 bytes                           |
 | MD5             | 4ecaee5a0c56bae45098c48e3cea5dbf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 红毛猪                               |
 | Region          | 中国大陆                               |

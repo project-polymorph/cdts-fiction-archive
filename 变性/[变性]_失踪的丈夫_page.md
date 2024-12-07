@@ -20,7 +20,7 @@ TXT 下载: [[变性]_失踪的丈夫.docx]([变性]_失踪的丈夫.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30169 bytes                           |
 | MD5             | 15ffac70fb3154f38e33b8756213dabc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Maryanne Peters（原著）                               |
 | Region          | 未知                               |

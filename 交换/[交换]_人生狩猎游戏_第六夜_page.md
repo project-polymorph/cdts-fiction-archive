@@ -20,7 +20,7 @@ TXT 下载: [[交换]_人生狩猎游戏_第六夜.docx]([交换]_人生狩猎�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45449 bytes                           |
 | MD5             | 20032f6ed44784ded80290d0d93ac4b3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

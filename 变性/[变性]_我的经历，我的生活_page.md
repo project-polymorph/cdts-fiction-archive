@@ -20,7 +20,7 @@ TXT 下载: [[变性]_我的经历，我的生活.doc]([变性]_我的经历，�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 73ffe1a12bd70456fda8ed63a5479946                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Samantha White                               |
 | Region          | 未知                               |

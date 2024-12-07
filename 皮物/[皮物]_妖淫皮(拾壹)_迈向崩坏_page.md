@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_妖淫皮(拾壹)_迈向崩坏.docx]([皮物]_妖淫皮(�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36880 bytes                           |
 | MD5             | 09797a1d45a1b5d90cb2ab5447e8a645                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

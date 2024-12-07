@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_旅行开始了.doc]([皮物]_旅行开始了.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43520 bytes                           |
 | MD5             | 12c1905d1f1f9d0ef0bd941c2058f81a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

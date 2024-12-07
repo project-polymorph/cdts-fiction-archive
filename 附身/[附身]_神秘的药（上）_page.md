@@ -20,7 +20,7 @@ TXT 下载: [[附身]_神秘的药（上）.docx]([附身]_神秘的药（上）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42436 bytes                           |
 | MD5             | 1fbb7b5b36e79ff27080f743e0022d95                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

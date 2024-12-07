@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_穿上凯特-3.docx]([皮物]_穿上凯特-3.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34629 bytes                           |
 | MD5             | 6309a29e55e2fbe60a68cd5fc9226e1f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

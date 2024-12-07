@@ -22,7 +22,7 @@ TXT 下载: [[变装]_女同俱樂部（一）＆（二）.doc]([变装]_女同�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 50afb733f3e2a49d0610f62263761dfe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

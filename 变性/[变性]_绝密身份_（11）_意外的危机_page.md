@@ -20,7 +20,7 @@ TXT 下载: [[变性]_绝密身份_（11）_意外的危机.docx]([变性]_绝�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38296 bytes                           |
 | MD5             | 1e7e8cffb84a4bc29a3bd3c3af7683f6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

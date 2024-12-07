@@ -20,7 +20,7 @@ TXT 下载: [[改造]_失控人生1-5_(2).docx]([改造]_失控人生1-5_(2).doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45435 bytes                           |
 | MD5             | ebefdf64a49f0a46b4ca01c11c3c85eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

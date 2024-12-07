@@ -22,7 +22,7 @@ TXT 下载: [[其他]_申码文重发_无新内容.docx]([其他]_申码文重�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30580 bytes                           |
 | MD5             | 5705f7cce0cf078b55efc5ddd61f2fc4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

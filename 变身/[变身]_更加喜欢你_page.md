@@ -20,7 +20,7 @@ TXT 下载: [[变身]_更加喜欢你.doc]([变身]_更加喜欢你.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44032 bytes                           |
 | MD5             | 57ff0068d7ac160bdc5ad010fed380e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

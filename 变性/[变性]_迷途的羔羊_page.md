@@ -20,7 +20,7 @@ TXT 下载: [[变性]_迷途的羔羊.doc]([变性]_迷途的羔羊.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 72704 bytes                           |
 | MD5             | 9ec98c9f415dd5728781177f4f41f2d7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 雨中缪斯                               |
 | Region          | 中国大陆                               |

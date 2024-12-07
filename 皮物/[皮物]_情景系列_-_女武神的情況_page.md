@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_情景系列_-_女武神的情況.docx]([皮物]_情景系
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37074 bytes                           |
 | MD5             | 82a6fdbab95946c1d1b5b910f3bda009                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

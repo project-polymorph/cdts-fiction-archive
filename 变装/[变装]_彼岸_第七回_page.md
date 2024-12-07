@@ -20,7 +20,7 @@ TXT 下载: [[变装]_彼岸_第七回.docx]([变装]_彼岸_第七回.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 38011 bytes                           |
 | MD5             | a149aca387f4b340ac7a8582d8633cc1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

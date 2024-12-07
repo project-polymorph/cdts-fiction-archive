@@ -20,7 +20,7 @@ TXT 下载: [[其他]_【游戏王同人】闪刀姬玩家的梦想（划掉）.
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | 47db0b0e679a3f41a717ab47020567c1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

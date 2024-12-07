@@ -20,7 +20,7 @@ TXT 下载: [[附身]_橘子过敏（1-5）.docx]([附身]_橘子过敏（1-5）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 42473 bytes                           |
 | MD5             | 9b306a9836e2fcaa71e9c3fe9249ff6d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@ TXT 下载: [[附身]_絲魅（中）.docx]([附身]_絲魅（中）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20389 bytes                           |
 | MD5             | 0cef15411c5590275a664d49c48bb4db                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

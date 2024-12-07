@@ -20,7 +20,7 @@ TXT 下载: [[交换]_性器交换遥控器1——241全（贺LITE与1w1w52双�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 262338 bytes                           |
 | MD5             | 3e0392f9a745a8229cbbc01181f7868d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

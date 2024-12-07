@@ -20,7 +20,7 @@ TXT 下载: [[变身]_哥哥变小了、变矮了最后还变妹了…….doc]([
 | Format          | Microsoft Word Document                               |
 | Size            | 34816 bytes                           |
 | MD5             | e2af3a17fcd22203e2f25c4d79c1c1b6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

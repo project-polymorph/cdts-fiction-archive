@@ -20,7 +20,7 @@ TXT 下载: [[其他]_非现实的虚拟_Virtual_Unreality_by_Lobo_De_la_Sombra.
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | c9f837b765904ced0d6121836f4b9042                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lobo De la Sombra                               |
 | Region          | 未知                               |

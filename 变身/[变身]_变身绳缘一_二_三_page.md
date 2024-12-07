@@ -20,7 +20,7 @@ TXT 下载: [[变身]_变身绳缘一_二_三.doc]([变身]_变身绳缘一_二_
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 35d96ee14209e8a0770bce96fd6172f4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

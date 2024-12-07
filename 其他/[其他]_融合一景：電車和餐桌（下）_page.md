@@ -20,7 +20,7 @@ TXT 下载: [[其他]_融合一景：電車和餐桌（下）.doc]([其他]_融�
 | Format          | Microsoft Word Document                               |
 | Size            | 30720 bytes                           |
 | MD5             | eddbe44d9d084554a6acb7a7f7069b78                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

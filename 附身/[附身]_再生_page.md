@@ -20,7 +20,7 @@ TXT 下载: [[附身]_再生.docx]([附身]_再生.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21140 bytes                           |
 | MD5             | 731d411dac7158aa2a7e3931b28223ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | kk9700                               |
 | Region          | 未知                               |

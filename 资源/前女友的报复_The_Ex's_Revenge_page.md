@@ -20,7 +20,7 @@ TXT 下载: [前女友的报复_The_Ex's_Revenge.doc](前女友的报复_The_Ex'
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 82ba4e6b661f5e143ffb0efedc6a66be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | phem3，翻译：MISSYLESEVE                               |
 | Region          | 未知                               |

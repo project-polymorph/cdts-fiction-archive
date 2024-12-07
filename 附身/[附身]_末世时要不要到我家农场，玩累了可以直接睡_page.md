@@ -20,7 +20,7 @@ TXT 下载: [[附身]_末世时要不要到我家农场，玩累了可以直接�
 | Format          | Microsoft Word Document                               |
 | Size            | 50176 bytes                           |
 | MD5             | 9ffea7b52812f1b0e5728bc24bbc0018                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

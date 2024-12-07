@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_艳遇？.doc]([皮物]_艳遇？.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32256 bytes                           |
 | MD5             | 5723e186294d00e77408efd6cf74d7f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

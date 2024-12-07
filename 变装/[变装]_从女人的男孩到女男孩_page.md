@@ -20,7 +20,7 @@ TXT 下载: [[变装]_从女人的男孩到女男孩.docx]([变装]_从女人的
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 37445 bytes                           |
 | MD5             | 2ea43f52ad777d707e1477bc9461b0ae                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

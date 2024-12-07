@@ -20,7 +20,7 @@ TXT 下载: [[皮物]_把皮上下倒过来穿[皮を上下逆に着てみる].d
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 9ff46c5723825a58a7edb13273a98f9e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | sioDL                               |
 | Region          | 未知                               |

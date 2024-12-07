@@ -20,7 +20,7 @@ TXT 下载: [[变身]_呪われた指輪　～悪夢の女体化連鎖.docx]([�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 33157 bytes                           |
 | MD5             | 6855b5b7fd99a30acd413b82c9514876                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |

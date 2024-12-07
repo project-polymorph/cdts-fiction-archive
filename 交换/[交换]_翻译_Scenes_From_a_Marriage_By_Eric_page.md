@@ -20,7 +20,7 @@ TXT 下载: [[交换]_翻译_Scenes_From_a_Marriage_By_Eric.docx]([交换]_翻�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21697 bytes                           |
 | MD5             | c82ffd041f8eebd31aba29b630c1b5a8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Eric                               |
 | Region          | 未知                               |

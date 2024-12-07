@@ -20,7 +20,7 @@ TXT 下载: [[附身]_游泳衣5+设定.doc]([附身]_游泳衣5+设定.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 45568 bytes                           |
 | MD5             | a0573414c07e81dad6d5470dfb307bf7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-07                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
